@@ -1,0 +1,15 @@
+schema_version: "1"
+id: jama-network-open
+name: JAMA Network Open
+aliases:
+  - JAMA Netw Open
+issns:
+  - 2574-3805
+publisher: American Medical Association
+default_sources:
+  - pubmed
+  - europe_pmc
+  - crossref
+include_types: []
+exclude_types: []
+language: en
