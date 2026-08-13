@@ -1,0 +1,68 @@
+name: Persist validated v0.2 archive (temporary)
+
+on:
+  push:
+    branches:
+      - feat/editions-v0.2-smoke-run
+    paths:
+      - .github/workflows/persist-v02-archive.yml
+
+permissions:
+  actions: read
+  contents: write
+
+jobs:
+  persist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Locate latest successful publication smoke
+        id: source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          run_id="$(gh api \
+            "repos/${GITHUB_REPOSITORY}/actions/workflows/v02-live-smoke.yml/runs?branch=feat%2Feditions-v0.2-smoke-run&status=success&per_page=1" \
+            --jq '.workflow_runs[0].id')"
+          test -n "$run_id"
+          echo "run_id=$run_id" >> "$GITHUB_OUTPUT"
+
+      - name: Download all validated smoke artifacts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/smoke-artifacts"
+          gh run download "${{ steps.source.outputs.run_id }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --dir "$RUNNER_TEMP/smoke-artifacts"
+          find "$RUNNER_TEMP/smoke-artifacts" -type f -print
+
+      - name: Check out current publication branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: feat/editions-v0.2-publication
+          fetch-depth: 0
+          path: target
+
+      - name: Persist immutable archive only
+        shell: bash
+        run: |
+          set -euo pipefail
+          source_archive="$(find "$RUNNER_TEMP/smoke-artifacts" -type d -path '*/archive' -print -quit)"
+          test -n "$source_archive"
+          rm -rf target/archive
+          mkdir -p target/archive
+          cp -a "$source_archive"/. target/archive/
+          cd target
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- archive
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo "Validated archive is already current."
+            exit 0
+          fi
+          git commit -m "data: publish JAMA Network Open 2026-08-13 r01"
+          git push origin HEAD:feat/editions-v0.2-publication
