@@ -1,0 +1,54 @@
+name: Generated edition smoke
+
+on:
+  push:
+    branches:
+      - fix/deliver-generated-edition
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Editions
+        uses: actions/checkout@v4
+
+      - name: Checkout pinned EvidenceRadar source
+        uses: actions/checkout@v4
+        with:
+          repository: hoiyu915-droid/EvidenceRadar
+          ref: 6da659df845e4b76072dae016120ca76ed9c27c4
+          path: _upstream/EvidenceRadar
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: python -m pip install -e .
+
+      - name: Generate JAMA Network Open month-to-date edition
+        run: >-
+          python -m evidenceradar_editions run
+          --journal "JAMA Network Open"
+          --issn 2574-3805
+          --slug jama-network-open
+          --start 2026-08-01
+          --end 2026-08-14
+          --radar-root _upstream/EvidenceRadar
+          --radar-commit 6da659df845e4b76072dae016120ca76ed9c27c4
+          --output-dir dist/jama-network-open/2026-08-mtd
+
+      - name: Validate bundle
+        run: python -m evidenceradar_editions validate --bundle-dir dist/jama-network-open/2026-08-mtd
+
+      - name: Upload generated files
+        uses: actions/upload-artifact@v4
+        with:
+          name: jama-network-open-2026-08-mtd
+          path: dist/jama-network-open/2026-08-mtd/
+          if-no-files-found: error
+          retention-days: 30
