@@ -26,7 +26,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cat .v02-payload/part-* | base64 --decode > "$RUNNER_TEMP/v02-source.tar.gz"
+          wc -c .v02-payload/part-*
+          sha256sum .v02-payload/part-*
+          cat .v02-payload/part-* > "$RUNNER_TEMP/v02-source.tar.gz.b64"
+          wc -c "$RUNNER_TEMP/v02-source.tar.gz.b64"
+          echo "e3abc5594f0c3b9a46d9457793bddbea147a7f5f76664302206891cc23c607bf  $RUNNER_TEMP/v02-source.tar.gz.b64" | sha256sum --check --strict
+          base64 --decode "$RUNNER_TEMP/v02-source.tar.gz.b64" > "$RUNNER_TEMP/v02-source.tar.gz"
           echo "21f97dcf881d77a2b6e9d8f50bbb88ee1e89b311e87652cabd209b12a0448289  $RUNNER_TEMP/v02-source.tar.gz" | sha256sum --check --strict
           python - <<'PY'
           import pathlib, tarfile
@@ -56,7 +61,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python - <<'PY'
           import pathlib, subprocess
-          root = pathlib.Path('.')
           tracked = []
           with __import__('tarfile').open(pathlib.Path(__import__('os').environ['RUNNER_TEMP']) / 'v02-source.tar.gz', 'r:gz') as handle:
               for member in handle.getmembers():
