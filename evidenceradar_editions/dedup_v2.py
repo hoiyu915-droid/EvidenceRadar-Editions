@@ -1,9 +1,13 @@
 from __future__ import annotations
 
+import calendar
 from collections import defaultdict
+from datetime import date
 
 from .models import Article
 from .utils import normalize_doi, normalize_issn, normalize_name, normalize_title_key
+
+_PRECISION_RANK = {"YEAR": 1, "MONTH": 2, "DAY": 3}
 
 
 def journal_matches(article: Article, *, journal: str, issn: str | None) -> bool:
@@ -30,16 +34,35 @@ def _aliases(article: Article) -> set[str]:
     return values
 
 
+def _precision_window(value: date, precision: str) -> tuple[date, date]:
+    precision = precision.upper()
+    if precision == "YEAR":
+        return date(value.year, 1, 1), date(value.year, 12, 31)
+    if precision == "MONTH":
+        last = calendar.monthrange(value.year, value.month)[1]
+        return date(value.year, value.month, 1), date(value.year, value.month, last)
+    return value, value
+
+
+def _dates_compatible(left: Article, right: Article) -> bool:
+    left_start, left_end = _precision_window(left.publication_date, left.publication_date_precision)
+    right_start, right_end = _precision_window(right.publication_date, right.publication_date_precision)
+    return left_start <= right_end and right_start <= left_end
+
+
+def _prefer_other_date(target: Article, other: Article) -> bool:
+    target_rank = _PRECISION_RANK.get(target.publication_date_precision.upper(), 0)
+    other_rank = _PRECISION_RANK.get(other.publication_date_precision.upper(), 0)
+    if _dates_compatible(target, other) and other_rank != target_rank:
+        return other_rank > target_rank
+    if other_rank == target_rank:
+        return other.publication_date < target.publication_date
+    return False
+
+
 def _merge_into(target: Article, other: Article) -> None:
-    precision_rank = {"YEAR": 1, "MONTH": 2, "DAY": 3}
-    if other.publication_date < target.publication_date:
+    if _prefer_other_date(target, other):
         target.publication_date = other.publication_date
-        target.publication_date_precision = other.publication_date_precision
-    elif (
-        other.publication_date == target.publication_date
-        and precision_rank.get(other.publication_date_precision, 0)
-        > precision_rank.get(target.publication_date_precision, 0)
-    ):
         target.publication_date_precision = other.publication_date_precision
     if not target.doi and other.doi:
         target.doi = other.doi
@@ -70,8 +93,6 @@ def _merge_into(target: Article, other: Article) -> None:
 
 
 def deduplicate_articles(articles: list[Article]) -> list[Article]:
-    """Merge identity-linked records, including transitive alias chains."""
-
     if not articles:
         return []
     parent = list(range(len(articles)))

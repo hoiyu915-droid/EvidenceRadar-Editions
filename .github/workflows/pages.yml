@@ -1,0 +1,104 @@
+name: Publish EvidenceRadar Editions portal
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/pages.yml"
+      - "archive/**"
+      - "evidenceradar_editions/**"
+      - "pyproject.toml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: evidenceradar-editions-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out exact main
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: Require current clean main checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REF_NAME" = "main"
+          git fetch --no-tags origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
+          test -z "$(git status --porcelain --untracked-files=all)"
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+
+      - name: Install and test
+        run: |
+          python -m pip install -e .
+          python -m compileall -q evidenceradar_editions tests
+          python -m unittest discover -s tests -v
+
+      - name: Ensure Pages uses GitHub Actions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          api="repos/${GITHUB_REPOSITORY}/pages"
+          build_type="$(gh api "$api" --jq '.build_type // ""' 2>/dev/null || true)"
+          if [ -z "$build_type" ]; then
+            if ! gh api --method POST "$api" -f build_type=workflow >/dev/null; then
+              echo "::error::GitHub Pages is not enabled. Set Settings > Pages > Build and deployment to GitHub Actions, then rerun."
+              exit 1
+            fi
+          elif [ "$build_type" != "workflow" ]; then
+            if ! gh api --method PUT "$api" -f build_type=workflow >/dev/null; then
+              echo "::error::Could not switch GitHub Pages build_type to workflow. Set it manually, then rerun."
+              exit 1
+            fi
+          fi
+          test "$(gh api "$api" --jq '.build_type // ""')" = "workflow"
+
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+
+      - name: Build validated publication portal
+        run: |
+          python -m evidenceradar_editions build-pages \
+            --archive-root archive \
+            --repository "$GITHUB_REPOSITORY" \
+            --base-url "${{ steps.pages.outputs.base_url }}" \
+            --output-dir _site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: _site
+
+      - name: Deploy portal
+        id: deployment
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5.0.0
+
+      - name: Publish clickable links
+        run: |
+          echo "## EvidenceRadar Editions" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "- [Open the portal](${{ steps.deployment.outputs.page_url }})" >> "$GITHUB_STEP_SUMMARY"
+          echo "- [Open catalog JSON](${{ steps.deployment.outputs.page_url }}index.json)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- [Open article search index](${{ steps.deployment.outputs.page_url }}search-index.json)" >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,3 @@
+from .pages_v3 import build_pages_site
+
+__all__ = ["build_pages_site"]

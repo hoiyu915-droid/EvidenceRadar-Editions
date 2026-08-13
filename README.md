@@ -1,50 +1,47 @@
 # EvidenceRadar-Editions
 
-Scoped journal/date reconstruction and HTML publication rendering beside EvidenceRadar — without consuming EvidenceRadar result artifacts.
+> 以「期刊 × 時間」為第一級索引，直接從公開來源重建文獻集合，生成繁中互動 HTML，並保存成可瀏覽的 GitHub Pages 刊物資料庫。
 
-## Purpose
-
-EvidenceRadar-Editions accepts a journal plus an inclusive publication-date range, queries public bibliographic sources directly, reconciles duplicate records, and emits a reproducible edition bundle.
-
-The architecture is deliberately different from “Radar output → monthly renderer”:
+EvidenceRadar-Editions 是 EvidenceRadar 的 sibling runner。它可以參考 EvidenceRadar 的 source/config 定義與 pin 住的 upstream commit，但**不使用 EvidenceRadar 的 Report、Run、Evidence、State、Work Pack 或 Pages 產出作為自己的資料來源**。
 
 ```text
-EvidenceRadar source/config definitions      Public bibliographic APIs
-                 │                                      │
-                 └──────── source hints ───────┐         │
-                                               ▼         ▼
-                                      EvidenceRadar-Editions
-                                               │
-                                    strict journal/date scope
-                                               │
-                                      identity reconciliation
-                                               │
-                                  JSON + HTML + manifest
+EvidenceRadar source/config hints       PubMed / Europe PMC / Crossref
+                 │                                  │
+                 └──────────────┐     ┌─────────────┘
+                                ▼     ▼
+                     scoped acquisition runner
+                                │
+                  journal + inclusive date window
+                                │
+                    identity reconciliation / dedup
+                                │
+                       canonical edition JSON
+                                │
+                   zh-TW translation handoff contract
+                                │
+          ┌─────────────────────┴─────────────────────┐
+          ▼                                           ▼
+Radar-like standalone HTML                  immutable edition archive
+                                                      │
+                                                      ▼
+                                            GitHub Pages portal
 ```
 
-`EvidenceRadar-Editions` does **not** ingest `EvidenceRadar_Report.html`, `EvidenceRadar_Run.json`, `EvidenceRadar_Evidence.json`, `EvidenceRadar_State.json`, Work Packs, or previous Radar result bundles as its publication corpus.
+## v0.2 交付內容
 
-## Upstream reference
+- 指定期刊、ISSN、日期範圍與 revision，直接查詢 PubMed、Europe PMC、Crossref。
+- 每個來源回傳後再次執行 journal／ISSN／日期 scope filter；保留 DAY／MONTH／YEAR 日期精度，避免把不精確日期假裝成某一天。
+- DOI → PMID → PMCID → 題名＋日期的 identity reconciliation。
+- 自描述檔名，不再輸出一堆無法分辨的 `EvidenceRadar_Edition.html`。
+- 繁中為主要閱讀語言，保留原文題名。
+- hash-bound TranslationRequest／TranslationResponse；不需要在 GitHub Actions 裡藏翻譯 API key。
+- Radar-like 互動 HTML：全文搜尋、文章類型、來源、日期、DOI／PMID／PMCID、翻譯狀態、排序、展開／收合。
+- source receipt 顯式區分 SUCCESS／NO_RESULTS／PARTIAL／FAILED／NOT_ATTEMPTED，截斷結果不能冒充完整。
+- canonical JSON → HTML byte parity validator，禁止只手改 HTML。
+- immutable archive：`journal / period / revision`。
+- GitHub Pages 總覽：可搜尋已發布刊物與文章，並點入每一期完整互動 HTML。
 
-v0.1 is designed against:
-
-- repository: `hoiyu915-droid/EvidenceRadar`
-- commit: `6da659df845e4b76072dae016120ca76ed9c27c4`
-- control plane: `config/radar_master.json`
-
-When `--radar-root` is supplied, Editions reads the upstream source configuration to identify matching source IDs and feed hints and records the configuration SHA-256. Publication records are still queried from source APIs during the Editions run.
-
-For safety, v0.1 records config-derived RSS/Atom feed hints but does not request those dynamic URLs. The active acquisition lanes are PubMed, Europe PMC and Crossref.
-
-## Historical reconstruction semantics
-
-An edition generated today for `2025-01-01 → 2025-01-31` means:
-
-> current-source reconstruction of the historical publication window
-
-It does not claim to reproduce what EvidenceRadar had observed on 2025-01-31. Bibliographic metadata, indexing, PMCID assignment, DOI metadata and source state may have changed since that period. The bundle records `retrieved_at`, source checks, the Radar reference commit/config hash, and output hashes.
-
-## Install
+## 安裝
 
 ```sh
 python -m venv .venv
@@ -52,9 +49,9 @@ python -m venv .venv
 python -m pip install -e .
 ```
 
-Python 3.11+ is supported.
+支援 Python 3.11–3.13。
 
-## Build a scoped edition
+## 1. 生成指定期刊刊物
 
 ```sh
 evidenceradar-editions run \
@@ -63,60 +60,146 @@ evidenceradar-editions run \
   --slug jama-network-open \
   --start 2026-08-01 \
   --end 2026-08-31 \
+  --period-kind month \
+  --revision 1 \
   --radar-root ../EvidenceRadar \
   --radar-commit 6da659df845e4b76072dae016120ca76ed9c27c4 \
-  --output-dir dist/jama-network-open/2026-08
+  --translation-request dist/jama-2026-08/raw/EvidenceRadar_Editions__jama-network-open__2026-08__r01.translation-request.zh-TW.json \
+  --output-dir dist/jama-2026-08/raw
 ```
 
-The slug is fail-closed: lowercase ASCII letters, digits and internal hyphens only, 1–80 characters. Date ranges and source names are validated before acquisition.
-
-## Output contract
-
-Each successful run emits:
+完整月刊的輸出名稱會是：
 
 ```text
-EvidenceRadar_Edition.json
-EvidenceRadar_Edition.html
-EvidenceRadar_Edition.manifest.json
+EvidenceRadar_Editions__jama-network-open__2026-08__r01.html
+EvidenceRadar_Editions__jama-network-open__2026-08__r01.json
+EvidenceRadar_Editions__jama-network-open__2026-08__r01.manifest.json
 ```
 
-The JSON file is the canonical structured edition. HTML is rendered deterministically from that object. The manifest records the edition ID, software version, upstream Radar commit, article count, byte sizes and SHA-256 values for the JSON and HTML files.
+若範圍是 `2026-08-01 → 2026-08-14`，period key 會明確寫成 `2026-08-01--2026-08-14`，不會冒充完整八月月刊。
 
-Validate an edition with:
+重建語義固定是：
+
+> current-source reconstruction of the historical publication window
+
+亦即「現在的來源如何描述該歷史出版範圍」，不是「當時 Radar 曾看見什麼」。
+
+## 2. 產生與套用繁中翻譯
+
+TranslationRequest 採與刊物相同的 self-describing stem，保留原文題名、識別碼與 source URLs，不把 publisher PDF 或原始全文塞進 repo。
 
 ```sh
-evidenceradar-editions validate --bundle-dir dist/jama-network-open/2026-08
+evidenceradar-editions translation-request \
+  --bundle-dir dist/jama-2026-08/raw \
+  --output dist/jama-2026-08/EvidenceRadar_Editions__jama-network-open__2026-08__r01.translation-request.zh-TW.json
 ```
 
-Validation checks the no-Radar-output-artifact boundary, record counts, unique canonical IDs, publication-window membership, DOI normalization, manifest identity/counts, byte sizes and SHA-256 integrity.
+翻譯回應必須同時綁定來源 edition JSON 的 SHA-256 與 deterministic request binding SHA-256，並為每篇提供：
 
-## Source lanes
+```json
+{
+  "canonical_id": "doi:10.1001/example",
+  "title_zh_tw": "繁中題名",
+  "summary_zh_tw": "不捏造結果的繁中導讀。",
+  "basis": "TITLE_ONLY"
+}
+```
 
-- **PubMed:** journal/ISSN plus publication-date query; ESearch followed by batched EFetch XML.
-- **Europe PMC:** journal query bounded by `FIRST_PDATE`, with cursor pagination.
-- **Crossref:** fixed `/works` endpoint, publication-date/type filters, optional ISSN filter, and cursor pagination.
-- **Radar feed hint:** provenance-only in v0.1; config-derived feed URLs are not fetched.
-
-Every acquired record is post-filtered against the requested journal and inclusive publication window before it enters the edition. Identity reconciliation prefers DOI, then PMID, then PMCID, then normalized title plus publication date.
-
-## Evidence boundary
-
-This is a bibliographic edition/reconstruction tool, not a substitute for EvidenceRadar claim verification. A record appearing in a bibliographic source does not establish that full text was read or that a scientific claim was verified. v0.1 does not generate free-form “important finding” summaries from discovery metadata.
-
-## Tests and CI
+`basis` 只可使用 `TITLE_ONLY`、`METADATA`、`ABSTRACT`、`FULL_TEXT`；不能把只看題名寫成全文核實。
 
 ```sh
+evidenceradar-editions apply-translation \
+  --bundle-dir dist/jama-2026-08/raw \
+  --response dist/jama-2026-08/EvidenceRadar_Editions__jama-network-open__2026-08__r01.translation-response.zh-TW.json \
+  --output-dir dist/jama-2026-08/publishable
+```
+
+正式出版 gate：
+
+```sh
+evidenceradar-editions validate \
+  --bundle-dir dist/jama-2026-08/publishable \
+  --require-zh-tw
+```
+
+## 3. 保存到 immutable archive
+
+```sh
+evidenceradar-editions publish \
+  --bundle-dir dist/jama-2026-08/publishable \
+  --archive-root archive
+```
+
+歸檔結構：
+
+```text
+archive/
+  journals/
+    jama-network-open/
+      2026-08/
+        r01/
+          index.html
+          edition.json
+          manifest.json
+          EvidenceRadar_Editions__jama-network-open__2026-08__r01.html
+          EvidenceRadar_Editions__jama-network-open__2026-08__r01.json
+          EvidenceRadar_Editions__jama-network-open__2026-08__r01.manifest.json
+```
+
+同一個 period 的不同 bytes 不可覆寫既有 revision；必須建立 `r02`。完全相同的 bundle 重複 publish 則是 idempotent。
+
+## 4. 建立 GitHub Pages 總覽
+
+```sh
+evidenceradar-editions build-pages \
+  --archive-root archive \
+  --repository hoiyu915-droid/EvidenceRadar-Editions \
+  --output-dir _site
+```
+
+Pages 產物包含：
+
+```text
+_site/
+  index.html             # 所有期刊與期數總覽
+  index.json             # edition catalog
+  search-index.json      # article-level 搜尋索引
+  links.json
+  journals/<journal>/<period>/index.html
+  journals/<journal>/<period>/rXX/index.html
+```
+
+首頁可依期刊、期間類型與關鍵字篩選；輸入文章題名、DOI 或 PMID 時會查詢文章索引，並直接連到該期刊物。
+
+`.github/workflows/pages.yml` 在 `main` 的 archive 或 Pages code 變動時建置並部署。Repository 必須把 **Settings → Pages → Build and deployment** 設為 **GitHub Actions**；workflow 會先嘗試啟用，若 token 權限不足則 fail closed 並指出這個一次性設定。
+
+## 互動 HTML 的資料界線
+
+HTML 是 canonical edition JSON 的 deterministic projection。它提供 navigation／filter，不把「出現在索引」偷偷升格為「已讀全文」或「科學結論已核實」。
+
+繁中 summary 的 `basis` 會直接顯示：
+
+- `TITLE_ONLY`：依題名整理，未核實研究結果。
+- `METADATA`：依書目／索引資料整理。
+- `ABSTRACT`：依摘要整理。
+- `FULL_TEXT`：依實際取得的全文整理。
+
+這個 repo 是 bibliographic publication/archive system，不取代 EvidenceRadar 的 claim-level evidence governance。
+
+## CI 與 live runner
+
+```sh
+python -m compileall -q evidenceradar_editions tests
 python -m unittest discover -s tests -v
 python -m evidenceradar_editions --help
 ```
 
-GitHub Actions runs the test suite on Python 3.11, 3.12 and 3.13 for pull requests and `main`.
+CI 在 Python 3.11、3.12、3.13 執行。`.github/workflows/live-edition.yml` 是 read-only manual runner：直接查來源、生成 self-describing bundle 與 TranslationRequest，再上傳短期 Actions artifact；它不會自動把未翻譯內容出版到 Pages。
 
 ## Open source
 
-The repository follows EvidenceRadar's two-layer licensing boundary:
+- Apache-2.0：程式碼、測試、validator、executable config 與 automation。
+- CC BY 4.0：本 repo 原創文件、報告文字／版面與選編安排。
+- 第三方文章題名、作者、期刊名稱、識別碼、metadata、摘要、全文與 publisher assets 不因本 repo 開源而被重新授權。
 
-- Apache-2.0 for executable source code, tests, validators, executable configuration and automation unless otherwise noted;
-- CC BY 4.0 for original documentation and original report layout/arrangement unless otherwise noted.
-
-Third-party bibliographic material is not relicensed. See [`docs/OPEN_SOURCE.md`](docs/OPEN_SOURCE.md), [`NOTICE.md`](NOTICE.md), and [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md).
+詳見 [`docs/OPEN_SOURCE.md`](docs/OPEN_SOURCE.md)、[`NOTICE.md`](NOTICE.md)、[`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)、[`SECURITY.md`](SECURITY.md) 與 [`GOVERNANCE.md`](GOVERNANCE.md)。

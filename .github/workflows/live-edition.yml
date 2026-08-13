@@ -1,0 +1,91 @@
+name: Build a live scoped edition
+
+on:
+  workflow_dispatch:
+    inputs:
+      journal:
+        description: Exact journal title
+        required: true
+        default: JAMA Network Open
+      issn:
+        description: ISSN (optional)
+        required: false
+        default: 2574-3805
+      slug:
+        description: Lowercase URL/file slug
+        required: true
+        default: jama-network-open
+      start:
+        description: Inclusive publication start date (YYYY-MM-DD)
+        required: true
+      end:
+        description: Inclusive publication end date (YYYY-MM-DD)
+        required: true
+      period_kind:
+        description: auto, day, week, month or range
+        required: true
+        default: auto
+      revision:
+        description: Positive archive revision number
+        required: true
+        default: "1"
+      max_records:
+        description: Hard per-source record budget
+        required: true
+        default: "500"
+      sources:
+        description: Comma-separated source lanes
+        required: true
+        default: pubmed,europe_pmc,crossref,radar_rss
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout Editions
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Checkout pinned EvidenceRadar source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: hoiyu915-droid/EvidenceRadar
+          ref: 6da659df845e4b76072dae016120ca76ed9c27c4
+          path: _upstream/EvidenceRadar
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: python -m pip install -e .
+
+      - name: Build edition and translation handoff
+        id: build
+        env:
+          EDITION_JOURNAL: ${{ inputs.journal }}
+          EDITION_ISSN: ${{ inputs.issn }}
+          EDITION_SLUG: ${{ inputs.slug }}
+          EDITION_START: ${{ inputs.start }}
+          EDITION_END: ${{ inputs.end }}
+          EDITION_PERIOD_KIND: ${{ inputs.period_kind }}
+          EDITION_REVISION: ${{ inputs.revision }}
+          EDITION_MAX_RECORDS: ${{ inputs.max_records }}
+          EDITION_SOURCES: ${{ inputs.sources }}
+          EDITION_OUTPUT_DIR: dist/edition
+        run: python -m evidenceradar_editions.workflow
+
+      - name: Validate acquisition bundle
+        run: python -m evidenceradar_editions validate --bundle-dir dist/edition
+
+      - name: Upload generated edition and TranslationRequest
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: EvidenceRadar-Editions__${{ steps.build.outputs.artifact_name }}
+          path: ${{ steps.build.outputs.bundle_dir }}/
+          if-no-files-found: error
+          retention-days: 30
