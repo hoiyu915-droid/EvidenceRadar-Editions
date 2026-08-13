@@ -61,7 +61,7 @@ class Collection:
     language: str = "en"
 
     @classmethod
-    def from_mapping(cls, data: Mapping[str, Any]) -> "Collection":
+    def from_mapping(cls, data: Mapping[str, Any]) -> Collection:
         collection_id = clean_text(data.get("id"))
         name = clean_text(data.get("name"))
         if not _ID_RE.fullmatch(collection_id):
