@@ -1,0 +1,15 @@
+{
+  "schema_version": "3.0",
+  "artifact_type": "EvidenceRadar_Editions_CanonicalStoreEntry",
+  "stored_at": "2026-08-14T00:00:00Z",
+  "publication_id": "jama-network-open__2026-08-13__r01",
+  "journal_slug": "jama-network-open",
+  "period_key": "2026-08-13",
+  "revision": 1,
+  "storage_policy": {
+    "canonical_json_in_git": true,
+    "manifest_in_git": true,
+    "html_in_git": false,
+    "html_rendered_by_pages": true
+  }
+}
