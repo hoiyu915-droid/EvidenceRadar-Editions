@@ -52,10 +52,129 @@ jobs:
       - name: Validate raw acquisition bundle
         run: python -m evidenceradar_editions validate --bundle-dir dist/edition
 
-      - name: Upload real bundle and translation request
+      - name: Create hash-bound zh-TW response for the live records
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from __future__ import annotations
+
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          requests = list(Path("dist/edition").glob("*.translation-request.zh-TW.json"))
+          if len(requests) != 1:
+              raise SystemExit(f"expected exactly one TranslationRequest, found {len(requests)}")
+          request = json.loads(requests[0].read_text(encoding="utf-8"))
+          translations = {
+              "doi:10.1001/jamanetworkopen.2026.28853": (
+                  "退伍軍人健康管理局門診重度憂鬱症患者的治療選擇",
+                  "這篇文章依題名聚焦於退伍軍人健康管理局門診中，重度憂鬱症患者的治療方案選擇。尚未讀取摘要或全文，因此不推定研究方法、比較結果或臨床優劣。",
+              ),
+              "doi:10.1001/jamanetworkopen.2026.28846": (
+                  "30 天內住院再入院風險的時序及其對臨床效用的意涵",
+                  "這篇文章依題名探討 30 天內住院再入院風險如何隨時間分布，以及這種時序對臨床工具實用性的可能意涵。尚未讀取摘要或全文，不能據此判斷模型表現或介入效益。",
+              ),
+              "doi:10.1001/jamanetworkopen.2026.28864": (
+                  "記憶門診中的阿茲海默症血漿生物標記與診斷決策",
+                  "這篇文章依題名關注記憶門診如何把阿茲海默症血漿生物標記納入診斷決策。尚未讀取摘要或全文，因此不推定標記的準確度、臨床門檻或對病人結果的影響。",
+              ),
+              "doi:10.1001/jamanetworkopen.2026.28803": (
+                  "軍事相關毒性暴露與美國退伍軍人的身心健康",
+                  "這篇文章依題名探討軍事相關毒性暴露與美國退伍軍人心理及身體健康之間的關聯。尚未讀取摘要或全文，不能判斷暴露定義、因果方向或效應大小。",
+              ),
+              "doi:10.1001/jamanetworkopen.2026.29041": (
+                  "輕度創傷性腦損傷成人的長期死亡率與生活品質",
+                  "這篇文章依題名關注輕度創傷性腦損傷成人的長期死亡率與生活品質。尚未讀取摘要或全文，因此不推定追蹤時間、比較組、風險差異或生活品質變化幅度。",
+              ),
+              "doi:10.1001/jamanetworkopen.2026.28796": (
+                  "接受第二代抗精神病藥物治療患者的低血鈉症比較風險",
+                  "這篇文章依題名比較接受不同第二代抗精神病藥物治療患者的低血鈉症風險。尚未讀取摘要或全文，不能據此判定特定藥物較安全或較危險。",
+              ),
+              "doi:10.1001/jamanetworkopen.2026.28987": (
+                  "呼吸道病毒感染中的 CCL5 濃度、疾病進展與死亡率",
+                  "這篇文章依題名探討呼吸道病毒感染中 CCL5 濃度與疾病進展及死亡率的關係。尚未讀取摘要或全文，因此不推定關聯方向、臨床門檻或因果機制。",
+              ),
+              "doi:10.1001/jamanetworkopen.2026.28975": (
+                  "阿茲海默症血液生物標記與整體及特定認知領域的退化速率",
+                  "這篇文章依題名關注阿茲海默症血液生物標記與整體認知及特定認知領域退化速率的關聯。尚未讀取摘要或全文，不能判斷預測效能、變化幅度或臨床適用性。",
+              ),
+          }
+          requested_ids = [str(item["canonical_id"]) for item in request["items"]]
+          unknown = sorted(set(requested_ids) - set(translations))
+          stale = sorted(set(translations) - set(requested_ids))
+          if unknown or stale:
+              raise SystemExit(f"translation map mismatch; unknown={unknown}, stale={stale}")
+          response = {
+              "schema_version": "1.0",
+              "artifact_type": "EvidenceRadar_Editions_TranslationResponse",
+              "edition_id": request["edition_id"],
+              "request_id": request["request_id"],
+              "language": "zh-TW",
+              "source_edition_sha256": request["source_edition_sha256"],
+              "request_binding_sha256": request["request_binding_sha256"],
+              "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+              "item_count": len(requested_ids),
+              "items": [
+                  {
+                      "canonical_id": canonical_id,
+                      "title_zh_tw": translations[canonical_id][0],
+                      "summary_zh_tw": translations[canonical_id][1],
+                      "basis": "TITLE_ONLY",
+                      "source_url": None,
+                  }
+                  for canonical_id in requested_ids
+              ],
+          }
+          target = Path("dist/translation-response.zh-TW.json")
+          target.write_text(
+              json.dumps(response, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+              encoding="utf-8",
+          )
+          print(target)
+          PY
+
+      - name: Apply translation and enforce publication gate
+        run: |
+          python -m evidenceradar_editions apply-translation \
+            --bundle-dir dist/edition \
+            --response dist/translation-response.zh-TW.json \
+            --output-dir dist/publishable
+          python -m evidenceradar_editions validate \
+            --bundle-dir dist/publishable \
+            --require-zh-tw
+
+      - name: Publish immutable archive and build Pages portal
+        run: |
+          python -m evidenceradar_editions publish \
+            --bundle-dir dist/publishable \
+            --archive-root dist/archive
+          python -m evidenceradar_editions build-pages \
+            --archive-root dist/archive \
+            --repository "$GITHUB_REPOSITORY" \
+            --output-dir dist/site
+          test -s dist/site/index.html
+          test -s dist/site/index.json
+          test -s dist/site/search-index.json
+          test -s dist/site/links.json
+
+      - name: Upload raw live bundle
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
-          name: EvidenceRadar-Editions__${{ steps.build.outputs.artifact_name }}
+          name: EvidenceRadar-Editions__${{ steps.build.outputs.artifact_name }}__raw
           path: ${{ steps.build.outputs.bundle_dir }}/
           if-no-files-found: error
           retention-days: 2
+
+      - name: Upload publishable bundle, archive, and Pages portal
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: EvidenceRadar-Editions__${{ steps.build.outputs.artifact_name }}__published
+          path: |
+            dist/publishable/
+            dist/archive/
+            dist/site/
+            dist/translation-response.zh-TW.json
+          if-no-files-found: error
+          retention-days: 7
