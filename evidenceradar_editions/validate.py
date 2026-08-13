@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 
 from .bundle import HTML_NAME, JSON_NAME, MANIFEST_NAME
-from .utils import normalize_doi
+from .utils import normalize_doi, sha256_file
 
 
 def validate_bundle(root: Path) -> list[str]:
@@ -23,7 +23,7 @@ def validate_bundle(root: Path) -> list[str]:
     except Exception as exc:
         return [f"bundle parse failed: {exc}"]
     if run.get("upstream_radar", {}).get("uses_radar_output_artifacts") is not False:
-        errors.append("Radar output artifacts must not be an Editions input")
+        errors.append("uses_radar_output_artifacts must be false")
     articles = run.get("articles") or []
     if run.get("counts", {}).get("articles") != len(articles):
         errors.append("article count mismatch")
@@ -40,6 +40,13 @@ def validate_bundle(root: Path) -> list[str]:
         doi = article.get("doi")
         if doi and normalize_doi(doi) != doi:
             errors.append(f"DOI is not normalized: {doi}")
+    files = manifest.get("files") or {}
+    for name, path in ((JSON_NAME, json_path), (HTML_NAME, html_path)):
+        entry = files.get(name) or {}
+        if entry.get("sha256") != sha256_file(path):
+            errors.append(f"manifest SHA256 mismatch: {name}")
+        if entry.get("bytes") != path.stat().st_size:
+            errors.append(f"manifest byte-size mismatch: {name}")
     if manifest.get("edition_id") != run.get("edition_id"):
         errors.append("manifest edition id mismatch")
     if manifest.get("article_count") != len(articles):
