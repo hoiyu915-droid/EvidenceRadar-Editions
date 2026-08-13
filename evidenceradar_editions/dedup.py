@@ -11,12 +11,15 @@ def journal_matches(article: Article, *, journal: str, issn: str | None) -> bool
         return True
     if issn:
         target = normalize_issn(issn)
-        return bool(target and target in {normalize_issn(v) for v in article.issns})
+        observed = {value for value in (normalize_issn(v) for v in article.issns) if value}
+        return bool(target and target in observed)
     return False
 
 
 def _aliases(article: Article) -> set[str]:
-    values = {f"title:{normalize_title_key(article.title)}|{article.publication_date.isoformat()}"}
+    values = {
+        f"title:{normalize_title_key(article.title)}|{normalize_name(article.journal)}|{article.publication_date.isoformat()}"
+    }
     doi = normalize_doi(article.doi)
     if doi:
         values.add(f"doi:{doi}")
@@ -28,6 +31,16 @@ def _aliases(article: Article) -> set[str]:
 
 
 def _merge_into(target: Article, other: Article) -> None:
+    precision_rank = {"YEAR": 1, "MONTH": 2, "DAY": 3}
+    if other.publication_date < target.publication_date:
+        target.publication_date = other.publication_date
+        target.publication_date_precision = other.publication_date_precision
+    elif (
+        other.publication_date == target.publication_date
+        and precision_rank.get(other.publication_date_precision, 0)
+        > precision_rank.get(target.publication_date_precision, 0)
+    ):
+        target.publication_date_precision = other.publication_date_precision
     if not target.doi and other.doi:
         target.doi = other.doi
     if not target.pmid and other.pmid:
@@ -36,11 +49,19 @@ def _merge_into(target: Article, other: Article) -> None:
         target.pmcid = other.pmcid
     if not target.article_type and other.article_type:
         target.article_type = other.article_type
+    if not target.title_zh_tw and other.title_zh_tw:
+        target.title_zh_tw = other.title_zh_tw
+    if not target.summary_zh_tw and other.summary_zh_tw:
+        target.summary_zh_tw = other.summary_zh_tw
+    if not target.translation_basis and other.translation_basis:
+        target.translation_basis = other.translation_basis
+    if not target.translation_source_url and other.translation_source_url:
+        target.translation_source_url = other.translation_source_url
     if len(other.authors) > len(target.authors):
         target.authors = list(other.authors)
     target.issns = sorted(set(target.issns + other.issns))
     target.urls = sorted(set(target.urls + other.urls))
-    seen = {(r.source, r.source_id, r.url) for r in target.source_records}
+    seen = {(record.source, record.source_id, record.url) for record in target.source_records}
     for record in other.source_records:
         key = (record.source, record.source_id, record.url)
         if key not in seen:
@@ -49,23 +70,44 @@ def _merge_into(target: Article, other: Article) -> None:
 
 
 def deduplicate_articles(articles: list[Article]) -> list[Article]:
+    """Merge identity-linked records, including transitive alias chains."""
+
+    if not articles:
+        return []
+    parent = list(range(len(articles)))
+
+    def find(value: int) -> int:
+        while parent[value] != value:
+            parent[value] = parent[parent[value]]
+            value = parent[value]
+        return value
+
+    def union(left: int, right: int) -> None:
+        left_root = find(left)
+        right_root = find(right)
+        if left_root != right_root:
+            parent[right_root] = left_root
+
+    owner: dict[str, int] = {}
+    for index, article in enumerate(articles):
+        for alias in _aliases(article):
+            previous = owner.get(alias)
+            if previous is not None:
+                union(index, previous)
+            else:
+                owner[alias] = index
+
+    buckets: defaultdict[int, list[Article]] = defaultdict(list)
+    for index, article in enumerate(articles):
+        buckets[find(index)].append(article)
+
     groups: list[Article] = []
-    alias_to_index: dict[str, int] = {}
-    for article in articles:
-        aliases = _aliases(article)
-        hits = {alias_to_index[a] for a in aliases if a in alias_to_index}
-        if hits:
-            index = min(hits)
-            target = groups[index]
-            _merge_into(target, article)
-            for alias in _aliases(target) | aliases:
-                alias_to_index[alias] = index
-        else:
-            index = len(groups)
-            groups.append(article)
-            for alias in aliases:
-                alias_to_index[alias] = index
-    groups.sort(key=lambda a: (a.publication_date, a.title.casefold()), reverse=True)
+    for members in buckets.values():
+        target = members[0]
+        for other in members[1:]:
+            _merge_into(target, other)
+        groups.append(target)
+    groups.sort(key=lambda article: (article.publication_date, article.title.casefold()), reverse=True)
     return groups
 
 

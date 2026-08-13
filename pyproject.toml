@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "evidenceradar-editions"
-version = "0.1.0"
-description = "Scoped journal/date reconstruction and edition rendering for EvidenceRadar"
+version = "0.2.0"
+description = "Scoped journal editions, zh-TW interactive reports, archive and GitHub Pages for EvidenceRadar"
 readme = "README.md"
 requires-python = ">=3.11"
 license = {file = "LICENSE"}

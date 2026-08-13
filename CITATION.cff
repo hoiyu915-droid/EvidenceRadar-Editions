@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: EvidenceRadar-Editions
+message: Cite the repository, exact commit, edition manifest, journal scope, period and revision.
+type: software
+authors:
+  - name: hoiyu915-droid
+repository-code: https://github.com/hoiyu915-droid/EvidenceRadar-Editions
+license: Apache-2.0
+version: 0.2.0
+date-released: 2026-08-14
