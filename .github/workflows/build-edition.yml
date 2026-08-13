@@ -1,0 +1,132 @@
+name: Build journal edition
+
+on:
+  workflow_dispatch:
+    inputs:
+      collection:
+        description: Collection YAML path in this repository
+        required: true
+        default: config/collections/jama-network-open.yml
+        type: string
+      start:
+        description: Inclusive publication start date (YYYY-MM-DD)
+        required: true
+        type: string
+      end:
+        description: Inclusive publication end date (YYYY-MM-DD)
+        required: true
+        type: string
+      sources:
+        description: Comma-separated sources
+        required: true
+        default: pubmed,europe_pmc,crossref
+        type: string
+      strict_sources:
+        description: Fail if any source fails
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: edition-${{ inputs.collection }}-${{ inputs.start }}-${{ inputs.end }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Editions
+        uses: actions/checkout@v6
+        with:
+          path: editions
+          persist-credentials: false
+      - name: Checkout pinned EvidenceRadar source
+        uses: actions/checkout@v6
+        with:
+          repository: hoiyu915-droid/EvidenceRadar
+          ref: 6da659df845e4b76072dae016120ca76ed9c27c4
+          path: radar
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: editions/requirements.txt
+      - name: Install Editions
+        working-directory: editions
+        run: python -m pip install -e .
+      - name: Verify pinned upstream source
+        working-directory: editions
+        run: evidenceradar-editions inspect-upstream --radar-root ../radar
+      - name: Resolve safe collection and output name
+        id: scope
+        working-directory: editions
+        env:
+          COLLECTION_PATH: ${{ inputs.collection }}
+          START: ${{ inputs.start }}
+          END: ${{ inputs.end }}
+        run: |
+          python - <<'PY'
+          import os
+          import re
+          from datetime import date
+          from pathlib import Path
+
+          import yaml
+
+          root = Path.cwd().resolve()
+          collection_root = (root / "config" / "collections").resolve()
+          requested = Path(os.environ["COLLECTION_PATH"])
+          path = (root / requested).resolve() if not requested.is_absolute() else requested.resolve()
+          try:
+              relative = path.relative_to(collection_root)
+          except ValueError as exc:
+              raise SystemExit("collection must resolve inside config/collections") from exc
+          if path.suffix not in {".yml", ".yaml"} or not path.is_file():
+              raise SystemExit("collection must be a YAML file inside config/collections")
+
+          start = date.fromisoformat(os.environ["START"])
+          end = date.fromisoformat(os.environ["END"])
+          if end < start:
+              raise SystemExit("end must be on or after start")
+
+          data = yaml.safe_load(path.read_text(encoding="utf-8"))
+          slug = str(data["id"])
+          if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug):
+              raise SystemExit("collection id must be lowercase kebab-case")
+
+          output_file = Path(os.environ["GITHUB_OUTPUT"])
+          with output_file.open("a", encoding="utf-8") as handle:
+              print(f"collection=config/collections/{relative.as_posix()}", file=handle)
+              print(f"output=delivery/{slug}/{start.isoformat()}--{end.isoformat()}", file=handle)
+              print(f"artifact={slug}--{start.isoformat()}--{end.isoformat()}", file=handle)
+          PY
+      - name: Build edition from live primary sources
+        working-directory: editions
+        env:
+          STRICT: ${{ inputs.strict_sources }}
+        run: |
+          args=(
+            build
+            --collection "${{ steps.scope.outputs.collection }}"
+            --start "${{ inputs.start }}"
+            --end "${{ inputs.end }}"
+            --sources "${{ inputs.sources }}"
+            --radar-root ../radar
+            --output "${{ steps.scope.outputs.output }}"
+          )
+          if [[ "$STRICT" == "true" ]]; then
+            args+=(--strict-sources)
+          fi
+          evidenceradar-editions "${args[@]}"
+          evidenceradar-editions validate "${{ steps.scope.outputs.output }}"
+      - name: Upload validated edition
+        uses: actions/upload-artifact@v7
+        with:
+          name: ${{ steps.scope.outputs.artifact }}
+          path: editions/${{ steps.scope.outputs.output }}
+          if-no-files-found: error
+          retention-days: 30
