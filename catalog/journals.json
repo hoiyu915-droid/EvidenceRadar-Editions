@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "EvidenceRadar_Editions_JournalRegistry",
+  "journals": [
+    {
+      "name": "Artificial Intelligence",
+      "slug": "artificial-intelligence",
+      "issn": "0004-3702",
+      "status": "active"
+    },
+    {
+      "name": "IEEE Transactions on Artificial Intelligence",
+      "slug": "ieee-transactions-on-artificial-intelligence",
+      "issn": "2691-4581",
+      "status": "active"
+    },
+    {
+      "name": "JAMA Network Open",
+      "slug": "jama-network-open",
+      "issn": "2574-3805",
+      "status": "active"
+    },
+    {
+      "name": "Machine Learning",
+      "slug": "machine-learning",
+      "issn": "0885-6125",
+      "status": "active"
+    },
+    {
+      "name": "Nature Machine Intelligence",
+      "slug": "nature-machine-intelligence",
+      "issn": "2522-5839",
+      "status": "active"
+    },
+    {
+      "name": "Transactions of the Association for Computational Linguistics",
+      "slug": "tacl",
+      "issn": "2307-387X",
+      "status": "active"
+    }
+  ]
+}
