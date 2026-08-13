@@ -70,7 +70,7 @@ def main() -> int:
     values = {
         "edition_id": run["edition_id"],
         "artifact_name": run["publication_id"],
-        "bundle_dir": output,
+        "bundle_dir": output.as_posix(),
         "edition_json": manifest["files"]["edition_json"]["name"],
         "report_html": manifest["files"]["report_html"]["name"],
         "manifest_json": manifest["manifest_name"],
