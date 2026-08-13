@@ -1,0 +1,43 @@
+name: Export JAMA August Crossref date map (temporary)
+
+on:
+  push:
+    branches:
+      - feat/editions-v0.2-smoke-run
+    paths:
+      - ".github/workflows/crossref-august-date-map-20260814.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Fetch Crossref journal works
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 3 --retry-delay 2 \
+            --user-agent 'EvidenceRadar-Editions/0.2 (+https://github.com/hoiyu915-droid/EvidenceRadar-Editions)' \
+            --get 'https://api.crossref.org/journals/2574-3805/works' \
+            --data-urlencode 'filter=from-pub-date:2026-08-01,until-pub-date:2026-08-14' \
+            --data-urlencode 'rows=500' \
+            --data-urlencode 'select=DOI,title,published,published-online,published-print,type' \
+            --output crossref-august.json
+          python - <<'PY'
+          import json
+          data=json.load(open('crossref-august.json',encoding='utf-8'))
+          items=data['message']['items']
+          print('items',len(items))
+          assert len(items) >= 80
+          PY
+
+      - name: Upload date map
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: crossref-jama-network-open__2026-08-01--2026-08-14
+          path: crossref-august.json
+          if-no-files-found: error
+          retention-days: 2
