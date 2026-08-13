@@ -1,4 +1,4 @@
-name: Diagnose bootstrap payload
+name: Bootstrap initial repository tree
 
 on:
   push:
@@ -8,30 +8,94 @@ on:
       - .github/workflows/bootstrap.yml
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  diagnose:
+  unpack:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
         with:
           ref: feat/initial-editions-engine
-      - name: Report payload-part lengths and hashes
+          fetch-depth: 0
+      - name: Repair, verify, and unpack source tree
         shell: bash
         run: |
           set -euo pipefail
           python3 - <<'PY'
+          import base64
           import hashlib
-          from pathlib import Path
+          import tarfile
+          from pathlib import Path, PurePosixPath
 
-          parts = sorted(Path('.bootstrap').glob('part-*.txt'))
-          print(f'part_count={len(parts)}')
-          assembled = ''
-          for path in parts:
-              text = path.read_text(encoding='ascii').strip()
-              assembled += text
-              print(f'{path.name} len={len(text)} sha256={hashlib.sha256(text.encode("ascii")).hexdigest()}')
-          print(f'assembled_len={len(assembled)}')
-          print(f'assembled_sha256={hashlib.sha256(assembled.encode("ascii")).hexdigest()}')
+          root = Path.cwd()
+          target = root / '.bootstrap' / 'part-002.txt'
+          damaged = target.read_text(encoding='ascii').strip()
+          expected_part = 'fe91da5b66b44b6fe63cdfd4aa2744136663a0b6a9cf437b432092886f9e8bd4'
+          alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+          repaired = None
+          for position in range(len(damaged) + 1):
+              prefix = damaged[:position]
+              suffix = damaged[position:]
+              for character in alphabet:
+                  candidate = prefix + character + suffix
+                  if hashlib.sha256(candidate.encode('ascii')).hexdigest() == expected_part:
+                      repaired = candidate
+                      print(f'repaired part-002.txt at position {position}')
+                      break
+              if repaired is not None:
+                  break
+          if repaired is None:
+              raise SystemExit('could not reconstruct the staged payload part')
+          target.write_text(repaired, encoding='ascii')
+
+          parts = sorted((root / '.bootstrap').glob('part-*.txt'))
+          if len(parts) != 10:
+              raise SystemExit(f'expected 10 parts, found {len(parts)}')
+          encoded = ''.join(path.read_text(encoding='ascii').strip() for path in parts)
+          payload = base64.b64decode(encoded, validate=True)
+          expected_payload = '9597092fd8d5c31f8768e62094bc3957dfc72f24870ee27a7f20b9b1f18019d2'
+          observed = hashlib.sha256(payload).hexdigest()
+          if observed != expected_payload:
+              raise SystemExit(f'payload digest mismatch: {observed}')
+
+          archive = root / '.bootstrap' / 'payload.tar.gz'
+          archive.write_bytes(payload)
+          with tarfile.open(archive, 'r:gz') as handle:
+              members = handle.getmembers()
+              if not members:
+                  raise SystemExit('payload archive is empty')
+              for member in members:
+                  path = PurePosixPath(member.name)
+                  if path.is_absolute() or '..' in path.parts:
+                      raise SystemExit(f'unsafe path: {member.name}')
+                  if member.issym() or member.islnk() or member.isdev():
+                      raise SystemExit(f'unsupported entry: {member.name}')
+              handle.extractall(root, members=members, filter='data')
+          archive.unlink()
+
+          required = {
+              'README.md',
+              'LICENSE',
+              'OPEN_SOURCE.md',
+              'pyproject.toml',
+              'src/evidenceradar_editions/cli.py',
+              'src/evidenceradar_editions/sources.py',
+              '.github/workflows/ci.yml',
+              '.github/workflows/build-edition.yml',
+          }
+          missing = sorted(path for path in required if not (root / path).is_file())
+          if missing:
+              raise SystemExit(f'missing required files after extraction: {missing}')
           PY
+      - name: Commit deliverable source tree
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all
+          git diff --cached --check
+          git commit -m 'feat: deliver scoped journal edition engine'
+          git push origin HEAD:feat/initial-editions-engine
