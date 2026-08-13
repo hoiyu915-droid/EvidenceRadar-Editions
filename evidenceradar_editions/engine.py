@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from .adapters import CrossrefAdapter, EuropePmcAdapter, PubMedAdapter, RadarRssAdapter
-from .dedup import counts_by_source, deduplicate_articles, journal_matches
+from .dedup_v2 import counts_by_source, deduplicate_articles, journal_matches
 from .http import HttpClient
 from .models import EditionSpec
 from .naming import build_identity
