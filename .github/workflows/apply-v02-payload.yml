@@ -6,6 +6,7 @@ on:
       - feat/editions-v0.2-publication
     paths:
       - ".v02-payload/**"
+      - "v02-payload-parts/**"
       - ".github/workflows/apply-v02-payload.yml"
 
 permissions:
@@ -26,9 +27,22 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          wc -c .v02-payload/part-*
-          sha256sum .v02-payload/part-*
-          cat .v02-payload/part-* > "$RUNNER_TEMP/v02-source.tar.gz.b64"
+          cat \
+            .v02-payload/part-00 \
+            .v02-payload/part-01 \
+            .v02-payload/part-02 \
+            v02-payload-parts/segment-030 \
+            v02-payload-parts/segment-031 \
+            v02-payload-parts/segment-032 \
+            v02-payload-parts/segment-033 \
+            .v02-payload/part-04 \
+            .v02-payload/part-05 \
+            .v02-payload/part-06 \
+            .v02-payload/part-07 \
+            .v02-payload/part-08 \
+            .v02-payload/part-09 \
+            .v02-payload/part-10 \
+            > "$RUNNER_TEMP/v02-source.tar.gz.b64"
           wc -c "$RUNNER_TEMP/v02-source.tar.gz.b64"
           echo "e3abc5594f0c3b9a46d9457793bddbea147a7f5f76664302206891cc23c607bf  $RUNNER_TEMP/v02-source.tar.gz.b64" | sha256sum --check --strict
           base64 --decode "$RUNNER_TEMP/v02-source.tar.gz.b64" > "$RUNNER_TEMP/v02-source.tar.gz"
@@ -43,7 +57,7 @@ jobs:
                       raise SystemExit(f'unsafe payload member: {member.name}')
               handle.extractall('.', filter='data')
           PY
-          rm -rf .v02-payload
+          rm -rf .v02-payload v02-payload-parts
           rm -f .github/workflows/apply-v02-payload.yml
           rm -f .github/workflows/source-snapshot.yml
 
@@ -77,6 +91,7 @@ jobs:
           ):
               subprocess.run(['git', 'add', '-u', '--', value], check=True)
           subprocess.run(['git', 'add', '-u', '--', '.v02-payload'], check=True)
+          subprocess.run(['git', 'add', '-u', '--', 'v02-payload-parts'], check=True)
           PY
           git diff --cached --check
           git commit -m "feat: add v0.2 publication archive and Pages"
