@@ -57,9 +57,8 @@ jobs:
                       raise SystemExit(f'unsafe payload member: {member.name}')
               handle.extractall('.', filter='data')
           PY
+          git restore --source=HEAD -- .github/workflows
           rm -rf .v02-payload v02-payload-parts
-          rm -f .github/workflows/apply-v02-payload.yml
-          rm -f .github/workflows/source-snapshot.yml
 
       - name: Verify source before commit
         run: |
@@ -67,29 +66,30 @@ jobs:
           PYTHONDONTWRITEBYTECODE=1 python -m compileall -q evidenceradar_editions tests
           PYTHONDONTWRITEBYTECODE=1 python -m unittest discover -s tests -v
 
-      - name: Commit exact payload scope
+      - name: Commit exact non-workflow payload scope
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python - <<'PY'
-          import pathlib, subprocess
+          import os
+          import pathlib
+          import subprocess
+          import tarfile
+
           tracked = []
-          with __import__('tarfile').open(pathlib.Path(__import__('os').environ['RUNNER_TEMP']) / 'v02-source.tar.gz', 'r:gz') as handle:
+          archive = pathlib.Path(os.environ['RUNNER_TEMP']) / 'v02-source.tar.gz'
+          with tarfile.open(archive, 'r:gz') as handle:
               for member in handle.getmembers():
                   if not member.isfile():
                       continue
                   value = member.name[2:] if member.name.startswith('./') else member.name
-                  if value and value not in {'.github/workflows/source-snapshot.yml'}:
-                      tracked.append(value)
+                  if not value or value.startswith('.github/workflows/'):
+                      continue
+                  tracked.append(value)
           for value in sorted(set(tracked)):
               subprocess.run(['git', 'add', '--', value], check=True)
-          for value in (
-              '.github/workflows/source-snapshot.yml',
-              '.github/workflows/apply-v02-payload.yml',
-          ):
-              subprocess.run(['git', 'add', '-u', '--', value], check=True)
           subprocess.run(['git', 'add', '-u', '--', '.v02-payload'], check=True)
           subprocess.run(['git', 'add', '-u', '--', 'v02-payload-parts'], check=True)
           PY
