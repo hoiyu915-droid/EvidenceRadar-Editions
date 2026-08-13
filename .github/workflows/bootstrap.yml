@@ -1,4 +1,4 @@
-name: Bootstrap initial repository tree
+name: Diagnose bootstrap payload
 
 on:
   push:
@@ -8,59 +8,30 @@ on:
       - .github/workflows/bootstrap.yml
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  unpack:
-    if: github.actor != 'github-actions[bot]'
+  diagnose:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
         with:
           ref: feat/initial-editions-engine
-          fetch-depth: 0
-      - name: Verify and unpack source tree
+      - name: Report payload-part lengths and hashes
         shell: bash
         run: |
           set -euo pipefail
           python3 - <<'PY'
-          import base64
           import hashlib
-          import tarfile
-          from pathlib import Path, PurePosixPath
+          from pathlib import Path
 
-          root = Path.cwd()
-          parts = sorted((root / '.bootstrap').glob('part-*.txt'))
-          if len(parts) != 10:
-              raise SystemExit(f'expected 10 parts, found {len(parts)}')
-          payload = base64.b64decode(
-              ''.join(path.read_text(encoding='ascii').strip() for path in parts),
-              validate=True,
-          )
-          expected = '9597092fd8d5c31f8768e62094bc3957dfc72f24870ee27a7f20b9b1f18019d2'
-          observed = hashlib.sha256(payload).hexdigest()
-          if observed != expected:
-              raise SystemExit(f'payload digest mismatch: {observed}')
-          archive = root / '.bootstrap' / 'payload.tar.gz'
-          archive.write_bytes(payload)
-          with tarfile.open(archive, 'r:gz') as handle:
-              members = handle.getmembers()
-              for member in members:
-                  path = PurePosixPath(member.name)
-                  if path.is_absolute() or '..' in path.parts:
-                      raise SystemExit(f'unsafe path: {member.name}')
-                  if member.issym() or member.islnk() or member.isdev():
-                      raise SystemExit(f'unsupported entry: {member.name}')
-              handle.extractall(root, members=members, filter='data')
-          archive.unlink()
+          parts = sorted(Path('.bootstrap').glob('part-*.txt'))
+          print(f'part_count={len(parts)}')
+          assembled = ''
+          for path in parts:
+              text = path.read_text(encoding='ascii').strip()
+              assembled += text
+              print(f'{path.name} len={len(text)} sha256={hashlib.sha256(text.encode("ascii")).hexdigest()}')
+          print(f'assembled_len={len(assembled)}')
+          print(f'assembled_sha256={hashlib.sha256(assembled.encode("ascii")).hexdigest()}')
           PY
-      - name: Commit deliverable tree
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add --all
-          git diff --cached --check
-          git commit -m 'feat: deliver scoped journal edition engine'
-          git push origin HEAD:feat/initial-editions-engine
