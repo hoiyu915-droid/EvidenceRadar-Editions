@@ -1,0 +1,94 @@
+name: Build LLM-adjacent August 2026 MTD journals (temporary)
+
+on:
+  push:
+    branches:
+      - feat/editions-v0.2-smoke-run
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - journal: Transactions of the Association for Computational Linguistics
+            issn: 2307-387X
+            slug: tacl
+          - journal: Nature Machine Intelligence
+            issn: 2522-5839
+            slug: nature-machine-intelligence
+          - journal: Machine Learning
+            issn: 0885-6125
+            slug: machine-learning
+          - journal: IEEE Transactions on Artificial Intelligence
+            issn: 2691-4581
+            slug: ieee-transactions-on-artificial-intelligence
+          - journal: Artificial Intelligence
+            issn: 0004-3702
+            slug: artificial-intelligence
+    steps:
+      - name: Checkout Editions
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Checkout pinned EvidenceRadar source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          repository: hoiyu915-droid/EvidenceRadar
+          ref: 6da659df845e4b76072dae016120ca76ed9c27c4
+          path: _upstream/EvidenceRadar
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: python -m pip install -e .
+
+      - name: Build scoped August MTD edition
+        id: build
+        env:
+          EDITION_JOURNAL: ${{ matrix.journal }}
+          EDITION_ISSN: ${{ matrix.issn }}
+          EDITION_SLUG: ${{ matrix.slug }}
+          EDITION_START: 2026-08-01
+          EDITION_END: 2026-08-14
+          EDITION_PERIOD_KIND: range
+          EDITION_REVISION: "1"
+          EDITION_MAX_RECORDS: "500"
+          EDITION_SOURCES: crossref,radar_rss
+          EDITION_OUTPUT_DIR: dist/edition
+        run: python -m evidenceradar_editions.workflow
+
+      - name: Validate
+        run: python -m evidenceradar_editions validate --bundle-dir dist/edition
+
+      - name: Summarize result
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = next(Path('dist/edition').glob('EvidenceRadar_Editions__*.json'))
+          d = json.loads(p.read_text())
+          print(json.dumps({
+            'journal': d['scope']['journal'],
+            'article_count': d['counts']['articles'],
+            'run_status': d['run_status'],
+            'source_checks': d['source_checks'],
+            'artifact': p.name,
+          }, ensure_ascii=False))
+          PY
+
+      - name: Upload
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: EvidenceRadar-Editions__${{ matrix.slug }}__2026-08-01--2026-08-14__raw
+          path: dist/edition/
+          if-no-files-found: error
+          retention-days: 7
