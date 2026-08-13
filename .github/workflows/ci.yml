@@ -28,10 +28,11 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Empty Pages build smoke
         run: |
-          rm -rf "$RUNNER_TEMP/empty-archive" "$RUNNER_TEMP/site"
-          mkdir -p "$RUNNER_TEMP/empty-archive"
+          rm -rf "$RUNNER_TEMP/empty-editions" "$RUNNER_TEMP/site"
+          mkdir -p "$RUNNER_TEMP/empty-editions"
           python -m evidenceradar_editions build-pages \
-            --archive-root "$RUNNER_TEMP/empty-archive" \
+            --editions-root "$RUNNER_TEMP/empty-editions" \
+            --catalog-root catalog \
             --repository "$GITHUB_REPOSITORY" \
             --output-dir "$RUNNER_TEMP/site"
           test -s "$RUNNER_TEMP/site/index.html"
