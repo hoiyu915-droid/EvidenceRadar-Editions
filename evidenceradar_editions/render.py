@@ -347,6 +347,7 @@ def _render_article(article: dict[str, Any]) -> str:
     )
     author_text = "、".join(str(value) for value in (article.get("authors") or []) if value)
     identifiers = "".join(_identifier_links(article))
+    identifiers_html = identifiers or '<span class="badge pending">無標準識別碼</span>'
     source_links: list[str] = []
     for record in article.get("source_records") or []:
         if not isinstance(record, dict):
@@ -416,7 +417,7 @@ def _render_article(article: dict[str, Any]) -> str:
         f'<span><strong>作者：</strong>{_e(author_text or "未列出")}</span>'
         f'<span><strong>期刊：</strong>{_e(article.get("journal"))}</span>'
         '</div>'
-        f'<div class="identifiers">{identifiers or "<span class=\"badge pending\">無標準識別碼</span>"}</div>'
+        f'<div class="identifiers">{identifiers_html}</div>'
         '<details><summary>識別碼、來源與永久身分</summary><dl class="detail-grid">'
         f'<dt>Canonical ID</dt><dd>{_e(article.get("canonical_id"))}</dd>'
         f'<dt>日期精度</dt><dd>{_e(precision_label)}</dd>'
