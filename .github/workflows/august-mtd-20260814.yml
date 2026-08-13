@@ -1,0 +1,63 @@
+name: Build JAMA Network Open August 2026 MTD (temporary)
+
+on:
+  push:
+    branches:
+      - feat/editions-v0.2-smoke-run
+    paths:
+      - ".github/workflows/august-mtd-20260814.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout Editions
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Checkout pinned EvidenceRadar source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          repository: hoiyu915-droid/EvidenceRadar
+          ref: 6da659df845e4b76072dae016120ca76ed9c27c4
+          path: _upstream/EvidenceRadar
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with:
+          python-version: "3.12"
+
+      - name: Install and test
+        run: |
+          python -m pip install -e .
+          python -m compileall -q evidenceradar_editions tests
+          python -m unittest discover -s tests -v
+
+      - name: Generate August month-to-date edition
+        id: build
+        env:
+          EDITION_JOURNAL: JAMA Network Open
+          EDITION_ISSN: 2574-3805
+          EDITION_SLUG: jama-network-open
+          EDITION_START: 2026-08-01
+          EDITION_END: 2026-08-14
+          EDITION_PERIOD_KIND: range
+          EDITION_REVISION: "1"
+          EDITION_MAX_RECORDS: "500"
+          EDITION_SOURCES: pubmed,europe_pmc,crossref,radar_rss
+          EDITION_OUTPUT_DIR: dist/edition
+        run: python -m evidenceradar_editions.workflow
+
+      - name: Validate raw acquisition bundle
+        run: python -m evidenceradar_editions validate --bundle-dir dist/edition
+
+      - name: Upload raw MTD edition
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: EvidenceRadar-Editions__jama-network-open__2026-08-01--2026-08-14__raw
+          path: dist/edition/
+          if-no-files-found: error
+          retention-days: 7
