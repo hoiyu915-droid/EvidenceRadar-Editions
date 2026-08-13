@@ -1,0 +1,3 @@
+repository=hoiyu915-droid/EvidenceRadar
+commit=6da659df845e4b76072dae016120ca76ed9c27c4
+control_plane=config/radar_master.json
