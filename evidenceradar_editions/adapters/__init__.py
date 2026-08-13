@@ -1,6 +1,6 @@
 from .crossref import CrossrefAdapter
 from .europe_pmc import EuropePmcAdapter
 from .pubmed import PubMedAdapter
-from .rss import RadarRssAdapter
+from .radar_feed import RadarFeedAdapter
 
-__all__ = ["CrossrefAdapter", "EuropePmcAdapter", "PubMedAdapter", "RadarRssAdapter"]
+__all__ = ["CrossrefAdapter", "EuropePmcAdapter", "PubMedAdapter", "RadarFeedAdapter"]
