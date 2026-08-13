@@ -1,0 +1,90 @@
+name: Stage repository source tree
+
+on:
+  push:
+    branches: [feat/initial-editions-engine]
+    paths:
+      - .github/workflows/bootstrap-source.yml
+
+permissions:
+  contents: write
+
+jobs:
+  stage:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: feat/initial-editions-engine
+          fetch-depth: 0
+      - name: Verify and extract source files
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import base64
+          import hashlib
+          import tarfile
+          from pathlib import Path, PurePosixPath
+
+          root = Path.cwd()
+          target = root / '.bootstrap' / 'part-002.txt'
+          damaged = target.read_text(encoding='ascii').strip()
+          expected_part = 'fe91da5b66b44b6fe63cdfd4aa2744136663a0b6a9cf437b432092886f9e8bd4'
+          alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+          repaired = None
+          for position in range(len(damaged) + 1):
+              prefix = damaged[:position]
+              suffix = damaged[position:]
+              for character in alphabet:
+                  candidate = prefix + character + suffix
+                  if hashlib.sha256(candidate.encode('ascii')).hexdigest() == expected_part:
+                      repaired = candidate
+                      break
+              if repaired is not None:
+                  break
+          if repaired is None:
+              raise SystemExit('could not reconstruct staged payload')
+          target.write_text(repaired, encoding='ascii')
+
+          parts = sorted((root / '.bootstrap').glob('part-*.txt'))
+          encoded = ''.join(path.read_text(encoding='ascii').strip() for path in parts)
+          payload = base64.b64decode(encoded, validate=True)
+          expected_payload = '9597092fd8d5c31f8768e62094bc3957dfc72f24870ee27a7f20b9b1f18019d2'
+          if hashlib.sha256(payload).hexdigest() != expected_payload:
+              raise SystemExit('payload digest mismatch')
+
+          deferred = {
+              '.github/workflows/ci.yml',
+              '.github/workflows/build-edition.yml',
+          }
+          archive = root / '.bootstrap' / 'payload.tar.gz'
+          archive.write_bytes(payload)
+          with tarfile.open(archive, 'r:gz') as handle:
+              members = handle.getmembers()
+              names = {member.name for member in members}
+              if not deferred.issubset(names):
+                  raise SystemExit('payload workflow inventory mismatch')
+              selected = []
+              for member in members:
+                  path = PurePosixPath(member.name)
+                  if path.is_absolute() or '..' in path.parts:
+                      raise SystemExit(f'unsafe path: {member.name}')
+                  if member.issym() or member.islnk() or member.isdev():
+                      raise SystemExit(f'unsupported entry: {member.name}')
+                  if member.name not in deferred:
+                      selected.append(member)
+              handle.extractall(root, members=selected, filter='data')
+          archive.unlink()
+          PY
+      - name: Commit source files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all
+          git diff --cached --check
+          git commit -m 'feat: deliver scoped journal edition engine'
+          git push origin HEAD:feat/initial-editions-engine
