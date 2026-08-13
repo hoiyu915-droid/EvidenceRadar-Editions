@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evidenceradar-editions"
+version = "0.1.0"
+description = "Scoped journal/date reconstruction and edition rendering for EvidenceRadar"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+authors = [{name = "hoiyu915-droid"}]
+dependencies = ["requests>=2.32,<3", "defusedxml>=0.7,<1"]
+
+[project.scripts]
+evidenceradar-editions = "evidenceradar_editions.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["evidenceradar_editions*"]
