@@ -1,0 +1,93 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Python ${{ matrix.python-version }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install
+        run: python -m pip install -e '.[dev]'
+      - name: Lint
+        run: ruff check .
+      - name: Test
+        run: pytest
+      - name: Build deterministic fixture edition
+        run: |
+          evidenceradar-editions build \
+            --collection config/collections/jama-network-open.yml \
+            --start 2026-08-01 \
+            --end 2026-08-31 \
+            --fixture-dir tests/fixtures \
+            --strict-sources \
+            --output outputs/fixture
+          evidenceradar-editions validate outputs/fixture
+      - name: Build package
+        if: matrix.python-version == '3.12'
+        run: |
+          python -m build
+          python -m pip install --no-deps --target "$RUNNER_TEMP/editions-wheel" dist/*.whl
+          (
+            cd "$RUNNER_TEMP"
+            PYTHONPATH="$RUNNER_TEMP/editions-wheel" \
+              python -m evidenceradar_editions inspect-upstream
+          )
+      - name: Upload fixture delivery
+        if: matrix.python-version == '3.12'
+        uses: actions/upload-artifact@v7
+        with:
+          name: fixture-edition
+          path: outputs/fixture
+          if-no-files-found: error
+          retention-days: 7
+
+  contract:
+    name: Repository contract
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Check source/artifact boundary and license files
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          root_config = Path('config/upstream-radar.json')
+          packaged_config = Path('src/evidenceradar_editions/data/upstream-radar.json')
+          assert root_config.read_bytes() == packaged_config.read_bytes()
+          cfg = json.loads(root_config.read_text())
+          assert cfg['artifacts_consumed'] is False
+          prohibited = set(cfg['prohibited_output_roots'])
+          for item in cfg['allowed_paths']:
+              assert Path(item).parts[0] not in prohibited, item
+          for required in ['LICENSE', 'LICENSE-CONTENT.md', 'NOTICE.md', 'OPEN_SOURCE.md']:
+              assert Path(required).is_file(), required
+          assert 'Apache License' in Path('LICENSE').read_text()
+          PY
