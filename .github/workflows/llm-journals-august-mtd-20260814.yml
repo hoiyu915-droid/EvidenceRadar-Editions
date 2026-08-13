@@ -74,7 +74,13 @@ jobs:
           python - <<'PY'
           import json
           from pathlib import Path
-          p = next(Path('dist/edition').glob('EvidenceRadar_Editions__*.json'))
+          candidates = [
+              p for p in Path('dist/edition').glob('EvidenceRadar_Editions__*.json')
+              if not p.name.endswith('.manifest.json') and '.translation-' not in p.name
+          ]
+          if len(candidates) != 1:
+              raise SystemExit(f'expected one edition JSON, found {[p.name for p in candidates]}')
+          p = candidates[0]
           d = json.loads(p.read_text())
           print(json.dumps({
             'journal': d['scope']['journal'],
