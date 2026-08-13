@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "message": {
+    "total-results": 3,
+    "items": [
+      {
+        "DOI": "10.1001/jamanetworkopen.2026.1234",
+        "title": ["Randomized trial of a fixture intervention in adults"],
+        "container-title": ["JAMA Network Open"],
+        "ISSN": ["2574-3805"],
+        "published-online": {"date-parts": [[2026, 8, 12]]},
+        "author": [{"family": "Example", "given": "Ada"}],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1001/jamanetworkopen.2026.1234"
+      },
+      {
+        "DOI": "10.1001/jamanetworkopen.2026.5678",
+        "title": ["Systematic review of fixture outcomes"],
+        "container-title": ["JAMA Network Open"],
+        "ISSN": ["2574-3805"],
+        "published-online": {"date-parts": [[2026, 8, 20]]},
+        "author": [{"family": "Review", "given": "Rae"}],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1001/jamanetworkopen.2026.5678"
+      },
+      {
+        "DOI": "10.5555/out.of.scope",
+        "title": ["Wrong journal fixture record"],
+        "container-title": ["Another Journal"],
+        "ISSN": ["1111-2222"],
+        "published-online": {"date-parts": [[2026, 8, 21]]},
+        "type": "journal-article",
+        "URL": "https://doi.org/10.5555/out.of.scope"
+      }
+    ]
+  }
+}

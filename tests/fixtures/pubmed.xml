@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12345678</PMID>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2574-3805</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate><Year>2026</Year><Month>Aug</Month><Day>12</Day></PubDate>
+          </JournalIssue>
+          <Title>JAMA Network Open</Title>
+        </Journal>
+        <ArticleTitle>Randomized trial of a fixture intervention in adults</ArticleTitle>
+        <Abstract><AbstractText Label="IMPORTANCE">Deterministic fixture abstract.</AbstractText></Abstract>
+        <AuthorList>
+          <Author><LastName>Example</LastName><ForeName>Ada</ForeName></Author>
+          <Author><LastName>Fixture</LastName><ForeName>Lin</ForeName></Author>
+        </AuthorList>
+        <PublicationTypeList><PublicationType>Randomized Controlled Trial</PublicationType></PublicationTypeList>
+        <ArticleDate DateType="Electronic"><Year>2026</Year><Month>08</Month><Day>12</Day></ArticleDate>
+        <ELocationID EIdType="doi">10.1001/jamanetworkopen.2026.1234</ELocationID>
+      </Article>
+      <MedlineJournalInfo><ISSNLinking>2574-3805</ISSNLinking><MedlineTA>JAMA Netw Open</MedlineTA></MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData><ArticleIdList>
+      <ArticleId IdType="pubmed">12345678</ArticleId>
+      <ArticleId IdType="doi">10.1001/jamanetworkopen.2026.1234</ArticleId>
+    </ArticleIdList></PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

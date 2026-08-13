@@ -1,0 +1,32 @@
+{
+  "hitCount": 2,
+  "resultList": {
+    "result": [
+      {
+        "pmid": "12345678",
+        "pmcid": "PMC1234567",
+        "doi": "10.1001/jamanetworkopen.2026.1234",
+        "title": "Randomized trial of a fixture intervention in adults",
+        "authorString": "Example A, Fixture L",
+        "journalTitle": "JAMA Network Open",
+        "journalIssn": "2574-3805",
+        "firstPublicationDate": "2026-08-12",
+        "abstractText": "Longer deterministic fixture abstract from Europe PMC.",
+        "isOpenAccess": "Y",
+        "pubTypeList": {"pubType": ["randomized controlled trial", "journal article"]}
+      },
+      {
+        "pmid": "87654321",
+        "doi": "10.1001/jamanetworkopen.2026.5678",
+        "title": "Systematic review of fixture outcomes",
+        "authorString": "Review R, Sample S",
+        "journalTitle": "JAMA Network Open",
+        "journalIssn": "2574-3805",
+        "firstPublicationDate": "2026-08-20",
+        "abstractText": "Second deterministic fixture abstract.",
+        "isOpenAccess": "N",
+        "pubTypeList": {"pubType": ["systematic review", "journal article"]}
+      }
+    ]
+  }
+}

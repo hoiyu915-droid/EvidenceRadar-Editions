@@ -1,0 +1,20 @@
+{
+  "schema_version": "1",
+  "repository": "hoiyu915-droid/EvidenceRadar",
+  "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+  "usage": "pinned-source-reference",
+  "artifacts_consumed": false,
+  "allowed_paths": [
+    "LICENSE",
+    "NOTICE.md",
+    "config/radar_master.json",
+    "tools/network_safety.py",
+    "tools/publisher_feed.py"
+  ],
+  "prohibited_output_roots": [
+    "artifacts",
+    "runs",
+    "state",
+    "public"
+  ]
+}

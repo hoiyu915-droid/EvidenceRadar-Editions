@@ -1,0 +1,4 @@
+* @hoiyu915-droid
+/config/upstream-radar.json @hoiyu915-droid
+/src/evidenceradar_editions/http_client.py @hoiyu915-droid
+/src/evidenceradar_editions/upstream.py @hoiyu915-droid

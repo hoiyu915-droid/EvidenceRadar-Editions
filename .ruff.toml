@@ -1,0 +1,8 @@
+extend = "pyproject.toml"
+
+[lint.per-file-ignores]
+# This bridge intentionally verifies attributes on a dynamically loaded, pinned module.
+"src/evidenceradar_editions/upstream.py" = ["B009"]
+# Keeping these scope checks nested makes the edition and validator semantics easier to audit.
+"src/evidenceradar_editions/pipeline.py" = ["SIM102"]
+"src/evidenceradar_editions/validate.py" = ["SIM102"]

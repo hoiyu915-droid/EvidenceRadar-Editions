@@ -1,0 +1,16 @@
+schema_version: "1"
+id: replace-with-journal-id
+name: Replace with exact journal title
+aliases:
+  - Replace with indexed abbreviation
+issns:
+  - 0000-0000
+publisher: Replace with publisher name
+default_sources:
+  - pubmed
+  - europe_pmc
+  - crossref
+include_types: []
+exclude_types:
+  - editorial
+language: en
