@@ -1,0 +1,86 @@
+name: Extract August 2026 batch 06 translation work
+
+on:
+  push:
+    branches:
+      - data/2026-08-batch-06-five-journals
+    paths:
+      - ".github/workflows/extract-august-batch-06-titles.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+      - name: Build translation work chunks
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          final_slugs=[
+            'journal-of-nutritional-biochemistry',
+            'nutrition-research',
+            'sports-medicine-and-health-science',
+            'the-lancet-regional-health-europe',
+            'the-lancet-regional-health-western-pacific',
+          ]
+          excluded=set()
+          for name in ('flags.json','replacements-flags.json'):
+              p=Path('probe')/name
+              if p.exists():
+                  obj=json.loads(p.read_text(encoding='utf-8'))
+                  excluded.update(str(x.get('canonical_id')) for x in obj.get('items',[]) if x.get('canonical_id'))
+
+          rows=[]
+          counts={}
+          for slug in final_slugs:
+              d=Path('probe')/slug
+              files=[p for p in d.glob('*.json') if not p.name.endswith('.manifest.json') and 'translation-' not in p.name]
+              if len(files)!=1:
+                  raise SystemExit(f'{slug}: expected one edition json, got {files}')
+              run=json.loads(files[0].read_text(encoding='utf-8'))
+              kept=[]
+              for a in run.get('articles') or []:
+                  cid=str(a.get('canonical_id') or '')
+                  if cid in excluded:
+                      continue
+                  kept.append(a)
+                  rows.append({'canonical_id':cid,'title':a.get('title_original') or a.get('title'),'slug':slug})
+              counts[slug]=len(kept)
+
+          expected={
+            'journal-of-nutritional-biochemistry':20,
+            'nutrition-research':17,
+            'sports-medicine-and-health-science':2,
+            'the-lancet-regional-health-europe':33,
+            'the-lancet-regional-health-western-pacific':16,
+          }
+          if counts!=expected:
+              raise SystemExit(f'count mismatch: {counts} != {expected}')
+          if len(rows)!=88 or len({r['canonical_id'] for r in rows})!=88:
+              raise SystemExit(f'expected 88 unique rows, got {len(rows)}')
+          out=Path('translation-work'); out.mkdir(exist_ok=True)
+          for i in range(0,len(rows),20):
+              part=rows[i:i+20]
+              path=out/f'batch06.part{i//20+1:02d}.ndjson'
+              path.write_text(''.join(json.dumps(r,ensure_ascii=False,separators=(',',':'))+'\n' for r in part),encoding='utf-8')
+          (out/'manifest.json').write_text(json.dumps({'expected_items':88,'parts':5,'counts':counts},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'items':len(rows),'parts':5,'counts':counts},ensure_ascii=False,indent=2))
+          PY
+      - name: Commit translation work
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add translation-work
+          git diff --cached --check
+          git commit -m 'work: prepare August batch 06 translations'
+          git push origin HEAD:data/2026-08-batch-06-five-journals
