@@ -1,0 +1,1092 @@
+{
+  "jmlr": {
+    "source": "https://www.jmlr.org/jmlr.xml",
+    "items": [],
+    "errors": [
+      "FeatureNotFound(\"Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?\")"
+    ],
+    "count": 0
+  },
+  "tmlr": {
+    "source": "https://jmlr.org/tmlr/papers/",
+    "items": [],
+    "errors": [],
+    "august_candidates": 86,
+    "all_august_metadata": [
+      {
+        "title": "Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning",
+        "openreview_id": "GiO8eom0jD",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=GiO8eom0jD')"
+      },
+      {
+        "title": "Generative Modeling with Bayesian Sample Inference",
+        "openreview_id": "n8qQPnalVW",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=n8qQPnalVW')"
+      },
+      {
+        "title": "KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Human Motion Prediction",
+        "openreview_id": "JQA0EfQIfj",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=JQA0EfQIfj')"
+      },
+      {
+        "title": "ProPINN: Demystifying Propagation Failures in Physics Informed Neural Networks",
+        "openreview_id": "Wy54lrFd46",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Wy54lrFd46')"
+      },
+      {
+        "title": "MINDFeed: Mutual Information-Guided Single-Network Consistency Learning for Semi-Supervised 3D Medical Image Segmentation",
+        "openreview_id": "YI7AX6mrZO",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=YI7AX6mrZO')"
+      },
+      {
+        "title": "The Intrinsic Dimension of Prompts in Internal Representations of Large Language Models",
+        "openreview_id": "rBEgNAslpY",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=rBEgNAslpY')"
+      },
+      {
+        "title": "A Survey on Behavioral Data Representation Learning",
+        "openreview_id": "NSdV2qvglw",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NSdV2qvglw')"
+      },
+      {
+        "title": "Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review",
+        "openreview_id": "7iX2Z2bPFB",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=7iX2Z2bPFB')"
+      },
+      {
+        "title": "Variational Set Operator Networks: Uncertainty-Aware Meta-Learning via Probabilistic Neural Operators",
+        "openreview_id": "rLgrHnZtzh",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=rLgrHnZtzh')"
+      },
+      {
+        "title": "BiScale-GTR: Fragment-Aware graph Transformers for Multi-Scale Molecular Representation Learning",
+        "openreview_id": "97L9IRPWu7",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Few Contrastive Attention Heads Enable Visual Grounding in Large Vision-Language Models",
+        "openreview_id": "CnrAiXbw8a",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "The Embodiment Gap in Robot Foundation Models",
+        "openreview_id": "D0XcH9Cso4",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning",
+        "openreview_id": "8sBZSgAkAH",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Learning as Homeostasis: Beyond the Optimization Paradigm in Machine Intelligence",
+        "openreview_id": "sgvPGWZ1uv",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "HyperCLIP: Prompt-Conditioned Image Encoders for Contrastive Vision-Language Pre-training",
+        "openreview_id": "kX7iwF5s3v",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models",
+        "openreview_id": "AXv7OjfuiT",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Aligning Path-based Link Prediction with Human Understanding of Valid Reasoning",
+        "openreview_id": "FrMBxE7J0v",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Patch-based Memory Gate Model in Time Series Foundation Model",
+        "openreview_id": "Fm2ddpR0aw",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Online Learning and Unlearning: Efficient Algorithms with Near-Optimal Regret Guarantees",
+        "openreview_id": "lyvCVfTdiY",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Symbolic Graphics Programming with Large Language Models",
+        "openreview_id": "JfK8EHJAQn",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Learning What to Fail On: Failure-Mode Contextual Bandits for Adversarial Data Curation",
+        "openreview_id": "DSpKdN6whZ",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "FairT2I: Latent Variable Guidance for Training-Free Bias Mitigation with LLM-Assisted Bias Detection",
+        "openreview_id": "WHYE1WjMYf",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Deep Models, Shallow Alignment: Uncovering the Granularity Mismatch in Neural Decoding",
+        "openreview_id": "SzDHkICZpm",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "World Model Anomaly Detection with a Latent Linear Prior",
+        "openreview_id": "VLIzLK3CfR",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Partial Observation Inversion and Batched Belief-State Planning for Information Gathering POMDPs",
+        "openreview_id": "K7MPwAV1AT",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=K7MPwAV1AT')"
+      },
+      {
+        "title": "Invariant Causal Set Covering Machine",
+        "openreview_id": "slquR2A8rA",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=slquR2A8rA')"
+      },
+      {
+        "title": "Sampling Boltzmann distributions via normalizing flow approximation of transport maps",
+        "openreview_id": "4HLZD6LMuJ",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=4HLZD6LMuJ')"
+      },
+      {
+        "title": "A Survey of Hybrid Inference Systems for Large Language Models",
+        "openreview_id": "OIrJI53MvN",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=OIrJI53MvN')"
+      },
+      {
+        "title": "Chance-Constrained Inference for Hallucination Risk Control in Large Language Models",
+        "openreview_id": "cJDhDC69m9",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=cJDhDC69m9')"
+      },
+      {
+        "title": "Learning with Local Search MCMC Layers",
+        "openreview_id": "M2a0mbACNf",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=M2a0mbACNf')"
+      },
+      {
+        "title": "Behavioral Inference at Scale: The Fundamental Asymmetry Between Motivations and Belief Systems",
+        "openreview_id": "aDMDqtw63H",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=aDMDqtw63H')"
+      },
+      {
+        "title": "Lost in Aggregation: On a Fundamental Expressivity Limit of Message-Passing Graph Neural Networks",
+        "openreview_id": "F4OlpAJ0o2",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=F4OlpAJ0o2')"
+      },
+      {
+        "title": "A Closed-Form Persistence-Landmark Pipeline for Certified Point-Cloud and Graph Classification",
+        "openreview_id": "4kZxNlE5Ve",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=4kZxNlE5Ve')"
+      },
+      {
+        "title": "Physics-Aware Variational Autoencoder for Urban Travel Demand Calibration",
+        "openreview_id": "r5oS1XXbT3",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=r5oS1XXbT3')"
+      },
+      {
+        "title": "On the Statistical Limits of Self-Improving Agents",
+        "openreview_id": "q4vuDMtYgF",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=q4vuDMtYgF')"
+      },
+      {
+        "title": "Clarity: The Flexibility-Interpretability Trade-Off in Sparsity-aware Concept Bottleneck Models",
+        "openreview_id": "IyQEQBRR4M",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=IyQEQBRR4M')"
+      },
+      {
+        "title": "Analyzing the Effect of Noise in LLM Fine-Tuning",
+        "openreview_id": "NlSBeHZEz5",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Same-Expert Iteration Improves a Translation MoE Where Expert Communication Does Not",
+        "openreview_id": "hPD4MjMfoN",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "From Centerlines to Hemodynamics: Anisotropic RBF Decoders for Coronary Arteries",
+        "openreview_id": "AoJUrVjufP",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "EHR2Path: Comprehensive Pathway-Level Modeling of Longitudinal Patient Trajectories from Multimodal Electronic Health Records",
+        "openreview_id": "ywa71iOykg",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists",
+        "openreview_id": "Cwq1U8tbWW",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Predicting Chain-of-Thought Correctness from Trajectory Geometry",
+        "openreview_id": "H9cBkEqVeY",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Gen-MURE: Generalized Multiplicative Unbiased Risk Estimate",
+        "openreview_id": "Hie13qRm1x",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "A Cross-Model Study of Over-Compliance in Large Lan- guage Models",
+        "openreview_id": "LnUP74YNze",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Navigating the Labyrinth: Evaluating LLMsâ Ability to Reason About Search Problems",
+        "openreview_id": "oub2I1ioL5",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Hyperedge Anomaly Detection with Hypergraph Neural Network",
+        "openreview_id": "etPYIk1BqO",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Unbiased Stochastic Optimization for Gaussian Processes on Finite Dimensional RKHS",
+        "openreview_id": "wDCulUZla4",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher",
+        "openreview_id": "2WI889Ulin",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "eDQA: Efficient Deep Quantization of DNN Activations on Edge Devices",
+        "openreview_id": "SEIBCdgE5W",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "VQEL: Enabling Self-Play in Emergent Language Games via Agent Internal Vector Quantization",
+        "openreview_id": "5nqQlGWlsW",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "QMoE+: Hybrid Quantum Mixture of Experts",
+        "openreview_id": "l1JaPqZ6K5",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Enhance the Safety in Reinforcement Learning by ADRC Lagrangian Methods",
+        "openreview_id": "3IbuT8uzYS",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=3IbuT8uzYS')"
+      },
+      {
+        "title": "DS-STAR: Data Science Agent for Solving Diverse Tasks across Heterogeneous Formats and Open-Ended Queries",
+        "openreview_id": "Yz3ZPLzYaU",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Yz3ZPLzYaU')"
+      },
+      {
+        "title": "The 2025 Foundation Model Transparency Index",
+        "openreview_id": "1jT253Xtyf",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=1jT253Xtyf')"
+      },
+      {
+        "title": "Optimal or Greedy Decision Trees? Revisiting their Objectives, Tuning, and Performance",
+        "openreview_id": "DvDOAtskXl",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=DvDOAtskXl')"
+      },
+      {
+        "title": "SAFT: Structure-Aware Fine-Tuning of Large Language Models for AMR-to-Text Generation",
+        "openreview_id": "QZoUMyzYDB",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=QZoUMyzYDB')"
+      },
+      {
+        "title": "Minimax learning rates for estimating binary classifiers under margin conditions",
+        "openreview_id": "ZIshsqojB6",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=ZIshsqojB6')"
+      },
+      {
+        "title": "Influencing Humans to Conform to Preference Models for RLHF",
+        "openreview_id": "7YPlw1nUmW",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=7YPlw1nUmW')"
+      },
+      {
+        "title": "Stronger Approximation Guarantees for Non-Monotone $\\gamma$-Weakly DR-Submodular Maximization",
+        "openreview_id": "yS78Cb1CnX",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=yS78Cb1CnX')"
+      },
+      {
+        "title": "Analysis of Natural Actor-Critic with Randomized Low- Discrepancy Sampling",
+        "openreview_id": "kOSx9v6dfb",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=kOSx9v6dfb')"
+      },
+      {
+        "title": "TransformerâSSM Hybrid Language Models: Systematic Analysis and Design Insights",
+        "openreview_id": "x7qyXl8ecT",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=x7qyXl8ecT')"
+      },
+      {
+        "title": "The Impact of Enforcing Representational Consistency of Identical Transformations for Disentangled Representation",
+        "openreview_id": "VjbBxj4aWb",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=VjbBxj4aWb')"
+      },
+      {
+        "title": "Probing Visual Concepts in Lightweight Vision-Language Models for Automated Driving",
+        "openreview_id": "HlBBy19ojC",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Instance-Level Generation for Representation Learning",
+        "openreview_id": "T3JgJXH3ZK",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Learning Structured Set Utility Functions with Contrastive Element Representations",
+        "openreview_id": "SZ8mOziJBx",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+        "openreview_id": "XycbogUAeJ",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "How Much Information Fits in a Vector?",
+        "openreview_id": "Nby4pCPIZI",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Environmental Footprint of GenAI Research: Insights from the Moshi Foundation Model",
+        "openreview_id": "uurX0xsr8G",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights",
+        "openreview_id": "budZJyCK8G",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "On the Fundamental Limits of LLMs at Scale",
+        "openreview_id": "BIRDGVrom8",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "ANU-RL: A New Perspective on Weakly-Supervised Representation Learning for Visual Place Recognition",
+        "openreview_id": "mXE4OP55il",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "DIMENSION DOMAIN CO-DECOMPOSITION: SOLVING PDES WITH INTERPRETABILITY",
+        "openreview_id": "kuzkynVyRq",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Federated Class-Incremental Learning with Hierarchical Generative Prototypes",
+        "openreview_id": "k2TT42Ei8W",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Dynamic Reward Incentives for Emergent Cooperation under Changing Rewards",
+        "openreview_id": "9Ltu1HV2YI",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "PAC-Bayesian Meta-Learning for Few-Shot Identification of Linear Dynamical Systems",
+        "openreview_id": "CiGFpSLzFv",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Reasoning with Preference Constraints: A Benchmark for Language Models in Many-to-One Matching Markets",
+        "openreview_id": "2dpt2Ughzt",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning",
+        "openreview_id": "JWkZXBgh5a",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "NeMoS: Nearest Neighbors Bandit meets Active Learning for Online Model Selection",
+        "openreview_id": "CSjewjplO1",
+        "error": "AttributeError(\"'NoneType' object has no attribute 'json'\")"
+      },
+      {
+        "title": "Wiring the âWhyâ: A Unified Taxonomy and Survey of Abductive Reasoning in LLMs",
+        "openreview_id": "oeVkugH0WB",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=oeVkugH0WB')"
+      },
+      {
+        "title": "Provably Safe Generative Sampling with Constricting Barrier Functions",
+        "openreview_id": "iZi471b4Pf",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=iZi471b4Pf')"
+      },
+      {
+        "title": "Neural Diversity Regularizes Hallucinations in Language Models",
+        "openreview_id": "5l9ZflyApA",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=5l9ZflyApA')"
+      },
+      {
+        "title": "Task-Relevant Language-conditioned Segmentation for Robust Generalization in Reinforcement Learning",
+        "openreview_id": "MRHXB6eooE",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=MRHXB6eooE')"
+      },
+      {
+        "title": "Verify What Matters: Budgeted Verification for Tool-Using Agents under Counterfactual Downstream Harm",
+        "openreview_id": "nv1jzr0FaZ",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=nv1jzr0FaZ')"
+      },
+      {
+        "title": "Cross-Fitted Clipped Covariance Estimation with a Data-Driven Tail-Energy Criterion",
+        "openreview_id": "MyNXLdRFJ3",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=MyNXLdRFJ3')"
+      },
+      {
+        "title": "ViP$^2$-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection",
+        "openreview_id": "KCRRuiQSIm",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=KCRRuiQSIm')"
+      },
+      {
+        "title": "RIGID: A Training-Free and Generator-Agnostic  Framework for Robust AI-Generated Image Detection",
+        "openreview_id": "NBkBI2Zjlm",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NBkBI2Zjlm')"
+      }
+    ],
+    "count": 0
+  },
+  "chemical_science": {
+    "source": "https://pubs.rsc.org/",
+    "candidate_source": "Crossref created-date enumeration only",
+    "items": [],
+    "errors": [],
+    "candidate_count": 81,
+    "audited_candidates": [
+      {
+        "doi": "10.1039/d6sc03132c",
+        "title": "Advancing Practical Quantum Embedding Simulations via Operator Commutativity Based State Preparation for Complex Chemical Systems",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03132c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03132c')"
+      },
+      {
+        "doi": "10.1039/d6sc04959a",
+        "title": "Unique fluoroalkyl substituents: is there life after CF\n                    <sub>3</sub>\n                    ?",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04959a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04959a')"
+      },
+      {
+        "doi": "10.1039/d6sc04505g",
+        "title": "N-coordination-driven anchoring of M\n                    <sub>2</sub>\n                    dimers (M = Cu, Ag) on Au6 cluster: structural evolution and enhanced photoluminescence",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04505g",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04505g')"
+      },
+      {
+        "doi": "10.1039/d6sc00976j",
+        "title": "Single-particle electrochemical imaging for assessing the heterogeneous response of individual nanocrystals",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc00976j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc00976j')"
+      },
+      {
+        "doi": "10.1039/d6sc02845d",
+        "title": "Oriented synthesis of a cationic metal–organic framework with Al\n                    <sub>24</sub>\n                    units for effective Cr(\n                    <scp>vi</scp>\n                    ) removal",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02845d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02845d')"
+      },
+      {
+        "doi": "10.1039/d6sc05379c",
+        "title": "Interstitial oxide-ion conduction with unconventional polyhedral units in Bi\n                    <sub>\n                      2−\n                      <i>x</i>\n                    </sub>\n                    Te\n                    <sub>\n                      1+\n                      <i>x</i>\n                    </sub>\n                    O\n                    <sub>\n                      5+\n                      <i>x</i>\n                      /2\n                    </sub>",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05379c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05379c')"
+      },
+      {
+        "doi": "10.1039/d6sc03258c",
+        "title": "Exploring viscosity sensitivity of π-extended coumarin fluorogen-based PRPGs for precise photorelease of valproic acid: detection and defibrillation of TDP-43 aggregation",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03258c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03258c')"
+      },
+      {
+        "doi": "10.1039/d6sc04429h",
+        "title": "A spontaneously evolving multifunctional interphase enables durable cycling in solid-state lithium metal batteries",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04429h",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04429h')"
+      },
+      {
+        "doi": "10.1039/d6sc05310f",
+        "title": "Light-induced radical addition to oximes: a general route to branched primary amines",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05310f",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05310f')"
+      },
+      {
+        "doi": "10.1039/d6sc03982k",
+        "title": "Hydrogen bonding triggered tunable high temperature phosphorescence",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03982k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03982k')"
+      },
+      {
+        "doi": "10.1039/d6sc03439j",
+        "title": "Dynamic coordination and reconstruction-induced chemiluminescence in chiral covalent organic frameworks for enantioselective sensing",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03439j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03439j')"
+      },
+      {
+        "doi": "10.1039/d6sc03753d",
+        "title": "Chemically triggered bioorthogonal activation of antimicrobial peptide mimic prodrugs",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03753d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03753d')"
+      },
+      {
+        "doi": "10.1039/d6sc04347j",
+        "title": "d–p–f orbit coupling for enhanced chlorine radicals mediated ammonia-nitrogen wastewater purification",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04347j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04347j')"
+      },
+      {
+        "doi": "10.1039/d6sc90159j",
+        "title": "Back cover",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90159j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90159j')"
+      },
+      {
+        "doi": "10.1039/d6sc05321a",
+        "title": "A Dianionic Allene Bound to Vanadium(III) Enables Interconversion Between Vanadatetrahedranes, Vanadacyclobutadienes and Deprotiovanadacyclobutadienes",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05321a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05321a')"
+      },
+      {
+        "doi": "10.1039/d6sc05330k",
+        "title": "Orbital hybridization engineering, a built-in electric field, and simultaneous carbon layer charge rearrangement boost carrier migration for a superior cathode material",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05330k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05330k')"
+      },
+      {
+        "doi": "10.1039/d6sc03796h",
+        "title": "Vehicle-type ion transport and shuttle suppression enabled by a Zn\n                    <sup>2+</sup>\n                    -centered dual-ligand coordination hydrogel electrolyte toward highly reversible Zn–I\n                    <sub>2</sub>\n                    batteries",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03796h",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03796h')"
+      },
+      {
+        "doi": "10.1039/d6sc05107c",
+        "title": "Simultaneous Enhancement of Photoluminescence Efficiency and Photostability in Diphenylpyridylmethyl Radicals by Pentaphenylphenyl Substitution",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05107c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05107c')"
+      },
+      {
+        "doi": "10.1039/d6sc90161a",
+        "title": "Correction: Addressing interfacial chemical corrosion in lithium metal batteries: a ferroelectric-dipole-regulation route",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90161a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90161a')"
+      },
+      {
+        "doi": "10.1039/d6sc05322j",
+        "title": "Aggregated-State Arylborane-Pillar[5]arenes: A New Three-in-One Modulation of Circularly Polarized Luminescence",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05322j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05322j')"
+      },
+      {
+        "doi": "10.1039/d6sc90163h",
+        "title": "Front cover",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90163h",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90163h')"
+      },
+      {
+        "doi": "10.1039/d6sc04925g",
+        "title": "Photorheological Action Plots",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04925g",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04925g')"
+      },
+      {
+        "doi": "10.1039/d6sc05351c",
+        "title": "An Anionic Nickel-Aluminium Dihydride Complex Exhibiting Cooperative Catalytic Behaviour",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05351c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05351c')"
+      },
+      {
+        "doi": "10.1039/d6sc03745c",
+        "title": "Beyond a Single Structure: Complementary IR and NMR Signatures of Multi-Minima Noncovalent Binding",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03745c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03745c')"
+      },
+      {
+        "doi": "10.1039/d6sc04815c",
+        "title": "Biosynthesis of (+)-palitantin requires homologs of alkyl salicylaldehyde-forming enzymes without involvement of an aromatic intermediate",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04815c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04815c')"
+      },
+      {
+        "doi": "10.1039/d6sc04792k",
+        "title": "Balancing defect activation and framework stability: oxygen-vacancy-regulated MnO\n                    <sub>2</sub>\n                    cathodes for aqueous zinc-ion batteries",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04792k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04792k')"
+      },
+      {
+        "doi": "10.1039/d6sc03311c",
+        "title": "Triazatrinaphthylene-based metal-free polycyclic aromatic frameworks for electrochemical nitrate reduction to ammonia",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03311c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03311c')"
+      },
+      {
+        "doi": "10.1039/d6sc90166b",
+        "title": "Back cover",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90166b",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90166b')"
+      },
+      {
+        "doi": "10.1039/d6sc05480c",
+        "title": "Reverse barrier layer and interfacial M–O bond reinforcement in an S-scheme high-entropy oxide heterojunction for efficient photo-assisted lithium–oxygen batteries",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05480c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05480c')"
+      },
+      {
+        "doi": "10.1039/d6sc00048g",
+        "title": "Metallized porphyrin-based covalent organic frameworks with orbital-hybridized conduction channels for continuous-flow adsorption–photocatalytic uranium extraction from seawater",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc00048g",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc00048g')"
+      },
+      {
+        "doi": "10.1039/d6sc05665b",
+        "title": "Biomimetic fluidic lipid-engineered nanofluidic platform for ultrasensitive discrimination of multiprotein in biofluids",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05665b",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05665b')"
+      },
+      {
+        "doi": "10.1039/d6sc02757a",
+        "title": "Tuning structure and activity of propane dehydrogenation catalysts using tailored PtSn alloys",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02757a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02757a')"
+      },
+      {
+        "doi": "10.1039/d6sc05188j",
+        "title": "Recent progress in boron nanoclusters: from borophene to boron buckminsterfullerene",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05188j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05188j')"
+      },
+      {
+        "doi": "10.1039/d6sc04626f",
+        "title": "Recent Progress in Silane Coupling Agents for High-Energy-Density All-Solid-State Lithium Batteries",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04626f",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04626f')"
+      },
+      {
+        "doi": "10.1039/d6sc05784e",
+        "title": "Carbonyl Derivatization Tunes Triplet-State Aromaticity and Dynamics in Fused-Ring Cyclic Amides",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05784e",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05784e')"
+      },
+      {
+        "doi": "10.1039/d6sc02808j",
+        "title": "From C–C bond cleavage to fluorescence: cyclic (alkyl)(amino)carbene-driven activation of 1,2-diketones",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02808j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02808j')"
+      },
+      {
+        "doi": "10.1039/d6sc03964b",
+        "title": "Selenium-induced curvature control enables polymorphism in borabuckybowls",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03964b",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03964b')"
+      },
+      {
+        "doi": "10.1039/d6sc90157c",
+        "title": "Front cover",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90157c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90157c')"
+      },
+      {
+        "doi": "10.1039/d6sc04605c",
+        "title": "Ultrahigh-Molecular-Weight Tadpole Polymers with Statistically Symmetric Head-to-Tail Geometry: The Key Topological Intermediate Bridging Linear and Cyclic Architectures",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04605c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04605c')"
+      },
+      {
+        "doi": "10.1039/d6sc90164f",
+        "title": "Inside front cover",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90164f",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90164f')"
+      },
+      {
+        "doi": "10.1039/d6sc02603f",
+        "title": "Excited-state conformational flexibility enables intrinsic amplification of circularly polarized luminescence",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02603f",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02603f')"
+      },
+      {
+        "doi": "10.1039/d6sc04560j",
+        "title": "Additive-Induced Kinetic Control and Chiral Amplification in Circularly Polarized Luminescence (CPL)-Emitting Secondary Supramolecular Polymers",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04560j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04560j')"
+      },
+      {
+        "doi": "10.1039/d6sc04534k",
+        "title": "Rare Earth Single-Atomic Materials: Synthesis and Application",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04534k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04534k')"
+      },
+      {
+        "doi": "10.1039/d6sc04272d",
+        "title": "Nickel-catalyzed hydro- and deuteroacylation of acrylates using water as the hydrogen source",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04272d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04272d')"
+      },
+      {
+        "doi": "10.1039/d6sc01665k",
+        "title": "Enhancing acidic oxygen evolution reaction with a highly stable Eu-doped RuO\n                    <sub>2</sub>\n                    electrocatalyst",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc01665k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc01665k')"
+      },
+      {
+        "doi": "10.1039/d6sc04960e",
+        "title": "Spatial isomerism regulates host–guest distance for highly efficient organic room-temperature phosphorescence",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04960e",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04960e')"
+      },
+      {
+        "doi": "10.1039/d6sc04933h",
+        "title": "Hybrid-entropy regulation to construct O3@P2 layered oxide cathodes with high rate and stability for sodium-ion batteries",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04933h",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04933h')"
+      },
+      {
+        "doi": "10.1039/d6sc02764d",
+        "title": "Recent advances in the design and application of modified ZSM-5 catalysts for gaseous pollutant oxidation",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02764d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02764d')"
+      },
+      {
+        "doi": "10.1039/d6sc05189h",
+        "title": "Protonation-Induced Local Electronic Structure Regulation Enables Confinement-Conversion Synergy for Long-Life Zinc-Iodine Batteries",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05189h",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05189h')"
+      },
+      {
+        "doi": "10.1039/d6sc01721e",
+        "title": "Bioinspired peptide cyclisation enables exploration of cytochrome P450 catalysed sequential oxidation in rufomycin biosynthesis",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc01721e",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc01721e')"
+      },
+      {
+        "doi": "10.1039/d6sc03163c",
+        "title": "Scalable Hydrogen-Bonded Organic Framework-based Membranes for Ultra-High-Capacity Perfluorooctanoic Acid‌ Removal",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03163c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03163c')"
+      },
+      {
+        "doi": "10.1039/d6sc04176k",
+        "title": "Computational Alanine Scanning with GBSA and Interaction Entropy: A Review of Methodologies and Applications in Protein-Protein and Protein-Ligand Binding",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04176k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04176k')"
+      },
+      {
+        "doi": "10.1039/d6sc05688a",
+        "title": "Unlocking the door for synergizing expansion–capacity in Si anodes: breathable flexible MOFs",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05688a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05688a')"
+      },
+      {
+        "doi": "10.1039/d5sc10046a",
+        "title": "Boron-to-gold transmetalation: a useful platform for gold(\n                    <scp>iii</scp>\n                    ) cyclometalation",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc10046a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc10046a')"
+      },
+      {
+        "doi": "10.1039/d6sc04808k",
+        "title": "Single cellulose nanocrystal rod-templated right-handed iminelinked covalent organic frameworks for enantioselective recognition",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04808k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04808k')"
+      },
+      {
+        "doi": "10.1039/d6sc05155c",
+        "title": "Trace-level Ruthenium Incorporated with Transition Metal Components Enabled High-Efficiency Li-CO2 Battery",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05155c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05155c')"
+      },
+      {
+        "doi": "10.1039/d6sc90153k",
+        "title": "Correction: Direct determination of multiphoton absorption cross-sections by transient absorption spectroscopy",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90153k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90153k')"
+      },
+      {
+        "doi": "10.1039/d6sc05530c",
+        "title": "Spatial control of Nd\n                    <sup>3+</sup>\n                    sensitizer in 808 nm excited upconversion nanocrystals towards nearly 100% energy migration efficiency",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05530c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05530c')"
+      },
+      {
+        "doi": "10.1039/d6sc05173a",
+        "title": "Integrated full-color emission and near-infrared phosphorescence enabled by tunable self-assembly of a single chromophore",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05173a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05173a')"
+      },
+      {
+        "doi": "10.1039/d6sc02103d",
+        "title": "A unified predictor of protein stability changes across all mutation types\n                    <i>via</i>\n                    implicit structure learning",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02103d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02103d')"
+      },
+      {
+        "doi": "10.1039/d6sc05207j",
+        "title": "Enantioselective synthesis and characterization of [\n                    <i>m</i>\n                    .\n                    <i>n</i>\n                    ]paracyclophanes",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05207j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05207j')"
+      },
+      {
+        "doi": "10.1039/d6sc04783a",
+        "title": "Field-enhanced graphene fiber arrays reveal serum metabolic alterations in pancreatic cancer",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04783a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04783a')"
+      },
+      {
+        "doi": "10.1039/d6sc06118d",
+        "title": "A Series of Structurally Related hcp-Like Silver Clusters Suggests Faceted Lateral Cluster Growth",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc06118d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc06118d')"
+      },
+      {
+        "doi": "10.1039/d6sc05617b",
+        "title": "The Crystalline Radical Anion Salt of a free N-Heterocyclic Carbene",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05617b",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc05617b')"
+      },
+      {
+        "doi": "10.1039/d6sc04645b",
+        "title": "Mechanistic Insights into Electrochemiluminescence: Fueling Advances in Bioanalysis and Imaging",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04645b",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04645b')"
+      },
+      {
+        "doi": "10.1039/d6sc02926d",
+        "title": "Developing efficient mechanochemical routes to porous metal–organic polyhedra, supported by 3D electron diffraction",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02926d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02926d')"
+      },
+      {
+        "doi": "10.1039/d6sc04436k",
+        "title": "Homoleptic Teflate Coordination at Platinum(IV): Synthesis and Characterization of [Pt(OTeF\n                    <sub>5</sub>\n                    )\n                    <sub>6</sub>\n                    ]\n                    <sup>2–</sup>\n                    , and Covalency Trends Revealed by the OSLO Method",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04436k",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04436k')"
+      },
+      {
+        "doi": "10.1039/d6sc04539a",
+        "title": "Ligand Enabled Palladium-Catalyzed Late-Stage C-H Fluorination of Arenes",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04539a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04539a')"
+      },
+      {
+        "doi": "10.1039/d6sc90158a",
+        "title": "Contents list",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90158a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90158a')"
+      },
+      {
+        "doi": "10.1039/d6sc04421b",
+        "title": "Computational prediction of substrate scope of a homogeneous catalyst: the case of metal-free C–H borylation by a frustrated Lewis pair catalyst",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04421b",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04421b')"
+      },
+      {
+        "doi": "10.1039/d6sc03956a",
+        "title": "Imidazophenothiazine-based photocatalysts enable the organocatalyzed atom-transfer radical polymerization of styrene",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03956a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03956a')"
+      },
+      {
+        "doi": "10.1039/d6sc03582e",
+        "title": "Prominent Signatures of Energy Transfer in Action-Detected Spectra of a Cyanobacterial Photosynthetic Protein",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03582e",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03582e')"
+      },
+      {
+        "doi": "10.1039/d6sc04671a",
+        "title": "Metal–organic B←N frameworks",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04671a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04671a')"
+      },
+      {
+        "doi": "10.1039/d6sc03053j",
+        "title": "Constructing porous aromatic frameworks with controllable hierarchical pores to investigate their effect on adsorption activity of micro-pollutants",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03053j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03053j')"
+      },
+      {
+        "doi": "10.1039/d6sc03892a",
+        "title": "Multi-task scheduling of self-driving laboratories under scientific constraints",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03892a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03892a')"
+      },
+      {
+        "doi": "10.1039/d6sc03255a",
+        "title": "Ionic self-assembled supramolecular polymers: synthesis, properties and applications",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03255a",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc03255a')"
+      },
+      {
+        "doi": "10.1039/d6sc04018g",
+        "title": "Synergistic Backbone-Side Chain Design via Noncovalent Interactions for Advanced High-Temperature Proton Exchange Membranes",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04018g",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04018g')"
+      },
+      {
+        "doi": "10.1039/d6sc04719j",
+        "title": "<i>In situ</i>\n                    probing of phase transition kinetics of single CsPbI\n                    <sub>3</sub>\n                    perovskite quantum dots\n                    <i>via</i>\n                    nano-impact electrochemistry",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04719j",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04719j')"
+      },
+      {
+        "doi": "10.1039/d6sc04441g",
+        "title": "Visible light-driven benign synthesis of benzoxazine–sulfur copolymers: high-performance materials for electrochemical applications",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04441g",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04441g')"
+      },
+      {
+        "doi": "10.1039/d6sc04457c",
+        "title": "Probing Protein-Lipid Interactions by Hydrogen/Deuterium Exchange-Mass Spectrometry: Advances, Challenges and Future Directions",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04457c",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc04457c')"
+      },
+      {
+        "doi": "10.1039/d6sc90165d",
+        "title": "Contents list",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90165d",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc90165d')"
+      }
+    ],
+    "front_matter_in_window": [],
+    "count": 0
+  },
+  "tacl": {
+    "source": "https://aclanthology.org/volumes/2026.tacl-1/",
+    "date_authority": "MIT Press article landing",
+    "items": [],
+    "errors": [],
+    "candidate_count": 34,
+    "audited_candidates": [
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.1.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.63/134746/ActiveLLM-Large-Language-Model-Based-Active')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.10.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.600/134999/MultiBLiMP-1-0-A-Massively-Multilingual-Benchmark')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.11.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.612/135721/PiKGL-Leveraging-Pruned-Knowledge-Graphs-for')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.12.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.653/135736/Do-Large-Multimodal-Models-Solve-Caption')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.13.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.643/135812/Accelerating-Language-Model-Workflows-with-Prompt')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.14.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.613/136155/Aligned-Probing-Relating-Toxic-Behavior-and-Model')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.15.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.625/136156/Self-Consistency-Falls-Short-The-Adverse-Effects')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.16.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.626/136157/IssueBench-Millions-of-Realistic-Prompts-for')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.17.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.627/136154/Fine-tuning-Large-Language-Models-with-Limited')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.18.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.628/136245/VoiceBench-Benchmarking-LLM-Based-Voice-Assistants')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.19.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.633/136341/MERLIN-A-Testbed-for-Multilingual-Multimodal')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.2.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.64/134745/MoNaCo-More-Natural-and-Complex-Questions-for')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.20.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.638/136339/Cooking-Up-Creativity-Enhancing-LLM-Creativity')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.21.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.641/136340/Generating-Visual-Stories-with-Grounded-and')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.22.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACl.a.642/136338/Automatic-Reviewers-Fail-to-Detect-Faulty')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.23.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.644/136336/Can-LLMs-Automate-Fact-Checking-Article-Writing')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.24.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.645/136337/PsyMem-Fine-grained-Psychological-Alignment-and')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.25.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.647/136433/Ev2R-Evaluating-Evidence-Retrieval-in-Automated')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.26.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.639/136432/A-Context-aware-Framework-for-Translation-mediated')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.27.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.640/136431/Can-Language-Models-Learn-Typologically')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.28.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.614/136430/Can-Large-Language-Models-Generalize-Analogy')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.29.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.615/136549/Dissecting-GraphRAG-A-Modular-Analysis-of')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.3.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.65/134744/DeepTrans-Deep-Reasoning-Translation-via')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.30.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.616/136548/Cross-layer-Attention-Sharing-for-Pre-trained')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.31.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.617/136551/Beyond-One-Size-Fits-All-Inversion-Learning-for')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.32.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.632/136546/Modelling-Analogies-and-Analogical-Reasoning')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.33.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.646/136550/Fine-Grained-Reward-Optimization-for-Machine')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.34.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.648/136547/A-Systematic-Assessment-of-Language-Models-with')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.4.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.593/134743/CorefInst-Leveraging-LLMs-for-Multilingual')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.5.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.66/134853/Generative-Induction-of-Dialogue-Task-Schemas-with')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.6.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.598/134854/Localizing-Factual-Inconsistencies-in-Attributable')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.7.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.611/134855/What-Can-String-Probability-Tell-Us-About')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.8.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.597/134998/Simulating-Hard-Attention-Using-Soft-Attention')"
+      },
+      {
+        "bib_url": "https://aclanthology.org/2026.tacl-1.9.bib",
+        "error": "HTTPError('403 Client Error: Forbidden for url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.599/135000/On-the-Limitations-of-Language-targeted-Pruning')"
+      }
+    ],
+    "count": 0
+  }
+}
