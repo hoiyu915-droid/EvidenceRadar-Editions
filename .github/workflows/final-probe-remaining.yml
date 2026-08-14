@@ -1,0 +1,131 @@
+name: Final first-party probe for remaining August journals
+on:
+  push:
+    branches: [data/2026-08-finish-remaining]
+    paths: [.github/workflows/final-probe-remaining.yml]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with: {python-version: '3.12'}
+      - run: python -m pip install requests beautifulsoup4
+      - name: Build final first-party candidate sets
+        run: |
+          python - <<'PY'
+          import email.utils,html,json,re,time,xml.etree.ElementTree as ET
+          from datetime import datetime,date
+          from pathlib import Path
+          from urllib.parse import urljoin,urlparse,parse_qs
+          import requests
+          from bs4 import BeautifulSoup
+          START=date(2026,8,1);END=date(2026,8,14)
+          S=requests.Session();S.headers.update({'User-Agent':'EvidenceRadar-Editions/0.2 final-first-party-probe'})
+          def get(url,**kw):
+            for i in range(4):
+              r=S.get(url,timeout=30,**kw)
+              if r.status_code==429:
+                time.sleep(1+i);continue
+              r.raise_for_status();return r
+            raise RuntimeError('request retries exhausted '+url)
+          def clean(s):return re.sub(r'\s+',' ',BeautifulSoup(html.unescape(str(s or '')),'html.parser').get_text(' ',strip=True)).strip()
+          def inwin(s):
+            try:d=date.fromisoformat(str(s)[:10])
+            except:return False
+            return START<=d<=END
+          out={}
+
+          # JMLR official RSS
+          j={'source':'https://www.jmlr.org/jmlr.xml','items':[],'errors':[]}
+          try:
+            root=ET.fromstring(get(j['source']).content)
+            for it in root.findall('.//item'):
+              val=lambda tag:(it.findtext(tag) or '').strip(); raw=val('pubDate');dt=None
+              try:dt=email.utils.parsedate_to_datetime(raw).date().isoformat()
+              except:pass
+              if inwin(dt):
+                creators=[clean(c.text) for c in list(it) if str(c.tag).endswith('creator') and c.text]
+                j['items'].append({'title':clean(val('title')),'authors':creators,'url':val('link'),'publication_date':dt,'publication_date_precision':'DAY','date_evidence':'official JMLR RSS pubDate'})
+          except Exception as e:j['errors'].append(repr(e))
+          j['count']=len(j['items']);out['jmlr']=j
+
+          # TMLR official papers page; current snapshot establishes publication month, not day.
+          t={'source':'https://jmlr.org/tmlr/papers/','snapshot_date':'2026-08-14','items':[],'errors':[]}
+          try:
+            soup=BeautifulSoup(get(t['source']).text,'html.parser')
+            for h4 in soup.find_all('h4'):
+              a=h4.find('a',href=True)
+              if not a:continue
+              block=h4.parent.get_text(' ',strip=True)
+              if 'August 2026' not in block:continue
+              title=clean(a.get_text(' ',strip=True)); oid=(parse_qs(urlparse(a['href']).query).get('id') or [None])[0]
+              if not oid:
+                for x in h4.parent.find_all('a',href=True):
+                  oid=(parse_qs(urlparse(x['href']).query).get('id') or [None])[0]
+                  if oid:break
+              author_text=block.replace(title,'',1).split('August 2026',1)[0].strip(' ,-')
+              authors=[clean(x) for x in author_text.split(',') if clean(x)]
+              t['items'].append({'title':title,'authors':authors,'openreview_id':oid,'url':'https://openreview.net/forum?id='+oid if oid else a['href'],'publication_date':'2026-08-01','publication_date_precision':'MONTH','official_month_label':'August 2026','date_evidence':'official TMLR papers page, captured 2026-08-14'})
+          except Exception as e:t['errors'].append(repr(e))
+          t['count']=len(t['items']);out['tmlr']=t
+
+          # Chemical Science official RSS
+          c={'source':'https://feeds.rsc.org/rss/sc','items':[],'errors':[]}
+          try:
+            root=ET.fromstring(get(c['source']).content)
+            for it in root.findall('.//item'):
+              val=lambda tag:(it.findtext(tag) or '').strip();raw=val('pubDate');dt=None
+              try:dt=email.utils.parsedate_to_datetime(raw).date().isoformat()
+              except:pass
+              if not inwin(dt):continue
+              title=clean(val('title'));desc=clean(val('description'));doi=None
+              m=re.search(r'10\.1039/[A-Za-z0-9.()/_:-]+',desc+' '+val('link'),re.I)
+              if m:doi=m.group(0).rstrip('.,)').lower()
+              c['items'].append({'title':title,'authors':[],'doi':doi,'url':val('link'),'publication_date':dt,'publication_date_precision':'DAY','description':desc,'date_evidence':'official Chemical Science RSS pubDate'})
+          except Exception as e:c['errors'].append(repr(e))
+          c['count']=len(c['items']);out['chemical_science']=c
+
+          # TACL ACL membership + Crossref dates
+          ta={'source':'https://aclanthology.org/volumes/2026.tacl-1/','items':[],'errors':[],'all_candidates':[]}
+          try:
+            soup=BeautifulSoup(get(ta['source']).text,'html.parser');links=sorted(set(urljoin(ta['source'],a['href']) for a in soup.find_all('a',href=True) if re.search(r'2026\.tacl-1\.\d+\.bib$',a['href'])))
+            ta['candidate_count']=len(links)
+            for u in links:
+              try:
+                bib=get(u).text;doi_m=re.search(r'doi\s*=\s*["{]([^"}]+)',bib,re.I);doi=doi_m.group(1).strip() if doi_m else None
+                title_m=re.search(r'title\s*=\s*["{](.*?)["}],?\s*(?:author|journal)',bib,re.I|re.S);title=clean(re.sub(r'[{}]','',title_m.group(1))) if title_m else ''
+                auth_m=re.search(r'author\s*=\s*["{](.*?)["}],?\s*(?:journal|booktitle)',bib,re.I|re.S);authors=[clean(x) for x in re.split(r'\s+and\s+',auth_m.group(1))] if auth_m else []
+                row={'title':title,'authors':authors,'doi':doi.lower() if doi else None,'url':u[:-4]+'/' if u.endswith('.bib') else u,'acl_bib_url':u}
+                if doi:
+                  try:
+                    m=get('https://api.crossref.org/works/'+doi).json()['message']
+                    for k in ('published-online','published-print','published','issued'):
+                      ps=(m.get(k) or {}).get('date-parts') or []
+                      if not ps:continue
+                      p=ps[0];prec='DAY' if len(p)>=3 else 'MONTH' if len(p)>=2 else 'YEAR';dt=f'{p[0]:04d}-{p[1]:02d}' if len(p)>=2 else f'{p[0]:04d}';dt=dt+(f'-{p[2]:02d}' if len(p)>=3 else '-01')
+                      row.update({'publication_date':dt,'publication_date_precision':prec,'crossref_date_field':k,'date_evidence':'ACL Anthology membership + Crossref DOI '+k});break
+                  except Exception as e:row['crossref_error']=repr(e)
+                ta['all_candidates'].append(row)
+                if row.get('publication_date_precision') in ('DAY','MONTH') and inwin(row.get('publication_date')):ta['items'].append(row)
+              except Exception as e:ta['all_candidates'].append({'acl_bib_url':u,'error':repr(e)})
+              time.sleep(.08)
+          except Exception as e:ta['errors'].append(repr(e))
+          ta['count']=len(ta['items']);out['tacl']=ta
+
+          Path('probe/final-first-party.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n')
+          Path('probe/final-first-party-summary.json').write_text(json.dumps({k:{'count':v.get('count'),'candidate_count':v.get('candidate_count'),'errors':v.get('errors'),'items':v.get('items')} for k,v in out.items()},ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps({k:{'count':v.get('count'),'candidate_count':v.get('candidate_count'),'errors':v.get('errors')} for k,v in out.items()},ensure_ascii=False,indent=2))
+          PY
+      - name: Commit final probe
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- probe/final-first-party.json probe/final-first-party-summary.json
+          git commit -m 'probe: finalize remaining first-party August candidates'
+          git pull --rebase origin data/2026-08-finish-remaining
+          git push
