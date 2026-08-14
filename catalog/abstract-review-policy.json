@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "EvidenceRadar_Editions_AbstractReviewPolicy",
+  "policy_id": "abstract-review-fulltext-v1",
+  "semantics": "Deterministic structural review of acquired abstract text for allocating bounded full-text acquisition. It is not evidence-quality grading, clinical recommendation, novelty assessment, or full-text evidence evaluation.",
+  "fulltext_fetch_target": 120,
+  "journal_fetch_caps": {
+    "FULL": 20,
+    "TRIAGE": 30,
+    "INDEX_ONLY": 4,
+    "SUSPENDED": 0
+  },
+  "minimum_abstract_characters": 250,
+  "impact_percentile_weight": 0.1,
+  "prefetch_candidate_bonus": 8,
+  "path_base_priority": {
+    "GUIDANCE": 80,
+    "EVIDENCE_SYNTHESIS": 80,
+    "RANDOMIZED_TRIAL": 80,
+    "SAFETY_SIGNAL": 78,
+    "REPLICATION_VALIDATION": 76,
+    "PROSPECTIVE_LONGITUDINAL": 70,
+    "RESOURCE_BENCHMARK": 68,
+    "OBSERVATIONAL_DESIGN": 64,
+    "SURVEY": 55,
+    "PROTOCOL": 40,
+    "CASE_REPORT": 45
+  },
+  "signal_weights": {
+    "METHODS_SECTION": 5,
+    "RESULTS_SECTION": 7,
+    "SAMPLE_SIZE": 5,
+    "EFFECT_ESTIMATE": 5,
+    "REGISTRATION": 4,
+    "MULTICENTER_OR_EXTERNAL_VALIDATION": 4,
+    "LIMITATIONS": 2,
+    "DATA_OR_CODE_AVAILABILITY": 2,
+    "SHORT_ABSTRACT": -8,
+    "NO_RESULT_SIGNAL": -6
+  },
+  "near_duplicate_jaccard_threshold": 0.85,
+  "crossref_open_license_hosts": [
+    "creativecommons.org"
+  ],
+  "fulltext_response_limit_bytes": 67108864
+}
