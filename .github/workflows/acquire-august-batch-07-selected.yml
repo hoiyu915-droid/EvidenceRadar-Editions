@@ -1,0 +1,61 @@
+name: Acquire August 2026 batch 07 selected journals
+on:
+  push:
+    branches: [data/2026-08-batch-07-ten-journals]
+    paths: [.github/workflows/acquire-august-batch-07-selected.yml]
+permissions:
+  contents: write
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with: {python-version: '3.12'}
+      - run: python -m pip install -e .
+      - name: Acquire exact-ISSN selected editions
+        run: |
+          python - <<'PY'
+          import json,re
+          from datetime import date
+          from pathlib import Path
+          from evidenceradar_editions.engine import build_run
+          from evidenceradar_editions.models import EditionSpec
+
+          specs=[
+            ('ACS Central Science','acs-central-science','2374-7943',('crossref',)),
+            ('Communications Chemistry','communications-chemistry','2399-3669',('crossref',)),
+            ('Communications Physics','communications-physics','2399-3650',('crossref',)),
+            ('Knowledge-Based Systems','knowledge-based-systems','0950-7051',('crossref',)),
+            ('National Science Review','national-science-review','2053-714X',('crossref',)),
+            ('Physical Review X','physical-review-x','2160-3308',('crossref',)),
+            ('PLOS Biology','plos-biology','1545-7885',('crossref',)),
+            ('PLOS Medicine','plos-medicine','1549-1676',('crossref',)),
+            ('PNAS Nexus','pnas-nexus','2752-6542',('crossref',)),
+            ('The Lancet Regional Health – Americas','the-lancet-regional-health-americas','2667-193X',('crossref','pubmed','europe_pmc')),
+          ]
+          front=re.compile(r'^(?:editorial board|editorial office|table of contents|contents|front cover|back cover|call for papers|temporary removal|withdrawn|current events|preface(?:\s+to)?|.*membership applic|.*award(?:\s|$))',re.I)
+          root=Path('probe/batch07-selected'); root.mkdir(parents=True,exist_ok=True)
+          summary=[]
+          for journal,slug,issn,sources in specs:
+            ed=build_run(EditionSpec(journal=journal,issn=issn,slug=slug,start_date=date(2026,8,1),end_date=date(2026,8,14),sources=sources,max_records=5000,period_kind='month'))
+            flags=[]
+            for a in ed['articles']:
+              reasons=[]
+              if a.get('publication_date_precision')=='YEAR': reasons.append('YEAR')
+              if front.search((a.get('title') or '').strip()): reasons.append('FRONT_MATTER')
+              if reasons: flags.append({'canonical_id':a['canonical_id'],'title':a['title'],'date':a['publication_date'],'precision':a['publication_date_precision'],'reason':reasons})
+            d=root/slug; d.mkdir(parents=True,exist_ok=True)
+            (d/'edition.json').write_text(json.dumps(ed,ensure_ascii=False,indent=2)+'\n')
+            summary.append({'journal':journal,'slug':slug,'issn':issn,'sources':list(sources),'articles':ed['counts']['articles'],'flags':flags,'flag_count':len(flags),'rough_keepable':ed['counts']['articles']-len(flags),'run_status':ed['run_status'],'source_checks':ed['source_checks']})
+          (Path('probe')/'batch07-selected-summary.json').write_text(json.dumps({'period':'2026-08','through':'2026-08-14','journals':summary,'raw_total':sum(x['articles'] for x in summary),'rough_keepable_total':sum(x['rough_keepable'] for x in summary)},ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps([{k:r[k] for k in ('slug','articles','flag_count','rough_keepable','run_status')} for r in summary],indent=2))
+          PY
+      - name: Commit acquisition workspace
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add probe/batch07-selected probe/batch07-selected-summary.json
+          git commit -m 'probe: acquire selected August batch 07 journals'
+          git push
