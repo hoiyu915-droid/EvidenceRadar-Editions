@@ -1,0 +1,42 @@
+name: Extract August 2026 batch 07 translation work
+on:
+  push:
+    branches: [data/2026-08-batch-07-ten-journals]
+    paths: [.github/workflows/extract-august-batch-07-titles.yml]
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - name: Build translation chunks
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          summary=json.loads(Path('probe/batch07-selected-summary.json').read_text())
+          excluded={f['canonical_id'] for j in summary['journals'] for f in j['flags']}
+          rows=[]; counts={}
+          for j in summary['journals']:
+            ed=json.loads(Path('probe/batch07-selected',j['slug'],'edition.json').read_text())
+            kept=[a for a in ed['articles'] if a['canonical_id'] not in excluded]
+            counts[j['slug']]=len(kept)
+            for a in kept:
+              rows.append({'canonical_id':a['canonical_id'],'title':a['title'],'slug':j['slug']})
+          rows.sort(key=lambda x:(x['slug'],x['canonical_id']))
+          root=Path('translation-work'); root.mkdir(exist_ok=True)
+          for old in root.glob('batch07.part*.ndjson'): old.unlink()
+          size=25
+          for i in range(0,len(rows),size):
+            part=root/f'batch07.part{i//size+1:02d}.ndjson'
+            part.write_text('\n'.join(json.dumps(x,ensure_ascii=False) for x in rows[i:i+size])+'\n')
+          (root/'manifest.json').write_text(json.dumps({'expected_items':len(rows),'parts':(len(rows)+size-1)//size,'counts':counts,'excluded_ids':sorted(excluded)},ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps({'expected':len(rows),'parts':(len(rows)+size-1)//size,'counts':counts},indent=2))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add translation-work
+          git commit -m 'translation: prepare August batch 07 title work'
+          git push
