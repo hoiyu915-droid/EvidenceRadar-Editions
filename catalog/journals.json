@@ -66,11 +66,15 @@
         "chemistry"
       ],
       "enabled": false,
+      "issn": "2041-6539",
       "name": "Chemical Science",
       "oa": "fully_oa",
       "publisher": "Royal Society of Chemistry",
       "slug": "chemical-science",
       "source_id": "chemical_science",
+      "sources": [
+        "rsc_chemical_science"
+      ],
       "status": "planned"
     },
     {

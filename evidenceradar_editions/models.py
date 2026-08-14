@@ -7,7 +7,13 @@ from typing import Any
 
 from .naming import ALLOWED_PERIOD_KINDS
 
-ALLOWED_SOURCES = ("pubmed", "europe_pmc", "crossref", "radar_rss")
+ALLOWED_SOURCES = (
+    "pubmed",
+    "europe_pmc",
+    "crossref",
+    "radar_rss",
+    "rsc_chemical_science",
+)
 ALLOWED_SOURCE_STATUSES = ("SUCCESS", "NO_RESULTS", "PARTIAL", "FAILED", "NOT_ATTEMPTED")
 
 
