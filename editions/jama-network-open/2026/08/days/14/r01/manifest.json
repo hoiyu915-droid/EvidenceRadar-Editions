@@ -1,0 +1,43 @@
+{
+  "article_count": 9,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T23:05:08Z",
+  "edition_id": "jama-network-open__2026-08-14__r01",
+  "edition_key": "jama-network-open__2026-08-14",
+  "files": {
+    "edition_json": {
+      "bytes": 16805,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.json",
+      "sha256": "9b0b288f21b621f1475b6383ce7759d7d253e5883d67e586b145837cf6f7e293"
+    },
+    "report_html": {
+      "bytes": 35079,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.html",
+      "sha256": "d21a9b3dc73d9bd988a3de923c659304cd000c070db6f8a79a3ea00309cb99dd"
+    }
+  },
+  "journal": "JAMA Network Open",
+  "journal_slug": "jama-network-open",
+  "manifest_name": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08-14",
+  "period_kind": "day",
+  "period_start": "2026-08-14",
+  "publication_id": "jama-network-open__2026-08-14__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

@@ -1,0 +1,511 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Stefan Timmerman",
+        "Cristina Taliento",
+        "Jolien Haesen",
+        "Susan Dababou",
+        "Federica Pozzati",
+        "Lorena Quagliozzi",
+        "Francesca Moro",
+        "Floriana Mascilini",
+        "Antonia Testa",
+        "Filip Frühauf",
+        "Roman Kocian",
+        "Daniela Fischerova",
+        "Elisabeth Epstein",
+        "Robert Fruscio",
+        "Ashleigh Ledger",
+        "Thierry Van den Bosch",
+        "Wouter Froyman"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.29587",
+      "doi": "10.1001/jamanetworkopen.2026.29587",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.29587",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.29587"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Ultrasonography-Guided Core Needle Biopsy in the Diagnostic Pathway of Pelvic Tumors",
+      "title_original": "Ultrasonography-Guided Core Needle Biopsy in the Diagnostic Pathway of Pelvic Tumors",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.29587"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Luís Nunes",
+        "Arild Nesbakken",
+        "Ragnhild A. Lothe",
+        "Anita Sveen"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.29437",
+      "doi": "10.1001/jamanetworkopen.2026.29437",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.29437",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.29437"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Temporal Trends in Cancer Mortality Among People Younger Than 50 Years in Norway",
+      "title_original": "Temporal Trends in Cancer Mortality Among People Younger Than 50 Years in Norway",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.29437"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xue Li",
+        "Hitomi Usukura",
+        "Yusuke Utsumi",
+        "Moe Seto",
+        "Atsushi Sakuma",
+        "Kazuho Tomimoto",
+        "Terufumi Machida",
+        "Yumiko Hamaie",
+        "Natsuko Kobayashi",
+        "Hiroshi Komatsu",
+        "Saya Kikuchi",
+        "Shinichi Kuriyama",
+        "Naoki Nakaya",
+        "Atsushi Hozawa",
+        "Yasuto Kunii",
+        "Hiroaki Tomita"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.29441",
+      "doi": "10.1001/jamanetworkopen.2026.29441",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.29441",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.29441"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Posttraumatic Stress Dynamics and 15-Year Persistence in Great East Japan Earthquake Survivors",
+      "title_original": "Posttraumatic Stress Dynamics and 15-Year Persistence in Great East Japan Earthquake Survivors",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.29441"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lauren Anzarouth",
+        "Sasha MacNeil",
+        "Natalie Castellanos Ryan",
+        "Alicia Martineau",
+        "Massimiliano Orri",
+        "Caroline Temcheff",
+        "Marc Dorais",
+        "Alain Girard",
+        "Srividya N. Iyer",
+        "Ian Colman",
+        "Isabelle Ouellet-Morin",
+        "Nicholas Chadi",
+        "Robert-Paul Juster",
+        "Marie-Claude Geoffroy"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.26797",
+      "doi": "10.1001/jamanetworkopen.2026.26797",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.26797",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.26797"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Mental Health Service Use in Sexually and Gender Diverse Youths and Cisgender Heterosexual Youths",
+      "title_original": "Mental Health Service Use in Sexually and Gender Diverse Youths and Cisgender Heterosexual Youths",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.26797"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Debbie W. Chen",
+        "Maya Watanabe",
+        "Audrey Fan",
+        "Tsu-Yin Wu",
+        "Megan R. Haymart",
+        "Sarah T. Hawley",
+        "Lauren P. Wallner"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.29269",
+      "doi": "10.1001/jamanetworkopen.2026.29269",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.29269",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.29269"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Interpreter Use and Challenges in Primary Care",
+      "title_original": "Interpreter Use and Challenges in Primary Care",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.29269"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andre Sourander",
+        "Katri Kaajalaakso",
+        "Tarja Korpilahti-Leino",
+        "Terja Ristkari",
+        "Tiia Ståhlberg",
+        "Susanna Hinkka-Yli-Salomäki",
+        "Yuko Mori",
+        "Terhi Luntamo"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.29195",
+      "doi": "10.1001/jamanetworkopen.2026.29195",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.29195",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.29195"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Internet-Based Cognitive Behavioral Therapy and Telephone Coaching for Anxiety in Children",
+      "title_original": "Internet-Based Cognitive Behavioral Therapy and Telephone Coaching for Anxiety in Children",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.29195"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.33455",
+      "doi": "10.1001/jamanetworkopen.2026.33455",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.33455",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.33455"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Error in Byline",
+      "title_original": "Error in Byline",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.33455"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marko Mandic",
+        "Durgesh Wankhede",
+        "Fatemeh Safizadeh",
+        "Michael Hoffmeister",
+        "Hermann Brenner"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.29571",
+      "doi": "10.1001/jamanetworkopen.2026.29571",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.29571",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.29571"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Body Mass Index at Diagnosis, Prediagnostic Weight Loss, and Survival in Colorectal Cancer",
+      "title_original": "Body Mass Index at Diagnosis, Prediagnostic Weight Loss, and Survival in Colorectal Cancer",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.29571"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elizabeth J. Suh-Burgmann",
+        "Holly Finertie",
+        "Haoyuan Zhong",
+        "Claudia Nau",
+        "Julie A. Schmittdiel"
+      ],
+      "canonical_id": "doi:10.1001/jamanetworkopen.2026.29596",
+      "doi": "10.1001/jamanetworkopen.2026.29596",
+      "issns": [
+        "2574-3805"
+      ],
+      "journal": "JAMA Network Open",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1001/jamanetworkopen.2026.29596",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.29596"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Age and Endometrial Cancer Survival Disparities Among Black and White Insured Patients",
+      "title_original": "Age and Endometrial Cancer Survival Disparities Among Black and White Insured Patients",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2026.29596"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.html",
+    "stem": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01",
+    "translation_request_json": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 9,
+    "by_article_type": {
+      "journal-article": 9
+    },
+    "by_source": {
+      "crossref": 9
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 9,
+    "translated_articles": 0
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "jama-network-open__2026-08-14__r01",
+  "edition_key": "jama-network-open__2026-08-14",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "journal_slug": "jama-network-open",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 9,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 9,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "jama-network-open__2026-08-14__r01",
+  "retrieved_at": "2026-08-14T23:05:08Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__jama-network-open__2026-08-14__r01",
+    "edition_key": "jama-network-open__2026-08-14",
+    "end_date": "2026-08-14",
+    "issn": "2574-3805",
+    "journal": "JAMA Network Open",
+    "journal_slug": "jama-network-open",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": true,
+    "period_key": "2026-08-14",
+    "period_kind": "day",
+    "period_kind_requested": "day",
+    "period_label_zh_tw": "2026 年 8 月 14 日",
+    "period_status": "FINAL",
+    "processing_mode_configured": "FULL",
+    "processing_mode_effective": "FULL",
+    "processing_policy_source": "processing-policies.json:defaults",
+    "publication_id": "jama-network-open__2026-08-14__r01",
+    "revision": 1,
+    "slug": "jama-network-open",
+    "sources": [
+      "pubmed",
+      "europe_pmc",
+      "crossref"
+    ],
+    "start_date": "2026-08-14"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "(\"JAMA Network Open\"[Journal] OR \"2574-3805\"[ISSN]) AND (\"2026/08/14\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 0,
+      "source": "pubmed",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"JAMA Network Open\" AND FIRST_PDATE:[2026-08-14 TO 2026-08-14]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 9,
+      "detail": null,
+      "query": "container=JAMA Network Open; publication=2026-08-14..2026-08-14",
+      "returned_count": 9,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 9,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "automatic_request_allowed": true,
+    "generation_policy": "ALL",
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 9,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "jama_network_open"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
