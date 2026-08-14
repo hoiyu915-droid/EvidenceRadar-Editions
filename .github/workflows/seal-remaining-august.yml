@@ -54,20 +54,5 @@ jobs:
             .github/workflows/seal-remaining-august.yml
           git commit -m 'data: finish August 2026 registry coverage'
           git fetch origin main
-          mapfile -t files < <(git diff --name-only origin/main...HEAD)
-          printf '%s\n' "${files[@]}"
-          test "${#files[@]}" -eq 8
-          expected=$(cat <<'EOF'
-catalog/coverage/2026-08.json
-catalog/journals.json
-editions/tmlr/2026/08/r01/edition.json
-editions/tmlr/2026/08/r01/manifest.json
-editions/tmlr/2026/08/r01/storage.json
-evidenceradar_editions/pages.py
-evidenceradar_editions/pages_v6.py
-tests/test_period_coverage.py
-EOF
-          )
-          actual=$(printf '%s\n' "${files[@]}" | sort)
-          test "$actual" = "$(printf '%s\n' "$expected" | sort)"
+          python -c 'import subprocess; expected={"catalog/coverage/2026-08.json","catalog/journals.json","editions/tmlr/2026/08/r01/edition.json","editions/tmlr/2026/08/r01/manifest.json","editions/tmlr/2026/08/r01/storage.json","evidenceradar_editions/pages.py","evidenceradar_editions/pages_v6.py","tests/test_period_coverage.py"}; actual=set(subprocess.check_output(["git","diff","--name-only","origin/main...HEAD"],text=True).splitlines()); print("\n".join(sorted(actual))); assert actual==expected,(actual-expected,expected-actual)'
           git push
