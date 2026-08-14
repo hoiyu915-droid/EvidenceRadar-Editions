@@ -1,0 +1,79 @@
+{
+  "artifact_type": "EvidenceRadar_Editions_DateSurrogateValidation",
+  "schema_version": "1.0",
+  "validation_id": "rsc-chemical-science-first-published-surrogate-v1",
+  "scope": {
+    "journal": "Chemical Science",
+    "issn": "2041-6539",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "doi_prefix": "10.1039/",
+    "adapter": "rsc_chemical_science"
+  },
+  "surrogate": {
+    "source": "Crossref",
+    "field": "created.date-parts",
+    "interpreted_as": "RSC First published day",
+    "precision_required": "DAY",
+    "generic_crossref_use_forbidden": true,
+    "fail_closed_outside_scope": true
+  },
+  "rationale": {
+    "publisher_normal_publication_fields": "Current Chemical Science Crossref deposits expose only year precision in published/issued/published-online for affected records.",
+    "publisher_runner_access": "RSC RSS and article landing endpoints were inaccessible from GitHub-hosted runners during validation (TLS failure for RSS; HTTP 403 for article landings).",
+    "validation_method": "Compare official RSC First published dates with Crossref DOI created dates for a fixed Chemical Science control set spanning January through June 2026.",
+    "result": "21/21 exact calendar-day matches; 0 mismatches."
+  },
+  "validation_summary": {
+    "sample_size": 21,
+    "matches": 21,
+    "mismatches": 0,
+    "match_rate": 1.0
+  },
+  "controls": [
+    {"doi":"10.1039/D6SC02555B","official_first_published":"2026-05-12","crossref_created":"2026-05-12"},
+    {"doi":"10.1039/D6SC01189F","official_first_published":"2026-04-08","crossref_created":"2026-04-08"},
+    {"doi":"10.1039/D5SC08419A","official_first_published":"2026-02-02","crossref_created":"2026-02-02"},
+    {"doi":"10.1039/D6SC02112C","official_first_published":"2026-06-10","crossref_created":"2026-06-10"},
+    {"doi":"10.1039/D6SC01835A","official_first_published":"2026-05-15","crossref_created":"2026-05-15"},
+    {"doi":"10.1039/D6SC00738D","official_first_published":"2026-05-21","crossref_created":"2026-05-21"},
+    {"doi":"10.1039/D6SC01985D","official_first_published":"2026-04-24","crossref_created":"2026-04-24"},
+    {"doi":"10.1039/D6SC03294J","official_first_published":"2026-05-19","crossref_created":"2026-05-19"},
+    {"doi":"10.1039/D6SC00025H","official_first_published":"2026-03-23","crossref_created":"2026-03-23"},
+    {"doi":"10.1039/D6SC00603E","official_first_published":"2026-03-10","crossref_created":"2026-03-10"},
+    {"doi":"10.1039/D6SC00439C","official_first_published":"2026-03-30","crossref_created":"2026-03-30"},
+    {"doi":"10.1039/D5SC09496H","official_first_published":"2026-02-25","crossref_created":"2026-02-25"},
+    {"doi":"10.1039/D5SC08870D","official_first_published":"2026-03-12","crossref_created":"2026-03-12"},
+    {"doi":"10.1039/D5SC08277C","official_first_published":"2026-02-18","crossref_created":"2026-02-18"},
+    {"doi":"10.1039/D5SC08561F","official_first_published":"2026-02-11","crossref_created":"2026-02-11"},
+    {"doi":"10.1039/D5SC06930K","official_first_published":"2026-01-28","crossref_created":"2026-01-28"},
+    {"doi":"10.1039/D5SC09508E","official_first_published":"2026-02-02","crossref_created":"2026-02-02"},
+    {"doi":"10.1039/D5SC09619G","official_first_published":"2026-01-15","crossref_created":"2026-01-15"},
+    {"doi":"10.1039/D5SC07068F","official_first_published":"2026-01-09","crossref_created":"2026-01-09"},
+    {"doi":"10.1039/D5SC08183A","official_first_published":"2026-01-07","crossref_created":"2026-01-07"},
+    {"doi":"10.1039/D6SC90108E","official_first_published":"2026-05-13","crossref_created":"2026-05-13"}
+  ],
+  "issue_furniture_policy": {
+    "excluded_exact_titles": [
+      "Front cover",
+      "Inside front cover",
+      "Back cover",
+      "Inside back cover",
+      "Contents list"
+    ],
+    "reason": "RSC identifies these as issue furniture such as Cover rather than scholarly articles; Crossref nevertheless deposits them as journal-article.",
+    "corrections_retained": true
+  },
+  "august_2026_live_check": {
+    "window_start": "2026-08-01",
+    "window_end": "2026-08-14",
+    "crossref_candidates": 83,
+    "exact_journal": 83,
+    "exact_issn": 83,
+    "exact_publisher": 83,
+    "exact_doi_prefix": 83,
+    "full_created_day": 83,
+    "issue_furniture_excluded": 7,
+    "expected_scholarly_records": 76,
+    "expected_corrections": 2
+  }
+}
