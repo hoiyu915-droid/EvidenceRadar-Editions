@@ -1,0 +1,5453 @@
+{
+  "schema_version": "2.0",
+  "artifact_type": "EvidenceRadar_Edition",
+  "edition_id": "science-advances__2026-08__r01",
+  "edition_key": "science-advances__2026-08",
+  "publication_id": "science-advances__2026-08__r01",
+  "retrieved_at": "2026-08-14T08:17:59Z",
+  "run_status": "COMPLETE",
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "scope": {
+    "journal": "Science Advances",
+    "issn": "2375-2548",
+    "slug": "science-advances",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-14",
+    "sources": [
+      "crossref"
+    ],
+    "max_records": 5000,
+    "period_kind_requested": "month",
+    "revision": 1,
+    "language": "zh-TW",
+    "journal_slug": "science-advances",
+    "period_kind": "month",
+    "period_key": "2026-08",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "period_complete": false,
+    "edition_key": "science-advances__2026-08",
+    "publication_id": "science-advances__2026-08__r01",
+    "artifact_stem": "EvidenceRadar_Editions__science-advances__2026-08__r01"
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "preserve_original_title": true,
+    "interactive_filters": true,
+    "translation_required_for_publication": true
+  },
+  "translation": {
+    "language": "zh-TW",
+    "status": "NOT_REQUESTED",
+    "translated_articles": 0,
+    "total_articles": 127,
+    "source_edition_sha256": null,
+    "request_binding_sha256": null,
+    "response_sha256": null
+  },
+  "artifacts": {
+    "stem": "EvidenceRadar_Editions__science-advances__2026-08__r01",
+    "edition_json": "EvidenceRadar_Editions__science-advances__2026-08__r01.json",
+    "report_html": "EvidenceRadar_Editions__science-advances__2026-08__r01.html",
+    "manifest_json": "EvidenceRadar_Editions__science-advances__2026-08__r01.manifest.json",
+    "translation_request_json": "EvidenceRadar_Editions__science-advances__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__science-advances__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "upstream_radar": {
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "commit": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "config_sha256": null,
+    "uses_radar_output_artifacts": false
+  },
+  "source_checks": [
+    {
+      "source": "crossref",
+      "status": "SUCCESS",
+      "query": "container=Science Advances; publication=2026-08-01..2026-08-14",
+      "returned_count": 127,
+      "accepted_count": 127,
+      "total_available": 127,
+      "truncated": false,
+      "detail": null
+    }
+  ],
+  "counts": {
+    "articles": 127,
+    "translated_articles": 0,
+    "by_source": {
+      "crossref": 127
+    },
+    "by_article_type": {
+      "journal-article": 127
+    }
+  },
+  "articles": [
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef3487",
+      "title": "Wide-field two-photon random illumination microscopy (2P-RIM)",
+      "title_original": "Wide-field two-photon random illumination microscopy (2P-RIM)",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef3487",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Assia Benachir",
+        "Xiangyi Li",
+        "Eric M. Fantuzzi",
+        "Guillaume Giroussens",
+        "Thomas Mangeat",
+        "Federico Vernuccio",
+        "Hervé Rigneault",
+        "Anne Sentenac",
+        "Sandro Heuke"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef3487"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef3487",
+          "url": "https://doi.org/10.1126/sciadv.aef3487"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef0259",
+      "title": "Thermomechanical regulation of quasi-2D perovskite photonic structures via nanoimprint",
+      "title_original": "Thermomechanical regulation of quasi-2D perovskite photonic structures via nanoimprint",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef0259",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xuezhou Wang",
+        "Long Jin",
+        "Zhibo Zhang",
+        "Zhiwen Zhou",
+        "Pok Fung Chan",
+        "Xinhui Lu",
+        "Yong Yang",
+        "Xiankai Sun",
+        "Ni Zhao"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef0259"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef0259",
+          "url": "https://doi.org/10.1126/sciadv.aef0259"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef9769",
+      "title": "TAL1 is indispensable in ETV2-primed human endothelial cell fate determination",
+      "title_original": "TAL1 is indispensable in ETV2-primed human endothelial cell fate determination",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef9769",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Yun Zhao",
+        "Mengze Sun",
+        "Zixuan Hong",
+        "Jingkun Yi",
+        "Donglin Yu",
+        "Xiaojing Ma",
+        "Liangliang Tian",
+        "Yi Hong",
+        "Lijun Sun",
+        "Xiaoxia Li",
+        "Yuan Zhou",
+        "Kailong Li",
+        "Xi Wang",
+        "Kai Wang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef9769"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef9769",
+          "url": "https://doi.org/10.1126/sciadv.aef9769"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9298",
+      "title": "Synaptic zinc plasticity shapes adaptive and maladaptive cortical plasticity following cochlear injury",
+      "title_original": "Synaptic zinc plasticity shapes adaptive and maladaptive cortical plasticity following cochlear injury",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee9298",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Manoj Kumar",
+        "Cassandra Linnertz",
+        "Brandon Bizup",
+        "Wenyuan Huang",
+        "Huiwang Ai",
+        "Thanos Tzounopoulos"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee9298"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee9298",
+          "url": "https://doi.org/10.1126/sciadv.aee9298"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3536",
+      "title": "Single-exposure holographic 3D printing via inverse-designed phase masks",
+      "title_original": "Single-exposure holographic 3D printing via inverse-designed phase masks",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec3536",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Dajun Lin",
+        "Xiaofeng Chen",
+        "Connor J. O’Dea",
+        "Ji-Won Kim",
+        "Keldy S. Mason",
+        "Barbara Groh",
+        "Kwong Sang Lee",
+        "Apratim Majumder",
+        "Chih-Hao Chang",
+        "Michael Cullinan",
+        "Zachariah A. Page",
+        "Rajesh Menon"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec3536"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec3536",
+          "url": "https://doi.org/10.1126/sciadv.aec3536"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3399",
+      "title": "RNA terminal uridylyl transferases are druggable vulnerabilities in AML but are dispensable for normal hematopoiesis",
+      "title_original": "RNA terminal uridylyl transferases are druggable vulnerabilities in AML but are dispensable for normal hematopoiesis",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec3399",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Christopher Mapperley",
+        "Elise Georges",
+        "Ali A. Azar",
+        "Yuka Kabayama",
+        "Hannah Lawson",
+        "Iwo Kucinski",
+        "Derek George",
+        "Joana Campos",
+        "Corey Fyfe",
+        "Jozef Durko",
+        "Wei Y. Chan",
+        "Lewis Allen",
+        "Babak Jazayeri",
+        "Edward Blacker",
+        "Louie N. van de Lagemaat",
+        "Aurelien Tripp",
+        "Theodoros I. Roumeliotis",
+        "Giulia Guiducci",
+        "Eleanor Herbert",
+        "Jasmin Paris",
+        "Jyoti Choudhary",
+        "George Poulogiannis",
+        "Robert M. Campbell",
+        "Marcos Morgan",
+        "Lovorka Stojic",
+        "Folkert J. Van Werven",
+        "Douglas Vernimmen",
+        "Berthold Göttgens",
+        "Dónal O’Carroll",
+        "Kamil R. Kranc"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec3399"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec3399",
+          "url": "https://doi.org/10.1126/sciadv.aec3399"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee3254",
+      "title": "Retention of noble gases in the deep Earth: Kinetic trapping or stable bonding?",
+      "title_original": "Retention of noble gases in the deep Earth: Kinetic trapping or stable bonding?",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee3254",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Sarah Figowy",
+        "Razvan Caracas",
+        "Guillaume Avice"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee3254"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee3254",
+          "url": "https://doi.org/10.1126/sciadv.aee3254"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz7757",
+      "title": "Reassessing the role of progesterone receptor isoforms PGR-A and PGR-B in female fertility",
+      "title_original": "Reassessing the role of progesterone receptor isoforms PGR-A and PGR-B in female fertility",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adz7757",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Doan T. Dinh",
+        "Kirsten M. Smith",
+        "Tim McPhee",
+        "Natalie J. Foot",
+        "David C. Bersten",
+        "Melissa A. White",
+        "Paul Q. Thomas",
+        "Rebecca L. Robker",
+        "Darryl L. Russell"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adz7757"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adz7757",
+          "url": "https://doi.org/10.1126/sciadv.adz7757"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz0583",
+      "title": "Proteogenomic characterization of pulmonary large-cell neuroendocrine carcinoma identifies molecular features and therapeutic strategy",
+      "title_original": "Proteogenomic characterization of pulmonary large-cell neuroendocrine carcinoma identifies molecular features and therapeutic strategy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adz0583",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Lele Zhang",
+        "Liangdong Sun",
+        "Shengnan Duan",
+        "Yilv Yan",
+        "Jinyi Song",
+        "Linghui Xia",
+        "Huansha Yu",
+        "Jijun Sun",
+        "Junjie Hu",
+        "Di Wang",
+        "Lu Han",
+        "Jue Wang",
+        "Yan Chen",
+        "Hu Zhou",
+        "Chen Wang",
+        "Haiyang Hu",
+        "Ming Ding",
+        "Peng Zhang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adz0583"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adz0583",
+          "url": "https://doi.org/10.1126/sciadv.adz0583"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee2305",
+      "title": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers",
+      "title_original": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee2305",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jonathan Gallego-Rudolf",
+        "Alex I. Wiesman",
+        "Yara Yakoub",
+        "Henrik Zetterberg",
+        "Kaj Blennow",
+        "Sylvain Baillet",
+        "Sylvia Villeneuve"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee2305"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee2305",
+          "url": "https://doi.org/10.1126/sciadv.aee2305"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed4055",
+      "title": "Photonic time crystals assisted by quasi-bound states in the continuum",
+      "title_original": "Photonic time crystals assisted by quasi-bound states in the continuum",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed4055",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Puneet Garg",
+        "Evangelos Almpanis",
+        "Leander Zimmer",
+        "Jan David Fischbach",
+        "Xuchen Wang",
+        "Mohammad S. Mirmoosa",
+        "Markus Nyman",
+        "Nikolaos Stefanou",
+        "Nikolaos Papanikolaou",
+        "Viktar Asadchy",
+        "Carsten Rockstuhl"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed4055"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed4055",
+          "url": "https://doi.org/10.1126/sciadv.aed4055"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9000",
+      "title": "Phage-encoded NARP3 system rebuilds NAD + to subvert bacterial immunity",
+      "title_original": "Phage-encoded NARP3 system rebuilds NAD + to subvert bacterial immunity",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee9000",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jia Yan",
+        "Siyu Liu",
+        "Zhaorong Luo",
+        "Zhi Su",
+        "Gaoqin Teng",
+        "Mengyuan Li",
+        "Jiangang Ma",
+        "Rongsui Gao",
+        "Jiuxin Qu",
+        "Man Huang",
+        "Jianhua Gan",
+        "Youjun Feng"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee9000"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee9000",
+          "url": "https://doi.org/10.1126/sciadv.aee9000"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee4522",
+      "title": "Petermann Glacier on the brink: Progress, challenges and insights",
+      "title_original": "Petermann Glacier on the brink: Progress, challenges and insights",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee4522",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Dominik Fahrner",
+        "William T. Colgan",
+        "Joseph A. MacGregor",
+        "Peter Washam",
+        "Anja Løkkegaard",
+        "Shfaqat Abbas Khan"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee4522"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee4522",
+          "url": "https://doi.org/10.1126/sciadv.aee4522"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh8194",
+      "title": "Palladium-catalyzed enantioselective alkenylation of acyclic alkenols: Broad scope with alkenyl bromides",
+      "title_original": "Palladium-catalyzed enantioselective alkenylation of acyclic alkenols: Broad scope with alkenyl bromides",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh8194",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jun Chen",
+        "Hong-Mei Guo",
+        "Jasmine X. Yan",
+        "Chong Liu",
+        "Debabrata Maiti",
+        "Haibo Ge"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh8194"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh8194",
+          "url": "https://doi.org/10.1126/sciadv.aeh8194"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3842",
+      "title": "Myasthenia thymus reprograms class-switched B cells into BAFF-dependent survivors",
+      "title_original": "Myasthenia thymus reprograms class-switched B cells into BAFF-dependent survivors",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec3842",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Yuanqing Yan",
+        "Diego Avella Patino",
+        "Yimeng Zhao",
+        "Xin Wu",
+        "G. R. Scott Budinger",
+        "Ankit Bharat"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec3842"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec3842",
+          "url": "https://doi.org/10.1126/sciadv.aec3842"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh5593",
+      "title": "Molecular basis of HACD-TECR complex mediated very-long-chain fatty acid elongation reveal a potential target in colorectal cancer",
+      "title_original": "Molecular basis of HACD-TECR complex mediated very-long-chain fatty acid elongation reveal a potential target in colorectal cancer",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh5593",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Rui Lv",
+        "Leiye Yu",
+        "Jingyi Liu",
+        "Youli Zhou",
+        "Ruiping He",
+        "Chen Wang",
+        "Bing Gan",
+        "Rujuan Ti",
+        "Haizhan Jiao",
+        "Baohui Song",
+        "Yiqi Chen",
+        "Feifei Lin",
+        "Mei Gao",
+        "Hongli Hu",
+        "Shankai Yin",
+        "Pinghong Zhou",
+        "Lizhe Zhu",
+        "Mingyan Cai",
+        "Tian Xie",
+        "Jia Liu",
+        "Li Chen",
+        "Yunshi Zhong",
+        "Ruobing Ren"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh5593"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh5593",
+          "url": "https://doi.org/10.1126/sciadv.aeh5593"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh0657",
+      "title": "Mitochondrial stress activates ELT-2–dependent lysosomal proteostasis to extend lifespan in C. elegans",
+      "title_original": "Mitochondrial stress activates ELT-2–dependent lysosomal proteostasis to extend lifespan in C. elegans",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh0657",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Rendan Yang",
+        "Yu Sun",
+        "Wenzheng Wang",
+        "Yuxuan Lei",
+        "Lin Chen",
+        "Xiaoxu Li",
+        "Raya B. Liu",
+        "Ang Zhou",
+        "Arwen W. Gao",
+        "Liangshan Mu",
+        "Johan Auwerx",
+        "Terytty Yang Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh0657"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh0657",
+          "url": "https://doi.org/10.1126/sciadv.aeh0657"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee0509",
+      "title": "Mito-TEMPO improves survival rates in npc1 -knockout zebrafish by reducing oxidative stress and enhancing mitophagy via Sod2",
+      "title_original": "Mito-TEMPO improves survival rates in npc1 -knockout zebrafish by reducing oxidative stress and enhancing mitophagy via Sod2",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee0509",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Wenhao Zhao",
+        "Xudong Hu",
+        "Ruyi Wang",
+        "Han Zhang",
+        "Man Zhou",
+        "Hong Cao"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee0509"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee0509",
+          "url": "https://doi.org/10.1126/sciadv.aee0509"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh2835",
+      "title": "MALT1 alternative splicing—A molecular rheostat for balancing immune activation and homeostasis",
+      "title_original": "MALT1 alternative splicing—A molecular rheostat for balancing immune activation and homeostasis",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh2835",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Thomas J. O’Neill",
+        "Carina Graß",
+        "Andreas Gewies",
+        "Sofia Coelho",
+        "Torben Gehring",
+        "Thomas Seeholzer",
+        "Lesca-Miriam Holdt",
+        "Andrew Flatley",
+        "Regina Feederle",
+        "Jens Staal",
+        "Rudi Beyaert",
+        "Florian Giesert",
+        "Wolfgang Wurst",
+        "Necil Kutukculer",
+        "Ronald Naumann",
+        "Daniel Krappmann"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh2835"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh2835",
+          "url": "https://doi.org/10.1126/sciadv.aeh2835"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh3040",
+      "title": "Long-term amyloid aggregation kinetic assay and rapid amyloid clustering enabled by programmable microdroplet water extraction",
+      "title_original": "Long-term amyloid aggregation kinetic assay and rapid amyloid clustering enabled by programmable microdroplet water extraction",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh3040",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Da Yeon Cheong",
+        "Seokbeom Roh",
+        "Jung Bae Seong",
+        "Sang Won Lee",
+        "Dain Kang",
+        "Taeha Lee",
+        "Jiyeon Cho",
+        "Seung Pil Pack",
+        "Minho Moon",
+        "Wonseok Lee",
+        "Kyung Rok Nam",
+        "Bo Hyun Kim",
+        "Jae Yong Choi",
+        "Jinyoung Won",
+        "Kyung Seob Lim",
+        "Chang-Yeop Jeon",
+        "Yangzhi Zhu",
+        "Yeongjeon Lee",
+        "Gyudo Lee",
+        "Insu Park"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh3040"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh3040",
+          "url": "https://doi.org/10.1126/sciadv.aeh3040"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec5080",
+      "title": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning–enhanced Raman microspectroscopy",
+      "title_original": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning–enhanced Raman microspectroscopy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec5080",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Dimitar Georgiev",
+        "Ruoxiao Xie",
+        "Daniel Reumann",
+        "Xiaoyu Zhao",
+        "Álvaro Fernández-Galiana",
+        "Mauricio Barahona",
+        "Molly M. Stevens"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec5080"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec5080",
+          "url": "https://doi.org/10.1126/sciadv.aec5080"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea7469",
+      "title": "Jomon genomics reveal cold adaptation in Upper Paleolithic hunter-gatherers of eastern Eurasia",
+      "title_original": "Jomon genomics reveal cold adaptation in Upper Paleolithic hunter-gatherers of eastern Eurasia",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aea7469",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Yusuke Watanabe",
+        "Yoshiki Wakiyama",
+        "Daisuke Waku",
+        "Guido Valverde",
+        "Akio Tanino",
+        "Mizuki Hayashi",
+        "Izumi Naka",
+        "Yuka Nakamura",
+        "Tsubasa Suzuki",
+        "Kae Koganebuchi",
+        "Takashi Gakuhari",
+        "Takafumi Katsumura",
+        "Motoyuki Ogawa",
+        "Atsushi Toyoda",
+        "Pornlada Nuchnoi",
+        "Suwanna Chaorattanakawee",
+        "Hathairad Hananantachai",
+        "Jintana Patarapotikul",
+        "Soichiro Mizushima",
+        "Tomohito Nagaoka",
+        "Kazuaki Hirata",
+        "Minoru Yoneda",
+        "Midori Motoi",
+        "Hideo Toyoshima",
+        "Takafumi Maeda",
+        "Takayuki Nishimura",
+        "Tadayuki Masuyama",
+        "Yasuhiro Yamada",
+        "Ryuzaburo Takahashi",
+        "Masami Izuho",
+        "Jun Ohashi",
+        "Hiroki Oota"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aea7469"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aea7469",
+          "url": "https://doi.org/10.1126/sciadv.aea7469"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee0180",
+      "title": "Internal electric fields enhance reductive reactivity at MoS 2 boundaries revealed by ultrafast near-field nanospectroscopy",
+      "title_original": "Internal electric fields enhance reductive reactivity at MoS 2 boundaries revealed by ultrafast near-field nanospectroscopy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee0180",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Feng Li",
+        "Qi Sun",
+        "Tao Yang",
+        "Fengke Sun",
+        "Boning Wu",
+        "Shengye Jin",
+        "Wenming Tian"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee0180"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee0180",
+          "url": "https://doi.org/10.1126/sciadv.aee0180"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef6559",
+      "title": "Interfacial amplifier: High-throughput visual protein detection via droplet dynamics",
+      "title_original": "Interfacial amplifier: High-throughput visual protein detection via droplet dynamics",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef6559",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Tianxin Ge",
+        "Xuexue He",
+        "Shouzi Zhang",
+        "Haofeng Chen",
+        "Wenxu Hu",
+        "Zhaofan Luo",
+        "Liqiu Wang",
+        "Zong Dai",
+        "Xing Han"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef6559"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef6559",
+          "url": "https://doi.org/10.1126/sciadv.aef6559"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5692",
+      "title": "GNPs-pIL-4 reprograms macrophage polarization and activates the OSM/GSNOR/ENG axis to improve angiogenesis in ischemic limbs",
+      "title_original": "GNPs-pIL-4 reprograms macrophage polarization and activates the OSM/GSNOR/ENG axis to improve angiogenesis in ischemic limbs",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed5692",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Peng Zhang",
+        "Jinman Zhuang",
+        "Yizhou Hao",
+        "Xiangrui Zhu",
+        "Hongbiao Liang",
+        "Guizimeng Hu",
+        "Peiyi Li",
+        "Yuwei Song",
+        "Qijia Liu",
+        "Guangxin Yang",
+        "Tianqi Chen",
+        "Xinmei Huo",
+        "Kai Sun",
+        "Li Yan",
+        "Chun-Shui Pan",
+        "Qihua He",
+        "Kuangda Lu",
+        "Yang Zhao",
+        "Jing-Yan Han",
+        "Tianrun Li",
+        "Jian-Hao Chen",
+        "Juan Feng"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed5692"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed5692",
+          "url": "https://doi.org/10.1126/sciadv.aed5692"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh1116",
+      "title": "Fully dry-processed electrodes for highly reversible aqueous zinc powder-based batteries",
+      "title_original": "Fully dry-processed electrodes for highly reversible aqueous zinc powder-based batteries",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh1116",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Han Wu",
+        "Yunling Jiang",
+        "Shao-Jian Zhang",
+        "Yiyang Hu",
+        "Junnan Hao",
+        "Shi-Zhang Qiao"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh1116"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh1116",
+          "url": "https://doi.org/10.1126/sciadv.aeh1116"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz1892",
+      "title": "First evaluation of wearable radiation protection for human deep space exploration, as flown on Artemis I",
+      "title_original": "First evaluation of wearable radiation protection for human deep space exploration, as flown on Artemis I",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adz1892",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jordan M. Houri",
+        "Thomas Berger",
+        "Ramona Gaza",
+        "Hesham Hussein",
+        "Shirit Schwarz",
+        "Gideon Waterman",
+        "Daniel Matthiä",
+        "Karel Marsalek",
+        "Bartos Przybyla",
+        "Joachim Aeckerlein",
+        "Maximilian Radenhaeuser",
+        "Moritz Kasemann",
+        "Kathleen Coderre",
+        "W. Paul Segars",
+        "Ehsan Samei",
+        "Anuj J. Kapadia",
+        "Kerry Lee",
+        "Diego Laramore",
+        "Stuart P. George",
+        "Edward Semones",
+        "Oren Milstein"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adz1892"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adz1892",
+          "url": "https://doi.org/10.1126/sciadv.adz1892"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee5871",
+      "title": "Fibroblasts resist Staphylococcus aureus on the skin surface by responding to interleukin-1 and recruiting neutrophils",
+      "title_original": "Fibroblasts resist Staphylococcus aureus on the skin surface by responding to interleukin-1 and recruiting neutrophils",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee5871",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jared S. Simmons",
+        "Teruaki Nakatsuji",
+        "Fengwu Li",
+        "Carlos Aguilera",
+        "Tomofumi Numata",
+        "Kellen J. Cavagnero",
+        "Samia Almoughrabie",
+        "Andrea Roso Mares",
+        "Consuelo Sauceda",
+        "Jacquelyn Castaneda",
+        "David J. Gonzalez",
+        "Hal M. Hoffman",
+        "Richard L. Gallo"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee5871"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee5871",
+          "url": "https://doi.org/10.1126/sciadv.aee5871"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg5802",
+      "title": "Faster, bigger, more severe: Extreme wildfire spread sets the stage for forest ecosystem change in western and boreal North America",
+      "title_original": "Faster, bigger, more severe: Extreme wildfire spread sets the stage for forest ecosystem change in western and boreal North America",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg5802",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jonathan D. Coop",
+        "Jared A. Balik",
+        "Jessika R. McFarland",
+        "Sean A. Parks",
+        "Kyle C. Rodman",
+        "Camille S. Stevens-Rumann",
+        "Meg A. Krawchuk",
+        "Cameron E. Naficy",
+        "Marc-André Parisien",
+        "Ellen Whitman"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg5802"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg5802",
+          "url": "https://doi.org/10.1126/sciadv.aeg5802"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb8377",
+      "title": "Direct bacterial transcript visualization illuminates spatiotemporal environmental adaptation of Mycobacterium tuberculosis in the lung",
+      "title_original": "Direct bacterial transcript visualization illuminates spatiotemporal environmental adaptation of Mycobacterium tuberculosis in the lung",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb8377",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Anna-Lisa E. Lawrence",
+        "Shumin Tan"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb8377"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb8377",
+          "url": "https://doi.org/10.1126/sciadv.aeb8377"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee6914",
+      "title": "CDT1 acts with the replisome to remodel replication forks",
+      "title_original": "CDT1 acts with the replisome to remodel replication forks",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee6914",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Caitlin Hathaway",
+        "Thanh Le",
+        "Yuki Hatoyama",
+        "Masato Kanemaki",
+        "Huzefa Dungrawala"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee6914"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee6914",
+          "url": "https://doi.org/10.1126/sciadv.aee6914"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee5305",
+      "title": "CD5 + dendritic cell robots mediated in situ immunocyte activation",
+      "title_original": "CD5 + dendritic cell robots mediated in situ immunocyte activation",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee5305",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Chuanhua Li",
+        "Weiwei Zhang",
+        "Xuyang Chen",
+        "Shixiao Ding",
+        "Lin Wang",
+        "Qian Wang",
+        "Songlin Yu",
+        "Qiran Zhu",
+        "Jiawen Niu",
+        "Ying Cui",
+        "Mengmeng Sun",
+        "Jie Zhao",
+        "Tianlong Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee5305"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee5305",
+          "url": "https://doi.org/10.1126/sciadv.aee5305"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee3993",
+      "title": "Breaking solubility of metal-organic cages via polymer carrier for concentrated type II porous liquid to extract n -alkanes",
+      "title_original": "Breaking solubility of metal-organic cages via polymer carrier for concentrated type II porous liquid to extract n -alkanes",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee3993",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Shuaibo Yang",
+        "Yu Han",
+        "Mifen Cui",
+        "Jihai Tang",
+        "Xu Qiao",
+        "Zhuxiu Zhang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee3993"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee3993",
+          "url": "https://doi.org/10.1126/sciadv.aee3993"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg3567",
+      "title": "Antenna photosystem I remodeling in the iron stress–induced complex from Anabaena sp. PCC 7120",
+      "title_original": "Antenna photosystem I remodeling in the iron stress–induced complex from Anabaena sp. PCC 7120",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg3567",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Ranel Maqdisi",
+        "Dariusz M. Niedzwiedzki",
+        "Christopher Gorski",
+        "Sandeep Biswas",
+        "Himadri B. Pakrasi",
+        "Yuval Mazor"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg3567"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg3567",
+          "url": "https://doi.org/10.1126/sciadv.aeg3567"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef1581",
+      "title": "Ancestral proteins trace the emergence of substrate specificity and oligomerization within bacterial DEDDy dinucleases",
+      "title_original": "Ancestral proteins trace the emergence of substrate specificity and oligomerization within bacterial DEDDy dinucleases",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef1581",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Sofia Mortensen",
+        "Andrew A. Burnim",
+        "Keith Dufault-Thompson",
+        "Alexandra E. Lipka",
+        "Xiaofang Jiang",
+        "Holger Sondermann"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef1581"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef1581",
+          "url": "https://doi.org/10.1126/sciadv.aef1581"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef9926",
+      "title": "aDISCO: A clearing method to enable 3D microscopy of large archival paraffin-embedded human tissue blocks",
+      "title_original": "aDISCO: A clearing method to enable 3D microscopy of large archival paraffin-embedded human tissue blocks",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef9926",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Anna Maria Reuss",
+        "Dominik Groos",
+        "Martina Cerisoli",
+        "Lena Nordberg",
+        "Lukas Frick",
+        "Fabian F. Voigt",
+        "Nikita Vladimirov",
+        "Philipp Bethge",
+        "Regina Reimann",
+        "Fritjof Helmchen",
+        "Peter Rupprecht",
+        "Adriano Aguzzi"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef9926"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef9926",
+          "url": "https://doi.org/10.1126/sciadv.aef9926"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef5620",
+      "title": "Acoustic resonators as wireless actuators in air for small-scale robots",
+      "title_original": "Acoustic resonators as wireless actuators in air for small-scale robots",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef5620",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Junsun Hwang",
+        "Quentin Angéloz",
+        "Ashwin Subramanian Murugan",
+        "Hervé Lissek",
+        "Mahmut Selman Sakar"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef5620"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef5620",
+          "url": "https://doi.org/10.1126/sciadv.aef5620"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef2986",
+      "title": "A transcription factor TOE3 simultaneously promotes growth and antiviral immunity by disrupting ABA core module in tobacco",
+      "title_original": "A transcription factor TOE3 simultaneously promotes growth and antiviral immunity by disrupting ABA core module in tobacco",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef2986",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Bolei Jiao",
+        "Baijun Wu",
+        "Haonan Fang",
+        "Jiale Jiang",
+        "Zhongyue Mai",
+        "Ning Jiang",
+        "Honghui Lin",
+        "Dehui Xi"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef2986"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef2986",
+          "url": "https://doi.org/10.1126/sciadv.aef2986"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef5617",
+      "title": "A thiol-rich immunomodulatory injectable hydrogel suppresses endometrial fibrosis to restore fertilization",
+      "title_original": "A thiol-rich immunomodulatory injectable hydrogel suppresses endometrial fibrosis to restore fertilization",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef5617",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Mingwei Li",
+        "Runqi Zhu",
+        "Yufeng Tian",
+        "Hanqing Yu",
+        "Liu Yang",
+        "Lucy Boyi Wang",
+        "Ping Zhou",
+        "Qiang Li",
+        "Rijian Song",
+        "Wenxin Wang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef5617"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef5617",
+          "url": "https://doi.org/10.1126/sciadv.aef5617"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg1542",
+      "title": "A programmed reset mechanism primes Clostridioides difficile virulence at the onset of infection",
+      "title_original": "A programmed reset mechanism primes Clostridioides difficile virulence at the onset of infection",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg1542",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Nicole C. Gadda",
+        "Jilarie A. Santos-Santiago",
+        "Rani S. Sellers",
+        "Rita Tamayo"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg1542"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg1542",
+          "url": "https://doi.org/10.1126/sciadv.aeg1542"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed8901",
+      "title": "A prefrontal peptidergic circuit for psychogenic itch",
+      "title_original": "A prefrontal peptidergic circuit for psychogenic itch",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed8901",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Sipin Zhang",
+        "Zhenhua Qi",
+        "Huoqing Luo",
+        "Chao Tian",
+        "Fang Cai",
+        "Ji Hu",
+        "Jingdun Xie"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed8901"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed8901",
+          "url": "https://doi.org/10.1126/sciadv.aed8901"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee7981",
+      "title": "ZPY-CpG-Ch, a broad coverage vaccine against Streptococcus pneumoniae",
+      "title_original": "ZPY-CpG-Ch, a broad coverage vaccine against Streptococcus pneumoniae",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee7981",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Teerawit Audshasai",
+        "Stavros Panagiotou",
+        "Lisa Crossman",
+        "Rong Xu",
+        "Lynn Verheijen",
+        "Chrispin Chaguza",
+        "Marie O’Brien",
+        "Aras Kadioglu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee7981"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee7981",
+          "url": "https://doi.org/10.1126/sciadv.aee7981"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee8346",
+      "title": "What is happening at the atomic level during the seed-mediated growth of copper on gold?",
+      "title_original": "What is happening at the atomic level during the seed-mediated growth of copper on gold?",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee8346",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Yanzi Yan",
+        "Kei Kwan Li",
+        "Xintong Huang",
+        "Xude Yu",
+        "Yong Ding",
+        "Jianhong Xu",
+        "Younan Xia"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee8346"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee8346",
+          "url": "https://doi.org/10.1126/sciadv.aee8346"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed9655",
+      "title": "Vimentin remodeling in response to oxidants and electrophiles is modulated by pH",
+      "title_original": "Vimentin remodeling in response to oxidants and electrophiles is modulated by pH",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed9655",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Alma E. Martínez",
+        "Paula Martínez-Cenalmor",
+        "Patricia González-Jiménez",
+        "Cristina Vidal-Verdú",
+        "María A. Pajares",
+        "Dolores Pérez-Sala"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed9655"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed9655",
+          "url": "https://doi.org/10.1126/sciadv.aed9655"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee5631",
+      "title": "Unlock lasing in two-dimensional metal halide perovskites by tuning ns 2 lone pairs",
+      "title_original": "Unlock lasing in two-dimensional metal halide perovskites by tuning ns 2 lone pairs",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee5631",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xinyu Li",
+        "Mingyuan Li",
+        "Shixuan Zheng",
+        "Rui Wen",
+        "Meng Zhang",
+        "Songhao Guo",
+        "Yu Tao",
+        "Yuhong Mao",
+        "Xiaofan Jiang",
+        "Jiazhen Gu",
+        "Tianhao Zhang",
+        "Yan Guan",
+        "Chen Li",
+        "Xujie Lü",
+        "Yongping Fu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee5631"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee5631",
+          "url": "https://doi.org/10.1126/sciadv.aee5631"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg0781",
+      "title": "Uncovering PFAS and halogenated chemicals using nontargeted analysis and the PFAS IMplementer for mass spectrometry (PIMMS)",
+      "title_original": "Uncovering PFAS and halogenated chemicals using nontargeted analysis and the PFAS IMplementer for mass spectrometry (PIMMS)",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg0781",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Gregory P. Kudzin",
+        "James N. Dodds",
+        "Erin S. Baker"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg0781"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg0781",
+          "url": "https://doi.org/10.1126/sciadv.aeg0781"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9489",
+      "title": "Two contrasting atmospheric circulation patterns linked to Kuroshio Extension variability",
+      "title_original": "Two contrasting atmospheric circulation patterns linked to Kuroshio Extension variability",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee9489",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Se-Yong Song",
+        "Samantha Stevenson",
+        "Emanuele Di Lorenzo",
+        "Antonietta Capotondi",
+        "Niklas Schneider",
+        "Youngji Joh"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee9489"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee9489",
+          "url": "https://doi.org/10.1126/sciadv.aee9489"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed0057",
+      "title": "Tunable dislocations overcome mechano-functional tradeoff in perovskite oxides",
+      "title_original": "Tunable dislocations overcome mechano-functional tradeoff in perovskite oxides",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed0057",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jiawen Zhang",
+        "Wenjun Lu",
+        "Xufei Fang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed0057"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed0057",
+          "url": "https://doi.org/10.1126/sciadv.aed0057"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb9309",
+      "title": "TRIM29-dependent AKR1B10 degradation ameliorates MASH",
+      "title_original": "TRIM29-dependent AKR1B10 degradation ameliorates MASH",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb9309",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Zhengcai Ma",
+        "Juan Li",
+        "Xiaoduo Li",
+        "Jianyu Zhu",
+        "Chunyong Sun",
+        "Jinyin Zhang",
+        "Zhipeng Yang",
+        "Jifei Liu",
+        "Yuan Zhou",
+        "Zhenwei Gui",
+        "Jingwei Li",
+        "Hongmei Wang",
+        "Dan Shi",
+        "Qiang Song",
+        "Xuegang Li",
+        "Rongkun Tao",
+        "Hang Ma",
+        "Xiaoli Ye"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb9309"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb9309",
+          "url": "https://doi.org/10.1126/sciadv.aeb9309"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef7481",
+      "title": "Triggering charge redistribution–induced oxygen spillover mechanism in VO x -supported IrSn alloy toward industrial water electrolysis",
+      "title_original": "Triggering charge redistribution–induced oxygen spillover mechanism in VO x -supported IrSn alloy toward industrial water electrolysis",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef7481",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Zijie Lin",
+        "Jiashun Liang",
+        "Hao Shi",
+        "Yuhan Wang",
+        "Yunze Song",
+        "Jiarui Liu",
+        "Yunan Li",
+        "Xiaoke Xi",
+        "Tanyuan Wang",
+        "Zhao Cai",
+        "Ruiguo Cao",
+        "Dong Su",
+        "Yunhui Huang",
+        "Qing Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef7481"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef7481",
+          "url": "https://doi.org/10.1126/sciadv.aef7481"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed1318",
+      "title": "Transposable elements and homotypic niches drive immune dynamics and resistance in melanoma epigenetic-based immunotherapy",
+      "title_original": "Transposable elements and homotypic niches drive immune dynamics and resistance in melanoma epigenetic-based immunotherapy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed1318",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Erika Ciervo",
+        "Francesco Ceccarelli",
+        "Anna Maria Di Giacomo",
+        "Piera Grisolia",
+        "Alessia Covre",
+        "Zein Mersini Besharat",
+        "Antonio De Falco",
+        "Francesca Pia Caruso",
+        "Luigi Laezza",
+        "Luigi Ferraro",
+        "Gloria Mas Martin",
+        "Daniel Bilbao",
+        "Sion Williams",
+        "Benjamin Currall",
+        "Maria Fortunata Lofiego",
+        "Tommaso Sani",
+        "Elisabetta Ferretti",
+        "Yan Guo",
+        "Sean B. Holden",
+        "Ines Simeone",
+        "Roberta Mortarini",
+        "Andrea Anichini",
+        "Michele Maio",
+        "Teresa Maria Rosaria Noviello",
+        "Michele Ceccarelli"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed1318"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed1318",
+          "url": "https://doi.org/10.1126/sciadv.aed1318"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb1136",
+      "title": "The microenvironment dictates glyco-immune surveillance via HSF1-mediated metabolism",
+      "title_original": "The microenvironment dictates glyco-immune surveillance via HSF1-mediated metabolism",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb1136",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Kevin M. Tharp",
+        "Sangwoo Park",
+        "Greg A. Timblin",
+        "Alicia L. Richards",
+        "Jordan A. Berg",
+        "Nicholas M. Twells",
+        "Nicholas M. Riley",
+        "Kyle Alvarez",
+        "Allen Lee",
+        "Egan L. Peltan",
+        "D. Judy Shon",
+        "Erica Stevenson",
+        "Kimberly Tsui",
+        "Francesco Palomba",
+        "Austin E. Y. T. Lefebvre",
+        "Ross W. Soens",
+        "Jaya L. Thangaraj",
+        "Nadia M.E. Ayad",
+        "Joseph A. Rhodenhiser",
+        "Johanna ten Hoeve",
+        "Kevin Healy",
+        "Michelle Digman",
+        "Andrew Dillin",
+        "Nevan J. Krogan",
+        "Carolyn R. Bertozzi",
+        "Dan S. Kaufman",
+        "Sanju Sinha",
+        "Danielle L. Swaney",
+        "Lara K. Mahal",
+        "Jason R. Cantor",
+        "Matthew J. Paszek",
+        "Valerie M. Weaver"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb1136"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb1136",
+          "url": "https://doi.org/10.1126/sciadv.aeb1136"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adp2955",
+      "title": "T cell–nanodrug conjugates synchronize vascular normalization and immune activation for solid tumor therapy",
+      "title_original": "T cell–nanodrug conjugates synchronize vascular normalization and immune activation for solid tumor therapy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adp2955",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xin Yang",
+        "Ye Su",
+        "Xiaoyun Ye",
+        "Changjiang Liu",
+        "Xin Zhao",
+        "Yuyan Su",
+        "Qingyu Dong",
+        "Wenxuan Zeng",
+        "Xinghua Sui",
+        "Xiuman Zhou",
+        "Guanyu Chen",
+        "Yujia Zhang",
+        "Dalin Wu",
+        "Juan Liu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adp2955"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adp2955",
+          "url": "https://doi.org/10.1126/sciadv.adp2955"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea2075",
+      "title": "Submillennial timescales of eruptible rhyolite magma: Converging evidence from Aira Caldera, Japan",
+      "title_original": "Submillennial timescales of eruptible rhyolite magma: Converging evidence from Aira Caldera, Japan",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aea2075",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Bradley W. Pitcher",
+        "Guilherme A. R. Gualda",
+        "Nobuo Geshi"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aea2075"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aea2075",
+          "url": "https://doi.org/10.1126/sciadv.aea2075"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee7036",
+      "title": "Structural insights into a substrate translocation pathway revealed by the RND efflux pump complex MexJK from Pseudomonas aeruginosa",
+      "title_original": "Structural insights into a substrate translocation pathway revealed by the RND efflux pump complex MexJK from Pseudomonas aeruginosa",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee7036",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Zhikun Wu",
+        "Ziyue Meng",
+        "Wei Huang",
+        "Zhaoxiao Yu",
+        "Longtao Cao",
+        "Jie Wang",
+        "Zhipeng Xie",
+        "Meng Cui",
+        "Luyan Z. Ma",
+        "Feng Long"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee7036"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee7036",
+          "url": "https://doi.org/10.1126/sciadv.aee7036"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee4285",
+      "title": "Steppe productivity decline contributed to smallpox outbreak and the collapse of the last nomadic empire in the 1750s",
+      "title_original": "Steppe productivity decline contributed to smallpox outbreak and the collapse of the last nomadic empire in the 1750s",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee4285",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Wanru Tang",
+        "Keyan Fang",
+        "Hans W. Linderholm",
+        "Étienne Boucher",
+        "Zepeng Mei",
+        "Jinbao Li",
+        "Shuheng Lin",
+        "Feifei Zhou",
+        "J. Camarero",
+        "Heikki Seppä",
+        "Fahu Chen"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee4285"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee4285",
+          "url": "https://doi.org/10.1126/sciadv.aee4285"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5470",
+      "title": "Start, speed, and direction of secondary forest succession",
+      "title_original": "Start, speed, and direction of secondary forest succession",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed5470",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Tomonari Matsuo",
+        "Iris Hordijk",
+        "Lucy Amissah",
+        "Susan G. W. Laurance",
+        "Miguel Martínez-Ramos",
+        "Jorge A. Meave",
+        "Frans Bongers",
+        "Masha T. van der Sande",
+        "Jazz Kok",
+        "Lourens Poorter"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed5470"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed5470",
+          "url": "https://doi.org/10.1126/sciadv.aed5470"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb3361",
+      "title": "Snow-eater heat waves of the western United States",
+      "title_original": "Snow-eater heat waves of the western United States",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb3361",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Alan M. Rhoades",
+        "Joshua Snowball North",
+        "William Rudisill",
+        "Benjamin J. Hatchett",
+        "Mark Risser",
+        "Areidy Beltran-Peña",
+        "Anne Heggli",
+        "Scott Hotaling",
+        "Laurie S. Huning",
+        "Andrew Joros",
+        "Matthew LaPlante",
+        "Ankur Mahesh",
+        "Adrienne M. Marshall",
+        "Rachel McCrary",
+        "Daniel McEvoy",
+        "Stefan Rahimi",
+        "Mark S. Raleigh",
+        "Calen Randall",
+        "Abhishekh Srivastava",
+        "Michael Wehner",
+        "Yang Zhou",
+        "Andrew D. Jones"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb3361"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb3361",
+          "url": "https://doi.org/10.1126/sciadv.aeb3361"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5600",
+      "title": "Skeletal muscle H3K18 lactylation inhibits hepatic gluconeogenesis through IL-6 mediated interorgan communication",
+      "title_original": "Skeletal muscle H3K18 lactylation inhibits hepatic gluconeogenesis through IL-6 mediated interorgan communication",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed5600",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Yu Wang",
+        "Feijie Wang",
+        "Yujie Sun",
+        "Yao Gu",
+        "Lamei Xue",
+        "Mingcong Fan",
+        "Haifeng Qian",
+        "Yucheng Wang",
+        "Hao Ying",
+        "Jun Du",
+        "Liang Chen",
+        "Li Wang",
+        "Yan Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed5600"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed5600",
+          "url": "https://doi.org/10.1126/sciadv.aed5600"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb6882",
+      "title": "Sharp nanothorn-equipped ionogel microrobots for targeted periodontitis therapy",
+      "title_original": "Sharp nanothorn-equipped ionogel microrobots for targeted periodontitis therapy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb6882",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Dongqing He",
+        "Zhaolei Zou",
+        "Dongdong Jin",
+        "Zichang Guo",
+        "Yinuo Song",
+        "Qiannan Hu",
+        "Muqiao Yu",
+        "Jingyi Lu",
+        "Juan Fang",
+        "Qianqian Wang",
+        "Chengqi Xu",
+        "Wenjun Chen",
+        "Zhi Wang",
+        "Xing Ma"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb6882"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb6882",
+          "url": "https://doi.org/10.1126/sciadv.aeb6882"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5802",
+      "title": "SCHEPHERD: A modular, programmable, direct current platform to control cell behavior",
+      "title_original": "SCHEPHERD: A modular, programmable, direct current platform to control cell behavior",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed5802",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Yubin Lin",
+        "Jeremy S. Yodh",
+        "Celeste Rodriguez",
+        "Paul Kreymborg",
+        "Daniel J. Cohen"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed5802"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed5802",
+          "url": "https://doi.org/10.1126/sciadv.aed5802"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea2780",
+      "title": "SARS-CoV-2 nucleocapsid induces hyperinflammation and vascular leakage through the Toll-like receptor signaling axis in macrophages",
+      "title_original": "SARS-CoV-2 nucleocapsid induces hyperinflammation and vascular leakage through the Toll-like receptor signaling axis in macrophages",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aea2780",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Zhenlan Yao",
+        "Pablo A. Alvarez",
+        "Carolina Chavez",
+        "Yennifer Delgado",
+        "Prashant Kaushal",
+        "David W. Buchholz",
+        "David Austin",
+        "Qian Li",
+        "Yanying Yu",
+        "Anne K. Zaiss",
+        "Vaithilingaraja Arumugaswami",
+        "Qiang Ding",
+        "Jeffrey J. Hsu",
+        "Robert Damoiseaux",
+        "Hector C. Aguilar",
+        "Mehdi Bouhaddou",
+        "Alexander Hoffmann",
+        "Melody M. H. Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aea2780"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aea2780",
+          "url": "https://doi.org/10.1126/sciadv.aea2780"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3174",
+      "title": "RTF2 and CLASPIN localize CHK1 to the replication fork to control S-phase progression",
+      "title_original": "RTF2 and CLASPIN localize CHK1 to the replication fork to control S-phase progression",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec3174",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Cayla Broton",
+        "Catherine L. W. Miller",
+        "Penelope D. Ruiz",
+        "Nicolas J. Blobel",
+        "Yibing Yao",
+        "Brooke A. Conti",
+        "Ernst W. Schmid",
+        "Johannes C. Walter",
+        "Agata Smogorzewska"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec3174"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec3174",
+          "url": "https://doi.org/10.1126/sciadv.aec3174"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef7696",
+      "title": "Ribosomal protein bL27 protects translating ribosomes from tmRNA-SmpB",
+      "title_original": "Ribosomal protein bL27 protects translating ribosomes from tmRNA-SmpB",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef7696",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Divyasorubini Seerpatham",
+        "George Wanes",
+        "Chathuri Pathirage",
+        "Mynthia Cabrera",
+        "Edu Usoro",
+        "Kristin S. Koutmou",
+        "Christine M. Dunham",
+        "Paul C. Whitford",
+        "Kenneth C. Keiler"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef7696"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef7696",
+          "url": "https://doi.org/10.1126/sciadv.aef7696"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg2534",
+      "title": "Renoprotective effects of tubular glucagon receptor activation mediated by V-ATPase",
+      "title_original": "Renoprotective effects of tubular glucagon receptor activation mediated by V-ATPase",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg2534",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Hua Qu",
+        "Mingyue Xu",
+        "Pan Du",
+        "Linlin Zhang",
+        "Wensi Wang",
+        "Xiufei Liu",
+        "Jiaran Zhu",
+        "Chenfu Tian",
+        "Qingshan He",
+        "Ju Li",
+        "Yiwen Tao",
+        "Zhengyuan Gong",
+        "Qingwu Yang",
+        "Yi Zheng",
+        "Hongting Zheng"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg2534"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg2534",
+          "url": "https://doi.org/10.1126/sciadv.aeg2534"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh1682",
+      "title": "Quantitative reconstruction of the Yiwu Jurassic Forest in Northwest China and high forest productivity in the Middle Jurassic",
+      "title_original": "Quantitative reconstruction of the Yiwu Jurassic Forest in Northwest China and high forest productivity in the Middle Jurassic",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh1682",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xu-Dong Gou",
+        "Yun Guo",
+        "Tao Zhao",
+        "Stephen McLoughlin",
+        "Zhuo Feng"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh1682"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh1682",
+          "url": "https://doi.org/10.1126/sciadv.aeh1682"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed1634",
+      "title": "Periodic extreme rainfall in a warmer climate due to stronger convectively coupled waves",
+      "title_original": "Periodic extreme rainfall in a warmer climate due to stronger convectively coupled waves",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed1634",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Heng Quan",
+        "Yi Zhang",
+        "Guy Dagan",
+        "Stephan Fueglistaler"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed1634"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed1634",
+          "url": "https://doi.org/10.1126/sciadv.aed1634"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef0501",
+      "title": "Optical isolation and circulation using quantum frequency conversion on a chip",
+      "title_original": "Optical isolation and circulation using quantum frequency conversion on a chip",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef0501",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jierui Hu",
+        "Hao Yuan",
+        "Joshua Akin",
+        "Shanhui Fan",
+        "Kejie Fang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef0501"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef0501",
+          "url": "https://doi.org/10.1126/sciadv.aef0501"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef5518",
+      "title": "On-chip waveguide-integrated light sources using MoS 2 /WSe 2 moiré superlattices on a silicon photonic platform",
+      "title_original": "On-chip waveguide-integrated light sources using MoS 2 /WSe 2 moiré superlattices on a silicon photonic platform",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef5518",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xingyu Huang",
+        "Hanlin Fang",
+        "Shima Kadkhodazadeh",
+        "Monia Runge Nielsen",
+        "Youqiang Huang",
+        "Qiaoling Lin",
+        "Zhipei Sun",
+        "Martijn Wubs",
+        "Sanshui Xiao"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef5518"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef5518",
+          "url": "https://doi.org/10.1126/sciadv.aef5518"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg5086",
+      "title": "Nucleic acid probe-functionalized self-powered sensor for detection of biomarkers in clinical urine samples",
+      "title_original": "Nucleic acid probe-functionalized self-powered sensor for detection of biomarkers in clinical urine samples",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg5086",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Qitao Zhou",
+        "Along Gao",
+        "Xiali Yang",
+        "Huageng Liang",
+        "Jing Pan",
+        "Shaoguang Li",
+        "Hui Li",
+        "Caofeng Pan",
+        "Fan Xia"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg5086"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg5086",
+          "url": "https://doi.org/10.1126/sciadv.aeg5086"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb3005",
+      "title": "Neural competition between prefrontal and auditory cortex constrains novel sound strategy learning",
+      "title_original": "Neural competition between prefrontal and auditory cortex constrains novel sound strategy learning",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb3005",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Kai Lu",
+        "Kelvin T. Wong",
+        "Chengcheng J. Yang",
+        "Lin N. Zhou",
+        "Yike T. Shi",
+        "Maya L. Costello",
+        "Robert C. Liu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb3005"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb3005",
+          "url": "https://doi.org/10.1126/sciadv.aeb3005"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh4699",
+      "title": "Multi-component gradients in 3D host frameworks enabled stack-type zinc plating/stripping for highly durable aqueous Zn-ion batteries",
+      "title_original": "Multi-component gradients in 3D host frameworks enabled stack-type zinc plating/stripping for highly durable aqueous Zn-ion batteries",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeh4699",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jingjie Sun",
+        "Tianyu Shen",
+        "Mingyue Zhang",
+        "Yizhi Xing",
+        "Jie Wei",
+        "Qianchuan Yu",
+        "Zuoxiu Tie",
+        "Zhong Jin"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeh4699"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeh4699",
+          "url": "https://doi.org/10.1126/sciadv.aeh4699"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec4563",
+      "title": "Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary logic circuitry",
+      "title_original": "Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary logic circuitry",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec4563",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jingjing Yu",
+        "Teng Li",
+        "Yunhong Lao",
+        "Junjie Yang",
+        "Jiawei Cui",
+        "Sihang Liu",
+        "Han Yang",
+        "Youyi Yin",
+        "Maojun Wang",
+        "Xuelin Yang",
+        "Kevin J. Chen",
+        "Bo Shen",
+        "Jin Wei"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec4563"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec4563",
+          "url": "https://doi.org/10.1126/sciadv.aec4563"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed2198",
+      "title": "Mid-infrared long-range surface polaritons in two-dimensional van der Waals materials",
+      "title_original": "Mid-infrared long-range surface polaritons in two-dimensional van der Waals materials",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed2198",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Mingsong Wang",
+        "Shixiong Yin",
+        "Saroj Chand",
+        "Jiamin Quan",
+        "Xuefeng Jiang",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Gabriele Grosso",
+        "Andrea Alù"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed2198"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed2198",
+          "url": "https://doi.org/10.1126/sciadv.aed2198"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee1791",
+      "title": "Metasurface-controlled high-speed tunable external cavity lasers",
+      "title_original": "Metasurface-controlled high-speed tunable external cavity lasers",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee1791",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Zahra Basiri",
+        "Alessandro Tomasino",
+        "Gabriel Jülg",
+        "Andrea Lanfranchi",
+        "Ileana-Cristina Benea-Chelmus"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee1791"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee1791",
+          "url": "https://doi.org/10.1126/sciadv.aee1791"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec2331",
+      "title": "MBNL1 hijacks a structured single-stranded distal DNA element to sustain FLT3 expression in KMT2A-rearranged leukemias",
+      "title_original": "MBNL1 hijacks a structured single-stranded distal DNA element to sustain FLT3 expression in KMT2A-rearranged leukemias",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec2331",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Meixia Che",
+        "Shaela Fields",
+        "Siqi Yi",
+        "Judith Hyle",
+        "Mengli Zhang",
+        "Beisi Xu",
+        "Yong Cheng",
+        "Peng Xu",
+        "Yajun Jiang",
+        "Chunliang Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec2331"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec2331",
+          "url": "https://doi.org/10.1126/sciadv.aec2331"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec2253",
+      "title": "Ly6d expression delineates two putative postnatal thymus epithelial progenitor cells that are differentially affected by aging",
+      "title_original": "Ly6d expression delineates two putative postnatal thymus epithelial progenitor cells that are differentially affected by aging",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec2253",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Irene Calvo-Asensio",
+        "Andreas Tarcevski",
+        "Fatima Dhalla",
+        "Anja Kusch",
+        "Thomas Barthlott",
+        "Saulius Zuklys",
+        "Georg A. Holländer",
+        "Michael D. Morgan"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec2253"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec2253",
+          "url": "https://doi.org/10.1126/sciadv.aec2253"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec7053",
+      "title": "Localized immunomodulation with cytokine-producing cells to mitigate foreign body responses in rodents and a nonhuman primate",
+      "title_original": "Localized immunomodulation with cytokine-producing cells to mitigate foreign body responses in rodents and a nonhuman primate",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec7053",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Boram Kim",
+        "Dilrasbonu Vohidova",
+        "Amanda Nash",
+        "Yuen San Chan",
+        "Samantha Fleury",
+        "Shravani Deo",
+        "Danna Murungi",
+        "Peter D. Rios",
+        "Ira Joshi",
+        "Hafsa Nasir",
+        "Daisy Lopez",
+        "Mor Sela Golan",
+        "Cassidy Hart",
+        "Jose Oberholzer",
+        "H. Courtney Hodges",
+        "Omid Veiseh"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec7053"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec7053",
+          "url": "https://doi.org/10.1126/sciadv.aec7053"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea3814",
+      "title": "Leveraging IGF signaling to improve the spatial organization and regenerative potential of iPSC-derived vascularized liver organoids",
+      "title_original": "Leveraging IGF signaling to improve the spatial organization and regenerative potential of iPSC-derived vascularized liver organoids",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aea3814",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Da-Hyun Kim",
+        "Yongju Lee",
+        "Min-Ji Kim",
+        "Amos Chungwon Lee",
+        "Sunghoon Kwon",
+        "Kyung-Sun Kang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aea3814"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aea3814",
+          "url": "https://doi.org/10.1126/sciadv.aea3814"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea3015",
+      "title": "Language-like statistical structure arises in learned signaling: evidence from birdsong",
+      "title_original": "Language-like statistical structure arises in learned signaling: evidence from birdsong",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aea3015",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Simon Kirby",
+        "Kazuo Okanoya",
+        "Ellen C. Garland",
+        "Miki Takahasi",
+        "Inbal Arnon"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aea3015"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aea3015",
+          "url": "https://doi.org/10.1126/sciadv.aea3015"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef3128",
+      "title": "Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent",
+      "title_original": "Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef3128",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Natalia Mrnjavac",
+        "Nadja K. Hoffmann",
+        "Manon L. Schlikker",
+        "Maximilian Burmeister",
+        "Loraine Schwander",
+        "Carolina García García",
+        "Max Brabender",
+        "Mike Steel",
+        "Daniel H. Huson",
+        "Sabine Metzger",
+        "Quentin Dherbassy",
+        "Bernhard Schink",
+        "Mirko Basen",
+        "Joseph Moran",
+        "Harun Tüysüz",
+        "Martina Preiner",
+        "William F. Martin"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef3128"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef3128",
+          "url": "https://doi.org/10.1126/sciadv.aef3128"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg5930",
+      "title": "Interaction-driven flat band and charge order in Fe 5 GeTe 2",
+      "title_original": "Interaction-driven flat band and charge order in Fe 5 GeTe 2",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg5930",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Qiang Gao",
+        "Gabriele Berruto",
+        "Khanh Duy Nguyen",
+        "Chaowei Hu",
+        "Paul Malinowski",
+        "Haoran Lin",
+        "Beomjoon Goh",
+        "Bo Gyu Jang",
+        "Xiaodong Xu",
+        "Peter Littlewood",
+        "Jiun-Haw Chu",
+        "Shuolong Yang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg5930"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg5930",
+          "url": "https://doi.org/10.1126/sciadv.aeg5930"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec0518",
+      "title": "Hybrid spatial organization and evidence for magnitude-independent neural coding of linguistic information during sentence production",
+      "title_original": "Hybrid spatial organization and evidence for magnitude-independent neural coding of linguistic information during sentence production",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec0518",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Adam M. Morgan",
+        "Orrin Devinsky",
+        "Werner K. Doyle",
+        "Patricia Dugan",
+        "Daniel Friedman",
+        "Adeen Flinker"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec0518"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec0518",
+          "url": "https://doi.org/10.1126/sciadv.aec0518"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef2184",
+      "title": "Higher-order trade-offs in hypergraph community detection",
+      "title_original": "Higher-order trade-offs in hypergraph community detection",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef2184",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jiaze Li",
+        "Michael T. Schaub",
+        "Leto Peel"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef2184"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef2184",
+          "url": "https://doi.org/10.1126/sciadv.aef2184"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec9545",
+      "title": "High-resolution mapping of embryonic genome activation unveils a decoupling of transcription activation from precocious H3K4me3 removal",
+      "title_original": "High-resolution mapping of embryonic genome activation unveils a decoupling of transcription activation from precocious H3K4me3 removal",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec9545",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jasmina Al-Mousawi",
+        "Luca Michetti",
+        "Laura Castaldi",
+        "Na Liu",
+        "Laura Villacorta",
+        "Vladimir Benes",
+        "Ana Boskovic"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec9545"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec9545",
+          "url": "https://doi.org/10.1126/sciadv.aec9545"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef9781",
+      "title": "Global patterns and drivers of extinction risk in island endemic terrestrial vertebrates",
+      "title_original": "Global patterns and drivers of extinction risk in island endemic terrestrial vertebrates",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef9781",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Yuyang Zhang",
+        "Jiang Wang",
+        "Yanxia Li",
+        "Chuanwu Chen",
+        "Yanping Wang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef9781"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef9781",
+          "url": "https://doi.org/10.1126/sciadv.aef9781"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee0923",
+      "title": "Global distribution and amplitudes of internal solitary waves revealed by SWOT",
+      "title_original": "Global distribution and amplitudes of internal solitary waves revealed by SWOT",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee0923",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xudong Zhang",
+        "Yinfei Zhou",
+        "Xiaochen Wang",
+        "Xiaofeng Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee0923"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee0923",
+          "url": "https://doi.org/10.1126/sciadv.aee0923"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef3201",
+      "title": "Glacier retreat shapes organic nutrient availability across lake succession",
+      "title_original": "Glacier retreat shapes organic nutrient availability across lake succession",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef3201",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Grégoire Saboret",
+        "Elliot Lewis",
+        "Nicolaj Krog Larsen",
+        "Antigoni Samourdani",
+        "Carsten Johnny Schubert",
+        "Jakob Brodersen"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef3201"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef3201",
+          "url": "https://doi.org/10.1126/sciadv.aef3201"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz1325",
+      "title": "Gaseous liquid nitrogen–assisted cryo-printing strategies for challenging volumetric anisotropic tissues fabrication",
+      "title_original": "Gaseous liquid nitrogen–assisted cryo-printing strategies for challenging volumetric anisotropic tissues fabrication",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adz1325",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Zhiqiang Gao",
+        "Wanlu Li",
+        "Zeyu Luo",
+        "Xinhan Liu",
+        "Zijie Zhang",
+        "Xia Tu",
+        "Huanhong Li",
+        "Ze Liu",
+        "Shuhui Li",
+        "Xiaohui Xu",
+        "Hong Wang",
+        "Shaorong Gao",
+        "Feng Yin",
+        "Mian Wang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adz1325"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adz1325",
+          "url": "https://doi.org/10.1126/sciadv.adz1325"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef3194",
+      "title": "Formation of tertiary lymphoid structures drives Parkin antitumor immunity",
+      "title_original": "Formation of tertiary lymphoid structures drives Parkin antitumor immunity",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef3194",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Michela Perego",
+        "Andrew V. Kossenkov",
+        "Jagadish C. Ghosh",
+        "Chiara Camisaschi",
+        "Nicholas J. Tursi",
+        "David B. Weiner",
+        "Dario C. Altieri"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef3194"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef3194",
+          "url": "https://doi.org/10.1126/sciadv.aef3194"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed6236",
+      "title": "Ferroelectric control of the Mott insulator–topological metal transition",
+      "title_original": "Ferroelectric control of the Mott insulator–topological metal transition",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed6236",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Mengmeng Niu",
+        "Peng-Jie Guo",
+        "Yicheng Ma",
+        "Weikang Zhou",
+        "Chun Huang",
+        "Gege Yang",
+        "Xu Wu",
+        "Wei Ji",
+        "Jingsi Qiao",
+        "Yeliang Wang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed6236"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed6236",
+          "url": "https://doi.org/10.1126/sciadv.aed6236"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee1599",
+      "title": "Failed metabolic adaptation to stress contributes to epidermal cell adhesion defects in Darier disease",
+      "title_original": "Failed metabolic adaptation to stress contributes to epidermal cell adhesion defects in Darier disease",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee1599",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Robert M. Harmon",
+        "Erin F. McCarthy",
+        "Annette Krol",
+        "Aashutosh Shetti",
+        "Jonas Braun",
+        "Rosemary J. DiDominicis",
+        "Lisa Godsel",
+        "Ziyou Ren",
+        "Bethany E. Perez White",
+        "Eran Cohen-Barak",
+        "Roni Dodiuk-Gad",
+        "Johann E. Gudjonsson",
+        "Amy S. Paller",
+        "Cory L. Simpson",
+        "Samuel Weinberg",
+        "Russell Dahl",
+        "Yogesh Goyal",
+        "Murali Prakriya",
+        "Kathleen J. Green"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee1599"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee1599",
+          "url": "https://doi.org/10.1126/sciadv.aee1599"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9271",
+      "title": "Experimental violation of a Bell-like causal inequality in a photonic quantum switch",
+      "title_original": "Experimental violation of a Bell-like causal inequality in a photonic quantum switch",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee9271",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Dengke Qu",
+        "Quan Lin",
+        "Lei Xiao",
+        "Xiang Zhan",
+        "Peng Xue"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee9271"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee9271",
+          "url": "https://doi.org/10.1126/sciadv.aee9271"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb1705",
+      "title": "Escalation dynamics and the severity of wars",
+      "title_original": "Escalation dynamics and the severity of wars",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb1705",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Aaron Clauset",
+        "Barbara F. Walter",
+        "Lars-Erik Cederman",
+        "Kristian Skrede Gleditsch"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb1705"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb1705",
+          "url": "https://doi.org/10.1126/sciadv.aeb1705"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aej3478",
+      "title": "Erratum for the Research Article “Forecast attribution reveals enhanced heat mortality from climate change in British Columbia heatwave” by C.Y. Shapland et al .",
+      "title_original": "Erratum for the Research Article “Forecast attribution reveals enhanced heat mortality from climate change in British Columbia heatwave” by C.Y. Shapland et al .",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aej3478",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aej3478"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aej3478",
+          "url": "https://doi.org/10.1126/sciadv.aej3478"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec5359",
+      "title": "Environmental tuning of thyroid hormone signaling drives developmental plasticity",
+      "title_original": "Environmental tuning of thyroid hormone signaling drives developmental plasticity",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec5359",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Marcela Herrera",
+        "Saori Miura",
+        "Zoé Chamot",
+        "Mathieu Reynaud",
+        "Emma Gairin",
+        "Roger Huerlimann",
+        "Timothy Ravasi",
+        "Laurence Besseau",
+        "Yann Gibert",
+        "David Lecchini",
+        "Vincent Laudet"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec5359"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec5359",
+          "url": "https://doi.org/10.1126/sciadv.aec5359"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adx9022",
+      "title": "Emergent metabolic parasitism driven by organelle sequestration",
+      "title_original": "Emergent metabolic parasitism driven by organelle sequestration",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adx9022",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Holly V. Moeller",
+        "Erica Lasek-Nesselquist",
+        "Zachary L. Reitz",
+        "Christopher Paight",
+        "Brandon K. B. Seah",
+        "Nurislam Shaikhutdinov",
+        "Estienne C. Swart",
+        "Matthew D. Johnson"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adx9022"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adx9022",
+          "url": "https://doi.org/10.1126/sciadv.adx9022"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg4785",
+      "title": "Emergent cooperative superstructures via order-disorder kinetics in molecular intercalation superlattices",
+      "title_original": "Emergent cooperative superstructures via order-disorder kinetics in molecular intercalation superlattices",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg4785",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Taiga Ueda",
+        "Hideki Matsuoka",
+        "Shungo Aoyagi",
+        "Shunsuke Kitou",
+        "Yijin Zhang",
+        "Fumihiko Kimura",
+        "Kenta Hagiwara",
+        "Masato Sakano",
+        "Takahiro Iwagaki",
+        "Yuiga Nakamura",
+        "Kyoko Ishizaka",
+        "Tomoki Machida",
+        "Masayuki Suda",
+        "Taka-hisa Arima",
+        "Naoya Kanazawa"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg4785"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg4785",
+          "url": "https://doi.org/10.1126/sciadv.aeg4785"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adw5487",
+      "title": "Early fate diversification of radial glial progenitors during corticogenesis",
+      "title_original": "Early fate diversification of radial glial progenitors during corticogenesis",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adw5487",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Irene Varela-Martínez",
+        "Ana Villalba",
+        "Jorge García-Marqués",
+        "Alfonso Aguilera",
+        "Diogo S. Castro",
+        "Simon Hippenmeyer",
+        "Marta Nieto"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adw5487"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adw5487",
+          "url": "https://doi.org/10.1126/sciadv.adw5487"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg5362",
+      "title": "Dynamic twisting and imaging of moiré crystals",
+      "title_original": "Dynamic twisting and imaging of moiré crystals",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg5362",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Qixuan Zhang",
+        "Lingyuan Lyu",
+        "Sneh Pancholi",
+        "Ziying Yan",
+        "Trevor Senaha",
+        "Ruolun Zhang",
+        "Chen Wu",
+        "Leonard W. Cao",
+        "Jason Tresback",
+        "Andrew Dai",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Daniel E. Parker",
+        "Monica T. Allen"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg5362"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg5362",
+          "url": "https://doi.org/10.1126/sciadv.aeg5362"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb2781",
+      "title": "Dynamic prediction of HIV-related incomplete immune reconstitution: A multicenter, large cohort study using advanced joint modeling",
+      "title_original": "Dynamic prediction of HIV-related incomplete immune reconstitution: A multicenter, large cohort study using advanced joint modeling",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb2781",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Fang Liu",
+        "Hanxi Zhang",
+        "Xi Wang",
+        "Jinsong Huang",
+        "Jinchuan Shi",
+        "Zongxing Yang",
+        "Jianfeng Bao",
+        "Hongxin Zhao",
+        "Chunwen Pu",
+        "Shanshan Wang",
+        "Aifang Xu",
+        "Miaochan Wang",
+        "Dingyan Yan",
+        "Yunjiang Li",
+        "Rui Sun",
+        "Huiming Sheng",
+        "Jianhua Yu",
+        "Fujie Zhang",
+        "Lijun Sun"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb2781"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb2781",
+          "url": "https://doi.org/10.1126/sciadv.aeb2781"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb0500",
+      "title": "Dual-parameter chiral detection at the single-particle level enabled by surface cosine waves",
+      "title_original": "Dual-parameter chiral detection at the single-particle level enabled by surface cosine waves",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb0500",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Shuangshuang Wang",
+        "Fengxia Wu",
+        "Wenxin Niu",
+        "Weiyu Wei",
+        "Min Lin",
+        "Luping Du",
+        "Xiaocong Yuan"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb0500"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb0500",
+          "url": "https://doi.org/10.1126/sciadv.aeb0500"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee6556",
+      "title": "Dopamine depletion in Parkinson’s increases directed but not random exploration",
+      "title_original": "Dopamine depletion in Parkinson’s increases directed but not random exploration",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee6556",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Björn Meder",
+        "Martha Sterf",
+        "Charley M. Wu",
+        "Matthias Guggenmos"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee6556"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee6556",
+          "url": "https://doi.org/10.1126/sciadv.aee6556"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee8327",
+      "title": "Distributed burst firing mediates optimized cortical encoding of natural self-motion",
+      "title_original": "Distributed burst firing mediates optimized cortical encoding of natural self-motion",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee8327",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jerome Carriot",
+        "Isabelle Mackrous",
+        "Kathleen E. Cullen",
+        "Maurice J. Chacron"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee8327"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee8327",
+          "url": "https://doi.org/10.1126/sciadv.aee8327"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee2515",
+      "title": "Direct visualization of RNA virus and evaluation of drug effect in living cells by catalytically transformable DNA cube",
+      "title_original": "Direct visualization of RNA virus and evaluation of drug effect in living cells by catalytically transformable DNA cube",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee2515",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jiajia Liu",
+        "Qiming Yan",
+        "Hongbo Qin",
+        "Ziyan Zhou",
+        "Xiaoyao Bai",
+        "Lei Wang",
+        "Yigang Tong",
+        "Xin Su"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee2515"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee2515",
+          "url": "https://doi.org/10.1126/sciadv.aee2515"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg1996",
+      "title": "Development of a structurally distinct TopBP1 inhibitor that enhances PARP blockade and reverses osimertinib resistance",
+      "title_original": "Development of a structurally distinct TopBP1 inhibitor that enhances PARP blockade and reverses osimertinib resistance",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg1996",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Fang-Tsyr Lin",
+        "Shwu-Jiuan Lin",
+        "Kang Liu",
+        "Yang Xiao",
+        "Lidija A. Wilhelms Garan",
+        "Helena Folly-Kossi",
+        "Weei-Chin Lin"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg1996"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg1996",
+          "url": "https://doi.org/10.1126/sciadv.aeg1996"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed0772",
+      "title": "Deep learning reveals a neurocomputational mechanism predicting depression risk in adolescents",
+      "title_original": "Deep learning reveals a neurocomputational mechanism predicting depression risk in adolescents",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed0772",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Han Lu",
+        "Xiaoqian Yan",
+        "Benjamin Becker",
+        "Andreas Heinz",
+        "Barbara J. Sahakian",
+        "Christelle Langley",
+        "Zhaoyu Zuo",
+        "Luolong Cao",
+        "Zuo Zhang",
+        "Lauren Robinson",
+        "Nilakshi Vaidya",
+        "Jeanne Winterer",
+        "Sinead King",
+        "Charlotte Walton",
+        "Tobias Banaschewski",
+        "Gareth J. Barker",
+        "Arun L.W. Bokde",
+        "Rüdiger Brühl",
+        "Herta Flor",
+        "Hugh Garavan",
+        "Penny Gowland",
+        "Antoine Grigis",
+        "Herve Lemaitre",
+        "Jean-Luc Martinot",
+        "Marie-Laure Paillère Martinot",
+        "Eric Artiges",
+        "Frauke Nees",
+        "Dimitri Papadopoulos Orfanos",
+        "Luise Poustka",
+        "Hedi Kebir",
+        "Ulrike Schmidt",
+        "Julia Sinclair",
+        "Michael N. Smolka",
+        "Sarah Hohmann",
+        "Nathalie Holz",
+        "Henrik Walter",
+        "Robert Whelan",
+        "Sylvane Desrivières",
+        "Gunter Schumann",
+        "Qiang Luo"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed0772"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed0772",
+          "url": "https://doi.org/10.1126/sciadv.aed0772"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee4959",
+      "title": "Decoding the chemical space of fast-ion conductors via a descriptor-guided transfer learning framework",
+      "title_original": "Decoding the chemical space of fast-ion conductors via a descriptor-guided transfer learning framework",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee4959",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Zhilong Wang",
+        "Fengqi You"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee4959"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee4959",
+          "url": "https://doi.org/10.1126/sciadv.aee4959"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec5951",
+      "title": "Dasatinib reversibly disrupts T cell motility and activation in lymph nodes",
+      "title_original": "Dasatinib reversibly disrupts T cell motility and activation in lymph nodes",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec5951",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Daniela Claudino Carvoeiro",
+        "Ana Marcos-Jiménez",
+        "Ilya Tsukalov",
+        "Clara Viñas i Palou",
+        "Sergio Sanchez Luquin",
+        "Ihssane Eladnani",
+        "Raquel Hernanz",
+        "Ana M. Briones",
+        "Enrique Martín-Gayo",
+        "Cecilia Muñoz-Calleja",
+        "Jens V. Stein"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec5951"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec5951",
+          "url": "https://doi.org/10.1126/sciadv.aec5951"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adt2097",
+      "title": "Continuous contributions of the dorsolateral striatum to movement initiation and execution",
+      "title_original": "Continuous contributions of the dorsolateral striatum to movement initiation and execution",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adt2097",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jiaming Cao",
+        "Yujie Zhao",
+        "Jianing Yu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adt2097"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adt2097",
+          "url": "https://doi.org/10.1126/sciadv.adt2097"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef1603",
+      "title": "Cohesin facilitates nucleosome invasion by transcription factors",
+      "title_original": "Cohesin facilitates nucleosome invasion by transcription factors",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef1603",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Shane Stoeber",
+        "Hengye Chen",
+        "Ruo-Wen Chen",
+        "Courtney Smith",
+        "Sam Becker",
+        "Sarah Vinson",
+        "Michael G. Poirier",
+        "Lu Bai"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef1603"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef1603",
+          "url": "https://doi.org/10.1126/sciadv.aef1603"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef9469",
+      "title": "Capsid stabilization reprograms the nuclear fate of the HIV genome",
+      "title_original": "Capsid stabilization reprograms the nuclear fate of the HIV genome",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef9469",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Thierry Mourer",
+        "Mohamad Harastani",
+        "Celine Cuche",
+        "Jose Ignacio Perez-Lopez",
+        "Salvatore Tornambe",
+        "Stephane Tachon",
+        "Guillaume Corre",
+        "Maria Julia Maristany",
+        "Jean-Yves Tinevez",
+        "Anastasia Gazi",
+        "Valentina Poletti",
+        "Rosana Collepardo-Guevara",
+        "Anna Sartori-Rupp",
+        "Francesca Di Nunzio"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef9469"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef9469",
+          "url": "https://doi.org/10.1126/sciadv.aef9469"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee2483",
+      "title": "Biophysical reprogramming of immunosuppressive neutrophils by cold atmospheric plasma reinvigorates antitumor immunity",
+      "title_original": "Biophysical reprogramming of immunosuppressive neutrophils by cold atmospheric plasma reinvigorates antitumor immunity",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee2483",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Ganyu Wang",
+        "Zhiwei Cui",
+        "Xin Jiang",
+        "Ying Sun",
+        "Yifan Liu",
+        "Xinyuan Li",
+        "Wushan Li",
+        "Ruirui Sun",
+        "Xuemei Liu",
+        "Nengwang Yu",
+        "Xiaolong Wang",
+        "Benkang Shi",
+        "Weiqiang Jing"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee2483"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee2483",
+          "url": "https://doi.org/10.1126/sciadv.aee2483"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec6963",
+      "title": "Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanical and electrical insulating properties",
+      "title_original": "Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanical and electrical insulating properties",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aec6963",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Guan-Hua Yu",
+        "Xiao-Feng Pan",
+        "Wen-Long Xu",
+        "Yin-Bo Zhu",
+        "Si-Ming Chen",
+        "Shu-Hong Yu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aec6963"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aec6963",
+          "url": "https://doi.org/10.1126/sciadv.aec6963"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb0624",
+      "title": "Bioinspired architected catalyst for efficient water purification: Bridging reactivity, reusability, and catalytic component utilization",
+      "title_original": "Bioinspired architected catalyst for efficient water purification: Bridging reactivity, reusability, and catalytic component utilization",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeb0624",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xirui Zhou",
+        "Songyan Zhang",
+        "Hanzheng Xing",
+        "Ni Yan",
+        "Xia Huang",
+        "Xuan Zhang",
+        "Xiaoyuan Zhang",
+        "Xiaoyan Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeb0624"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeb0624",
+          "url": "https://doi.org/10.1126/sciadv.aeb0624"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg4730",
+      "title": "Atomically precise Au 24 (SR) 20 nanoclusters with multiemission",
+      "title_original": "Atomically precise Au 24 (SR) 20 nanoclusters with multiemission",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg4730",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Weijie Ji",
+        "Guiying He",
+        "Zhongyu Liu",
+        "Yitong Wang",
+        "Christopher G. Gianopoulos",
+        "Amber Chang",
+        "Lianshun Luo",
+        "Avirup Sardar",
+        "Sihan Chen",
+        "Kristin Kirschbaum",
+        "Xiaowei Wang",
+        "Jiafeng Zhang",
+        "Rongchao Jin"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg4730"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg4730",
+          "url": "https://doi.org/10.1126/sciadv.aeg4730"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef2576",
+      "title": "Assessing pedestrian responses to autonomous and personal mobility robots in crowded public spaces",
+      "title_original": "Assessing pedestrian responses to autonomous and personal mobility robots in crowded public spaces",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef2576",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Dominik Wojcikiewicz",
+        "Aude Billard",
+        "Diego Paez-Granados"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef2576"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef2576",
+          "url": "https://doi.org/10.1126/sciadv.aef2576"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed9403",
+      "title": "Assembly-formed bioorthogonal chimeric artificial receptors enable high-contrast fluorescence imaging of tumors",
+      "title_original": "Assembly-formed bioorthogonal chimeric artificial receptors enable high-contrast fluorescence imaging of tumors",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed9403",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Jianli Zuo",
+        "Yuxi Tan",
+        "Zhaode Mu",
+        "Yuhan Dong",
+        "Yijie Wu",
+        "Yanzhi Li",
+        "Yonghua Yuan",
+        "Xiaobo Wang",
+        "Yongjun Dang",
+        "Lijuan Bai",
+        "Hongwen Liang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed9403"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed9403",
+          "url": "https://doi.org/10.1126/sciadv.aed9403"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg0819",
+      "title": "Artificial Neptune balls: Superadhesive biomimetic networks for broad-size microplastics capture and removal",
+      "title_original": "Artificial Neptune balls: Superadhesive biomimetic networks for broad-size microplastics capture and removal",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg0819",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Haeleen Hong",
+        "Byeunggon Kim",
+        "Mesbah Ahmad",
+        "Orlin D. Velev"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg0819"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg0819",
+          "url": "https://doi.org/10.1126/sciadv.aeg0819"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed0733",
+      "title": "APOE + macrophages and POSTN + CAFs form immune-exclusion niche driving immunotherapy resistance in clear-cell renal carcinoma",
+      "title_original": "APOE + macrophages and POSTN + CAFs form immune-exclusion niche driving immunotherapy resistance in clear-cell renal carcinoma",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aed0733",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Qintao Ge",
+        "Shengdong Ge",
+        "Zhongyuan Wang",
+        "Aihetaimujiang Anwaier",
+        "Jiahe Lu",
+        "Xi Tian",
+        "Yue Wang",
+        "Jianfeng Yang",
+        "Yonghao Chen",
+        "Hailiang Zhang",
+        "Dingwei Ye",
+        "Shan-Chao Zhao",
+        "Wenhao Xu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aed0733"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aed0733",
+          "url": "https://doi.org/10.1126/sciadv.aed0733"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef7205",
+      "title": "Anisotropic variable negative-Poisson-ratio metamaterials for tunable multispectral camouflage and electromagnetic energy harvesting",
+      "title_original": "Anisotropic variable negative-Poisson-ratio metamaterials for tunable multispectral camouflage and electromagnetic energy harvesting",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef7205",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Xiaofen Yang",
+        "Kaixia Yang",
+        "Meiwan Ying",
+        "Zhengchen Wu",
+        "Wenbin You",
+        "Bicheng Li",
+        "Lei Wang",
+        "Liting Yang",
+        "Renchao Che"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef7205"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef7205",
+          "url": "https://doi.org/10.1126/sciadv.aef7205"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee6790",
+      "title": "A temporal differentiation program after birth delineates γδ T cell immunity",
+      "title_original": "A temporal differentiation program after birth delineates γδ T cell immunity",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee6790",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Maria V. Baglioni",
+        "Marcelo G. F. Fares da Silva",
+        "Andrea Sonnenholzner",
+        "John Rizk",
+        "Alastair Copland",
+        "Elisa Catafal-Tardos",
+        "Davide Secci",
+        "Paula Peñalver-Sebastián",
+        "Martin F. Laursen",
+        "Susanne S. Kappel",
+        "Jacob Oehlenschlæger",
+        "Mark B. Ellebæk",
+        "Gitte Zachariassen",
+        "Lise Aunsholt",
+        "David Bending",
+        "Lars R. Olsen",
+        "Vasileios Bekiaris"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee6790"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee6790",
+          "url": "https://doi.org/10.1126/sciadv.aee6790"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee6610",
+      "title": "A metabolite morphogen coordinates multicellular development in Bacillus subtilis",
+      "title_original": "A metabolite morphogen coordinates multicellular development in Bacillus subtilis",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aee6610",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Taylor B. Updegrove",
+        "Vani Pande",
+        "Fukang She",
+        "Michael C. Gilmore",
+        "Vivek Anantharaman",
+        "David M. Stevenson",
+        "Daniel Amador-Noguez",
+        "L. Aravind",
+        "Felipe Cava",
+        "Jiji Chen",
+        "Jue D. Wang",
+        "Kumaran S. Ramamurthi"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aee6610"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aee6610",
+          "url": "https://doi.org/10.1126/sciadv.aee6610"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz8270",
+      "title": "A comprehensive and accessible database of jawed-vertebrate ohnologs",
+      "title_original": "A comprehensive and accessible database of jawed-vertebrate ohnologs",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.adz8270",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Łukasz Niezabitowski",
+        "Róisín Long",
+        "Anthony K. Redmond",
+        "Aoife McLysaght"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.adz8270"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.adz8270",
+          "url": "https://doi.org/10.1126/sciadv.adz8270"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef4951",
+      "title": "A clinical and experimental investigation of liraglutide effects on the brain-kidney axis",
+      "title_original": "A clinical and experimental investigation of liraglutide effects on the brain-kidney axis",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aef4951",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Michael P. Greenwood",
+        "Mohammed I. Alotaibi",
+        "Soledad Bárez-López",
+        "Nathan W. P. Cantley",
+        "Sharon Merritt",
+        "Danijela Tatovic",
+        "David Murphy"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aef4951"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aef4951",
+          "url": "https://doi.org/10.1126/sciadv.aef4951"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg0515",
+      "title": "A biodegradable piezoelectric vertebral implant for programmable electro-neuromodulation in spinal cord injury",
+      "title_original": "A biodegradable piezoelectric vertebral implant for programmable electro-neuromodulation in spinal cord injury",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aeg0515",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Penghao Liu",
+        "Xinyu Wang",
+        "Yanchun Liu",
+        "Zhuofan Xu",
+        "Yana He",
+        "Yongchang Lu",
+        "Liguo Ye",
+        "Wenjing Wu",
+        "Zan Chen",
+        "Yushu Wang",
+        "Fengyu Zhang",
+        "Xiaoping Yang",
+        "Yingjie Yu",
+        "Qing Cai",
+        "Wanru Duan"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aeg0515"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aeg0515",
+          "url": "https://doi.org/10.1126/sciadv.aeg0515"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea8281",
+      "title": "3D genome organization in tissue regeneration involves long-range chromatin loops",
+      "title_original": "3D genome organization in tissue regeneration involves long-range chromatin loops",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Science Advances",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1126/sciadv.aea8281",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2375-2548"
+      ],
+      "authors": [
+        "Palmira Llorens-Giralt",
+        "Carlos Camilleri-Robles",
+        "Leo Zuber",
+        "Jenisha Khadka",
+        "Maria Marti-Marimon",
+        "Andrea Crespo-Pera",
+        "Florenci Serras",
+        "Maria Cristina Gambetta",
+        "Marc A. Marti-Renom",
+        "Montserrat Corominas"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1126/sciadv.aea8281"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1126/sciadv.aea8281",
+          "url": "https://doi.org/10.1126/sciadv.aea8281"
+        }
+      ]
+    }
+  ]
+}
