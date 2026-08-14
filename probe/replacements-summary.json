@@ -1,0 +1,82 @@
+{
+  "journals": [
+    {
+      "slug": "the-lancet-regional-health-europe",
+      "journal": "The Lancet Regional Health – Europe",
+      "articles": 33,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 33,
+          "detail": null,
+          "query": "container=The Lancet Regional Health – Europe; publication=2026-08-01..2026-08-14",
+          "returned_count": 33,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 33,
+          "truncated": false
+        },
+        {
+          "accepted_count": 32,
+          "detail": null,
+          "query": "(\"The Lancet Regional Health – Europe\"[Journal] OR \"2666-7762\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 32,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 32,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"The Lancet Regional Health – Europe\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "the-lancet-regional-health-western-pacific",
+      "journal": "The Lancet Regional Health – Western Pacific",
+      "articles": 16,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 16,
+          "detail": null,
+          "query": "container=The Lancet Regional Health – Western Pacific; publication=2026-08-01..2026-08-14",
+          "returned_count": 16,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 16,
+          "truncated": false
+        },
+        {
+          "accepted_count": 7,
+          "detail": null,
+          "query": "(\"The Lancet Regional Health – Western Pacific\"[Journal] OR \"2666-6065\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 7,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 7,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"The Lancet Regional Health – Western Pacific\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    }
+  ],
+  "total_articles": 49,
+  "flag_count": 0
+}
