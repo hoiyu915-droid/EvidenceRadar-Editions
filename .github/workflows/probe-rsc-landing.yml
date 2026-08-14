@@ -1,4 +1,4 @@
-name: Prepare Chemical Science translation input
+name: Publish Chemical Science August edition
 
 on:
   push:
@@ -9,42 +9,179 @@ permissions:
   contents: write
 
 jobs:
-  prepare:
+  publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.12"
-      - name: Emit compact translation input
+      - name: Install package
+        run: python -m pip install -e .
+      - name: Run Chemical Science adapter tests
+        run: python -m unittest tests.test_rsc_chemical_science -v
+      - name: Build, translate, validate and store canonical edition
         run: |
           python - <<'PY'
           import json
+          import shutil
+          from collections import Counter
+          from datetime import date
           from pathlib import Path
-          run = json.loads(Path('probe/chemical-science-live-untranslated.json').read_text(encoding='utf-8'))
-          rows = []
+
+          from evidenceradar_editions.bundle import write_bundle
+          from evidenceradar_editions.engine import build_run
+          from evidenceradar_editions.models import EditionSpec
+          from evidenceradar_editions.store_v3 import store_bundle, validate_stored_publication
+          from evidenceradar_editions.translation import (
+              TRANSLATION_RESPONSE_TYPE,
+              apply_translation_response,
+              build_translation_request,
+          )
+          from evidenceradar_editions.utils import utc_now_iso
+
+          mapping = json.loads(
+              Path('probe/chemical-science-translations.zh-TW.json').read_text(encoding='utf-8')
+          )
+          assert isinstance(mapping, dict) and len(mapping) == 76
+
+          spec = EditionSpec(
+              journal='Chemical Science',
+              start_date=date(2026, 8, 1),
+              end_date=date(2026, 8, 14),
+              slug='chemical-science',
+              issn='2041-6539',
+              sources=('rsc_chemical_science',),
+              max_records=500,
+              period_kind='month',
+              revision=1,
+          )
+          run = build_run(spec)
+          assert run['run_status'] == 'COMPLETE'
+          assert run['counts']['articles'] == 76
+          assert run['counts']['by_article_type'] == {'Correction': 2, 'Journal Article': 74}
+          check = run['source_checks'][0]
+          assert check['source'] == 'rsc_chemical_science'
+          assert check['status'] == 'SUCCESS'
+          assert check['returned_count'] == 83
+          assert check['accepted_count'] == 76
+          assert check['total_available'] == 83
+          assert check['truncated'] is False
+          assert 'issue furniture excluded=7' in check['detail']
+          assert 'unexpected records rejected=0' in check['detail']
+
+          dois = {str(a['doi']).lower() for a in run['articles']}
+          assert dois == set(mapping), (sorted(dois - set(mapping)), sorted(set(mapping) - dois))
+
+          request = build_translation_request(run)
+          items = []
           for article in run['articles']:
-              rows.append({
+              doi = str(article['doi']).lower()
+              title_zh = str(mapping[doi]).strip()
+              assert title_zh
+              items.append({
                   'canonical_id': article['canonical_id'],
-                  'doi': article['doi'],
-                  'publication_date': article['publication_date'],
-                  'article_type': article['article_type'],
-                  'title': article['title_original'],
+                  'title_zh_tw': title_zh,
+                  'summary_zh_tw': (
+                      f'本篇文獻題名為「{title_zh}」。此導讀僅依題名整理；'
+                      '研究設計、數據與結果請查閱原文。'
+                  ),
+                  'basis': 'TITLE_ONLY',
+                  'source_url': None,
               })
-          rows.sort(key=lambda x: (x['publication_date'], x['doi']))
-          assert len(rows) == 76
-          Path('probe/chemical-science-translation-input.jsonl').write_text(
-              ''.join(json.dumps(row, ensure_ascii=False, separators=(',', ':')) + '\n' for row in rows),
+          response = {
+              'schema_version': '1.0',
+              'artifact_type': TRANSLATION_RESPONSE_TYPE,
+              'edition_id': run['edition_id'],
+              'request_id': request['request_id'],
+              'language': 'zh-TW',
+              'source_edition_sha256': request['source_edition_sha256'],
+              'request_binding_sha256': request['request_binding_sha256'],
+              'generated_at': utc_now_iso(),
+              'item_count': len(items),
+              'items': items,
+          }
+          enriched = apply_translation_response(run, response, require_complete=True)
+          assert enriched['translation']['status'] == 'COMPLETE'
+          assert enriched['counts']['translated_articles'] == 76
+
+          build_root = Path('build/chemical-science-final')
+          if build_root.exists():
+              shutil.rmtree(build_root)
+          bundle_dir = build_root / 'bundle'
+          bundle_dir.mkdir(parents=True)
+          manifest = write_bundle(enriched, bundle_dir)
+          assert manifest['article_count'] == 76
+          assert manifest['translated_article_count'] == 76
+          assert manifest['translation_status'] == 'COMPLETE'
+
+          target = store_bundle(bundle_dir, Path('editions'), require_zh_tw=True)
+          expected = Path('editions/chemical-science/2026/08/r01')
+          assert target.resolve() == expected.resolve(), (target, expected)
+          errors = validate_stored_publication(target, require_zh_tw=True)
+          assert not errors, errors
+
+          registry_path = Path('catalog/journals.json')
+          registry = json.loads(registry_path.read_text(encoding='utf-8'))
+          rows = [row for row in registry['journals'] if row.get('slug') == 'chemical-science']
+          assert len(rows) == 1
+          row = rows[0]
+          row['issn'] = '2041-6539'
+          row['sources'] = ['rsc_chemical_science']
+          # Keep registry lifecycle unchanged: this task publishes the planned
+          # journal's edition but does not silently alter planned/active governance.
+          assert row.get('status') == 'planned'
+          assert row.get('enabled') is False
+          registry_path.write_text(
+              json.dumps(registry, indent=2, ensure_ascii=False, sort_keys=True) + '\n',
               encoding='utf-8',
           )
-          print(json.dumps({'count': len(rows), 'first': rows[0], 'last': rows[-1]}, ensure_ascii=False, indent=2))
+
+          coverage_path = Path('catalog/coverage/2026-08.json')
+          coverage = json.loads(coverage_path.read_text(encoding='utf-8'))
+          rows = [row for row in coverage['journals'] if row.get('slug') == 'chemical-science']
+          assert len(rows) == 1
+          row = rows[0]
+          row['article_count'] = 76
+          row['coverage_status'] = 'PUBLISHED'
+          row['initial_probe_articles'] = 76
+          row['initial_probe_run_status'] = 'COMPLETE'
+          row['note'] = (
+              'Canonical 2026-08 r01 edition exists. Chemical Science uses a journal-specific '
+              'RSC First published surrogate: Crossref DOI created day matched 21/21 official '
+              'RSC controls exactly; 83 in-window candidates were validated, 7 cover/contents '
+              'records excluded, and 76 scholarly records published. Generic Crossref created '
+              'dates remain prohibited as publication-date evidence.'
+          )
+          coverage_path.write_text(
+              json.dumps(coverage, indent=2, ensure_ascii=False, sort_keys=True) + '\n',
+              encoding='utf-8',
+          )
+
+          statuses = Counter(row['coverage_status'] for row in coverage['journals'])
+          assert len(coverage['journals']) == 58
+          assert all(row['coverage_status'] != 'DATE_EVIDENCE_INSUFFICIENT' for row in coverage['journals'])
+          print(json.dumps({
+              'canonical_directory': str(target),
+              'article_count': 76,
+              'translated': 76,
+              'article_types': enriched['counts']['by_article_type'],
+              'coverage_status_counts': dict(sorted(statuses.items())),
+          }, indent=2, ensure_ascii=False))
           PY
-      - name: Commit translation input
+      - name: Run full unit test suite
+        run: python -m unittest discover -s tests -v
+      - name: Remove temporary probe machinery
+        run: |
+          rm -rf build
+          git rm -r --ignore-unmatch probe
+          git rm --ignore-unmatch .github/workflows/probe-rsc-landing.yml
+      - name: Commit final publication
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add -- probe/chemical-science-translation-input.jsonl
-          git diff --cached --quiet && exit 0
-          git commit -m 'data: prepare Chemical Science translation input'
+          git add -A -- editions/chemical-science catalog/journals.json catalog/coverage/2026-08.json probe .github/workflows/probe-rsc-landing.yml
+          git status --short
+          git commit -m 'publish: add Chemical Science August 2026 edition'
           git push origin HEAD:fix/chemical-science-first-party
