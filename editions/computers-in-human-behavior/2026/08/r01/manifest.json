@@ -1,0 +1,43 @@
+{
+  "article_count": 35,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T02:05:41Z",
+  "edition_id": "computers-in-human-behavior__2026-08__r01",
+  "edition_key": "computers-in-human-behavior__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 59338,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.json",
+      "sha256": "85a93a0cd6d310ae67968f0bc5a823c38a3789ad78634b98cd9bf6a507e80893"
+    },
+    "report_html": {
+      "bytes": 106511,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.html",
+      "sha256": "055336f72521887d4069bd1c6aada1c828cbb92a554873aa1f47203a1d315db4"
+    }
+  },
+  "journal": "Computers in Human Behavior",
+  "journal_slug": "computers-in-human-behavior",
+  "manifest_name": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "computers-in-human-behavior__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 35,
+  "translation_provenance": {
+    "request_binding_sha256": "9895c8aaa499350a40892ee9e9674df6ef6aefd80439846bd89956ed7ab20829",
+    "response_sha256": "9b3ed954026cff49285fa1c68a76ecd931f552202d332f958fc9df6330b800de",
+    "source_edition_sha256": "8e235649d4325b55b25543a139586f40faa307986857595822488320d9fa904b"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}
