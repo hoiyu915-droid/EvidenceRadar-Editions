@@ -1,20 +1,20 @@
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104131","title":"Chronic obstructive pulmonary disease and risk of incident cardiovascular disease, chronic kidney disease, and death: a systematic review and meta-analysis","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104102","title":"Changes in healthcare use and cost associated with referrals to social prescribing link workers in England: a matched case–control cohort study","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104118","title":"Cardiovascular outcomes and mortality risk at diagnosis of type 2 diabetes in older adults: a retrospective population-based study using health records from Spain","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104123","title":"Artificial intelligence in cardiovascular care: a systematic review and meta-analysis of randomised controlled trials","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104098","title":"Applying the 2024-revised McDonald criteria for multiple sclerosis using conventional diagnostic tools: a single-centre prospective cohort study in Germany","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104081","title":"AAV9-mediated GAA gene therapy following enzyme replacement therapy discontinuation in children with infantile-onset Pompe disease","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104078","title":"A deep learning model for opportunistic screening of chronic kidney disease using chest radiographs: a multicentre validation study in the USA","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.eclinm.2026.104109","title":"[177Lu]Lu-DOTA-TATE plus long-acting octreotide in patients with newly diagnosed, advanced, grade 2–3, gastroenteropancreatic neuroendocrine tumours: preplanned and post-hoc efficacy analyses from the randomised, phase 3 NETTER-2 trial","slug":"eclinicalmedicine"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105056","title":"Sparse autoencoders reveal interpretable cell-type programs in single-cell foundation model representations","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105059","title":"Robust end-to-end stratification of amyotrophic lateral sclerosis patients via recurrent variational autoencoder and consensus clustering","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105053","title":"Optimising clinical information extraction: a comparative study of retrieval-augmented generation techniques in clinical notes","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105060","title":"Multisite evaluation of automated electronic case report form data entry from electronic health records","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105069","title":"MMTF-DTI: Drug–target interaction prediction via multimodal feature extraction and dynamic fusion","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105055","title":"Mitigating hallucinations in synthesized clinical texts to improve multimodal deep learning for dermatology","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105061","title":"IHGCN-PLA: An interpretable heterogeneous graph convolutional network for protein–ligand binding affinity prediction with multimodal interaction fusion","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105058","title":"How to determine when data incompleteness compromises the correct training of data-enhanced mechanical models of haemodialysis? A data quality criterion","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105057","title":"Heterogeneous domain adaptation survival analysis with partially observed outcomes via dictionary learning and distribution alignment","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105074","title":"Evaluation of temporal preservation in synthetic longitudinal patient data","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105054","title":"DispFormer: A dual attention transformer with denoising for biomedical irregular time series classification","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105067","title":"DeepEN: A deep reinforcement learning framework for personalized enteral nutrition in critical care","slug":"journal-of-biomedical-informatics"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104131","title_zh_tw":"慢性阻塞性肺病與新發心血管疾病、慢性腎臟病及死亡風險：系統性回顧與統合分析"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104102","title_zh_tw":"英格蘭轉介至社會處方連結工作者後醫療利用與成本的變化：配對病例對照世代研究"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104118","title_zh_tw":"高齡者診斷第二型糖尿病時的心血管結果與死亡風險：使用西班牙健康紀錄的回溯性人口研究"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104123","title_zh_tw":"心血管照護中的人工智慧：隨機對照試驗系統性回顧與統合分析"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104098","title_zh_tw":"使用傳統診斷工具套用 2024 年修訂版多發性硬化症 McDonald 標準：德國單中心前瞻性世代研究"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104081","title_zh_tw":"嬰兒型龐貝氏症兒童停止酵素替代治療後接受 AAV9 媒介 GAA 基因治療"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104078","title_zh_tw":"以胸部 X 光進行慢性腎臟病機會性篩檢的深度學習模型：美國多中心驗證研究"}
+{"canonical_id":"doi:10.1016/j.eclinm.2026.104109","title_zh_tw":"[177Lu]Lu-DOTA-TATE 合併長效 octreotide 治療新診斷晚期第 2–3 級胃腸胰神經內分泌腫瘤：隨機第 3 期 NETTER-2 試驗預先規劃與事後療效分析"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105056","title_zh_tw":"稀疏自動編碼器揭示單細胞基礎模型表徵中可解釋的細胞類型程式"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105059","title_zh_tw":"以循環變分自動編碼器與共識分群進行肌萎縮性側索硬化症患者的穩健端到端分層"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105053","title_zh_tw":"臨床資訊擷取最佳化：臨床紀錄中檢索增強生成技術的比較研究"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105060","title_zh_tw":"從電子健康紀錄自動填入電子病例報告表的多中心評估"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105069","title_zh_tw":"MMTF-DTI：透過多模態特徵擷取與動態融合預測藥物－標靶交互作用"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105055","title_zh_tw":"降低合成臨床文本中的幻覺以改善皮膚科多模態深度學習"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105061","title_zh_tw":"IHGCN-PLA：以多模態交互作用融合預測蛋白質－配體結合親和力的可解釋異質圖卷積網路"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105058","title_zh_tw":"如何判定資料不完整何時會損害資料增強型血液透析力學模型的正確訓練？一項資料品質準則"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105057","title_zh_tw":"透過字典學習與分布對齊，對部分觀察結果進行異質領域適應存活分析"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105074","title_zh_tw":"合成縱向患者資料的時間結構保留評估"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105054","title_zh_tw":"DispFormer：具去噪功能的雙重注意力 Transformer，用於生物醫學不規則時間序列分類"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105067","title_zh_tw":"DeepEN：重症照護個人化腸內營養的深度強化學習框架"}
