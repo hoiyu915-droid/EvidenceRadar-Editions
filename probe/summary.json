@@ -1,0 +1,198 @@
+{
+  "period": "2026-08",
+  "through": "2026-08-14",
+  "journals": [
+    {
+      "slug": "clinical-biomechanics",
+      "journal": "Clinical Biomechanics",
+      "articles": 31,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 28,
+          "detail": null,
+          "query": "container=Clinical Biomechanics; publication=2026-08-01..2026-08-14",
+          "returned_count": 28,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 28,
+          "truncated": false
+        },
+        {
+          "accepted_count": 27,
+          "detail": null,
+          "query": "(\"Clinical Biomechanics\"[Journal] OR \"0268-0033\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 27,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 27,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Clinical Biomechanics\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "clinical-nutrition-espen",
+      "journal": "Clinical Nutrition ESPEN",
+      "articles": 83,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 71,
+          "detail": null,
+          "query": "container=Clinical Nutrition ESPEN; publication=2026-08-01..2026-08-14",
+          "returned_count": 71,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 71,
+          "truncated": false
+        },
+        {
+          "accepted_count": 84,
+          "detail": null,
+          "query": "(\"Clinical Nutrition ESPEN\"[Journal] OR \"2405-4577\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 84,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 84,
+          "truncated": false
+        },
+        {
+          "accepted_count": 23,
+          "detail": null,
+          "query": "JOURNAL:\"Clinical Nutrition ESPEN\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 23,
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "total_available": 23,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "clinical-nutrition-open-science",
+      "journal": "Clinical Nutrition Open Science",
+      "articles": 25,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 25,
+          "detail": null,
+          "query": "container=Clinical Nutrition Open Science; publication=2026-08-01..2026-08-14",
+          "returned_count": 25,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 25,
+          "truncated": false
+        },
+        {
+          "accepted_count": 1,
+          "detail": null,
+          "query": "(\"Clinical Nutrition Open Science\"[Journal] OR \"2667-2685\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 1,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 1,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Clinical Nutrition Open Science\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "eclinicalmedicine",
+      "journal": "eClinicalMedicine",
+      "articles": 53,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 53,
+          "detail": null,
+          "query": "container=eClinicalMedicine; publication=2026-08-01..2026-08-14",
+          "returned_count": 53,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 53,
+          "truncated": false
+        },
+        {
+          "accepted_count": 35,
+          "detail": null,
+          "query": "(\"eClinicalMedicine\"[Journal] OR \"2589-5370\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 35,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 35,
+          "truncated": false
+        },
+        {
+          "accepted_count": 1,
+          "detail": null,
+          "query": "JOURNAL:\"eClinicalMedicine\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 1,
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "total_available": 1,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "journal-of-biomedical-informatics",
+      "journal": "Journal of Biomedical Informatics",
+      "articles": 25,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 22,
+          "detail": null,
+          "query": "container=Journal of Biomedical Informatics; publication=2026-08-01..2026-08-14",
+          "returned_count": 22,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 22,
+          "truncated": false
+        },
+        {
+          "accepted_count": 25,
+          "detail": null,
+          "query": "(\"Journal of Biomedical Informatics\"[Journal] OR \"1532-0464\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 25,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 25,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Journal of Biomedical Informatics\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 3,
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "total_available": 3,
+          "truncated": false
+        }
+      ]
+    }
+  ],
+  "total_articles": 217,
+  "flag_count": 7
+}
