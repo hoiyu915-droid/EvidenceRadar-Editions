@@ -34,12 +34,12 @@
       "slug": "artificial-intelligence-in-medicine"
     },
     {
-      "article_count": 0,
-      "coverage_status": "DATE_EVIDENCE_INSUFFICIENT",
-      "initial_probe_articles": null,
-      "initial_probe_run_status": null,
+      "article_count": 76,
+      "coverage_status": "PUBLISHED",
+      "initial_probe_articles": 76,
+      "initial_probe_run_status": "COMPLETE",
       "journal": "Chemical Science",
-      "note": "Crossref publication/online-publication filters returned zero; 81 created-date candidates are not publication evidence. RSC first-party landing/RSS access failed from hosted runner, so no August edition was fabricated.",
+      "note": "Canonical 2026-08 r01 edition exists. Chemical Science uses a journal-specific RSC First published surrogate: Crossref DOI created day matched 21/21 official RSC controls exactly; 83 in-window candidates were validated, 7 cover/contents records excluded, and 76 scholarly records published. Generic Crossref created dates remain prohibited as publication-date evidence.",
       "registry_status": "planned",
       "slug": "chemical-science"
     },
