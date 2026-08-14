@@ -1,0 +1,43 @@
+{
+  "article_count": 83,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T04:06:17Z",
+  "edition_id": "clinical-nutrition-espen__2026-08__r01",
+  "edition_key": "clinical-nutrition-espen__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 169501,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__clinical-nutrition-espen__2026-08__r01.json",
+      "sha256": "89f2b46b0fbde29e873fdabf3dea6e93a98db2f58935be6f6b9f936796192a3f"
+    },
+    "report_html": {
+      "bytes": 275365,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__clinical-nutrition-espen__2026-08__r01.html",
+      "sha256": "72ea74ffb8a27813534edd611df870f1934155a8dcdf33fcf97950f5d2f95a0f"
+    }
+  },
+  "journal": "Clinical Nutrition ESPEN",
+  "journal_slug": "clinical-nutrition-espen",
+  "manifest_name": "EvidenceRadar_Editions__clinical-nutrition-espen__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "clinical-nutrition-espen__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 83,
+  "translation_provenance": {
+    "request_binding_sha256": "08726942e5137c79d9893c966ba58cfed1182202801ca7b74c58aee4e729592a",
+    "response_sha256": "21538710db162eeabef8e83c8c50b117fdec35138ec257f535feca581ca387c1",
+    "source_edition_sha256": "89f6f5f637a572a8a9645a4236410445a5ac56b84af85069b3688179d8b89f12"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}
