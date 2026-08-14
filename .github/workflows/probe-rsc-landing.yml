@@ -1,0 +1,89 @@
+name: Probe RSC first-party article landings
+
+on:
+  push:
+    branches: [fix/chemical-science-first-party]
+    paths: [.github/workflows/probe-rsc-landing.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+      - name: Probe Crossref candidates against official RSC landings
+        run: |
+          python -m pip install 'requests>=2.32,<3'
+          python - <<'PY'
+          import html
+          import json
+          import re
+          import time
+          import requests
+
+          ISSN = "2041-6539"
+          CROSSREF = "https://api.crossref.org/works"
+          session = requests.Session()
+          session.headers.update({
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36 EvidenceRadar-Editions/0.2",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept-Language": "en-GB,en;q=0.9",
+          })
+
+          params = {
+              "filter": "from-created-date:2026-08-01,until-created-date:2026-08-14,issn:" + ISSN + ",type:journal-article",
+              "query.container-title": "Chemical Science",
+              "rows": 20,
+              "select": "DOI,title,container-title,created,URL,ISSN,type",
+          }
+          r = session.get(CROSSREF, params=params, timeout=30)
+          r.raise_for_status()
+          message = r.json()["message"]
+          candidates = message.get("items") or []
+          print(json.dumps({
+              "crossref_total": message.get("total-results"),
+              "sampled": len(candidates),
+          }, indent=2))
+
+          # Known official Chemical Science article landing used as a control.
+          probes = [("10.1039/d6sc90108e", "known-control")]
+          probes += [(str(item.get("DOI") or "").lower(), "candidate") for item in candidates]
+
+          results = []
+          for doi, kind in probes:
+              suffix = doi.split("/", 1)[1] if "/" in doi else ""
+              url = f"https://pubs.rsc.org/en/content/articlelanding/2026/sc/{suffix}"
+              row = {"doi": doi, "kind": kind, "url": url}
+              try:
+                  resp = session.get(url, timeout=30, allow_redirects=True)
+                  text = resp.text
+                  flat = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", text)))
+                  marker = re.search(r"First published.{0,140}", flat, re.I)
+                  row.update({
+                      "status": resp.status_code,
+                      "final_url": resp.url,
+                      "bytes": len(resp.content),
+                      "first_published": bool(re.search(r"First published", flat, re.I)),
+                      "article_type": bool(re.search(r"Article type", flat, re.I)),
+                      "doi_visible": suffix.casefold() in flat.casefold(),
+                      "first_published_context": marker.group(0) if marker else None,
+                  })
+              except Exception as exc:
+                  row["error"] = f"{type(exc).__name__}: {exc}"
+              results.append(row)
+              print(json.dumps(row, ensure_ascii=False))
+              time.sleep(0.15)
+
+          ok = [x for x in results if x.get("status") == 200 and x.get("first_published")]
+          print(json.dumps({
+              "probe_count": len(results),
+              "first_published_ok": len(ok),
+              "first_published_dois": [x["doi"] for x in ok],
+          }, ensure_ascii=False, indent=2))
+          PY
