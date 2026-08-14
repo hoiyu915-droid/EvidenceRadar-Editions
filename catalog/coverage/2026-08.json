@@ -205,11 +205,11 @@
     },
     {
       "article_count": 0,
-      "coverage_status": "DATE_EVIDENCE_INSUFFICIENT",
+      "coverage_status": "NO_MATCHING_ARTICLES",
       "initial_probe_articles": 0,
       "initial_probe_run_status": "NO_MATCHING_ARTICLES",
       "journal": "Information Processing & Management",
-      "note": "No canonical August edition and no terminal evidence classification was available.",
+      "note": "Exact ISSN Crossref publication-date reconstruction returned zero articles for 2026-08-01..14.",
       "registry_status": "active",
       "slug": "information-processing-and-management"
     },
@@ -592,8 +592,8 @@
   "schema_version": "1.0",
   "semantics": "All registered journals were evaluated for an August 2026 MTD edition. A missing edition is classified explicitly rather than represented by a fabricated empty publication.",
   "status_counts": {
-    "DATE_EVIDENCE_INSUFFICIENT": 2,
-    "NO_MATCHING_ARTICLES": 3,
+    "DATE_EVIDENCE_INSUFFICIENT": 1,
+    "NO_MATCHING_ARTICLES": 4,
     "OUTSIDE_WINDOW": 2,
     "PUBLISHED": 51
   }
