@@ -1,10 +1,9 @@
-{"canonical_id":"doi:10.1016/j.jbi.2026.105068","title":"Deep learning applications in cancer treatment Prediction: Comprehensive research foundation for systematic review and Meta-Analysis","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105090","title":"Common data element (CDE) and AI-Enabled approaches for clinical data Management: Workshop proceedings from the NIH INCLUDE Project","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105076","title":"CoAff-DTI: Fine-grained drug–target interaction prediction using pre-trained language models and affinity-guided mechanisms","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105066","title":"Clustering-based federated causal discovery for multicenter clinical data analysis","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105080","title":"Causal intervention validation of gene regulatory signals in scGPT","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105062","title":"Call for papers: agentic AI for real-world evidence life cycle support − scaling trustworthy evaluation of treatment safety and effectiveness","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105072","title":"Beyond Accuracy: Safety-Centered guidelines for the evaluation of LLM-based therapy recommendation systems for chronic multimorbidity patients","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105070","title":"ASP-HR: An Adaptive Spatial Perception and Hierarchical Reasoning mechanism for document-level biomedical relation extraction","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105071","title":"ARKE: An ontology-driven framework for automated mapping of local radiology procedure terms to the LOINC-RadLex playbook using large language model","slug":"journal-of-biomedical-informatics"}
-{"canonical_id":"doi:10.1016/j.jbi.2026.105073","title":"A validation-driven training controller for cross-lingual biomedical NER via reinforcement learning-based adaptive loss weighting","slug":"journal-of-biomedical-informatics"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105068","title_zh_tw":"癌症治療預測中的深度學習應用：系統性回顧與統合分析的全面研究基礎"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105090","title_zh_tw":"臨床資料管理的共同資料元素（CDE）與 AI 賦能方法：NIH INCLUDE 計畫工作坊會議紀要"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105076","title_zh_tw":"CoAff-DTI：運用預訓練語言模型與親和力引導機制進行細粒度藥物－標靶交互作用預測"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105066","title_zh_tw":"以分群為基礎的聯邦因果發現，用於多中心臨床資料分析"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105080","title_zh_tw":"scGPT 中基因調控訊號的因果介入驗證"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105072","title_zh_tw":"超越準確度：以安全為核心的 LLM 治療建議系統評估指引，適用於慢性多重共病患者"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105070","title_zh_tw":"ASP-HR：用於文件層級生物醫學關係擷取的自適應空間感知與階層式推理機制"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105071","title_zh_tw":"ARKE：以大型語言模型將本地放射科檢查術語自動對映至 LOINC-RadLex playbook 的本體驅動框架"}
+{"canonical_id":"doi:10.1016/j.jbi.2026.105073","title_zh_tw":"以驗證為導向的訓練控制器：透過強化學習自適應損失加權進行跨語言生物醫學命名實體辨識"}
