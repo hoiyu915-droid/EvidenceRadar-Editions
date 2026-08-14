@@ -723,25 +723,31 @@
       "categories": [
         "interdisciplinary"
       ],
-      "enabled": false,
+      "issn": "2375-2548",
       "name": "Science Advances",
       "oa": "fully_oa",
       "publisher": "AAAS",
       "slug": "science-advances",
       "source_id": "science_advances",
-      "status": "planned"
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
       "categories": [
         "interdisciplinary"
       ],
-      "enabled": false,
+      "issn": "2052-4463",
       "name": "Scientific Data",
       "oa": "fully_oa",
       "publisher": "Nature Portfolio",
       "slug": "scientific-data",
       "source_id": "scientific_data",
-      "status": "planned"
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
       "categories": [
