@@ -6,7 +6,7 @@ on:
     paths: [.github/workflows/probe-rsc-landing.yml]
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   probe:
@@ -17,165 +17,95 @@ jobs:
       - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.12"
-      - name: Probe Crossref candidates against official RSC landings
+      - name: Snapshot and validate Chemical Science candidates
         run: |
           python -m pip install 'requests>=2.32,<3'
           python - <<'PY'
-          import html
+          import collections
           import json
-          import re
-          import time
+          from pathlib import Path
           import requests
 
           ISSN = "2041-6539"
-          CROSSREF = "https://api.crossref.org/works"
-          session = requests.Session()
-          session.headers.update({
-              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36 EvidenceRadar-Editions/0.2",
-              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-              "Accept-Language": "en-GB,en;q=0.9",
-          })
-
+          s = requests.Session()
+          s.headers.update({"User-Agent": "EvidenceRadar-Editions/0.2 chemical-science-snapshot (mailto:noreply@example.com)"})
           params = {
               "filter": "from-created-date:2026-08-01,until-created-date:2026-08-14,issn:" + ISSN + ",type:journal-article",
               "query.container-title": "Chemical Science",
-              "rows": 20,
-              "select": "DOI,title,container-title,created,URL,ISSN,type",
+              "rows": 1000,
+              "select": "DOI,title,container-title,created,URL,ISSN,author,type,publisher,prefix",
           }
-          r = session.get(CROSSREF, params=params, timeout=30)
+          r = s.get("https://api.crossref.org/works", params=params, timeout=60)
           r.raise_for_status()
           message = r.json()["message"]
-          candidates = message.get("items") or []
-          print(json.dumps({
-              "crossref_total": message.get("total-results"),
-              "sampled": len(candidates),
-          }, indent=2))
+          items = message.get("items") or []
 
-          probes = [("10.1039/d6sc90108e", "known-control")]
-          probes += [(str(item.get("DOI") or "").lower(), "candidate") for item in candidates]
+          def first(value):
+              return value[0] if isinstance(value, list) and value else value
 
-          results = []
-          for doi, kind in probes:
-              suffix = doi.split("/", 1)[1] if "/" in doi else ""
-              url = f"https://pubs.rsc.org/en/content/articlelanding/2026/sc/{suffix}"
-              row = {"doi": doi, "kind": kind, "url": url}
-              try:
-                  resp = session.get(url, timeout=30, allow_redirects=True)
-                  text = resp.text
-                  flat = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", text)))
-                  marker = re.search(r"First published.{0,140}", flat, re.I)
-                  row.update({
-                      "status": resp.status_code,
-                      "final_url": resp.url,
-                      "bytes": len(resp.content),
-                      "first_published": bool(re.search(r"First published", flat, re.I)),
-                      "article_type": bool(re.search(r"Article type", flat, re.I)),
-                      "doi_visible": suffix.casefold() in flat.casefold(),
-                      "first_published_context": marker.group(0) if marker else None,
-                  })
-              except Exception as exc:
-                  row["error"] = f"{type(exc).__name__}: {exc}"
-              results.append(row)
-              print(json.dumps(row, ensure_ascii=False))
-              time.sleep(0.10)
+          cleaned = []
+          for raw in items:
+              created_parts = ((raw.get("created") or {}).get("date-parts") or [[]])[0]
+              created = None
+              if len(created_parts) >= 3:
+                  created = f"{created_parts[0]:04d}-{created_parts[1]:02d}-{created_parts[2]:02d}"
+              cleaned.append({
+                  "DOI": raw.get("DOI"),
+                  "title": first(raw.get("title")),
+                  "container-title": first(raw.get("container-title")),
+                  "created": created,
+                  "URL": raw.get("URL"),
+                  "ISSN": raw.get("ISSN") or [],
+                  "author": raw.get("author") or [],
+                  "type": raw.get("type"),
+                  "publisher": raw.get("publisher"),
+                  "prefix": raw.get("prefix"),
+              })
+          cleaned.sort(key=lambda x: (x.get("created") or "", (x.get("DOI") or "").casefold()))
 
-          ok = [x for x in results if x.get("status") == 200 and x.get("first_published")]
-          print(json.dumps({
-              "probe_count": len(results),
-              "first_published_ok": len(ok),
-              "first_published_dois": [x["doi"] for x in ok],
-          }, ensure_ascii=False, indent=2))
-          PY
-
-      - name: Inspect Crossref REST and Unixref date metadata
-        run: |
-          python - <<'PY'
-          import json
-          import re
-          import requests
-          from urllib.parse import quote
-
-          dois = [
-              "10.1039/D5SC08870D",
-              "10.1039/D6SC90108E",
-              "10.1039/D6SC05688A",
-          ]
-          s = requests.Session()
-          s.headers.update({"User-Agent": "EvidenceRadar-Editions/0.2 crossref-unixref-probe (mailto:noreply@example.com)"})
-          date_keys = ["created", "deposited", "indexed", "issued", "published", "published-online", "published-print", "posted", "accepted"]
-          for doi in dois:
-              rest = s.get("https://api.crossref.org/works/" + quote(doi, safe=""), timeout=30)
-              rest.raise_for_status()
-              msg = rest.json()["message"]
-              print("REST", doi, json.dumps({k: msg.get(k) for k in date_keys if msg.get(k) is not None}, ensure_ascii=False))
-
-              u = "https://api.crossref.org/v1/works/" + quote(doi, safe="") + "/transform/application/vnd.crossref.unixref+xml"
-              xr = s.get(u, timeout=30)
-              print("UNIXREF_STATUS", doi, xr.status_code, xr.headers.get("content-type"), len(xr.content))
-              text = xr.text
-              snippets = []
-              for pat in (
-                  r"<publication_date[^>]*>.*?</publication_date>",
-                  r"<posted_date[^>]*>.*?</posted_date>",
-                  r"<acceptance_date[^>]*>.*?</acceptance_date>",
-                  r"<date[^>]*>.*?</date>",
-              ):
-                  snippets.extend(re.findall(pat, text, flags=re.I | re.S))
-              compact = [re.sub(r"\s+", " ", x).strip() for x in snippets[:20]]
-              print("UNIXREF_DATES", doi, json.dumps(compact, ensure_ascii=False))
-          PY
-
-      - name: Backtest Crossref created date against RSC First published
-        run: |
-          python - <<'PY'
-          import json
-          import requests
-          from urllib.parse import quote
-
-          # Expected dates are transcribed from official RSC Chemical Science
-          # article/collection pages. They are used only to validate whether the
-          # Crossref DOI creation day is a stable RSC-specific surrogate.
-          expected = {
-              "10.1039/D6SC02555B": "2026-05-12",
-              "10.1039/D6SC01189F": "2026-04-08",
-              "10.1039/D5SC08419A": "2026-02-02",
-              "10.1039/D6SC02112C": "2026-06-10",
-              "10.1039/D6SC01835A": "2026-05-15",
-              "10.1039/D6SC00738D": "2026-05-21",
-              "10.1039/D6SC01985D": "2026-04-24",
-              "10.1039/D6SC03294J": "2026-05-19",
-              "10.1039/D6SC00025H": "2026-03-23",
-              "10.1039/D6SC00603E": "2026-03-10",
-              "10.1039/D6SC00439C": "2026-03-30",
-              "10.1039/D5SC09496H": "2026-02-25",
-              "10.1039/D5SC08870D": "2026-03-12",
-              "10.1039/D5SC08277C": "2026-02-18",
-              "10.1039/D5SC08561F": "2026-02-11",
-              "10.1039/D5SC06930K": "2026-01-28",
-              "10.1039/D5SC09508E": "2026-02-02",
-              "10.1039/D5SC09619G": "2026-01-15",
-              "10.1039/D5SC07068F": "2026-01-09",
-              "10.1039/D5SC08183A": "2026-01-07",
-              "10.1039/D6SC90108E": "2026-05-13",
+          exact_journal = [x for x in cleaned if str(x.get("container-title") or "").casefold() == "chemical science"]
+          exact_issn = [x for x in cleaned if ISSN in (x.get("ISSN") or [])]
+          rsc_prefix = [x for x in cleaned if str(x.get("DOI") or "").lower().startswith("10.1039/")]
+          full_day = [x for x in cleaned if x.get("created")]
+          publishers = collections.Counter(str(x.get("publisher")) for x in cleaned)
+          types = collections.Counter(str(x.get("type")) for x in cleaned)
+          dates = collections.Counter(str(x.get("created")) for x in cleaned)
+          summary = {
+              "crossref_total_results": message.get("total-results"),
+              "returned": len(cleaned),
+              "exact_journal": len(exact_journal),
+              "exact_issn": len(exact_issn),
+              "rsc_doi_prefix": len(rsc_prefix),
+              "full_created_day": len(full_day),
+              "missing_title": sum(not x.get("title") for x in cleaned),
+              "publisher_counts": dict(sorted(publishers.items())),
+              "type_counts": dict(sorted(types.items())),
+              "created_date_counts": dict(sorted(dates.items())),
           }
-          s = requests.Session()
-          s.headers.update({"User-Agent": "EvidenceRadar-Editions/0.2 rsc-created-backtest (mailto:noreply@example.com)"})
-          rows = []
-          for doi, official in expected.items():
-              r = s.get("https://api.crossref.org/works/" + quote(doi, safe=""), timeout=30)
-              r.raise_for_status()
-              msg = r.json()["message"]
-              parts = ((msg.get("created") or {}).get("date-parts") or [[]])[0]
-              created = "-".join(f"{x:02d}" if i else f"{x:04d}" for i, x in enumerate(parts[:3])) if len(parts) >= 3 else None
-              row = {"doi": doi, "official_first_published": official, "crossref_created": created, "match": created == official}
-              rows.append(row)
-              print(json.dumps(row))
-          mismatches = [r for r in rows if not r["match"]]
-          print(json.dumps({
-              "sample_size": len(rows),
-              "matches": len(rows) - len(mismatches),
-              "mismatches": len(mismatches),
-              "match_rate": (len(rows) - len(mismatches)) / len(rows),
-              "mismatch_rows": mismatches,
-          }, indent=2))
+          payload = {
+              "artifact_type": "ChemicalScienceCreatedDateCandidateSnapshot",
+              "window": {"start": "2026-08-01", "end": "2026-08-14"},
+              "journal": "Chemical Science",
+              "issn": ISSN,
+              "query_semantics": "Crossref created-date candidates only; not generic publication-date evidence",
+              "summary": summary,
+              "items": cleaned,
+          }
+          Path("probe").mkdir(exist_ok=True)
+          Path("probe/chemical-science-candidates.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+          print(json.dumps(summary, indent=2))
+          assert len(cleaned) == message.get("total-results")
+          assert len(exact_journal) == len(cleaned)
+          assert len(exact_issn) == len(cleaned)
+          assert len(rsc_prefix) == len(cleaned)
+          assert len(full_day) == len(cleaned)
+          assert not summary["missing_title"]
           PY
+      - name: Commit snapshot to probe branch
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add probe/chemical-science-candidates.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'data: snapshot Chemical Science August candidates'
+          git push origin HEAD:fix/chemical-science-first-party
