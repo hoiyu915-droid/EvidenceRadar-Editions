@@ -1,0 +1,645 @@
+{
+  "part": 4,
+  "items": [
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132468",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Risk-averse optimization for coordinated trading and scheduling in hydrogen-ammonia integrated virtual power plants under dual uncertainties",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132530",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Robust and reliable status prediction for complex engineering systems using Bayesian network model with risk-adaptive strategy and rectification mechanism",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133947",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Robust Multimodal Sentiment Analysis via Entropy-Constrained Cross-Attention with Information Bottleneck-based Recovery",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132330",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Robust radial MRI reconstruction under multi-scenario mismatch via deep prior guided weighted sparsity",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132497",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "S2PW-Mamba: Pinwheel and wavelet-based spatial-spectral mamba for hyperspectral image classification",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132175",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SAM2-WaveUNet: A frequency-enhanced segmentation network for fine-grained marine organism delineation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132488",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SAMRes-MedFuse: A Dual-Encoder network with reciprocal guidance and Structure-Decoupled decoding for medical image segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132487",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SAR target recognition based on hierarchical azimuth aware feature enhancement network",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132528",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SC-CAMamba: Multi-objective classroom behaviour recognition based on parallel state space models and self-attention",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132579",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "ScoreDiff: Decoupled score decomposition for Physics-guided underwater image restoration",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133860",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SCoReN: A Statistical Correlation Reconciliation Network for Calibrated Skip Fusion in 3D Medical Image Segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132304",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SDA-Det: A subpixel-aware dual-domain artifact detector for AI-generated image detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132322",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Securing decentralized federated learning: An integrated approach with blockchain, TEE, and internal attack detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132421",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SfMamba: Efficient source-free domain adaptation via selective scan modeling",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132259",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SGD-SST 2.0: Seamless global daily sea surface temperature products cross-sensors generating from 2003 to 2025",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132419",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Shoot the arrow at the target: Personalized adversarial defense driven by dynamic rewards",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132429",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SNA-SPM: A sequence nodelist based algorithm for sequential pattern mining",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132565",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Social network group decision-making with opinion evolution under uncertainty: Distributionally robust optimization approach",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132431",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SpaceMutation : An LLM-assisted mutation testing framework for DNNs in distributed LEO satellites",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132364",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Spatio -temporal-aware preference optimization for personalized radiology report generation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132395",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Squirrel search-based capsule neural network for Alzheimer and Parkinson disease classification",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132525",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SRA-YOLO: Enhancing tiny person detection on construction sites via Riemannian metric coordinate attention",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132499",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SRITrack: Online multi-object tracking for sports broadcasting with re-entry identity enhancement",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.134012",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Stability Oriented Dynamic Event–Triggered Control of Supply Chain and Product Management Using Fuzzy Model Based on Markov Process",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132490",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Stability–plasticity inspired knowledge distillation expert system with Lipschitz-regularized neuro-modulation for silicon-carbide power modules health monitoring in next-generation electric vehicles",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132568",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "STCDePhysio : A decoupled deepfake detection framework based on spatio-temporal consistency of human physiological signals",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132309",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "STG-Nav: Incorporating STG with LLM-based semantic reasoning for zero-shot object goal navigation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132569",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Strategic optimization of “Buy One on the Way” recommendations and pricing in competitive e-commerce",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132501",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "SUAD: semantic understanding and attribute discrimination for visual grounding",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132392",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Synergizing bidirectional spiking P system with geometric context weighting and dual-channel syntactic fusion for aspect-based sentiment analysis",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133943",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "TCubes: Non-Privacy Invasive Dataset for Activities of Daily Living as Thermal Cubes",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132425",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Temporal multimodal fusion with AI-enabled textual and macroeconomic features for multi-horizon oil price prediction",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132286",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "TGFS-Net: Texture-guided frequency-spatial attention network for hyperspectral reconstruction of anisotropic wood",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133982",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Thermal Target Reconstruction and Novel View Synthesis from Sparse UAV Observations using 3D Gaussian Splatting",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132243",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "ThoraxAgent: An intelligent agent-based decision support system for chest radiography analysis with cross-modal dynamic retrieval",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132227",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Threshold-free frequency-utility skyline sequential pattern mining with non-overlapping occurrence semantics",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132461",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Timestamp as a prior: Enhancing long-term time series forecast via temporal semantic-aligned contrastive learning",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133996",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "TopiCLEAR: Adaptive embedding clustering for interpretable topic discovery from short texts",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132161",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Topology-inspired metric for detecting potential defects in lithography",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133784",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Toward Explainable Robotaxi User Experience Diagnosis: Weakly Supervised Clause-Level Evidence Extraction Using Predictive Attribution",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133968",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Towards Discernible Prototypes in Heterogeneous Federated Learning via Neural Collapse",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132423",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Towards generalizable driver drowsiness detection: A unified framework with geometric transformations and self-correcting adversarial learning",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132538",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Traffic collision analysis and traffic flow simulation in Toronto using cellular automata models",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132420",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Traffic forecasting with adaptive spatio-temporal masked pretraining",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132450",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Uncovering statistical structure in high-dimensional class-imbalance learning via theory-guided data-adaptive ensembles",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132355",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Understanding InfoNCE: Transition probability matrix induced feature clustering",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132422",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Video plot segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132331",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Vision transformers for neurological disorder diagnosis: a systematic review of architectural taxonomies, challenges, and future directions",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132399",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Wavelet mixture of experts for time series forecasting",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133916",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Weighted Outlier Detection Method Based on Nearest Neighbor Relation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132486",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "YOLO-pineapple: enhanced pineapple detection in UAV images using an optimized YOLOv8 model",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132641",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Zero-shot transfer learning bearing fault diagnosis based on generative adversarial network with multi-attribute vector fusion",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76560-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "3D-local noisy shallow quantum circuits defeat unbounded fan-in classical circuits",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76381-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A catalytically polymerized solid electrolyte enables 450 Wh kg−1 lithium–metal batteries with thermal–mechanical abuse tolerance",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76385-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A chromatin-informed transcriptional regulatory framework to stratify patients and guide therapy selection in triple-negative breast cancer",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76395-6",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A critical role of the histone lysine demethylase JmjC1 in regulating severe malaria-associated virulence genes in Plasmodium falciparum",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76401-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A family of ultrathin non-van der waals kamiokite-type oxides for two-dimensional electronics",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76555-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A flexible repertoire of wound closure strategies precedes whole-body regeneration",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76634-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A foundation model for acute abdomen diagnosis stratification and triage on noncontrast computed tomography",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75326-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A foundation model for sleep-based risk stratification and clinical outcomes",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76280-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A functional atlas of transposon-encoded products and their integration into host networks",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76652-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A glycolytic intermediate gatekeeps global mRNA decay in Escherichia coli",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76362-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A Hydrogen Bonded Organic Framework Constructed from Mixed Valence Fe Clusters for Efficient H2O2 Photosynthesis",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76302-z",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A Lactate–H4K12la–HDAC1 epigenetic axis governs microglial state transitions during experimental autoimmune encephalomyelitis in female mice",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75745-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A language network in the individualized functional connectomes of 1199 human brains doing arbitrary tasks",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75882-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A massively parallel CRISPR-based screening platform for modifiers of neuronal depolarization",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76448-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A microphysiological system HHT-on-a-chip platform recapitulates patient vascular lesions",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76529-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A missing continental impact melt sheet signal in the early Earth detrital zircon record",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76487-3",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A modular self-assembling peptide platform targeting TGF-β1 for tendon regeneration",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76061-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A molecular velcro self-healing cement",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75731-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A national-scale assessment of the impact of canals on urban temperatures",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76849-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A permeable protein nanocage enables facile cargo loading and cytosolic protein delivery",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76331-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A potassium-based single-atom catalyst enables acute lung injury immunotherapy in mice by inhibiting macrophage pyroptosis",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75931-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A prolonged hydrothermal past at Santorini Caldera revealed by sedimentary trace metal and microbial signatures",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75871-3",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A second yearly booster dose of the VLA15 Lyme borreliosis vaccine candidate in healthy individuals",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76098-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A single computational objective can produce specialization of streams in visual cortex",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76357-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A systematic identification of resistance determinants to antisense antibiotics suggests adaptation strategies dependent on the delivery peptide",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75797-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A ubiquitin chain-feeding mechanism for BRCA1-A",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76620-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "A unified mechano-ionic skin for resolving native electromechanical coupling",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76643-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "AAT/SERPINA1 Pi*Z variant linked to gestational length and preterm birth prevention via AAT in mice",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

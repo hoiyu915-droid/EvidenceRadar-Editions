@@ -1,0 +1,645 @@
+{
+  "part": 22,
+  "items": [
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66349-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancement of selecting the cluster head based on the voting mechanism and Elliptic Curve Cryptography for Wireless Sensor Networks (ECHVM)",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65732-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing botnet attack detection using a hybrid deep learning model combining network flow and DNS query features with explainable AI for cybersecurity",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61103-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing climate resilience of smallholders through rigorous On-Farm Validation of DSR suitable varieties and evidence driven varietal recommendations in rainfed upland ecologies of India",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66416-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing cognitive–emotional self-regulation in girls with conduct disorder: a controlled intervention study comparing virtual reality and club-based martial arts training",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66566-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing healthcare insurance fraud detection using explainable ensemble machine learning on imbalanced datasets",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63664-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing identity stability in sperm motility analysis via density-adaptive tracklet stitching with YOLOv12n and BoostTrack++",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66422-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing LLM generalization to high-difficulty reading comprehension through fine-tuning with intermediate-complexity data",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64924-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing lung cancer subtype classification using histopathology foundation models in weakly-supervised and unsupervised learning frameworks",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66555-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing mechanical and physical performance of basalt/nylon fiber metal laminates with SiC nanoparticles",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65073-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing productivity and soil health in pearl millet-wheat cropping system with legume based integrated nutrient management",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65761-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing scene text super-resolution via dense residual reconstruction and asymmetric recurrent modeling",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-52046-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing seismic imaging via 5D regularization and interpolation: case study from Bazuzi Field, Sirte Basin, Libya",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62488-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Enhancing the efficiency of quantum-dot-based single-photon source designs by suppressing background emission using concentric rings",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65047-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Ensemble deep learning for optimizing user immersion and engagement in virtual reality",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66551-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Environmental context effects on affective and cognitive empathy in virtual reality",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66724-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Environmental health literacy and preventive behaviors related to PM2.5 Exposure among village health volunteers in Thai rural communities: a cross-sectional study",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66300-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Environmental impact of copper smelting on surrounding areas: case study of Kankoyo Township",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65065-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Environmental serious games foster pro-environmental intentions through spillover moderated by connectedness to nature and awe",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65090-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Epacadostat and Olaparib synergistically inhibit pancreatic cancer growth through downregulation HR-associated proteins",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65400-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Epidemiology and prevalence patterns of head lice infestation in Isfahan Province, central Iran based on a surveillance study (2017–2024)",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64878-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Equivalence analysis of thermal response of materials irradiated with constant power and ultra-long pulsed laser",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65784-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Erectile dysfunction in adult male tuberculosis patients: a comparative cross-sectional study",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66092-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Escalating mortality and widening disparities in metabolic dysfunction-associated steatotic liver disease and related hepatocellular carcinoma in the US, 1999–2020",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66296-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Establishing an accessible screening platform for identifying bioactive bacterial metabolites that antagonize the Caenorhabditis elegans Ras signaling pathway",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64443-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Ethane dry reforming for CO2 utilization and H2 generation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66380-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Ethnicity-associated disparities in prevalence of chronic obstructive pulmonary disease: a population-based cross-sectional study in Yunnan Province, China",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61448-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Ethylenediaminetetraacetic acid (EDTA) alters phytochemicals of cooked Vicia faba beans and impairs liver and kidney functions in CD-1 mice",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64405-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluating clinical and neuroimaging predictors for cognitive-behavioral therapy outcome in obsessive-compulsive disorder",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64889-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluating supply chain sustainability in industrial clusters through an integrated Fermatean fuzzy RANCOM FUCA approach",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66211-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluating the classification performance and data requirements of Catch22 features on noisy and short synthetic time series",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62391-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluating the reliability and quality of rheumatoid arthritis educational content on TikTok and Bilibili: a cross-sectional content analysis",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64729-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluating waste based retrofit strategies for thermal performance improvement in North Sinai social housing",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65832-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation and selection of superior snap melon (Cucumis melo var. momordica Duth. & Full.) genotypes using morphological, yield, and selected fruit quality traits",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62171-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of aspirin resistance and its association with TBXA2R and ABCB1 polymorphisms in patients with acute coronary syndrome: a single-center case-control study",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-57480-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of clove-chitosan nanohybrids and clove nanoemulsions as bio-agents against the peach fruit fly, Bactrocera zonata (diptera: tephritidae)",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65485-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of Curcuma Radix’s protective effects on diabetic retinopathy based on network pharmacology and experimental validation",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-52635-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of different defect-inspection setups for injection molding parts based on the deep learning method",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65462-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of different internal bleaching methods after application of two bioceramic formulations in revascularization treatment: an in vitro study",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63629-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of edible coating on quality, biochemical components and microbial community under cooling and freezing conditions on fresh-cut artichoke",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65155-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of gastrointestinal and hepatic immune-related adverse events associated with nivolumab plus ipilimumab for unresectable advanced/recurrent pleural mesothelioma in Japan",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64672-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of Moringa oleifera extract and metal-organic frameworks (MOFs) as therapeutic agents against chronic Toxoplasma gondii infection in mice",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65548-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of patients’ anxiety and perceptions toward dental imaging modalities: a cross-sectional study",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65429-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of perimenstrual atopy in apparently healthy females through hormonal, immune, and autonomic changes across menstrual phases: a prospective study",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64473-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of permeability damage in tight sandstone from hydroxypropyl guar fracturing fluids after prolonged exposure",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65775-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of plastid and nuclear DNA barcode regions for identifying gypsum endemic plants in Semnan Province, Iran",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65531-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of public transportation network equity in low-density areas: a case of Lanzhou",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66727-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of the relationship between sustainable and healthy eating behaviours, phytochemical index, anthropometric measurements, and depression in young adults",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66008-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of the relationships between quality of life and spiritual well-being in patients with breast cancer: a cross-sectional study",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65337-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evaluation of the urinary bladder wall in healthy male dogs using B-mode ultrasonography and 2D shear wave elastography",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65333-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evidence of co-circulation and co-exposure to arboviruses and malaria in a longitudinal cohort in Kenya from 2019 to 2022",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65167-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evidence of predation events by marine mammals at offshore wind farms",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66155-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evidence of sequence-related bias in clinical performance evaluation among healthcare professionals",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64010-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Evolutionary game analysis of family–school–community collaboration in child outdoor physical exercise",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65386-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "EvoX-Boost: a hybrid evolutionary GPU-XGBoost framework for multiclass thyroid disease classification",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66818-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Exact finite-spectrum vibrational thermodynamics and radial information structure of diatomic hydrides in the newing potential",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64031-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Exercise trainingin home-based pulmonary rehabilitationforchronic obstructive pulmonary disease:Asystematic review and meta-analysis",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65857-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Exercise-induced metabolic response of supersulfides in skeletal muscle",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64581-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Exonisation of an Alu element in the 3’-UTR contributes to SRD5A2 deficiency",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64945-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Expanding the supply of human leukocytes for research by harvesting cell concentrates from Trima Accel tubing sets",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65711-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Expectation and acoustic neural network representations enhance music identification from brain activity",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62991-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Expected reward value and reward prediction errors reinforce but also interfere with human time perception",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66659-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experiences of kinesiophobia in patients with chronic obstructive pulmonary disease: a qualitative phenomenological study",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65731-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental analysis of nanofiber embedding and layer thickness on fracture toughness in fiber–epoxy laminates",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65623-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental and analytical investigations on the behavior of steel bolt-connected industrialized building frames under sudden pendulum impact",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64723-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental and computational evaluation of achieving RCCI combustion at low load in a dual-fuel light-duty diesel engine with biomethane surrogate",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64778-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental and computational investigation of collagen modification in skin chromatic alterations",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65134-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental and FE analysis of thrust force, burr formation, and tool wear in drilling aluminized steel",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64216-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental and numerical study of self-center steel shear wall under cyclic loading",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62622-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental evaluation of strength performance of autogenous self-healing concrete under the effect of microsilica addition",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-58875-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental evidence on response rates and data measurement in phone versus online surveys",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65201-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental infection of acute bee paralysis virus induces differential responses of selected honey bee immune genes, independent of varroa resistance",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65289-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental investigation and Monte Carlo validation of PMMA-based WO3- Bi2O3 radiation shield",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-60366-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental investigation of cooldown acceleration using auxiliary gas in conduction-cooled cryogenic devices",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65146-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental investigation on the shear strength, consolidation and permeability characteristics of cross-linked biopolymer-stabilized soils",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65624-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental study on the static and dynamic characteristics of straw-lime reinforced saline soil under freeze–thaw cycles",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-52406-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Experimental validation of a Ku-band cross-polarization converter and detailed numerical RCS investigation across multiple geometries",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64357-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Expertise-related modulation of posterior superior temporal sulcus activity during observation of dog–human training interactions",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64768-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Expired apheresis platelet-derived exosomes promote cutaneous wound healing",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64427-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Explainability-driven adaptive cyber deception control system for autonomous network defense",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65301-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Explainable multi-model machine learning framework for tensile property prediction of FeNiCrCoCu high-entropy alloys",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

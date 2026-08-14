@@ -1,0 +1,645 @@
+{
+  "part": 3,
+  "items": [
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132333",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "JPD-YOLO: a lightweight and high-efficiency framework for multi-scale jacket platform damage detection via decoupled scale-aware optimization",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133951",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "KA2L: A Knowledge-Aware Active Learning Framework for LLMs",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132272",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "KD-DiffSeg: knowledge distillation guided LiDAR-camera diffusion framework for 3D semantic segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133883",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "KD-SAM: Keep-Awake and Detail-Enhanced Segment Anything Model for Multi-Modality Multi-Organ Medical Image Segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132389",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Knowledge-enhanced graph reasoning for packaging design with engineering constraint validation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132447",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Knowledge-guided policy arbitration: A hierarchical cognitive framework for safety-critical decision-making under dynamic conflicting objectives",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132418",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "LandingDiff: uncertainty-aware hard-landing detection for aviation safety based on conditional diffusion",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132455",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Large-scale multimodal remote sensing image registration with semantic guidance and multi-scale contextual matching",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132445",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "LatinMark: Robust watermarking for latent diffusion models via distribution-preserving rearrangement based on latin hypercube sampling",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132352",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "LayGenID: Layout-preserving multi-conditional diffusion transformer with LoRA fusion for interior design generation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.131864",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Leader-centric adaptive group formation via multi-agent reinforcement learning for group recommendation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132229",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Learning with Euler non-negative representation for robust pattern analysis",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132518",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Less is more: AMBER-AFNO - a new benchmark for lightweight 3D medical image segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132470",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "LETNER: Label-EfficienT named entity recognition for cyber threat intelligence",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132516",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Lightweight heuristic IRS-enabled dueling DQN for digital twin-assisted vehicular edge computing",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132186",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Many-objective virtual power plants resource scheduling based on evolutionary multifactorial optimization",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132359",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "MARM: Medical adaptive reasoning model",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132416",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Mechanism-data hybrid-driven model for dam seepage prediction using deep learning and residual correction strategy",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133925",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Memristive Heterogeneous Hopfield Neural Network With Offset-Enhanced Chaos for Image Encryption",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132406",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Mitigating grid fluctuations in renewable power systems via vehicle-to-grid: A hybrid meta-heuristic optimization framework",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132544",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Mitigating hallucinations in image captioning via frequency perturbation entropy",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132296",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "MITRec: Modality intertwined tensorization decomposition for multimodal recommendation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132442",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Model-free surrogate-assisted neural architecture search for evolving variable-length dense blocks",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132374",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Modeling heterophily in multiplex graphs: An adaptive approach for node classification",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132485",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Monitoring of time-between-events using a bivariate exponential model integrated with machine learning for cryptocurrency trading",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132290",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "MotionLMC : A lightweight end-to-end collaborative framework for joint LiDAR object recognition and motion prediction",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132307",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "MPCANet: Multi-physical prior guided cross-modal attention and fusion network for RGB-T salient object detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132379",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "MSGL: A multi-scale group learning model for insider threat detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132391",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "MSHLoRA: A multi-stage multi-scale diverse adapter framework for efficient expert-level adaptation of large language models",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132662",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-Objective fly evolutionary neural network and related microgrid integrated energy dispatch optimization",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132597",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-objective material-structure integrated optimization of recycled aggregate CFST stub columns for mechanical performance, reliability, and sustainability",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132407",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-objective optimization of drone location-routing problem for photovoltaic power plant inspection: a MOEA/D-based approach with altitude coordination",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132465",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-objective transient optimization for intelligent quality fluctuation control in continuous annealing production line",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132054",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-period large-scale electric vehicle charging station deployment under latent charging demand: A Bayesian optimization-based large neighborhood search approach",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132414",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-scale wavelet low-frequency fusion network for particle image segmentation and size analysis of diammonium phosphate",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132368",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-sequence parotid gland lesion segmentation via expert text-guided segment anything model",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132349",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-target adversarial transfer TabTransformer for BOF endpoint composition prediction under zero-inflated sparsity",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132448",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multi-view graph contrastive learning for recommendations with sparse user-item interactions",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132475",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Multimodal progressive fusion and enhancement network for multimodal sentiment analysis",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132473",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "NaCGCN: Node-augmented complementary graph convolution networks for pedestrian trajectory prediction",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132469",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "NER: Noise-aware enhancement-assisted real-time detection transformer for pavement damage detection in hazy and low-light environment",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132443",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "New large group approach for quality function deployment based on bounded confidence and social network analysis",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133954",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Next point-of-interest recommendation for long-tail users via spatial-social aware contrastive learning",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132411",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "NEXUS: A multi-modal framework for capturing financial news interactions in market forecasting",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132572",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "NoiseLLM: JoT-guided LLM reasoning for label noise-robust cybersecurity event detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132440",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Occlusion-robust multi-object tracking against viewpoint changing for UAV",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132520",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "OE-Diff: Observation-embedded diffusion with closed-form guidance and inverse-root scheduling for real-world image super-resolution",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132397",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Offset-driven estimation and correction for nanosecond-scale laser-gated image restoration",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132375",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Optimal adversarial perturbation guided membership inference: Gradient-sensitive white-box and hybrid zeroth-order black-box strategies",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132586",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Optimal energy-conscious operational planning for capital-limited manufacturer with outsourcing options and tardiness penalty",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.134010",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Optimization decision-making and complexity analysis for cause-related marketing of a blockchain-enabled E-commerce supply chain considering consumer fairness concern",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132261",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "PASegNet: Integrating dual awareness of position and boundary on 3D dental meshes for tooth instance segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132444",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Physics-guided thermoelastic state-space learning for spindle thermal error in machine tools",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132396",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "PlanetNet -MMG: A robust multi-modal graph-based deep learning model for exoplanet candidate classification",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133948",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Plankton-LDM: A data augmentation method for class-imbalanced plankton image classification",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132413",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Pre-training spatio-temporal masked graph neural networks for traffic forecasting",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132314",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Pricing and green investment decisions of green supply chain considering equity financing under different government subsidy policies",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132408",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Prompt-based cross-domain graph distillation network for smart tourism recommendation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132591",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Quantifying the impact of asset interactions on network failure rates with insights from time-series reliability modelling",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133931",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Quantum Assistant: Specialization of Multimodal Vision-Language Models for Quantum Computing",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132387",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Quantum-resistant and extractable bilateral fine-grained access control for EMRs sharing",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132121",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "RA3-FDA: Resource-adaptive federated domain adaptation with dual heterogeneity awareness for EEG-based depression detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132354",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "RDR-KGC: Retrieval-denoising-reasoning for lightweight knowledge graph completion with LLMs",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132318",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Real-time analysis of indoor sports game situations through deep learning-based classification",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132248",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Real-time delay-compensated UWB localization for dynamic agents via deep trajectory prediction",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132427",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Realistic detection and prediction of autonomic nervous system anomalies: A hybrid deep learning framework with multiple optical fiber sensor fusion",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133791",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Realizing pollution control of wastewater discharge through intelligent urban reclaimed water utilization system: dynamic strategy optimization in multi-circulation modes",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132376",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Recognizing as-built building materials: a systematic mapping study",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133995",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Recommendation as a Service in Smart Cities: A Scoping Review and Framework for Adaptive Quality of Experience",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133985",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Reconciling Discriminability and Stability: Task-guided Feature Calibration and Prototype Anchoring for Federated Domain Generalization in Medical Imaging",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132517",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Reducing value estimation uncertainty in continuous control via gated quantile critics",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132365",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Refinement-based noise-conditioned learning for semi-supervised medical image segmentation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133958",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Reinforcement learning for valuing sequential infrastructure investment under uncertainty: Application to the expansion planning of hydrogen refueling stations in Korea",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132576",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Reliability evaluation method for complex system incorporating human–machine interaction",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132356",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Research on cooperative control strategy of urban rail virtually coupled train based on dueling double deep Q-network",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132489",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Retrieval augmented generation for open-set entity alignment with large language models",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133921",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Retrieval is NOT Always Needed: Exploring the Timing of Retrieval in Dynamic Retrieval-augmented Generation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133974",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Revealing Hidden Operational Regimes in Public Transport Networks Through Functional Graph Construction from Large-Scale Bus Trajectories",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132003",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Revealing multimodal information trade-off in multimodal knowledge graph completion",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132495",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "RIR-Agent: An interactive framework for effective and adaptive restoration of remote sensing imagery",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH"
+    }
+  ]
+}

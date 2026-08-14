@@ -1,0 +1,645 @@
+{
+  "part": 25,
+  "items": [
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64719-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Identification and characterization of PldB domain-containing esterase from a freshwater pond metagenome",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62421-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Identification and experimental validation of biomarkers associated with the Wnt signaling pathway in preeclampsia",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65744-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Identification and validation of cellular senescence biomarkers in recurrent pregnancy loss using machine learning and single-cell RNA sequencing",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66041-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Identification of heat-tolerant tomato genotypes through integrated phenotypic, biochemical, molecular, and GGE biplot analyses",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63329-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Identification of soil characteristics using Vp & Vs tomograms for hazard assessment: case study from Ain Sokhna area, Egypt",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-54602-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Identifying the interactive pathways shaping health satisfaction among Chinese older adults with tourism participation",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63548-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Idiomatic english–marathi neural machine translation: a comparative study with an idiom preservation accuracy metric",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65995-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Illness uncertainty and its influencing factors among patients with Budd–Chiari syndrome in China",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66063-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Image segmentation method with improved boa and scheduling processing",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64018-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Imbalance-aware explainable machine learning for concurrent child undernutrition modeling",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63362-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Immune markers associated with mortality and ventilator-free days in hospitalized COVID-19 patients: a cohort study from the metropolitan Aburra Valley, Colombia",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65927-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Immunoinformatics-guided in silico design of a multi-epitope peptide vaccine against Mycobacterium tuberculosis",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62070-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Immunological changes in the circulation of cancer patients in response to 10- and 30-min acute exercise",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64666-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Immunomodulatory, anti-inflammatory, and analgesic effects of Fasciola hepatica excretory/secretory proteins in a complete Freund’s adjuvant-induced rat model of rheumatoid arthritis",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65632-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of adpkd-associated PKD1 gene variants on the human facial phenotype quantified by 3d geometric morphometry",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65801-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of alcohol use discontinuation on adipose tissue insulin resistance among Latino patients with and without underlying chronic liver disease",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64285-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of atmospheric cold plasma on microbiological quality, toxicological safety, physicochemical transformation of freshly pressed celery juice",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64811-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of CD8+ T cells on lung injury prognosis via the TGF-β-PI3K/AKT axis in Echinococcus granulosus cyst fluid-induced anaphylaxis",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65917-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of coexisting idiopathic pulmonary fibrosis on prognosis in patients with lung cancer: a nationwide cohort study",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-59011-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of fly ash and farmyard manure on one health continuum of soil, grain and environment in maize",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61021-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of highly intensive functional balance training in children with developmental coordination disorder",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66512-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of imperatorin and isoimperatorin on the pharmacokinetics of abemaciclib both in vivo and in vitro",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64764-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of insulin resistance partially mediating symptomatic intracranial hemorrhage on futile recanalization in large vessel occlusion patients",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65378-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of loss function on reconstruction error distribution in deep learning-based CT image transformation: a Hounsfield unit residual analysis",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65524-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of maternal education levels and occupation status and their interaction effect on adverse maternal–perinatal outcomes among women with singleton and twin gestations in Hubei, China",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63594-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of nitrogen deposition and critical load exceedances on India’s ecologically sensitive regions",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63619-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of polygeneration topology on the technoeconomic performance of green hydrogen production utilizing integrated CPVT systems",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64555-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact of temporal patterns in working contacts on epidemic spread",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65872-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact on outcomes of STEMI from thrombotic coronary embolism origin",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65871-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impact-Angle-Dependent Thermo-Erosive Degradation of Partially Oxidized HVOF NiCr and Mo–25(NiCrBSiFe) Coatings: An Experimental and DQM-Based Analysis",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-35849-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impacts of fluorophenyl-terminal side chains on crystal structures and charge-transport properties of n-type organic semiconductors with layered brickwork packing motif",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65159-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Impaired humoral immune response to hepatitis B vaccination in children with HIV and type 1 diabetes mellitus",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66511-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Implementation of a colorimetry-based urinary biomarker screening system for early UTI risk detection",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62577-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Improved adaptation mechanism in MRAC scheme with nonlinear reference model for nonlinear uncertain systems",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65654-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Improved CNN and multisource remote sensing fusion for great wall weathering erosion monitoring",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-60344-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Improved polio outbreak prediction using a Caputo fractional-order model with memory effects",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64944-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Improvement of split-luciferase complementation through stabilization of NLRP3 PYD fused luciferase fragments: in vitro and in silico studies",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61905-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "In silico design of a novel therapeutic multi-epitope vaccine against NSCLC: a reverse vaccinology approach",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66781-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "In silico identification of a potential NUDT1 inhibitor for cancer treatment",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65273-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "In vitro antiamoebic activity of novel metronidazole derivatives and silver nanoparticle formulations against clinical isolates of Entamoeba histolytica",
+      "publication_date": "2026-08-02",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66029-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Incidence and predictors of peripheral intravenous cannula complications among pediatric patients in public hospitals of Gurage zone, Ethiopia: a multicenter prospective cohort study",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64613-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Incidence of mother-to-child transmission of hepatitis B virus and associated factors in Addis Ababa, Ethiopia: a prospective cohort study",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66398-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Inclined gabion drops improve hydraulic performance relative to conventional USBR stilling basins under variable flow conditions",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63906-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Increased renal PCSK9 expression may be partly responsible for the elevated serum PCSK9 level and hypercholesterolemia in primary nephrotic syndrome",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65629-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Increased urinary podocyte mRNA loss in term small for gestational age infants",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65569-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Increasing rainwater use efficiency and seed yield of chickpea and lentil using plastic mulch",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64597-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Individual skill differences and human AI interaction shape creative outcomes",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64578-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Individual-level reconstruction of longitudinal anti-spike binding antibody kinetics under hybrid immunity",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64708-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Inducing transcription in a gene desert is associated with locally increased replication activity",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-53353-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Infant feeding practice and associated factors among hiv-positive mothers attending anti-retroviral therapy services in health facilities of Bahir Dar City",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63960-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Infection with measles virus induces leukopenia and rash in a humanized immune system mouse model",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65460-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Inferring genetic values and variances from pre-processed phenotypes",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65641-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Influence mechanism of differences in hydrocarbon generation intensity of deep coalbed methane: a case study of the Daning-Jixian block",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64500-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Influence of alkaline and sodium bicarbonate treatments on the machinability of sisal jute epoxy hybrid biocomposites using RSM and ANN modeling",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65135-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Influence of cross-sectional geometry on the wave attenuation performance of floating breakwaters: an experimental study",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65892-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Information asymmetry in the graph model for conflict resolution with fuzzy preference relations and its application to doctor-patient conflicts",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65074-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Inhaled sphingosine reduces bronchial Pseudomonas aeruginosa burden during porcine ex vivo lung perfusion and shows tissue delivery in explanted human lungs",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65829-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Innovation of a continuous radon equilibrium factor monitor by a novel twin airflow ion pulse ionization chamber system",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64810-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Innovative assessment of meteorological drought in northern Algeria using the NIFT index",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66152-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Innovative development of an advanced machine learning modeling for predicting compressive strength of graphene-infused concrete: a SHAP and PDP approach",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64655-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Innovative sustainable concrete with waste glass materials: an explainable machine learning for compressive strength prediction",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65227-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Inoculum-dependent microbial communities and the inoculum-to-substrate ratio regulate biomethane potential during co-digestion of solid wastes",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62153-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Insecticide resistance profile and efficacy of next-generation LLINs against pyrethroid-resistant Anopheles gambiae s.l. in M’bé, central Côte d’Ivoire",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63898-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Insights on the accumulation and biomagnification of priority hazardous contaminants in anadromous fish from a European UNESCO Biosphere reserve area",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-53586-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Insights on the process of battery grade nickel production via ion-exchange technology",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64582-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Institutional pressure, green innovation, and circular supply chain practices in aviation: an inverted U-shaped relationship",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66424-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Instructor-led design, interactive delivery, assessment, and Loop(iDIAL) method for teaching with gamification based assessment",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65975-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Insulin resistance as a potential mediator between central obesity and diabetic kidney disease risk in type 2 diabetes",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65375-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated 3D modeling of train-induced ground vibrations considering track irregularities and wave impeding barrier performance under different subgrade stiffness conditions",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65665-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated analysis of seismic site response and soil-pile-structure interaction in liquefiable soft sediments",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65169-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated assessment of irrigation water quality and wastewater reuse under hydrochemical, microbiological, and metal contamination constraints in a Mediterranean semi-arid basin",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-56614-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated computational and in vitro analysis reveals the toxic mechanisms of PFAS in female diminished ovarian reserve",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-60339-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated computational and preclinical evaluation of drug repurposing candidates for KRAS-mutant non-small cell lung cancer",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-53339-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated design of an efficient multi spectral imaging and federated learning framework for precision crop disease diagnosis in low-resource farming communities",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64918-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated DNA- and RNA-based characterization of microbial and resistome communities in a hotel lobby",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65076-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated FLAC3D simulation and field monitoring of bolt-cable supports in three deep coal-mine roadway cases",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62670-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated genomic and metabolomic insights into sesame rhizosphere-derived multi-trait Pseudomonas aeruginosa SIRJ8 with salinity stress alleviation and biocontrol potential",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65881-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated in silico assessment of the regulatory and structural consequences of pulmonary tuberculosis-associated SP110 polymorphisms",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66565-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated in vivo and in silico assessment of fipronil-induced genotoxicity in Allium cepa",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62931-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated kinetic, isotherm, ANN, and RSM-based optimization modelling of acid brown 14 removal using ethylenediamine-decorated Delonix regia pod biochar",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

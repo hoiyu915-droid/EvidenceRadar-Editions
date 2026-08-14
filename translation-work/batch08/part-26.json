@@ -1,0 +1,645 @@
+{
+  "part": 26,
+  "items": [
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65123-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated machine learning forecasting and grey wolf optimization for optimal operation of virtual power plants in smart distribution networks",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63849-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated One-Health analysis of antimicrobial resistance, biofilm formation, and genetic relatedness of Enterococcus spp. at the human-food interface",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-59061-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated single-cell transcriptomic, proteomic, and tissue-level analysis defines cancer-associated fibroblast programs in pseudomyxoma peritonei",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64840-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated solar PV energy management and adaptive control of IPMSM drives for lightweight electric trikes",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63654-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrated TCAD modeling of channel optimization and contact-driven hydrogen sensing in ZnO TFTs",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62781-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrating causal inference and explainable AI to reveal the driving factors of provincial carbon emissions in China",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63243-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrating multi-source data and large language models in flood vulnerability curve analysis for buildings in mainland China",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66128-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrating retinal and brain imaging biomarkers for diagnosis of parkinson’s disease: findings from a time-lagged cross-sectional persian cohort study",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66058-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrating robotic process automation as a complementary sensing layer in smart waste monitoring systems",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61417-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrative analysis of network pharmacology and machine learning suggests potential anti-colorectal cancer mechanisms of Taohong-Siwu decoction",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64737-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrative multi-cohort bioinformatics and machine learning analysis reveals dysregulation of pro-inflammatory and pro-resolving lipid mediator pathway genes in atherosclerosis",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66673-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrative multi-omics analysis of metabolite–protein interaction networks across different stages of coronary heart disease",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-60650-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrative multivariate analysis of morphological, physiological, and biochemical responses of upland cotton to water deficit at the reproductive stage",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66176-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Integrative taxonomy reveals multiple Mediterranean invasions by Indo-Pacific Dorvillea (Annelida, Dorvilleidae)",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65503-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Intelligent fault diagnosis and classification of induction motors based on Relax-1DCNN and Relax-RF",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-47985-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Intelligent malware detection on Android smartphones via a hybrid approach using gradient boosting and convolutional neural network",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62965-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Inter-hospital ICU-to-ICU transfer of critically ill COVID-19 patients is not associated with increased mortality: a systematic review with exploratory meta-analysis",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65922-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interfacial engineering with a low-k organic buffer layer for Cu metallization of through-glass vias in glass core substrates",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-58334-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interpretable hybrid CNN–ViT framework with neuro-symbolic clinical decision support for early cervical cancer diagnosis",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64531-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interpretable integration of CITE-seq RNA and ADT profiles without explicit modality-weight tuning via tensor decomposition-based unsupervised feature extraction",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65391-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interpretable machine learning for Curie temperature prediction of magnetic materials: compositional descriptors, shap analysis, and a perovskite case study",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63561-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interpretable machine learning maps nonlinear associations of altitude and body mass index with hemoglobin in Peruvian women",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66824-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interpretable modeling for material transportation process in an industrial cement vertical roller mill",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65209-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interpretable multi-label prediction of institution-defined IgA nephropathy clinical patterns using routine cross-sectional clinical and laboratory data",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65793-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interpretable prediction of mortality in zinc phosphide poisoning using combined statistical and machine learning models: a retrospective observational study",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64426-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Interrupted time-series analysis of trends in Gram-negative antimicrobial-resistant pathogens across different COVID-19 control phases in Gansu Province, China",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65402-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Intra-observer repeatability of 2D Simpson atrial volumes within a single transthoracic echocardiography session",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64164-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Intraindividual comparison of imaging modalities in anterolateral thigh perforator mapping",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65870-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Intranasal dopamine stabilizes prefrontal cortical CaMKIIα-positive neuronal population dynamics during object discrimination",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-56122-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Intraspecific competition of Allenby gerbils can lead to asymmetric exposure to degraded patches",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65399-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Intrinsically unidirectional stepwise chemically fueled rotary molecular motors",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65448-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Introducing a sustainable method for stabilizing clay using industrial sludge ash and recycled polyethylene terephthalate fibers",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65869-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Introducing DIANA: dual-mode imaging analysis open-source simulation software",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65630-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Inversion analysis of the stress field in a pumped-storage power station based on the PSO-XGBoost and the finite element model",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63718-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigating a Devonian vertebrate assemblage with synchrotron microtomography of coprolites",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65200-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigating osteoporosis diagnosis using clinical and hip X-ray data from the Syrian population",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64195-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigating the role of G-quadruplex-associated duplex stem loops in Trabectedin’s mechanism of action",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63487-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigation of cold flow field characteristics in strut–cavity integrated afterburner",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64802-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigation of runoff and sediment transport processes in the hillslope headwaters of northern Ethiopia",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65943-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigation of the effect of mesenchymal stem cell and mesenchymal stem cell-derived extracellular vesicles on the blood-testicular barrier in docetaxel-induced testicular toxicity",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63933-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigation of the interfacial bond behavior of steel pipe pile and bottom-sealing concrete under realistic cofferdam construction conditions",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65750-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigation of the long-term effects of conservation tillage systems on the quality of clay-loamy soil in the Eastern Slovak Lowland",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64911-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigation of the maize (Zea mays L.) JAZ pan-gene family and expression pattern under drought stress conditions",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62597-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigation of the potential value and mechanisms of copper-related death markers PPOX and TBC1D22B in acute respiratory distress syndrome",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-60421-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "IRO-203: a novel intranasal COVID-19 vaccine showing immunogenicity and viral suppression in African green monkey challenge study",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64167-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Is predation by ants driving the evolution of tarantulas? First report of tarantulas (Araneae, Theraphosidae) actively using urticating setae against invertebrates",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65235-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Isolation and identification of Pseudomonas fluoeroscens and evaluation of its antimicrobial sensitivity from fish in Lake Haramaya, East Hararghe Zone, Oromia Regional State, Ethiopia",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63634-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Isotopic effect on collisional widths and shifts of Hg clock transition induced by cold Rb atoms",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62308-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Joint signal processing and coding for underwater acoustic communications using ORBGRAND",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-48501-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Judgment behaviors differentiate depression from anxiety",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65481-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "K-mer based method for finding sequence type-specific PCR primers for Listeria monocytogenes",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-49256-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Key controlled-based secure spatial digital image watermarking using randomized pixel embedding",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65309-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Key factors and temporal stability of severe laboratory accidents in Chinese universities and research institutes",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65022-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "KK12, a novel anticancer peptide, induces apoptosis in human lung cancer A549 cells",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65439-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge gaps in pharmacokinetically guided drug dosing for sepsis among healthcare professionals in Türkiye",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65359-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge graph-enhanced multi-agent deep reinforcement learning for intelligent teaching decision-making in ideological and political theory practical courses",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63508-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge, attitudes and practice of pediatric nurses on child life therapeutic play: insights into clinical care",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64334-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge, attitudes and practices regarding the environmental implications of pet ownership in Hong Kong",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65028-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge, attitudes, and practices regarding avian influenza among poultry-related occupational groups in three provinces of China",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65960-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge, attitudes, and practices regarding brucellosis in the West Bank, Palestine: high awareness and persistent risk behaviors",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65302-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge, attitudes, and practices related to the association between periodontitis and hypertension: a cross-sectional structural equation modeling study",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66015-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Knowledge, practices, and associated factors of intrapartum hepatitis B prevention among obstetric healthcare providers in Kembata Zone public hospitals, Central Ethiopia",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66208-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Lactate to albumin ratio LAR predicts mortality in critically ill adults with asthma across two cohorts",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64209-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "LAMDEX: an explainable lightweight Android malware detection system for enhancing IoT APP security",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64968-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Lanolin in implantation of luminous polymer dots for environmental application as metal probes",
+      "publication_date": "2026-08-02",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64447-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Large-scale subject-specific finite element knee modeling with direct integration of limb alignment and length",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65355-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Larval crowding in Culex pipiens generates cumulative cascading effects under changing environmental conditions",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64819-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Laser shot peening deformation correction strategy for complex aviation structural components based on equivalent stress method",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65538-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Late prolonged cardiac monitoring after cryptogenic ischemic stroke using a textile wearable Holter",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64785-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Latent profiles of instrumental and relational generative AI engagement among university students",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-67008-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Latent profiles of social networks and their association with digital health readiness among rural older adults with hypertension",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66214-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Lateralized behaviour of dairy cows and calves during nursing and suckling",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66004-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Layer-specific stiffness dynamics in supraspinatus and trapezius muscles during a sustained isometric contraction",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63325-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "LC-MS/MS method development, validation, and application for levonorgestrel assay from contraceptive implants in Bangladeshi women",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-53448-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Leaf length-to-width ratio links non-destructive area estimation to functional trait variation in the pachymorph bamboo Neosinocalamus affinis across subtropical China",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-57601-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Learning earthquake wave arrival time picking from labels with inaccuracies",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63239-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Lentinula edodes (Shiitake) extract as a vitamin D receptor activator to enhance skin adaptogenic responses",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65550-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Lesion-aware ordinal consistency learning for interpretable facial acne severity assessment",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62550-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Life-course body size trajectories and polygenic risk for incident inflammatory bowel disease",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65186-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Lifestyle factors associated with cataract surgery among working age adults in Japan using claims and health screening data",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

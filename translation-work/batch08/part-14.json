@@ -1,0 +1,645 @@
+{
+  "part": 14,
+  "items": [
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65590-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A high-isolation quad-port MIMO antenna with self-coupled defected ground structure for sub-6 GHz wireless applications",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65115-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A hybrid deep feature optimized ensemble framework for multiclass skin disease classification",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66197-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A hybrid deep learning framework for robust and efficient streamflow prediction under varying data availability",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63788-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A hybrid framework for occupational risk prioritization in construction projects using monte carlo simulation and utility theory",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66159-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A hybrid intrusion detection framework integrating multi-layer perceptron, SMOTE, and non-IID federated learning with explainable AI",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66334-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A hybrid natural language processing-ontology and machine learning framework for linguistic and knowledge-driven accident analysis in petrochemical occupational safety informatics",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66427-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A hybrid quantum–classical machine learning framework for commodity market crash prediction",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66881-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A large language model-driven virtual simulation platform advances intelligent construction teaching within an industry-education fusion framework",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63875-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A large-scale in silico chimera-based strategy for engineering low-immunogenic L-asparaginase from Penicillium cerradense",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64710-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A latency-aware multispectral image processing framework for real-time band compression and spectral-spatial optimization",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65128-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A learning-dynamics-driven framework for robust small-object detection in complex field environments: YOLOv11l-AGRI-EMA framework",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65483-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A lightweight image encryption scheme using LFSR, logistic map, and cellular automata for resource-constrained devices",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64789-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A longitudinal daily diary study of stress, self-esteem fluctuation, and mood variability in adolescents",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64869-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A low-temperature spray-cyclone system for zero-liquid discharge treatment of RO brine using extended two-phase CFD modeling and experimental validation",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66339-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A machine learning-based framework for spatial soil health assessment integrating remote sensing indices and terrain data",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61579-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A machine learning-based risk prediction model for cognitive frailty in middle-aged and elderly participants with circadian syndrome in China: a longitudinal study",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65990-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A machine learning-based survival prediction model for stage III LDH-elevated cutaneous melanoma patients",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64229-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A mechanically robust and moisture-retentive hydrocolloid dressing for chronic wound management",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64207-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A method for intelligent recognition and multi-parameter inversion of photovoltaic panels based on UAV-LiDAR point clouds and DGRNet",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-53784-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A modelling study of nonlinearity of the cross-shore flow under breaking waves",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65004-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A modular vision transformer and machine learning framework for scalable multi-crop plant disease classification",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62710-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A multi-dataset crop yield prediction framework using adaptive cooperative metaheuristic optimization",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65467-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A Multi-Head Feature-Expert Detection framework for intrusion detection in the Internet of Medical Things",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64899-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A multi-objective particle swarm optimization algorithm with two-stage archive maintenance and auxiliary archive guidance",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66122-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A multidimensional analysis of CGM-derived glucose metrics in type 1 diabetes: differential associations of insulin degludec and insulin glargine U300",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64329-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A multimedia encryption scheme based on a lightweight predator-prey simulation and chaotic dynamics",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65830-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A multimodal deep learning framework for real-time burnout detection and personalized intervention in foreign language teachers",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64049-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A multiplicative additive bias variational framework for accurate and interpretable brain MRI segmentation in cloud-based medical imaging systems",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65331-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A network analysis of physical activity, self-control, problematic social media use, and sleep disturbance in college students",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62652-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A new family of cascaded high-order DC–DC converters for renewable energy applications",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65704-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A new integrated framework for spatio-temporal anomaly detection in groundwater observation network",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64081-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A non-classical model of pattern formation in renal calculi by chemical oscillations",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64960-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel approach to breast cancer detection using modified logistic regression with optimized feature selection",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64514-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel CD69 binding ankyrin repeat protein (Ankyron®) enables detection of early activated and antigen-specific T cells in pigs",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63723-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel data-driven framework for CNC machine maintenance: integrating deep learning and risk-based prioritization",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64110-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel gas detector optimisation method combining 2-of-N voting systems, kinetic theory of gases, and exceedance curves to minimise CFD requirements",
+      "publication_date": "2026-08-02",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65204-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel geometric approach to surface area estimation in forested mountain terrain using multi-source elevation and canopy height data",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65868-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel hybrid deep learning model for electric vehicles load forecasting under cyber-attacks",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63915-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel hybrid transformer-based framework (H-ConvNeXt–Swin) to classify brain tumors using MRI",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65010-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel method for analysis of oxidant (OX = O3 + NO2) and its local and regional contributions using satellite remote sensing data",
+      "publication_date": "2026-08-02",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64745-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel optimization of API release using hybrid models",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63458-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel probiotic bacterium Bacillus paralicheniformis TATVAM-FAB17 isolated from goat rumen increases milk yield in dairy cattle",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64517-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A novel tilted Sombor topological descriptor for improved QSPR analysis of hydrocarbon-based compounds using machine learning",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-60261-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A numerical simulation study on dual-mineral carbonate rocks incorporating thermo-hydro-chemical (THC) coupling",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65464-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A One Health model evaluating the role of a wild carnivore in mitigating multi-host anthrax outbreaks",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64775-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A perforator-based adipocutaneous skin paddle derived from free muscle flap reconstruction as a hypothesis-generating human tissue model of early localized lymphatic insufficiency",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64703-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A physics-informed neural network approach to eco-epidemiological dynamics in planktonic food webs",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62243-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A physics-informed PointNet + + for hand gesture recognition using radar point cloud",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64823-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A preliminary evaluation of SPEEK nanofibers as multi-drug carrier delivering diclofenac, paracetamol and alcoholic extract of Strobilanthes ciliata",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64734-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-57992-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A privacy-preserving federated learning approach with multilevel differential privacy for lung cancer detection",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64557-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A progressive augmented reality framework for learning Arduino through physical and digital interaction",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64116-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A proof-of-concept study associating artificial intelligence surveillance of surgical site infections with antibiotic prophylaxis from 765,962 surgeries",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66171-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A prospective study of resilience, stress, and mental and physical health following a large-scale terrorist attack",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65091-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A protein–small molecule conjugate as a bispecific inhibitor of proteases implicated in cancer metastasis",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65231-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A Quantum Inspired Horse Herding Optimizer and graph transformer for efficient Network Intrusion Detection Systems",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65634-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A quantum-resistant consensus framework for decentralized anomaly detection in wireless sensor networks",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64108-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A quasi-experimental study on responses to mechanical loads following different heart rate-based exercise intensities and water depths in postmenopausal women",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65816-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A randomized noninferiority trial comparing tegoprazan triple therapy and bismuth quadruple therapy for Helicobacter pylori eradication",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-59846-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A real-time framework for mapping subsea cable burial state using Poincaréspectral coherence of DAS measurements",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63303-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A recombinant melanin-associated molecule as a novel and efficacious biologic countermeasure for acute radiation syndrome",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65404-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A resilient and efficient authentication and key agreement protocol for medical IoT: the PSU-MAKA framework",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-59156-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A resource efficient IoT intrusion detection model using hybrid feature selection for edge computing",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63022-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A robust multivariate statistical framework for integrative analysis of anthropometric and biophysiological health data",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66419-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A robust road defect detection method for UAV imagery based on synergistic attention and adaptive feature refinement",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65361-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A Scalable Subjective Logic-Based Reinforcement Learning Approach for Two-Way Intelligent Trust Management in Fog/Edge Computing",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65382-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A seed-associated Chaetomium globosum endophyte from a susceptible wheat cultivar suppresses Septoria tritici blotch",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62227-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A self-training approach to improve multispecies school classification models in fisheries acoustics data",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63684-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A semi-public dynamic pre-matching model based on multi-head self-attention and temporal convolutional network for ship material procurement",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64265-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A sensitive and green spectrofluorimetric method for determination of guanfacine hydrochloride based on NBD-Cl derivatization",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64796-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A soft-switched, trans-inverse step-up DC-DC converter with minimal components based on built-in transformer",
+      "publication_date": "2026-08-02",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62742-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A soliton based hybrid image encryption technique using Cellular Automata and DNA encoding",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62989-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A spatial prototype-based framework for supporting peri-urban rural housing renewal and design",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65606-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A spatiotemporal generative adversarial network with a calibrated prior for urban vehicle trajectory imputation and denoising",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63542-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A spatiotemporal U-Net++ deep learning framework for dengue risk mapping in Colombia",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64813-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A surrogate model for capturing wave power farm dynamics using spatial–temporal attention",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65410-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A survey-informed mathematical model of preparedness-constrained cholera transmission in Sudan",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64610-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A synergistic coordinate and attention module for pipeline weld surface defect detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63816-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A synergistic deep learning framework integrating GWO-VMD and dual-channel TCN-GRU for cobalt ion concentration prediction in zinc hydrometallurgical purification",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65015-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A taxonomically informed deep neural network with hierarchical regularization for microbiome data analysis",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

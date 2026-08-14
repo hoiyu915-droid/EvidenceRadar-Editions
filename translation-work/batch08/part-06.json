@@ -1,0 +1,645 @@
+{
+  "part": 6,
+  "items": [
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76508-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Counterintuitive collision of exceptional points on nonorientable manifolds",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76096-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Coupled air–sea interactions drove and sustained the 2013–2016 North Pacific marine heatwave",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76027-z",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Coupled electrosynthesis of formamide with ~100% carbon and nitrogen selectivity via matching cathode‒anode local pH",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76087-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Crack-localization in elastomeric self-healing enabled by one supermolecule-analogous molecule",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76119-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "De novo L-(+)-tartaric acid biosynthesis in multi-modular engineered yeasts",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-74907-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Decoding non-faradaic signal transduction in organic electrochemical transistor based biosensors",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76294-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Decoding the mechanisms of cooperative DNA binding by the Paired-like homeodomain family",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76458-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Decomposition and separation of vibration waves from blasting demolition of tall buildings and their component characteristics",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76481-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Decoupling ferroelectric polarization and charge transport for thermally robust polymer dielectric energy storage",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76277-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Deep-learning-enabled multi-omics analyses for prediction of future metastasis in cancer",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76427-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Defective indium oxide as plasmonic catalyst for efficient photo-driven methanol steam reforming",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76138-7",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Design of a live-attenuated bacterial vaccine using effector network engineering",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75331-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Deterministic wet etching of aspheric fiber microlenses with tunable conic geometry for tailored optical functionality",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76493-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Deuterated Radical Emitters Achieve 10.8% EQE at 800 nm with Remarkably Enhanced Operational Stability",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76434-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Diagnostic performance of plasma pTau217 in genetically admixed South American populations",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76379-6",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Diet-responsive proteogenomic effects following short-term restriction of animal products in humans",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75100-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dilute electrolytes for suppressing metal anode corrosion during calendar aging and cycling in aqueous zinc batteries",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76339-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Discovery of a covalent FGFR2-selective inhibitor overcoming clinically-acquired resistance mutations",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76515-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Discovery of a peripheral Myh11-expressing nucleus pulposus cell population demontrating therapeutic potential for disc degeneration",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76117-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Disentangling surface and bulk properties of Ta3N5 photoanodes",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76375-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dissecting root-specific non-conventional effector-triggered immunity and its role in defense and shifting the microbiome",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76291-z",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dissociating water clusters via polyhydroxy quaternized interface for enhanced water permeation in nanochannels",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76333-6",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Distortion-engineered C1-symmetric inorganic molecular cages enable tunable chiroptical nonlinear optics with broad infrared transparency",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76222-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Divergent concerted and stepwise cycloadditions via enantioselective cross-conjugated iminium-ion catalysis",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76536-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "DNTTIP2 coordinates RNA exosome activities to ensure fidelity of human ribosome assembly",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76671-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Drops in confidence precede symptoms of obsessive-compulsive disorder",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76263-3",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dual-function floating-gate memory driver for energy-efficient integrated display–illumination system",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76353-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dynamic balance of CRISPR-Cas immunity and resistance plasmid anti-immunity mediated by a bifunctional protein AcrIE10",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76319-4",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dynamic chloride coordination enables selective pulsed electrocatalytic upcycling of 4-chlorophenol on FeN2O2 single-atom catalyst",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76418-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dynamic magnetic capture-catalytic pyrolysis for aquatic micro- and nanoplastic management",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76473-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Dynamism and evolvability in nucleic acid enzymes",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76311-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Early-mid Holocene Ross Sea extreme wave heights reflect sea ice retreat and ocean-atmosphere interactions",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76557-6",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Ectomesenchymal identity emerges via relief of Twist1 transcript destabilisation",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75760-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Effective graph resistance as cumulative heat dissipation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76524-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Electrical control of exchange bias in sub-10 nm regime enabled by single-nanotube patterning",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76635-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Electrochemical hydrogenation of biomass substrates with cation shuttling in a solid electrolyte reactor",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75955-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Electrodeposition-initiated, self-catalyzed growth of 2D amorphous Fe-group metal–boron alloy mesoporous films",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76431-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Elevation-structured viral ecological strategies along glacier-fed rivers on the Qinghai-Tibet Plateau",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76207-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Enabling molecular signaling with temperature and ionic-strength independence or programmable dependence",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76687-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Endothelial cell-microglia crosstalk mediates heart failure-associated synaptic loss and cognitive impairment in male mice",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76376-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Energy-sensing kinase OsSnRK1b and its regulator OsCTK1 promote chilling-induced stomatal closure and cold tolerance",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76347-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Engineered polymerase-mediated efficient synthesis of site-specifically functionalized RNA and 2’-modified RNA oligonucleotides via genetic alphabet expansion",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76345-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Engineering N-site isomerism in donor-acceptor covalent organic frameworks for efficient Fenton-like water purification",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76273-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Enhanced and directional light emission from two-dimensional excitons using Mie voids",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75812-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Enhanced spin-to-charge conversion in epitaxial La0.67Sr0.33MnO3/NdNiO3 bilayers at the nickelate metal-insulator phase transition",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76718-7",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Enhancing iNKT cell immunotherapy through the integration of optimized CAR endodomains and iNKT engagers",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76552-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Enhancing pan-cancer spatial transcriptomics at single-cell resolution with stPainter",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76366-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Enhancing the longevity of lithium-manganese-rich layered oxides by promoting oxygen redox reversibility",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76179-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Entropy plateaus, combinatorial degeneracy, local moments, and heavy-fermion mass renormalization in magic-angle graphene",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76700-3",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Entropy-driven densification of medium-entropy alloys with laser powder bed fusion",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76756-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Epigenetic repression of IL-1β by C1QBP restricts Dectin-1-mediated host defense against murine invasive candidiasis",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76361-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "ESMDynamic: Fast and accurate prediction of protein dynamic contact maps from single sequences",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76489-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Evaluating technology upgrades as a complement to traditional bill assistance programs",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76453-z",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Evidence of dengue transmission and a diverse Aedes mosquito virome on the Congo’s Angola border",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75942-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Exopeptidase-assisted nanopore peptide sequence identification",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76359-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Explainable AI: learning from the learners",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75376-z",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Extensive binding of poorly characterized human transcription factors to genomic dark matter",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76342-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Extreme vulnerability to intruder attacks destabilizes network dynamics",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76505-4",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Facile mechanical refinement of sulfide solid electrolytes for stable all-solid-state Li metal batteries",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76403-9",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Farming practices exert selection pressures on the resistome of natural populations of house mice",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76021-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Free electron topological bound state induced by a light beam with a twisted wavefront",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76656-4",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "From helices to superhelices through hierarchical assembly across competing pathways",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76414-6",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Fullerene-derived hierarchical sp2 carbon exhibiting united hardness, elasticity, and thermal stability",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-72929-0",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Genome shuffling enables quantitative trait locus mapping in Bacillus subtilis",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76192-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Genome-targeted enrichment and sequencing of human-infecting Cryptosporidium spp.",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76470-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Genome-wide annotation of human multi-nucleotide variants reveals widespread functional differences from single nucleotide variants",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76350-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Genome-wide CRISPR screening identifies cellular factors controlling nonviral genome editing efficiency",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76153-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Genome-wide DNA methylation analysis revealed epigenetic mechanism underlying end-stage renal disease",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76610-4",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Genomic and genetic dissection underlying seedling drought resilience in oats",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76081-7",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Geometric programming of asymmetric colloidal dynamics via topological defect reconfiguration",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76621-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Geophysical evidence of a nearly dry bridgmanite in the Earth’s lower mantle",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76523-2",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Giant negative photomagnetism in an alterlattice",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76543-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Giant piezoelectric response and electromechanical coupling in AlScN thin films via multi-scale lattice engineering",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75815-x",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Global trade-offs between consumption, carbon prices and equity",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76197-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Global vulnerability assessment of mobile telecommunications infrastructure to climate hazards using crowdsourced open data",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76321-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Glycoprotein-induced phase separation drives unconventional secretion of galectin-3",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76246-4",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Glycosylation orchestrates megakaryocytic fate of hematopoietic stem cells via Wnt-MUC13 signaling",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75936-3",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Going with the flow to solve for symmetry-driven PDE dynamics with physics-informed neural networks",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75888-8",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Halochromic modulation of amorphous calcium carbonate crystallization driven by pH-responsive bioinspired pigments",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76713-y",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Healing intervention for improving the efficiency and stability of tandem devices on industrial textured silicon",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

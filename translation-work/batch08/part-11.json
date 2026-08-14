@@ -1,0 +1,645 @@
+{
+  "part": 11,
+  "items": [
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec5359",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Environmental tuning of thyroid hormone signaling drives developmental plasticity",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aej3478",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Erratum for the Research Article “Forecast attribution reveals enhanced heat mortality from climate change in British Columbia heatwave” by C.Y. Shapland et al .",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb1705",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Escalation dynamics and the severity of wars",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9271",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Experimental violation of a Bell-like causal inequality in a photonic quantum switch",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee1599",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Failed metabolic adaptation to stress contributes to epidermal cell adhesion defects in Darier disease",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg5802",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Faster, bigger, more severe: Extreme wildfire spread sets the stage for forest ecosystem change in western and boreal North America",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed6236",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Ferroelectric control of the Mott insulator–topological metal transition",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee5871",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Fibroblasts resist Staphylococcus aureus on the skin surface by responding to interleukin-1 and recruiting neutrophils",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz1892",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "First evaluation of wearable radiation protection for human deep space exploration, as flown on Artemis I",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef3194",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Formation of tertiary lymphoid structures drives Parkin antitumor immunity",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh1116",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Fully dry-processed electrodes for highly reversible aqueous zinc powder-based batteries",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz1325",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Gaseous liquid nitrogen–assisted cryo-printing strategies for challenging volumetric anisotropic tissues fabrication",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef3201",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Glacier retreat shapes organic nutrient availability across lake succession",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee0923",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Global distribution and amplitudes of internal solitary waves revealed by SWOT",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef9781",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Global patterns and drivers of extinction risk in island endemic terrestrial vertebrates",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5692",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "GNPs-pIL-4 reprograms macrophage polarization and activates the OSM/GSNOR/ENG axis to improve angiogenesis in ischemic limbs",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec9545",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "High-resolution mapping of embryonic genome activation unveils a decoupling of transcription activation from precocious H3K4me3 removal",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef2184",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Higher-order trade-offs in hypergraph community detection",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec0518",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Hybrid spatial organization and evidence for magnitude-independent neural coding of linguistic information during sentence production",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg5930",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Interaction-driven flat band and charge order in Fe 5 GeTe 2",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef6559",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Interfacial amplifier: High-throughput visual protein detection via droplet dynamics",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef3128",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee0180",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Internal electric fields enhance reductive reactivity at MoS 2 boundaries revealed by ultrafast near-field nanospectroscopy",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea7469",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Jomon genomics reveal cold adaptation in Upper Paleolithic hunter-gatherers of eastern Eurasia",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec5080",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning–enhanced Raman microspectroscopy",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea3015",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Language-like statistical structure arises in learned signaling: evidence from birdsong",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea3814",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Leveraging IGF signaling to improve the spatial organization and regenerative potential of iPSC-derived vascularized liver organoids",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec7053",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Localized immunomodulation with cytokine-producing cells to mitigate foreign body responses in rodents and a nonhuman primate",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh3040",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Long-term amyloid aggregation kinetic assay and rapid amyloid clustering enabled by programmable microdroplet water extraction",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec2253",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Ly6d expression delineates two putative postnatal thymus epithelial progenitor cells that are differentially affected by aging",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh2835",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "MALT1 alternative splicing—A molecular rheostat for balancing immune activation and homeostasis",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec2331",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "MBNL1 hijacks a structured single-stranded distal DNA element to sustain FLT3 expression in KMT2A-rearranged leukemias",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee1791",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Metasurface-controlled high-speed tunable external cavity lasers",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed2198",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Mid-infrared long-range surface polaritons in two-dimensional van der Waals materials",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee0509",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Mito-TEMPO improves survival rates in npc1 -knockout zebrafish by reducing oxidative stress and enhancing mitophagy via Sod2",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh0657",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Mitochondrial stress activates ELT-2–dependent lysosomal proteostasis to extend lifespan in C. elegans",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh5593",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Molecular basis of HACD-TECR complex mediated very-long-chain fatty acid elongation reveal a potential target in colorectal cancer",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec4563",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary logic circuitry",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh4699",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Multi-component gradients in 3D host frameworks enabled stack-type zinc plating/stripping for highly durable aqueous Zn-ion batteries",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3842",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Myasthenia thymus reprograms class-switched B cells into BAFF-dependent survivors",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb3005",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Neural competition between prefrontal and auditory cortex constrains novel sound strategy learning",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg5086",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Nucleic acid probe-functionalized self-powered sensor for detection of biomarkers in clinical urine samples",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef5518",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "On-chip waveguide-integrated light sources using MoS 2 /WSe 2 moiré superlattices on a silicon photonic platform",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef0501",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Optical isolation and circulation using quantum frequency conversion on a chip",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh8194",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Palladium-catalyzed enantioselective alkenylation of acyclic alkenols: Broad scope with alkenyl bromides",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed1634",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Periodic extreme rainfall in a warmer climate due to stronger convectively coupled waves",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee4522",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Petermann Glacier on the brink: Progress, challenges and insights",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9000",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Phage-encoded NARP3 system rebuilds NAD + to subvert bacterial immunity",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed4055",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Photonic time crystals assisted by quasi-bound states in the continuum",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee2305",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz0583",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Proteogenomic characterization of pulmonary large-cell neuroendocrine carcinoma identifies molecular features and therapeutic strategy",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeh1682",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Quantitative reconstruction of the Yiwu Jurassic Forest in Northwest China and high forest productivity in the Middle Jurassic",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adz7757",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Reassessing the role of progesterone receptor isoforms PGR-A and PGR-B in female fertility",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg2534",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Renoprotective effects of tubular glucagon receptor activation mediated by V-ATPase",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee3254",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Retention of noble gases in the deep Earth: Kinetic trapping or stable bonding?",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef7696",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Ribosomal protein bL27 protects translating ribosomes from tmRNA-SmpB",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3399",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "RNA terminal uridylyl transferases are druggable vulnerabilities in AML but are dispensable for normal hematopoiesis",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3174",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "RTF2 and CLASPIN localize CHK1 to the replication fork to control S-phase progression",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea2780",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "SARS-CoV-2 nucleocapsid induces hyperinflammation and vascular leakage through the Toll-like receptor signaling axis in macrophages",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5802",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "SCHEPHERD: A modular, programmable, direct current platform to control cell behavior",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb6882",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Sharp nanothorn-equipped ionogel microrobots for targeted periodontitis therapy",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aec3536",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Single-exposure holographic 3D printing via inverse-designed phase masks",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5600",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Skeletal muscle H3K18 lactylation inhibits hepatic gluconeogenesis through IL-6 mediated interorgan communication",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb3361",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Snow-eater heat waves of the western United States",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed5470",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Start, speed, and direction of secondary forest succession",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee4285",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Steppe productivity decline contributed to smallpox outbreak and the collapse of the last nomadic empire in the 1750s",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee7036",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Structural insights into a substrate translocation pathway revealed by the RND efflux pump complex MexJK from Pseudomonas aeruginosa",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aea2075",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Submillennial timescales of eruptible rhyolite magma: Converging evidence from Aira Caldera, Japan",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9298",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Synaptic zinc plasticity shapes adaptive and maladaptive cortical plasticity following cochlear injury",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.adp2955",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "T cell–nanodrug conjugates synchronize vascular normalization and immune activation for solid tumor therapy",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef9769",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "TAL1 is indispensable in ETV2-primed human endothelial cell fate determination",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb1136",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "The microenvironment dictates glyco-immune surveillance via HSF1-mediated metabolism",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef0259",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Thermomechanical regulation of quasi-2D perovskite photonic structures via nanoimprint",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed1318",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Transposable elements and homotypic niches drive immune dynamics and resistance in melanoma epigenetic-based immunotherapy",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aef7481",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Triggering charge redistribution–induced oxygen spillover mechanism in VO x -supported IrSn alloy toward industrial water electrolysis",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb9309",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "TRIM29-dependent AKR1B10 degradation ameliorates MASH",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aed0057",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Tunable dislocations overcome mechano-functional tradeoff in perovskite oxides",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee9489",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Two contrasting atmospheric circulation patterns linked to Kuroshio Extension variability",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeg0781",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Uncovering PFAS and halogenated chemicals using nontargeted analysis and the PFAS IMplementer for mass spectrometry (PIMMS)",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee5631",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Unlock lasing in two-dimensional metal halide perovskites by tuning ns 2 lone pairs",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

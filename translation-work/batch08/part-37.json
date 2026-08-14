@@ -1,0 +1,61 @@
+{
+  "part": 37,
+  "items": [
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66132-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Yield, quality and water productivity of autumn-sown sugar beet under early and late season irrigation regimes in semi-arid Iran",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65513-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Yield-aware generative inverse design of anti-reflection coatings via optimal-transport flow matching with a conditional-value-at-risk objective",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65875-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Yield-point detection can improve the mechanical performance of cancellous bone screws",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64765-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "ZCCHC10 as a novel prognostic biomarker associated with immune infiltration in breast cancer",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64192-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Zein–humic nanocomposite for simultaneous chloride/iron removal and corrosion mitigation in MDEA gas sweetening",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64676-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Zwitterionic poly (amino acid methacrylate) brushes functionalized dendritic mesoporous silica nanoparticles in layer-by-layer assembled membranes for selective Ion separation",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64794-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "β-Propeller structure of the CJ1041C protein from Campylobacter jejuni and its interaction with Ca2+ ions",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}

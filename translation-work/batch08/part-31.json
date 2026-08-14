@@ -1,0 +1,645 @@
+{
+  "part": 31,
+  "items": [
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65229-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Predicting leprosy reactions: a machine learning framework incorporating clinical, demographic, and healthcare system factors in China",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-56597-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Predicting optimal CPAP pressure in obstructive sleep apnea among Chinese patients using respiratory endotype derived from polysomnography",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-60996-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prediction of chronic obstructive pulmonary disease using machine learning models",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64713-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prediction of platinum-based neoadjuvant chemotherapy response in muscle-invasive bladder cancer using a multifaceted approach",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65279-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Predictors of infant mortality in a population-based surveillance cohort: the role of high-risk pregnancies and rare-event modelling",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61162-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prednisone, not vamorolone, suppresses novel serum bone and cartilage biomarkers associated with growth failure in children with Duchenne muscular dystrophy",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65547-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Preparing biomimetic recycled concrete fines via a coupled carbonation-phosphorylation method",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64464-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence and associations of antibiotic resistance and biofilm formation with molecular determinants in clinical Acinetobacter baumannii isolates",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64598-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence and associations of biological rhythm disorders with depression and anxiety symptoms in Chinese adolescents: A multicenter study across seven provinces",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66001-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence and characteristics of anemia in Turkish adults insights from the PURE Türkiye Cohort",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63677-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence and factors associated with anxiety and depression among cancer patients undergoing chemotherapy: a cross-sectional study at a private tertiary hospital in Dhaka, Bangladesh",
+      "publication_date": "2026-08-02",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65030-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence and factors associated with conjunctivitis among patients attending an eye clinic at a regional referral hospital in Northern Uganda: a cross-sectional study",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65976-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence and factors associated with functional footcare among patients with diabetes in Kuwait: a cross-sectional study",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63940-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence and impact of bopyrid isopod infestation on mud shrimp populations in the eastern Yellow Sea",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64488-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence of cervical human papillomavirus infections and cytological abnormalities in asymptomatic women living with HIV in Addis Ababa, Ethiopia",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64895-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence of colour vision deficiency among Schoolchildren at Repi Primary school in Addis Ababa, Ethiopia",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65746-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence of depression and gender differences in associated factors among empty-nest older adults in rural China",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62621-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prevalence, multi-drug resistance, and public health risks of Salmonella Enterica in poultry farms and markets of Nekemte, Ethiopia: a cross-sectional study",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64104-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Privacy-preserving federated learning for detection of AI-generated text using hybrid RoBERTa-CNN models in low-resource languages",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-54871-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Proactive concussion prediction using symmetry-aware multiscale explainable hybrid deep learning and multimodal data fusion",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66293-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Probabilistic multi-objective optimization of sustainable volcanic-ash concrete using explainable machine learning and life-cycle risk analysis across 240 scenarios",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66161-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Product-based kinetic analysis reveals limitations of substrate depletion method for assessing bile salt hydrolase activity",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63089-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prognostic accuracy of qsofa for in-hospital mortality among adult patients presenting with suspected infection to the Emergency Department in the Middle East",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63952-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prognostic impact of pathological complete response in hormone receptor–positive/HER2-negative breast cancer treated with neoadjuvant chemotherapy: a multicenter cohort study",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64571-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prognostic signatures associated with immune and macrophage phenotypes in colorectal cancer: integrated single-cell and bulk transcriptomic analyses",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66532-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prognostic significance of adropin with Grace and Gensini scores for in-hospital outcomes in ST: elevation myocardial infarction patients",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65535-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prognostic value of the lactate-to-albumin ratio for short- and long-term mortality in sepsis",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63984-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Progressive degradation-aware distillation for robust indoor object detection",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64731-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Project analysis and collation of urban and rural roads using calibrated HDM-4 models: a case study of Rajasthan",
+      "publication_date": "2026-08-09",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64667-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Projected region-of-attraction analysis of coupled two-region low-altitude air traffic using microsimulation-calibrated MFDs",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63826-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Propensity score matching reveals a survival paradox in prognostic outcomes for late-stage II and early-stage III colorectal cancer patients",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64922-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prophylactic use of episil oral liquid to prevent oral mucositis during head and neck concurrent chemoradiotherapy: a prospective single-arm study",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66062-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prospective annual evaluation of sports motor performance, BMI and social index in Swiss first graders over a period of 12 years",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62892-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Protection against diet-induced weight gain by a single-point mutation in Kir2.1 channels",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65310-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Protein hydrolysate from olive oil waste as an effective biostimulant to enhance strawberry resilience against water stress",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66014-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Proteome-wide immunoinformatics and molecular dynamics reveal a multi-epitope vaccine construct targeting Nipah virus glycoprotein G",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64711-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Proteomic signatures reveal stage-specific progression across gastrointestinal–neuropsychiatric comorbidity: a deep learning and multi-state trajectory analysis",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63839-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prothrombin time predicts mortality in hypothermic sepsis and links hypothermia to impaired hepatic coagulation factor synthesis",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65307-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Prototype contrastive alignment with clinical attention enables multi-modal breast cancer molecular subtyping",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63390-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Provenance-preserved DL framework for intrinsically-isolated mm-wave CDRA MIMO",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65808-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Proximity of parks to polluting sites in the United States",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63902-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Pseudo defect guided meta calibration for few shot industrial defect segmentation",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64634-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Pseudoceramide A, a non-canonical 1-deoxyceramide isolated from Pycnoporus sanguineus",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66101-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Psychological and economic burden of high-risk human papillomavirus infection of the female genital tract in Liuzhou, China",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65615-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Psychological capital links social support to student outcomes in both economically disadvantaged and non-disadvantaged college students",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64717-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Psychological distress and trauma response among war-exposed young adults in Gaza",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65360-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Psychological factors associated with readiness for parenthood among Indonesian and Japanese university students",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-48491-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Psychosocial and dietary influences on eating behaviors and body mass index among geographically diverse Indian university students",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66491-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Psychosocial determinants of antibiotic stewardship decisions among Chinese clinicians across hospital tiers: a longitudinal study",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66247-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Psychosocial resources, sleep quality, and self-management behavior in patients with type 2 diabetes mellitus: a latent profile and mediation analysis",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-54903-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Public attitudes and preferences on organ donation and allocation in china: a cross-sectional study",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66013-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Public awareness of diabetes prevention and access to subsidised medicines in the Kyrgyz Republic: a cross-sectional study",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64850-9",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Pupil size as an early and accessible biomarker of memory performance: a comparative intracranial EEG study",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61369-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Purple sulfur bacteria convert aquaculture waste into antioxidant-rich single-cell protein through biofloc technology",
+      "publication_date": "2026-08-02",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65586-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "QSPR modeling of physicochemical properties of SSRI and SNRI antidepressants using advanced molecular graph descriptors",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65679-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Qualitative accounts of community health workers providing and shaping mental health support in climate-vulnerable communities in Bangladesh",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64875-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Qualitative and quantitative change of fatty acid profile in water mites (Acari: Hydrachnidia) as a factor influencing survival at low temperatures",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64550-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quality, reliability, and counseling content gaps in penile prosthesis implantation videos on Chinese short video platforms",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65303-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quality-adaptive forensic face recognition using a dual-detector pipeline with AdaFace-ViT for postmortem identification",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64654-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantifying land use trade-offs in Sub-Saharan Africa: spatiotemporal dynamics and drivers of production-living-ecological spaces in Tanzania (2000–2020)",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63884-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantifying uncertainty in the structure and duration of silurian biogeochemical events",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63604-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantifying vaccination thresholds and roll-out delays in an influenza transmission model with waning and immune boosting",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66874-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantitative analysis of dental prostheses materials on the magnitude of artefacts at different positions in cone-beam computed tomography: an ex vivo study",
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64814-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantitative evaluation of coloration and functionalization efficiency for surface modification of regenerated cellulose fabrics",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65542-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantum spectroscopy with undetected photons for biomolecular sensing in the mid-infrared",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61933-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantum-inspired entanglement and uncertainty quantification for strict double-verification triage in clinical hematopathology",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64388-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quantum-resistant blockchain-based trust management for IoT networks",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65300-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quercetin ameliorates iron overload-induced liver injury via NRF2/GPX4 pathway",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63820-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Quercetin nanoparticles exhibit a potential therapeutic effect against the neurochemical changes and motor deficits in a rat model of Parkinson’s disease",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65423-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Radiological risk evaluation of primordial radionuclides in roadside soils from trunk B road in southwest Nigeria",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66651-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Radiomics-based quantitative assessment of the mandibular cortical index on panoramic radiographs",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66579-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Rainfall timing drives rainfed durum wheat yield in western Iran",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66750-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Randomised controlled trial of smartphone electronic reminder to improve drug adherence during pregnancy",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62695-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Rational design, synthesis, and antimicrobial evaluation of novel 1,2,3-triazole hybrids: structure–activity relationships, molecular docking, and DFT studies",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66698-5",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Raw pyrite tailings as fine aggregate in mortar: performance and potential for architectural surface design",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64451-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "RDD-YOLO: a real-time fall detection model incorporating a lightweight visual transformer with dynamic sampling",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63836-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Real-time HIL validation of a lyapunov-guaranteed optimal FOPID controller for quadrotor UAV trajectory tracking",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65913-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Real-time position and orientation determination of multiple robots in Robocup soccer using lightweight deep learning models",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64980-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Real-time target tracking in passive wireless sensor networks using sensor fusion and Kalman filtering",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY"
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66267-w",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Real-world use of dotinurad and one-year prescription presence by kidney function in older adults",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY"
+    }
+  ]
+}
