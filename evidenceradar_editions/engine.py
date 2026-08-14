@@ -4,7 +4,13 @@ from collections import Counter
 from pathlib import Path
 from typing import Any
 
-from .adapters import CrossrefAdapter, EuropePmcAdapter, PubMedAdapter, RadarRssAdapter
+from .adapters import (
+    CrossrefAdapter,
+    EuropePmcAdapter,
+    PubMedAdapter,
+    RadarRssAdapter,
+    RscChemicalScienceAdapter,
+)
 from .dedup_v2 import counts_by_source, deduplicate_articles, journal_matches
 from .http import HttpClient
 from .models import EditionSpec
@@ -37,6 +43,7 @@ def build_run(
         "europe_pmc": EuropePmcAdapter(client),
         "crossref": CrossrefAdapter(client),
         "radar_rss": RadarRssAdapter(client, hints),
+        "rsc_chemical_science": RscChemicalScienceAdapter(client),
     }
     accepted = []
     checks = []
