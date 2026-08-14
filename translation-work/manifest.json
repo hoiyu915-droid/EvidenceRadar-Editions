@@ -1,0 +1,11 @@
+{
+  "expected_items": 88,
+  "parts": 5,
+  "counts": {
+    "journal-of-nutritional-biochemistry": 20,
+    "nutrition-research": 17,
+    "sports-medicine-and-health-science": 2,
+    "the-lancet-regional-health-europe": 33,
+    "the-lancet-regional-health-western-pacific": 16
+  }
+}
