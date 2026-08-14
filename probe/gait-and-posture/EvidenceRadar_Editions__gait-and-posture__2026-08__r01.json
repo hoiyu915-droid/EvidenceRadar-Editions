@@ -1,0 +1,459 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Guillaume Toffoli",
+        "Yosra Tounekti",
+        "Hassen Hakim",
+        "Théophile Cocquerez",
+        "Khalil Ben Mansour"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110613",
+      "doi": "10.1016/j.gaitpost.2026.110613",
+      "issns": [
+        "0966-6362"
+      ],
+      "journal": "Gait & Posture",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.gaitpost.2026.110613",
+          "url": "https://doi.org/10.1016/j.gaitpost.2026.110613"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Muscle fatigue and postural balance reorganisation during exoskeleton-assisted load handling",
+      "title_original": "Muscle fatigue and postural balance reorganisation during exoskeleton-assisted load handling",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110613"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elisabeth Sánchez-Del Río",
+        "Iriana Galán-Arriero",
+        "Inés Palomo-Fernández",
+        "Félix Marcos-Tejedor",
+        "Laura Martín-Casado"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110614",
+      "doi": "10.1016/j.gaitpost.2026.110614",
+      "issns": [
+        "0966-6362"
+      ],
+      "journal": "Gait & Posture",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.gaitpost.2026.110614",
+          "url": "https://doi.org/10.1016/j.gaitpost.2026.110614"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Injury risk associated with the transition to minimalist footwear in runners: a systematic review and meta-analysis",
+      "title_original": "Injury risk associated with the transition to minimalist footwear in runners: a systematic review and meta-analysis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110614"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Da-Hyeon Jin",
+        "Young-In Hwang"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110606",
+      "doi": "10.1016/j.gaitpost.2026.110606",
+      "issns": [
+        "0966-6362"
+      ],
+      "journal": "Gait & Posture",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.gaitpost.2026.110606",
+          "url": "https://doi.org/10.1016/j.gaitpost.2026.110606"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Gait Patterns Observed During Obstacle Walking in Adults with Mild Intellectual Disability",
+      "title_original": "Gait Patterns Observed During Obstacle Walking in Adults with Mild Intellectual Disability",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110606"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Maryam Sadeghi",
+        "Ehsan Barouti",
+        "Kelly E Lyons",
+        "Rajesh Pahwa",
+        "Abiodun Akinwuntan",
+        "Jeffrey Thompson",
+        "Sanghee Moon",
+        "Hannes Devos"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110610",
+      "doi": "10.1016/j.gaitpost.2026.110610",
+      "issns": [
+        "0966-6362",
+        "1879-2219"
+      ],
+      "journal": "Gait & posture",
+      "pmcid": null,
+      "pmid": "42561739",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42561739",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561739/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Wearable gait analysis for differentiating progressive supranuclear palsy and Parkinson's disease: Clinically interpretable digital biomarkers using machine learning.",
+      "title_original": "Wearable gait analysis for differentiating progressive supranuclear palsy and Parkinson's disease: Clinically interpretable digital biomarkers using machine learning.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110610",
+        "https://pubmed.ncbi.nlm.nih.gov/42561739/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Kirat Shukla",
+        "Joel L Lanovaz",
+        "Jonathan P Farthing",
+        "Gary Linassi",
+        "Alison Oates"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110609",
+      "doi": "10.1016/j.gaitpost.2026.110609",
+      "issns": [
+        "0966-6362",
+        "1879-2219"
+      ],
+      "journal": "Gait & posture",
+      "pmcid": null,
+      "pmid": "42570527",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42570527",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42570527/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Reliability and error in step parameters and balance measures across different walking styles in adults.",
+      "title_original": "Reliability and error in step parameters and balance measures across different walking styles in adults.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110609",
+        "https://pubmed.ncbi.nlm.nih.gov/42570527/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Nooshin Rajaeian",
+        "Surabhi Date",
+        "Georgia Frey"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110611",
+      "doi": "10.1016/j.gaitpost.2026.110611",
+      "issns": [
+        "0966-6362",
+        "1879-2219"
+      ],
+      "journal": "Gait & posture",
+      "pmcid": null,
+      "pmid": "42594763",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42594763",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42594763/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Methodological characteristics of perturbation-based balance training in healthy older adults: A scoping review.",
+      "title_original": "Methodological characteristics of perturbation-based balance training in healthy older adults: A scoping review.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110611",
+        "https://pubmed.ncbi.nlm.nih.gov/42594763/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Yongliang Guo",
+        "Zhongrui Feng",
+        "Yong Luo",
+        "Junfu Li",
+        "Weifeng Wen",
+        "Xin Cheng",
+        "Zhencheng Chen",
+        "Hanbo Chen",
+        "Churong Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110605",
+      "doi": "10.1016/j.gaitpost.2026.110605",
+      "issns": [
+        "0966-6362",
+        "1879-2219"
+      ],
+      "journal": "Gait & posture",
+      "pmcid": null,
+      "pmid": "42574844",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42574844",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42574844/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Lateralized ankle positioning deficits at initial contact distinguish affected limbs in Hoehn-Yahr stage 1 Parkinson's disease.",
+      "title_original": "Lateralized ankle positioning deficits at initial contact distinguish affected limbs in Hoehn-Yahr stage 1 Parkinson's disease.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110605",
+        "https://pubmed.ncbi.nlm.nih.gov/42574844/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Liam P Pellerine",
+        "Hannah Nørtoft Frankel",
+        "Luise Mølenberg Begtrup",
+        "Myles W O'Brien",
+        "Magnus Svartengren",
+        "Pasan Hettiarachchi"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110608",
+      "doi": "10.1016/j.gaitpost.2026.110608",
+      "issns": [
+        "0966-6362",
+        "1879-2219"
+      ],
+      "journal": "Gait & posture",
+      "pmcid": null,
+      "pmid": "42566849",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42566849",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42566849/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Free-living sit-to-stand angular velocity derived from thigh-worn accelerometry slows during pregnancy, but is not associated with binary self-reported discomfort prevalence.",
+      "title_original": "Free-living sit-to-stand angular velocity derived from thigh-worn accelerometry slows during pregnancy, but is not associated with binary self-reported discomfort prevalence.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110608",
+        "https://pubmed.ncbi.nlm.nih.gov/42566849/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Maggie Peterson",
+        "Neal R Glaviano",
+        "Sungwan Kim"
+      ],
+      "canonical_id": "doi:10.1016/j.gaitpost.2026.110607",
+      "doi": "10.1016/j.gaitpost.2026.110607",
+      "issns": [
+        "0966-6362",
+        "1879-2219"
+      ],
+      "journal": "Gait & posture",
+      "pmcid": null,
+      "pmid": "42561738",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42561738",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561738/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Associations between hip and knee muscle volume and lower extremity energetics during a single-leg squat in females with patellofemoral pain.",
+      "title_original": "Associations between hip and knee muscle volume and lower extremity energetics during a single-leg squat in females with patellofemoral pain.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.gaitpost.2026.110607",
+        "https://pubmed.ncbi.nlm.nih.gov/42561738/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__gait-and-posture__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__gait-and-posture__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__gait-and-posture__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__gait-and-posture__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__gait-and-posture__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__gait-and-posture__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 9,
+    "by_article_type": {
+      "Journal Article": 6,
+      "journal-article": 3
+    },
+    "by_source": {
+      "crossref": 3,
+      "pubmed": 6
+    },
+    "translated_articles": 0
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "gait-and-posture__2026-08__r01",
+  "edition_key": "gait-and-posture__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "gait-and-posture__2026-08__r01",
+  "retrieved_at": "2026-08-14T03:37:09Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__gait-and-posture__2026-08__r01",
+    "edition_key": "gait-and-posture__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "0966-6362",
+    "journal": "Gait & Posture",
+    "journal_slug": "gait-and-posture",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "gait-and-posture__2026-08__r01",
+    "revision": 1,
+    "slug": "gait-and-posture",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 3,
+      "detail": null,
+      "query": "container=Gait & Posture; publication=2026-08-01..2026-08-14",
+      "returned_count": 3,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 3,
+      "truncated": false
+    },
+    {
+      "accepted_count": 6,
+      "detail": null,
+      "query": "(\"Gait & Posture\"[Journal] OR \"0966-6362\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 6,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 6,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Gait & Posture\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 5,
+      "source": "europe_pmc",
+      "status": "SUCCESS",
+      "total_available": 5,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 9,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

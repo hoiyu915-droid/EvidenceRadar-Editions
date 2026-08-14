@@ -1,0 +1,440 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Eric Piveteau",
+        "Franck Di Rienzo",
+        "Florent Lebon",
+        "Aymeric Guillot"
+      ],
+      "canonical_id": "doi:10.1016/j.humov.2026.103500",
+      "doi": "10.1016/j.humov.2026.103500",
+      "issns": [
+        "0167-9457",
+        "1872-7646"
+      ],
+      "journal": "Human Movement Science",
+      "pmcid": null,
+      "pmid": "42335567",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.humov.2026.103500",
+          "url": "https://doi.org/10.1016/j.humov.2026.103500"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42335567",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42335567/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Think positive, perform better: The detrimental effect of technical motor imagery before action",
+      "title_original": "Think positive, perform better: The detrimental effect of technical motor imagery before action",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.humov.2026.103500",
+        "https://pubmed.ncbi.nlm.nih.gov/42335567/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Charles R. Smith",
+        "Sheri P. Silfies",
+        "Troy M. Herter",
+        "Roozbeh Behroozmand",
+        "Shailesh S. Kantak",
+        "Jill Campbell Stewart"
+      ],
+      "canonical_id": "doi:10.1016/j.humov.2026.103501",
+      "doi": "10.1016/j.humov.2026.103501",
+      "issns": [
+        "0167-9457",
+        "1872-7646"
+      ],
+      "journal": "Human Movement Science",
+      "pmcid": null,
+      "pmid": "42361512",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.humov.2026.103501",
+          "url": "https://doi.org/10.1016/j.humov.2026.103501"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42361512",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42361512/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The interaction of biomechanical demands and the speed-accuracy trade-off for the control of multi-directional, three-dimensional targeted reaching movements",
+      "title_original": "The interaction of biomechanical demands and the speed-accuracy trade-off for the control of multi-directional, three-dimensional targeted reaching movements",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.humov.2026.103501",
+        "https://pubmed.ncbi.nlm.nih.gov/42361512/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gyeongeun Lee",
+        "Hoon Kim"
+      ],
+      "canonical_id": "doi:10.1016/j.humov.2026.103499",
+      "doi": "10.1016/j.humov.2026.103499",
+      "issns": [
+        "0167-9457",
+        "1872-7646"
+      ],
+      "journal": "Human Movement Science",
+      "pmcid": null,
+      "pmid": "42269331",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.humov.2026.103499",
+          "url": "https://doi.org/10.1016/j.humov.2026.103499"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42269331",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42269331/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Shoulder-elbow coordination in the transverse plane during badminton forehand drive depending on training status using vector coding analysis",
+      "title_original": "Shoulder-elbow coordination in the transverse plane during badminton forehand drive depending on training status using vector coding analysis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.humov.2026.103499",
+        "https://pubmed.ncbi.nlm.nih.gov/42269331/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/s0167-9457(26)00063-1",
+      "doi": "10.1016/s0167-9457(26)00063-1",
+      "issns": [
+        "0167-9457"
+      ],
+      "journal": "Human Movement Science",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0167-9457(26)00063-1",
+          "url": "https://doi.org/10.1016/s0167-9457(26)00063-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Editorial Board",
+      "title_original": "Editorial Board",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0167-9457(26)00063-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carrie M. Peters",
+        "Sarah N. Kraeutner",
+        "Romeo Chua",
+        "Nicola J. Hodges"
+      ],
+      "canonical_id": "doi:10.1016/j.humov.2026.103504",
+      "doi": "10.1016/j.humov.2026.103504",
+      "issns": [
+        "0167-9457",
+        "1872-7646"
+      ],
+      "journal": "Human Movement Science",
+      "pmcid": null,
+      "pmid": "42385672",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.humov.2026.103504",
+          "url": "https://doi.org/10.1016/j.humov.2026.103504"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42385672",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42385672/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Dissociating variability from error-based processes in observational learning",
+      "title_original": "Dissociating variability from error-based processes in observational learning",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.humov.2026.103504",
+        "https://pubmed.ncbi.nlm.nih.gov/42385672/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rodrigo Guzmán-Venegas",
+        "Fabiola Benavides-Mendez",
+        "Guillermo Mendez-Rebolledo"
+      ],
+      "canonical_id": "doi:10.1016/j.humov.2026.103498",
+      "doi": "10.1016/j.humov.2026.103498",
+      "issns": [
+        "0167-9457",
+        "1872-7646"
+      ],
+      "journal": "Human Movement Science",
+      "pmcid": null,
+      "pmid": "42263409",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.humov.2026.103498",
+          "url": "https://doi.org/10.1016/j.humov.2026.103498"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263409",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263409/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Delayed reaction time and altered spatial activation of Fibularis longus in chronic ankle instability: A high-density surface electromyography study",
+      "title_original": "Delayed reaction time and altered spatial activation of Fibularis longus in chronic ankle instability: A high-density surface electromyography study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.humov.2026.103498",
+        "https://pubmed.ncbi.nlm.nih.gov/42263409/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bruno Figueira",
+        "Rodrigo Silva",
+        "Bruno Gonçalves",
+        "Gabriela Almeida"
+      ],
+      "canonical_id": "doi:10.1016/j.humov.2026.103503",
+      "doi": "10.1016/j.humov.2026.103503",
+      "issns": [
+        "0167-9457",
+        "1872-7646"
+      ],
+      "journal": "Human Movement Science",
+      "pmcid": null,
+      "pmid": "42365838",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.humov.2026.103503",
+          "url": "https://doi.org/10.1016/j.humov.2026.103503"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42365838",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42365838/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Associations between movement behaviors, sleep, and screen time exposure in middle childhood using multivariable modelling",
+      "title_original": "Associations between movement behaviors, sleep, and screen time exposure in middle childhood using multivariable modelling",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.humov.2026.103503",
+        "https://pubmed.ncbi.nlm.nih.gov/42365838/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Taishi Okegawa",
+        "Ayane Kusafuka",
+        "Daiki Yamasaki",
+        "Naotsugu Kaneko",
+        "Kimitaka Nakazawa"
+      ],
+      "canonical_id": "doi:10.1016/j.humov.2026.103525",
+      "doi": "10.1016/j.humov.2026.103525",
+      "issns": [
+        "0167-9457",
+        "1872-7646"
+      ],
+      "journal": "Human movement science",
+      "pmcid": null,
+      "pmid": "42551217",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42551217",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42551217/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Facilitating the supplementary motor area activity reduces variability of ball arrival position in accurate ball throwing performance.",
+      "title_original": "Facilitating the supplementary motor area activity reduces variability of ball arrival position in accurate ball throwing performance.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.humov.2026.103525",
+        "https://pubmed.ncbi.nlm.nih.gov/42551217/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__human-movement-science__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__human-movement-science__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__human-movement-science__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__human-movement-science__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__human-movement-science__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__human-movement-science__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 8,
+    "by_article_type": {
+      "Journal Article": 1,
+      "journal-article": 7
+    },
+    "by_source": {
+      "crossref": 7,
+      "pubmed": 7
+    },
+    "translated_articles": 0
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "human-movement-science__2026-08__r01",
+  "edition_key": "human-movement-science__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "human-movement-science__2026-08__r01",
+  "retrieved_at": "2026-08-14T03:37:11Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__human-movement-science__2026-08__r01",
+    "edition_key": "human-movement-science__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "0167-9457",
+    "journal": "Human Movement Science",
+    "journal_slug": "human-movement-science",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "human-movement-science__2026-08__r01",
+    "revision": 1,
+    "slug": "human-movement-science",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 7,
+      "detail": null,
+      "query": "container=Human Movement Science; publication=2026-08-01..2026-08-14",
+      "returned_count": 7,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 7,
+      "truncated": false
+    },
+    {
+      "accepted_count": 7,
+      "detail": null,
+      "query": "(\"Human Movement Science\"[Journal] OR \"0167-9457\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 7,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 7,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Human Movement Science\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 1,
+      "source": "europe_pmc",
+      "status": "SUCCESS",
+      "total_available": 1,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 8,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

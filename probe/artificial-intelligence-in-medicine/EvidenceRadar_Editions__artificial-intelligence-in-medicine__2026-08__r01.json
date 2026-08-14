@@ -1,0 +1,757 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lu Liu",
+        "Ye Yuan",
+        "Yanxin Ma",
+        "Wei Shao",
+        "Jiahe Song",
+        "Zhe Wang",
+        "Ruoyu Wang",
+        "Wenjun Tan"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103439",
+      "doi": "10.1016/j.artmed.2026.103439",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42035594",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103439",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103439"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42035594",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42035594/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Topo-UNet: A topology-aware multi-task network for pulmonary vessel segmentation",
+      "title_original": "Topo-UNet: A topology-aware multi-task network for pulmonary vessel segmentation",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103439",
+        "https://pubmed.ncbi.nlm.nih.gov/42035594/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yonghao Zhao",
+        "Changtao Li",
+        "Chi Shu",
+        "Qingbin Wu",
+        "Hong Li",
+        "Chuan Xu",
+        "Tianrui Li",
+        "Ziqiang Wang",
+        "Zhipeng Luo",
+        "Yazhou He"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103426",
+      "doi": "10.1016/j.artmed.2026.103426",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42019107",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103426",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103426"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42019107",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42019107/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Tackling small sample survival analysis via transfer learning: A study of colorectal cancer prognosis",
+      "title_original": "Tackling small sample survival analysis via transfer learning: A study of colorectal cancer prognosis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103426",
+        "https://pubmed.ncbi.nlm.nih.gov/42019107/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Huchang Liao",
+        "Yuan Zheng",
+        "Xingli Wu",
+        "Pengkun Wu"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103427",
+      "doi": "10.1016/j.artmed.2026.103427",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42066520",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103427",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103427"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42066520",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42066520/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Patient preference analysis for online consultation based on user-generated content",
+      "title_original": "Patient preference analysis for online consultation based on user-generated content",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103427",
+        "https://pubmed.ncbi.nlm.nih.gov/42066520/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Antonino Ferraro",
+        "Antonio Galli",
+        "Valerio La Gatta",
+        "Marco Postiglione",
+        "Giuseppe Riccio",
+        "Antonio Romano",
+        "Gian Marco Orlando",
+        "Diego Russo",
+        "Vincenzo Moscato"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103444",
+      "doi": "10.1016/j.artmed.2026.103444",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42119431",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103444",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103444"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42119431",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42119431/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "MediCARE: Medical Collaborative Agents REasoning over Interpretable Heterogeneous Graphs",
+      "title_original": "MediCARE: Medical Collaborative Agents REasoning over Interpretable Heterogeneous Graphs",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103444",
+        "https://pubmed.ncbi.nlm.nih.gov/42119431/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yehia Ibrahim Alzoubi",
+        "Alok Mishra"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103442",
+      "doi": "10.1016/j.artmed.2026.103442",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42070542",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103442",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103442"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42070542",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42070542/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Green artificial intelligence in health applications",
+      "title_original": "Green artificial intelligence in health applications",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103442",
+        "https://pubmed.ncbi.nlm.nih.gov/42070542/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xi Chen",
+        "Xiaoxu Deng",
+        "Zhiguo Zhou"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103445",
+      "doi": "10.1016/j.artmed.2026.103445",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42114397",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103445",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103445"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42114397",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42114397/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Evidential reasoning-enabled deep learning for reliable treatment outcome prediction in cancer therapy",
+      "title_original": "Evidential reasoning-enabled deep learning for reliable treatment outcome prediction in cancer therapy",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103445",
+        "https://pubmed.ncbi.nlm.nih.gov/42114397/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Samah Jamal Fodeh",
+        "Yan Wang",
+        "Linhai Ma",
+        "Srivani Talakokkul",
+        "Jordan M. Alpert",
+        "Sarah Schellhorn"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103429",
+      "doi": "10.1016/j.artmed.2026.103429",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42102644",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103429",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103429"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42102644",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42102644/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "EPPCMinerBen: A novel benchmark for evaluating large language models on electronic patient–provider communication via the patient portal",
+      "title_original": "EPPCMinerBen: A novel benchmark for evaluating large language models on electronic patient–provider communication via the patient portal",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103429",
+        "https://pubmed.ncbi.nlm.nih.gov/42102644/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/s0933-3657(26)00102-8",
+      "doi": "10.1016/s0933-3657(26)00102-8",
+      "issns": [
+        "0933-3657"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0933-3657(26)00102-8",
+          "url": "https://doi.org/10.1016/s0933-3657(26)00102-8"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Editorial Board",
+      "title_original": "Editorial Board",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0933-3657(26)00102-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ahsan Raza Siyal",
+        "Markus Haltmeier",
+        "Ruth Steiger",
+        "Malik Galijasevic",
+        "Elke Ruth Gizewski",
+        "Astrid Ellen Grams"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103440",
+      "doi": "10.1016/j.artmed.2026.103440",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42085854",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103440",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103440"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42085854",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42085854/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "DARE: A Deformable Adaptive Regularization Estimator for learning-based medical image registration",
+      "title_original": "DARE: A Deformable Adaptive Regularization Estimator for learning-based medical image registration",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103440",
+        "https://pubmed.ncbi.nlm.nih.gov/42085854/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Omid Jafarinezhad",
+        "Qian Zhang",
+        "Ryan Rezai",
+        "Mohammad Noaeen",
+        "Aviv Shachak",
+        "Behrouz Far",
+        "Zahra Shakeri"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103422",
+      "doi": "10.1016/j.artmed.2026.103422",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42066521",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103422",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103422"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42066521",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42066521/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Centralized pooling and federated learning for Canadian patient-level data sharing in multicenter medical AI: A scoping review",
+      "title_original": "Centralized pooling and federated learning for Canadian patient-level data sharing in multicenter medical AI: A scoping review",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103422",
+        "https://pubmed.ncbi.nlm.nih.gov/42066521/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Amir Sorayaie Azar",
+        "Jamshid Bagherzadeh Mohasefi",
+        "Uffe Kock Wiil",
+        "Amin Naemi",
+        "Ali Ebrahimi"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103441",
+      "doi": "10.1016/j.artmed.2026.103441",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42085853",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103441",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103441"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42085853",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42085853/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Artificial intelligence language models for medical text analysis: A systematic review",
+      "title_original": "Artificial intelligence language models for medical text analysis: A systematic review",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103441",
+        "https://pubmed.ncbi.nlm.nih.gov/42085853/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Feiyun Xiao",
+        "Ruixue Gao",
+        "Cheng Huang",
+        "Jingsong Mu",
+        "Yong Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103428",
+      "doi": "10.1016/j.artmed.2026.103428",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": "42025393",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103428",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103428"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42025393",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42025393/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Adaptive time-frequency decomposition informer for pathological rest tremor sequence prediction",
+      "title_original": "Adaptive time-frequency decomposition informer for pathological rest tremor sequence prediction",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103428",
+        "https://pubmed.ncbi.nlm.nih.gov/42025393/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yichong She",
+        "Di Zhang",
+        "Jinbo Sun",
+        "Xuejuan Yang",
+        "Xiao Zeng",
+        "Wei Qin"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103502",
+      "doi": "10.1016/j.artmed.2026.103502",
+      "issns": [
+        "0933-3657"
+      ],
+      "journal": "Artificial Intelligence in Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artmed.2026.103502",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103502"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "A novel algorithm integrating multimodal information for improving OSA-related sleep staging",
+      "title_original": "A novel algorithm integrating multimodal information for improving OSA-related sleep staging",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103502"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Yuan Zhang",
+        "Hu Wang",
+        "Yutong Xie",
+        "Minh-Son To",
+        "Steven Knox",
+        "Mathew Leonardi",
+        "George Condous",
+        "Jodie C Avery",
+        "M Louise Hull",
+        "Gustavo Carneiro"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103503",
+      "doi": "10.1016/j.artmed.2026.103503",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial intelligence in medicine",
+      "pmcid": null,
+      "pmid": "42594747",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42594747",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42594747/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Unpaired multi-modal multi-label learning for detecting endometriosis signs.",
+      "title_original": "Unpaired multi-modal multi-label learning for detecting endometriosis signs.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103503",
+        "https://pubmed.ncbi.nlm.nih.gov/42594747/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Nishant Mishra",
+        "Ameen Abu-Hanna",
+        "Iacer Calixto"
+      ],
+      "canonical_id": "doi:10.1016/j.artmed.2026.103501",
+      "doi": "10.1016/j.artmed.2026.103501",
+      "issns": [
+        "0933-3657",
+        "1873-2860"
+      ],
+      "journal": "Artificial intelligence in medicine",
+      "pmcid": null,
+      "pmid": "42594748",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42594748",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42594748/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Explainability of decoder-only clinical large language models: A scoping review.",
+      "title_original": "Explainability of decoder-only clinical large language models: A scoping review.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.artmed.2026.103501",
+        "https://pubmed.ncbi.nlm.nih.gov/42594748/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 15,
+    "by_article_type": {
+      "Journal Article": 2,
+      "journal-article": 13
+    },
+    "by_source": {
+      "crossref": 13,
+      "pubmed": 13
+    },
+    "translated_articles": 0
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "artificial-intelligence-in-medicine__2026-08__r01",
+  "edition_key": "artificial-intelligence-in-medicine__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "artificial-intelligence-in-medicine__2026-08__r01",
+  "retrieved_at": "2026-08-14T03:37:07Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r01",
+    "edition_key": "artificial-intelligence-in-medicine__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "0933-3657",
+    "journal": "Artificial Intelligence in Medicine",
+    "journal_slug": "artificial-intelligence-in-medicine",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "artificial-intelligence-in-medicine__2026-08__r01",
+    "revision": 1,
+    "slug": "artificial-intelligence-in-medicine",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 13,
+      "detail": null,
+      "query": "container=Artificial Intelligence in Medicine; publication=2026-08-01..2026-08-14",
+      "returned_count": 13,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 13,
+      "truncated": false
+    },
+    {
+      "accepted_count": 13,
+      "detail": null,
+      "query": "(\"Artificial Intelligence in Medicine\"[Journal] OR \"0933-3657\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 13,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 13,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Artificial Intelligence in Medicine\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 15,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
