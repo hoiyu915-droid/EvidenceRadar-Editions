@@ -14,6 +14,7 @@ concurrency:
   group: seal-august-2026-batch-02
   cancel-in-progress: false
 
+# Retry 2: person-name translations now satisfy the zh-TW CJK contract.
 jobs:
   seal:
     runs-on: ubuntu-latest
