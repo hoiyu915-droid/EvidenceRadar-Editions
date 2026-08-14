@@ -63,6 +63,15 @@ class RscChemicalScienceAdapter:
         return None
 
     @staticmethod
+    def _title(raw: dict[str, Any]) -> str:
+        titles = raw.get("title") or []
+        return clean_text(titles[0] if isinstance(titles, list) and titles else titles)
+
+    @classmethod
+    def _is_issue_furniture(cls, raw: dict[str, Any]) -> bool:
+        return cls._title(raw).casefold() in ISSUE_FURNITURE_TITLES
+
+    @staticmethod
     def _created_day(raw: dict[str, Any]) -> tuple[Any, str] | None:
         block = raw.get("created") or {}
         parts = block.get("date-parts") if isinstance(block, dict) else None
@@ -73,11 +82,10 @@ class RscChemicalScienceAdapter:
             return None
         return parsed
 
-    @staticmethod
-    def _article(raw: dict[str, Any]) -> Article | None:
-        titles = raw.get("title") or []
+    @classmethod
+    def _article(cls, raw: dict[str, Any]) -> Article | None:
+        title = cls._title(raw)
         journals = raw.get("container-title") or []
-        title = clean_text(titles[0] if isinstance(titles, list) and titles else titles)
         journal = clean_text(
             journals[0] if isinstance(journals, list) and journals else journals
         )
@@ -106,7 +114,7 @@ class RscChemicalScienceAdapter:
         if clean_text(raw.get("type")) != "journal-article":
             return None
 
-        created = RscChemicalScienceAdapter._created_day(raw)
+        created = cls._created_day(raw)
         if created is None:
             return None
         publication_date, precision = created
@@ -126,7 +134,9 @@ class RscChemicalScienceAdapter:
         url_value = safe_http_metadata_url(str(raw.get("URL") or ""))
         if not url_value:
             url_value = f"https://doi.org/{doi}"
-        article_type = "Correction" if title.casefold().startswith("correction:") else "Journal Article"
+        article_type = (
+            "Correction" if title.casefold().startswith("correction:") else "Journal Article"
+        )
         return Article(
             title=title,
             journal=JOURNAL,
@@ -181,7 +191,8 @@ class RscChemicalScienceAdapter:
             total_available: int | None = None
             remaining = spec.max_records
             cursor: str | None = "*"
-            excluded = 0
+            furniture_excluded = 0
+            validation_rejected = 0
             while remaining > 0 and cursor:
                 params = dict(base_params)
                 params["rows"] = min(remaining, 1000)
@@ -202,11 +213,14 @@ class RscChemicalScienceAdapter:
                     break
                 for raw in items:
                     if not isinstance(raw, dict):
-                        excluded += 1
+                        validation_rejected += 1
+                        continue
+                    if self._is_issue_furniture(raw):
+                        furniture_excluded += 1
                         continue
                     article = self._article(raw)
                     if article is None:
-                        excluded += 1
+                        validation_rejected += 1
                     else:
                         articles.append(article)
                 consumed = len(items)
@@ -222,20 +236,20 @@ class RscChemicalScienceAdapter:
             )
             if returned_count == 0:
                 status = "NO_RESULTS"
-            elif truncated or excluded:
-                # Exclusion is expected for RSC issue furniture; the source was
-                # still completely queried. Keep SUCCESS unless records failed
-                # validation for reasons other than the exact furniture titles.
-                status = "PARTIAL" if truncated else "SUCCESS"
+            elif truncated or validation_rejected:
+                status = "PARTIAL"
             else:
                 status = "SUCCESS"
             detail = (
                 f"{SURROGATE_VALIDATION}; "
                 f"source records={returned_count}; accepted scholarly records={len(articles)}; "
-                f"excluded non-scholarly/invalid records={excluded}"
+                f"issue furniture excluded={furniture_excluded}; "
+                f"unexpected records rejected={validation_rejected}"
             )
             if truncated:
-                detail += f"; source reported {total_available} records and max_records capped retrieval"
+                detail += (
+                    f"; source reported {total_available} records and max_records capped retrieval"
+                )
             return AdapterResult(
                 articles,
                 SourceCheck(
