@@ -1,0 +1,73 @@
+name: Seal final remaining August 2026 coverage
+on:
+  push:
+    branches: [data/2026-08-finish-remaining]
+    paths: [.github/workflows/seal-remaining-august.yml]
+permissions:
+  contents: write
+jobs:
+  seal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with: {python-version: '3.12'}
+      - name: Install current Editions engine
+        run: python -m pip install -e .
+      - name: Seal TMLR and complete period coverage
+        run: python tools/seal_remaining_august.py
+      - name: Remove temporary work and commit formal outputs only
+        run: |
+          rm -rf probe translation-work tools/seal_remaining_august.py
+          rm -f \
+            .github/workflows/probe-august-remaining.yml \
+            .github/workflows/probe-remaining-date-alternates.yml \
+            .github/workflows/probe-first-party-remaining.yml \
+            .github/workflows/repair-first-party-remaining.yml \
+            .github/workflows/final-probe-remaining.yml \
+            .github/workflows/probe-rsc-feed-curl.yml \
+            .github/workflows/translate-remaining-tmlr.yml \
+            .github/workflows/qa-tmlr-translation.yml \
+            .github/workflows/fix-final-sealer-slug.yml \
+            .github/workflows/seal-remaining-august.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- \
+            catalog/journals.json catalog/coverage/2026-08.json \
+            editions/tmlr/2026/08/r01/edition.json \
+            editions/tmlr/2026/08/r01/manifest.json \
+            editions/tmlr/2026/08/r01/storage.json \
+            evidenceradar_editions/pages.py evidenceradar_editions/pages_v6.py \
+            tests/test_period_coverage.py
+          git add -A -- probe translation-work tools/seal_remaining_august.py \
+            .github/workflows/probe-august-remaining.yml \
+            .github/workflows/probe-remaining-date-alternates.yml \
+            .github/workflows/probe-first-party-remaining.yml \
+            .github/workflows/repair-first-party-remaining.yml \
+            .github/workflows/final-probe-remaining.yml \
+            .github/workflows/probe-rsc-feed-curl.yml \
+            .github/workflows/translate-remaining-tmlr.yml \
+            .github/workflows/qa-tmlr-translation.yml \
+            .github/workflows/fix-final-sealer-slug.yml \
+            .github/workflows/seal-remaining-august.yml
+          git commit -m 'data: finish August 2026 registry coverage'
+          git fetch origin main
+          mapfile -t files < <(git diff --name-only origin/main...HEAD)
+          printf '%s\n' "${files[@]}"
+          test "${#files[@]}" -eq 8
+          expected=$(cat <<'EOF'
+catalog/coverage/2026-08.json
+catalog/journals.json
+editions/tmlr/2026/08/r01/edition.json
+editions/tmlr/2026/08/r01/manifest.json
+editions/tmlr/2026/08/r01/storage.json
+evidenceradar_editions/pages.py
+evidenceradar_editions/pages_v6.py
+tests/test_period_coverage.py
+EOF
+          )
+          actual=$(printf '%s\n' "${files[@]}" | sort)
+          test "$actual" = "$(printf '%s\n' "$expected" | sort)"
+          git push
