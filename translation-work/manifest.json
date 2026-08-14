@@ -1,4 +1,7 @@
 {
-  "expected_items": 149,
-  "parts": 8
+  "expected_items": 148,
+  "parts": 8,
+  "manual_exclusions": [
+    "doi:10.1016/j.ijhcs.2026.103904"
+  ]
 }
