@@ -1,0 +1,15 @@
+{
+  "exclude_precisions": [],
+  "exclude_titles": [],
+  "journal_slug": "the-lancet-digital-health",
+  "schema_version": "1.0",
+  "translations": {
+    "An automated speech measure for Huntington’s disease: how can it take the field forward?": "亨丁頓舞蹈症的自動化語音測量：如何推動此領域向前？",
+    "Bixonimania and the epistemic fragility of artificial intelligence in medicine: lessons from a fabricated disease": "Bixonimania 與醫療人工智慧的知識論脆弱性：從虛構疾病得到的教訓",
+    "Data as a relation: development of a blockchain-based platform for Indigenous data sovereignty": "將資料視為關係：原住民族資料主權區塊鏈平台的開發",
+    "Ethics oversight of health-related research should be contemporaneous in the age of artificial intelligence": "人工智慧時代的健康研究倫理監督應與時俱進",
+    "Infodemic preparedness and the 90–70–90 cervical cancer targets": "資訊疫情整備與子宮頸癌 90–70–90 目標",
+    "Navigating fairness in artificial intelligence-based prediction models: theoretical constructs and practical applications": "人工智慧預測模型中的公平性：理論架構與實務應用",
+    "Prediction of structural glaucoma progression from baseline fundus photographs using deep learning: a retrospective multicentre study": "使用深度學習從基線眼底攝影預測青光眼結構性惡化：多中心回溯性研究"
+  }
+}
