@@ -1,127 +1,76 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "artifact_type": "EvidenceRadar_Editions_EditorialShortlistPolicy",
-  "policy_id": "editorial-shortlist-v1",
-  "semantics": "Deterministic title-and-bibliographic-metadata editorial shortlisting for deciding which small set should receive abstract acquisition next. It is not evidence-quality grading, novelty assessment, scope verification, or full-text review.",
-  "fetch_now_target": 48,
-  "hold_reserve_target": 144,
+  "policy_id": "editorial-shortlist-v2-impact-prior",
+  "semantics": "Public, deterministic title-and-bibliographic-metadata shortlisting. Publisher-displayed JIF, with CiteScore fallback, changes only the share of reserve records allocated abstract-fetch capacity. It is not article evidence grading, novelty assessment, or scope verification.",
+  "fetch_now_target": 300,
+  "hold_reserve_target": 300,
   "eligible_prefetch_routes": [
     "FETCH_CANDIDATE",
     "RESERVE"
   ],
-  "fetch_now_source_routes": [
+  "metric_independent_prefetch_routes": [
     "FETCH_CANDIDATE"
   ],
   "reserve_backfill_enabled": true,
+  "hold_all_remaining_eligible": true,
+  "impact_registry_file": "journal-impact-metrics.json",
+  "neutral_percentile": 50.0,
+  "unknown_capture_rate": 0.75,
+  "capture_bands": [
+    {
+      "minimum_percentile": 90.0,
+      "capture_rate": 1.0,
+      "label": "TOP_DECILE"
+    },
+    {
+      "minimum_percentile": 75.0,
+      "capture_rate": 0.9,
+      "label": "TOP_QUARTILE"
+    },
+    {
+      "minimum_percentile": 50.0,
+      "capture_rate": 0.8,
+      "label": "UPPER_HALF"
+    },
+    {
+      "minimum_percentile": 0.0,
+      "capture_rate": 0.7,
+      "label": "LOWER_HALF"
+    }
+  ],
+  "mode_capture_modifiers": {
+    "FULL": 1.0,
+    "TRIAGE": 0.45,
+    "INDEX_ONLY": 0.2,
+    "SUSPENDED": 0.0
+  },
   "journal_fetch_caps": {
-    "FULL": 4,
-    "TRIAGE": 8,
-    "INDEX_ONLY": 2,
+    "FULL": 40,
+    "TRIAGE": 60,
+    "INDEX_ONLY": 8,
     "SUSPENDED": 0
   },
   "journal_hold_caps": {
+    "FULL": 5000,
+    "TRIAGE": 5000,
+    "INDEX_ONLY": 5000,
+    "SUSPENDED": 5000
+  },
+  "topic_soft_caps_by_mode": {
+    "FULL": 6,
+    "TRIAGE": 12,
+    "INDEX_ONLY": 2,
+    "SUSPENDED": 0
+  },
+  "topic_hard_caps_by_mode": {
     "FULL": 12,
     "TRIAGE": 24,
     "INDEX_ONLY": 4,
     "SUSPENDED": 0
   },
-  "category_order": [
-    "clinical_medicine",
-    "interdisciplinary",
-    "sport_nutrition_fitness",
-    "llm_research",
-    "human_ai",
-    "sport_science",
-    "chemistry",
-    "physics_astronomy",
-    "uncategorized"
-  ],
-  "category_minimums": {
-    "clinical_medicine": 10,
-    "interdisciplinary": 6,
-    "sport_nutrition_fitness": 6,
-    "llm_research": 5,
-    "human_ai": 5,
-    "sport_science": 3
-  },
-  "category_soft_caps": {
-    "clinical_medicine": 14,
-    "interdisciplinary": 10,
-    "sport_nutrition_fitness": 8,
-    "llm_research": 8,
-    "human_ai": 6,
-    "sport_science": 4,
-    "chemistry": 4,
-    "physics_astronomy": 4,
-    "uncategorized": 6
-  },
-  "category_hard_caps": {
-    "clinical_medicine": 18,
-    "interdisciplinary": 12,
-    "sport_nutrition_fitness": 10,
-    "llm_research": 10,
-    "human_ai": 8,
-    "sport_science": 5,
-    "chemistry": 5,
-    "physics_astronomy": 5,
-    "uncategorized": 8
-  },
-  "path_order": [
-    "GUIDANCE",
-    "EVIDENCE_SYNTHESIS",
-    "RANDOMIZED_TRIAL",
-    "REPLICATION_VALIDATION",
-    "SAFETY_SIGNAL",
-    "RESOURCE_BENCHMARK",
-    "PROSPECTIVE_LONGITUDINAL",
-    "OBSERVATIONAL_DESIGN",
-    "SURVEY",
-    "PROTOCOL",
-    "CASE_REPORT"
-  ],
-  "path_minimums": {
-    "GUIDANCE": 2,
-    "EVIDENCE_SYNTHESIS": 6,
-    "RANDOMIZED_TRIAL": 6,
-    "REPLICATION_VALIDATION": 4,
-    "SAFETY_SIGNAL": 4,
-    "RESOURCE_BENCHMARK": 4,
-    "PROSPECTIVE_LONGITUDINAL": 3,
-    "OBSERVATIONAL_DESIGN": 2,
-    "SURVEY": 1,
-    "PROTOCOL": 0,
-    "CASE_REPORT": 0
-  },
-  "path_soft_caps": {
-    "GUIDANCE": 4,
-    "EVIDENCE_SYNTHESIS": 10,
-    "RANDOMIZED_TRIAL": 10,
-    "REPLICATION_VALIDATION": 6,
-    "SAFETY_SIGNAL": 7,
-    "RESOURCE_BENCHMARK": 6,
-    "PROSPECTIVE_LONGITUDINAL": 5,
-    "OBSERVATIONAL_DESIGN": 3,
-    "SURVEY": 2,
-    "PROTOCOL": 1,
-    "CASE_REPORT": 1
-  },
-  "path_hard_caps": {
-    "GUIDANCE": 4,
-    "EVIDENCE_SYNTHESIS": 14,
-    "RANDOMIZED_TRIAL": 14,
-    "REPLICATION_VALIDATION": 8,
-    "SAFETY_SIGNAL": 10,
-    "RESOURCE_BENCHMARK": 10,
-    "PROSPECTIVE_LONGITUDINAL": 8,
-    "OBSERVATIONAL_DESIGN": 6,
-    "SURVEY": 4,
-    "PROTOCOL": 2,
-    "CASE_REPORT": 2
-  },
-  "near_duplicate_jaccard_threshold": 0.72,
+  "near_duplicate_jaccard_threshold": 0.82,
   "topic_signature_tokens": 4,
-  "topic_soft_cap_per_journal": 2,
-  "hold_topic_soft_cap_per_journal": 4,
   "source_order": {
     "pmcid": [
       "EUROPE_PMC_PMCID",
@@ -137,5 +86,96 @@
     "doi": [
       "EUROPE_PMC_DOI"
     ]
-  }
+  },
+  "category_order": [
+    "chemistry",
+    "clinical_medicine",
+    "human_ai",
+    "interdisciplinary",
+    "llm_research",
+    "physics_astronomy",
+    "sport_nutrition_fitness",
+    "sport_science",
+    "uncategorized"
+  ],
+  "category_minimums": {},
+  "category_soft_caps": {
+    "chemistry": 300,
+    "clinical_medicine": 300,
+    "human_ai": 300,
+    "interdisciplinary": 300,
+    "llm_research": 300,
+    "physics_astronomy": 300,
+    "sport_nutrition_fitness": 300,
+    "sport_science": 300,
+    "uncategorized": 300
+  },
+  "category_hard_caps": {
+    "chemistry": 300,
+    "clinical_medicine": 300,
+    "human_ai": 300,
+    "interdisciplinary": 300,
+    "llm_research": 300,
+    "physics_astronomy": 300,
+    "sport_nutrition_fitness": 300,
+    "sport_science": 300,
+    "uncategorized": 300
+  },
+  "path_order": [
+    "GUIDANCE",
+    "EVIDENCE_SYNTHESIS",
+    "RANDOMIZED_TRIAL",
+    "REPLICATION_VALIDATION",
+    "SAFETY_SIGNAL",
+    "RESOURCE_BENCHMARK",
+    "PROSPECTIVE_LONGITUDINAL",
+    "OBSERVATIONAL_DESIGN",
+    "SURVEY",
+    "PROTOCOL",
+    "CASE_REPORT"
+  ],
+  "path_minimums": {
+    "GUIDANCE": 0,
+    "EVIDENCE_SYNTHESIS": 0,
+    "RANDOMIZED_TRIAL": 0,
+    "REPLICATION_VALIDATION": 0,
+    "SAFETY_SIGNAL": 0,
+    "RESOURCE_BENCHMARK": 0,
+    "PROSPECTIVE_LONGITUDINAL": 0,
+    "OBSERVATIONAL_DESIGN": 0,
+    "SURVEY": 0,
+    "PROTOCOL": 0,
+    "CASE_REPORT": 0
+  },
+  "path_soft_caps": {
+    "GUIDANCE": 300,
+    "EVIDENCE_SYNTHESIS": 300,
+    "RANDOMIZED_TRIAL": 300,
+    "REPLICATION_VALIDATION": 300,
+    "SAFETY_SIGNAL": 300,
+    "RESOURCE_BENCHMARK": 300,
+    "PROSPECTIVE_LONGITUDINAL": 300,
+    "OBSERVATIONAL_DESIGN": 300,
+    "SURVEY": 300,
+    "PROTOCOL": 300,
+    "CASE_REPORT": 300
+  },
+  "path_hard_caps": {
+    "GUIDANCE": 300,
+    "EVIDENCE_SYNTHESIS": 300,
+    "RANDOMIZED_TRIAL": 300,
+    "REPLICATION_VALIDATION": 300,
+    "SAFETY_SIGNAL": 300,
+    "RESOURCE_BENCHMARK": 300,
+    "PROSPECTIVE_LONGITUDINAL": 300,
+    "OBSERVATIONAL_DESIGN": 300,
+    "SURVEY": 300,
+    "PROTOCOL": 300,
+    "CASE_REPORT": 300
+  },
+  "topic_soft_cap_per_journal": 12,
+  "hold_topic_soft_cap_per_journal": 5000,
+  "fetch_now_source_routes": [
+    "FETCH_CANDIDATE"
+  ]
 }
