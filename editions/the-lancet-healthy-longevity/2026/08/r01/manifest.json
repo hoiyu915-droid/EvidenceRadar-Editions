@@ -1,0 +1,43 @@
+{
+  "article_count": 11,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T02:00:54Z",
+  "edition_id": "the-lancet-healthy-longevity__2026-08__r01",
+  "edition_key": "the-lancet-healthy-longevity__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 32824,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__the-lancet-healthy-longevity__2026-08__r01.json",
+      "sha256": "e8cab962c84e4fa102bd27948555e726020bf59b60245df3343aad8532beea99"
+    },
+    "report_html": {
+      "bytes": 59155,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__the-lancet-healthy-longevity__2026-08__r01.html",
+      "sha256": "f47e9a624d9aa43957e5b70d05211a896239d0abeaff074f1639fd11f0b347b1"
+    }
+  },
+  "journal": "The Lancet Healthy Longevity",
+  "journal_slug": "the-lancet-healthy-longevity",
+  "manifest_name": "EvidenceRadar_Editions__the-lancet-healthy-longevity__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "the-lancet-healthy-longevity__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 11,
+  "translation_provenance": {
+    "request_binding_sha256": "bfa0f3950ea42c7cee336a34aa8193345fc5868d555239d70b60248c50f3a68a",
+    "response_sha256": "07e4a93d85af54c2a2dacd968f5d11dc5ac216283db054191596d9fea3b21cd7",
+    "source_edition_sha256": "0cbb2763cd4279d7c0eef6145100558d78140fd402a45404f1d878420c3468b5"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}

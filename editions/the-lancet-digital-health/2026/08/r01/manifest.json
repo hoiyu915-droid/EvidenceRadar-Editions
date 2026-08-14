@@ -1,0 +1,43 @@
+{
+  "article_count": 7,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T02:00:54Z",
+  "edition_id": "the-lancet-digital-health__2026-08__r01",
+  "edition_key": "the-lancet-digital-health__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 16891,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.json",
+      "sha256": "03a2aebff8b878389ace6f38370b5cce255eaba75e2e8d08697150227427e95f"
+    },
+    "report_html": {
+      "bytes": 35994,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.html",
+      "sha256": "32cc03a6ce54982d9fd0f1b41e83ab46ac63cef921df223f0549d821aa31ed58"
+    }
+  },
+  "journal": "The Lancet Digital Health",
+  "journal_slug": "the-lancet-digital-health",
+  "manifest_name": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "the-lancet-digital-health__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 7,
+  "translation_provenance": {
+    "request_binding_sha256": "84159d4ba555ccb78e99febff9fff0c1ad3d1830207479767c99a0313d81d80a",
+    "response_sha256": "6264b953c5dded90a24a25a35322680d8ea93f7a7a0295c858bb273ab94f213a",
+    "source_edition_sha256": "74a99426a72ba5f2a100b19b39932b76b7745cb82b0bca7d407357b554852e00"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}
