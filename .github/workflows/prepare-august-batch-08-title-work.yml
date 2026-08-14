@@ -1,0 +1,61 @@
+name: Prepare August 2026 batch 08 title work
+on:
+  push:
+    branches: [data/2026-08-batch-08-five-journals]
+    paths: [.github/workflows/prepare-august-batch-08-title-work.yml]
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with: {python-version: '3.12'}
+      - name: Build selected title ledger and suspicious-title audit
+        run: |
+          python - <<'PY'
+          import json,re
+          from pathlib import Path
+          selected={
+            'expert-systems-with-applications':Path('probe/batch08-selected/expert-systems-with-applications/edition.json'),
+            'science-advances':Path('probe/batch08-selected/science-advances/edition.json'),
+            'scientific-data':Path('probe/batch08-selected/scientific-data/edition.json'),
+            'nature-communications':Path('probe/batch08-replacements/nature-communications/edition.json'),
+            'scientific-reports':Path('probe/batch08-replacements/scientific-reports/edition.json'),
+          }
+          hard=re.compile(r'^(?:editorial board|editorial office(?: and board members)?|table of contents|contents|front cover|back cover|call for papers|temporary removal|withdrawn|current events|preface(?:\s+to)?|.*membership applic|.*award(?:\s|$))',re.I)
+          suspicious=re.compile(r'\b(?:editorial|preface|contents?|board|call for papers|cover|award|special collection|special issue|membership|withdrawn|temporary removal)\b',re.I)
+          root=Path('translation-work/batch08'); root.mkdir(parents=True,exist_ok=True)
+          kept=[]; excluded=[]; audit=[]; counts={}
+          for slug,path in selected.items():
+            ed=json.loads(path.read_text())
+            n=0
+            for a in ed['articles']:
+              title=(a.get('title') or '').strip()
+              precision=a.get('publication_date_precision')
+              reasons=[]
+              if precision=='YEAR': reasons.append('YEAR_ONLY')
+              if hard.search(title): reasons.append('FRONT_MATTER')
+              rec={'canonical_id':a['canonical_id'],'journal':ed['scope']['journal'],'slug':slug,'title_original':title,'publication_date':a.get('publication_date'),'publication_date_precision':precision}
+              if reasons:
+                rec['reason']=reasons; excluded.append(rec); continue
+              kept.append(rec); n+=1
+              if suspicious.search(title): audit.append(rec)
+            counts[slug]=n
+          kept.sort(key=lambda x:(x['slug'],x['title_original'].casefold(),x['canonical_id']))
+          chunk_size=80
+          for i in range(0,len(kept),chunk_size):
+            chunk=kept[i:i+chunk_size]
+            (root/f'part-{i//chunk_size+1:02d}.json').write_text(json.dumps({'part':i//chunk_size+1,'items':chunk},ensure_ascii=False,indent=2)+'\n')
+          (root/'manifest.json').write_text(json.dumps({'selected':list(selected),'counts':counts,'kept_total':len(kept),'excluded':excluded,'suspicious_audit':audit,'chunk_size':chunk_size,'chunk_count':(len(kept)+chunk_size-1)//chunk_size},ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps({'counts':counts,'kept_total':len(kept),'excluded_count':len(excluded),'suspicious_count':len(audit),'chunk_count':(len(kept)+chunk_size-1)//chunk_size},indent=2))
+          PY
+      - name: Commit title work
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add translation-work/batch08
+          git commit -m 'translation: prepare August batch 08 title work'
+          git push
