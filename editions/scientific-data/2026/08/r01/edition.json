@@ -1,0 +1,4624 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Murilo Táparo",
+        "Bianca Dantas",
+        "Ricardo Santos"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08056-8",
+      "doi": "10.1038/s41597-026-08056-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08056-8",
+          "url": "https://doi.org/10.1038/s41597-026-08056-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「物聯網網路中工作分配的綜合資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Comprehensive Dataset for Job Allocation in Internet of Things Networks",
+      "title_original": "A Comprehensive Dataset for Job Allocation in Internet of Things Networks",
+      "title_zh_tw": "物聯網網路中工作分配的綜合資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08056-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinyue Wang",
+        "Guofeng Zhu",
+        "Rui Li",
+        "Jiangwei Yang",
+        "Zhijie Zheng",
+        "Wenmin Li",
+        "Yani Gun",
+        "Ziwen Liu",
+        "Yaxin Li",
+        "Dongfei Yang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08093-3",
+      "doi": "10.1038/s41597-026-08093-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-14",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08093-3",
+          "url": "https://doi.org/10.1038/s41597-026-08093-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「中國大陸百年尺度水力發電廠資料集（1909-2025）」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A century-scale dataset of hydropower stations in mainland China (1909–2025)",
+      "title_original": "A century-scale dataset of hydropower stations in mainland China (1909–2025)",
+      "title_zh_tw": "中國大陸百年尺度水力發電廠資料集（1909-2025）",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08093-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Junpeng Zhang",
+        "Yanlei Liu",
+        "Wei Teng",
+        "Ziqiu Jia",
+        "Yining Tang",
+        "Shuyi Zhang",
+        "Wanyi Dang",
+        "Huiling Xue",
+        "Zhe Wang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08101-6",
+      "doi": "10.1038/s41597-026-08101-6",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08101-6",
+          "url": "https://doi.org/10.1038/s41597-026-08101-6"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「大馬蹄蝠（Rhinolophus ferrumequinum）冬眠與活動狀態下脾臟組織的轉錄組資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Transcriptome datasets of spleen tissues from the greater horseshoe bat (Rhinolophus ferrumequinum) across hibernating and active states",
+      "title_original": "Transcriptome datasets of spleen tissues from the greater horseshoe bat (Rhinolophus ferrumequinum) across hibernating and active states",
+      "title_zh_tw": "大馬蹄蝠（Rhinolophus ferrumequinum）冬眠與活動狀態下脾臟組織的轉錄組資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08101-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Martin Zidek",
+        "Lucie Jezerska",
+        "Aleksandr Derbenev",
+        "Ondrej Kabot",
+        "Jana Tabackova",
+        "Daniel Gelnar",
+        "Rostislav Prokes",
+        "Veronika Sykorova"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08098-y",
+      "doi": "10.1038/s41597-026-08098-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08098-y",
+          "url": "https://doi.org/10.1038/s41597-026-08098-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「使用剛性流道的顆粒層中的溝槽空間資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Spatial data set of furrows in granular layers using rigid runners",
+      "title_original": "Spatial data set of furrows in granular layers using rigid runners",
+      "title_zh_tw": "使用剛性流道的顆粒層中的溝槽空間資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08098-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shaobin Chen",
+        "Tao Tan",
+        "Xinyu Zhao",
+        "Jiaju Huang",
+        "Zhenquan Wu",
+        "Guoming Zhang",
+        "Yue Sun"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07901-0",
+      "doi": "10.1038/s41597-026-07901-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07901-0",
+          "url": "https://doi.org/10.1038/s41597-026-07901-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「ROP-VL：整合眼底照片和早產兒視網膜病變臨床知識的開放資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "ROP-VL: An Open Dataset Integrating Fundus Photograph and Clinical Knowledge for Retinopathy of Prematurity",
+      "title_original": "ROP-VL: An Open Dataset Integrating Fundus Photograph and Clinical Knowledge for Retinopathy of Prematurity",
+      "title_zh_tw": "ROP-VL：整合眼底照片和早產兒視網膜病變臨床知識的開放資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07901-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Golibjon Sunatullaev",
+        "Jiwoo Hwang",
+        "Jungmin Lee",
+        "Dongju Son",
+        "Kyung Ho Son",
+        "Auk Kim"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07618-0",
+      "doi": "10.1038/s41597-026-07618-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07618-0",
+          "url": "https://doi.org/10.1038/s41597-026-07618-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於家庭智慧揚聲器主動服務的多模式上下文中斷資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Multimodal-context Interruptibility Dataset for Proactive Services on Smart Speakers at Home",
+      "title_original": "Multimodal-context Interruptibility Dataset for Proactive Services on Smart Speakers at Home",
+      "title_zh_tw": "用於家庭智慧揚聲器主動服務的多模式上下文中斷資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07618-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiang Xu",
+        "Fei Wang",
+        "Weiqi Liu",
+        "Haowen Li",
+        "Yingyu Wang",
+        "Yuan Li",
+        "Bing Wang",
+        "Mingming Liu",
+        "Yang Li"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08064-8",
+      "doi": "10.1038/s41597-026-08064-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08064-8",
+          "url": "https://doi.org/10.1038/s41597-026-08064-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「甲狀腺眼疾眼眶脂肪組織的綜合單細胞轉錄組和微生物組資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "An integrated single-cell transcriptomic and microbiome dataset of orbital adipose tissue in thyroid eye disease",
+      "title_original": "An integrated single-cell transcriptomic and microbiome dataset of orbital adipose tissue in thyroid eye disease",
+      "title_zh_tw": "甲狀腺眼疾眼眶脂肪組織的綜合單細胞轉錄組和微生物組資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08064-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tangming Cui",
+        "Chongyun Zhou",
+        "Suyang Qin",
+        "Jinge Ma",
+        "Yifan Wang",
+        "Haiyan Li"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08112-3",
+      "doi": "10.1038/s41597-026-08112-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08112-3",
+          "url": "https://doi.org/10.1038/s41597-026-08112-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於增強臨床可用性的針灸臨床實踐指南資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "An Acupuncture Clinical Practice Guideline Dataset for Enhancing Clinical Usability",
+      "title_original": "An Acupuncture Clinical Practice Guideline Dataset for Enhancing Clinical Usability",
+      "title_zh_tw": "用於增強臨床可用性的針灸臨床實踐指南資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08112-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tome Eftimov",
+        "Ana Gjorgjevikj",
+        "Matej Martinc",
+        "Gjorgjina Cenikj",
+        "Darko Sasanski",
+        "Riste Stojanov",
+        "Sašo Dzeroski",
+        "Barbara Koroušić Seljak"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08079-1",
+      "doi": "10.1038/s41597-026-08079-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08079-1",
+          "url": "https://doi.org/10.1038/s41597-026-08079-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於食品和營養應用的針對領域的問答資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Domain-Targeted Question-Answering Dataset for Food and Nutrition Applications",
+      "title_original": "A Domain-Targeted Question-Answering Dataset for Food and Nutrition Applications",
+      "title_zh_tw": "用於食品和營養應用的針對領域的問答資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08079-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiapeng Li",
+        "Jianbin Lu",
+        "Chao Liu",
+        "Jiani Lin",
+        "Miyuan Ren",
+        "He Lv",
+        "Chengquan Cao",
+        "Yiping Wang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08078-2",
+      "doi": "10.1038/s41597-026-08078-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08078-2",
+          "url": "https://doi.org/10.1038/s41597-026-08078-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「同步閃光螢火蟲 Pygoluciola qingyu（鞘翅目：螢科）的染色體水平基因組」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "The chromosome-level genome of the synchronously flashing firefly Pygoluciola qingyu (Coleoptera: Lampyridae)",
+      "title_original": "The chromosome-level genome of the synchronously flashing firefly Pygoluciola qingyu (Coleoptera: Lampyridae)",
+      "title_zh_tw": "同步閃光螢火蟲 Pygoluciola qingyu（鞘翅目：螢科）的染色體水平基因組",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08078-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yingtai Li",
+        "Hongchun Zhang",
+        "Mengwen Xu",
+        "Lidan Zhang",
+        "Najuan Lei",
+        "Yushuang Zhang",
+        "Xinli Zhu",
+        "Yan Lu",
+        "Wei Wei",
+        "Shaohua Kevin Zhou"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07793-0",
+      "doi": "10.1038/s41597-026-07793-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07793-0",
+          "url": "https://doi.org/10.1038/s41597-026-07793-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「PatchChestCT：胸部 CT 九種異常的補丁級空間註釋資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "PatchChestCT: A patch-level spatial annotation dataset for nine abnormalities in chest CT",
+      "title_original": "PatchChestCT: A patch-level spatial annotation dataset for nine abnormalities in chest CT",
+      "title_zh_tw": "PatchChestCT：胸部 CT 九種異常的補丁級空間註釋資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07793-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "B. Borkovits",
+        "E. Kontsek",
+        "A. Pesti",
+        "C. Antóny",
+        "S. Gergely",
+        "J. Slezsák",
+        "A. Salgó",
+        "B. Medgyes",
+        "I. Csabai",
+        "A. Kiss",
+        "P. Pollner"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07873-1",
+      "doi": "10.1038/s41597-026-07873-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07873-1",
+          "url": "https://doi.org/10.1038/s41597-026-07873-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於多模態機器學習模型的結直腸癌組織樣本的成像和高光譜數據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Imaging and hyperspectral data from colorectal cancer tissue samples for multimodal machine learning models",
+      "title_original": "Imaging and hyperspectral data from colorectal cancer tissue samples for multimodal machine learning models",
+      "title_zh_tw": "用於多模態機器學習模型的結直腸癌組織樣本的成像和高光譜數據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07873-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yizheng Li",
+        "Huan Zhao",
+        "Guandong Su",
+        "Yang Meng",
+        "Yongan Zhang",
+        "Yan Li",
+        "Ruichen Ding",
+        "Zhangxing Chen",
+        "Jinyue Yan"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07921-w",
+      "doi": "10.1038/s41597-026-07921-w",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07921-w",
+          "url": "https://doi.org/10.1038/s41597-026-07921-w"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於城市能源建模的香港建築功能和能源類型資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Hong Kong building function and energy typology dataset for urban energy modeling",
+      "title_original": "Hong Kong building function and energy typology dataset for urban energy modeling",
+      "title_zh_tw": "用於城市能源建模的香港建築功能和能源類型資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07921-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shubha Vij",
+        "Nguyen Thanh Vu",
+        "Kathiresan Purushothaman",
+        "Roger Huerlimann",
+        "Jerryl Kim Han Tan",
+        "Bing Liang",
+        "Xueyan Shen",
+        "Grace Loo",
+        "Dean R. Jerry",
+        "Jose A. Domingos"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07784-1",
+      "doi": "10.1038/s41597-026-07784-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07784-1",
+          "url": "https://doi.org/10.1038/s41597-026-07784-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「馬拉巴爾紅鯛魚 (Lutjanus malabaricus) 的基因組組裝和全長轉錄組」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Genome assembly and Full-length transcriptome of Malabar Red Snapper, Lutjanus malabaricus",
+      "title_original": "Genome assembly and Full-length transcriptome of Malabar Red Snapper, Lutjanus malabaricus",
+      "title_zh_tw": "馬拉巴爾紅鯛魚 (Lutjanus malabaricus) 的基因組組裝和全長轉錄組",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07784-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Daan W. Poppema",
+        "Ruben G. C. Rosman",
+        "Sierd de Vries",
+        "Jan-Willem Mol",
+        "Alessandro Antonini"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07985-8",
+      "doi": "10.1038/s41597-026-07985-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07985-8",
+          "url": "https://doi.org/10.1038/s41597-026-07985-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「混合沙丘實驗期間沙丘侵蝕和流體動力學的現場測量」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Field measurements of dune erosion and hydrodynamics during the Hybrid Dune experiment",
+      "title_original": "Field measurements of dune erosion and hydrodynamics during the Hybrid Dune experiment",
+      "title_zh_tw": "混合沙丘實驗期間沙丘侵蝕和流體動力學的現場測量",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07985-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinyu Li",
+        "Kaixun Yang",
+        "Jiameng Wei",
+        "Yixin Cheng",
+        "Dragan Gašević",
+        "Guanliang Chen"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08054-w",
+      "doi": "10.1038/s41597-026-08054-w",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08054-w",
+          "url": "https://doi.org/10.1038/s41597-026-08054-w"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「GenAI輔助教育資訊問題解決資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Dataset of GenAI-Assisted Information Problem Solving in Education",
+      "title_original": "Dataset of GenAI-Assisted Information Problem Solving in Education",
+      "title_zh_tw": "GenAI輔助教育資訊問題解決資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08054-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dongqi Lu",
+        "Feng Wu",
+        "Jiangfeng Zhu",
+        "Fan Zhang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08085-3",
+      "doi": "10.1038/s41597-026-08085-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08085-3",
+          "url": "https://doi.org/10.1038/s41597-026-08085-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「南太平洋長鰭鮪（Thunnus alalunga）的染色體水平基因組組裝和註釋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-Level Genome Assembly and Annotation of the South Pacific Albacore (Thunnus alalunga)",
+      "title_original": "Chromosome-Level Genome Assembly and Annotation of the South Pacific Albacore (Thunnus alalunga)",
+      "title_zh_tw": "南太平洋長鰭鮪（Thunnus alalunga）的染色體水平基因組組裝和註釋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08085-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Iain D. Campbell",
+        "Keith N. Barnes",
+        "Dale Forbes",
+        "Doug Whitman",
+        "Rob Hynson",
+        "David Wiedenfeld",
+        "Charley Hesse",
+        "Mike Parr",
+        "Phil Chaon",
+        "Nick D. Athanas",
+        "Carlos Bocos",
+        "Rachael Kaiser",
+        "Phil Gregory",
+        "Ken Behrens",
+        "Richard Noske",
+        "Jeremy Robertson",
+        "Sam Woods",
+        "Shane Kennedy",
+        "Angela T. Moles"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08071-9",
+      "doi": "10.1038/s41597-026-08071-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08071-9",
+          "url": "https://doi.org/10.1038/s41597-026-08071-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「非洲、澳洲和北美 187 個自然棲息地的鳥類棲息地指標組合」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Bird-Habitat Indicator Assemblages for 187 natural habitats spanning Africa, Australia, and North America",
+      "title_original": "Bird-Habitat Indicator Assemblages for 187 natural habitats spanning Africa, Australia, and North America",
+      "title_zh_tw": "非洲、澳洲和北美 187 個自然棲息地的鳥類棲息地指標組合",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08071-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Umi Laili Yuhana",
+        "Muhammad Alfian",
+        "Daniel Siahaan",
+        "Harum Munazharoh",
+        "Edio da Costa",
+        "Eric Pardede"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08046-w",
+      "doi": "10.1038/s41597-026-08046-w",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08046-w",
+          "url": "https://doi.org/10.1038/s41597-026-08046-w"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「具有基於語言學家的標籤驗證的印尼語詞性標註語料庫」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Part-of-Speech Tagging Corpus for Bahasa Indonesia with Linguist-Based Label Validation",
+      "title_original": "A Part-of-Speech Tagging Corpus for Bahasa Indonesia with Linguist-Based Label Validation",
+      "title_zh_tw": "具有基於語言學家的標籤驗證的印尼語詞性標註語料庫",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08046-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Liu Jiajia",
+        "Zhou Hao",
+        "Zhang Caiyun",
+        "Yang Wenhao",
+        "Wuren Taodi",
+        "Wang Xiaoshan",
+        "Zhang Hui",
+        "Chen Zeming",
+        "Zhu Jianshen",
+        "Qin Chao",
+        "Wang Liyuan",
+        "Wang Yunfei",
+        "Chen Qiujv",
+        "Wang Fei",
+        "Li Jianjun",
+        "Wuni Menghe",
+        "Zhang Jian",
+        "Dong Zhimin",
+        "Zhang Shunping",
+        "Li Yanhui",
+        "Zhu Wenqi",
+        "Huang Jinlong",
+        "Ai Dong",
+        "Qiu Shengyu",
+        "Zhang Wenbin",
+        "Ma Peipei",
+        "Dao Lema",
+        "Meng He"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08032-2",
+      "doi": "10.1038/s41597-026-08032-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08032-2",
+          "url": "https://doi.org/10.1038/s41597-026-08032-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「家養雙峰駝（Camelus bactrianus）近乎完整的端粒到端粒參考基因組」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A near-complete telomere-to-telomere reference genome of the domestic Bactrian camel (Camelus bactrianus)",
+      "title_original": "A near-complete telomere-to-telomere reference genome of the domestic Bactrian camel (Camelus bactrianus)",
+      "title_zh_tw": "家養雙峰駝（Camelus bactrianus）近乎完整的端粒到端粒參考基因組",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08032-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "María Clara Fontana",
+        "Martin Lewinski",
+        "María José Iglesias",
+        "Dorothee Staiger",
+        "Julieta Lisa Mateos"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08094-2",
+      "doi": "10.1038/s41597-026-08094-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08094-2",
+          "url": "https://doi.org/10.1038/s41597-026-08094-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「透過體內 iCLIP 繪製擬南芥 TUDOR STAPHYLOCOCCAL NUCLEASE1 的高解析度 RNA 交互作用圖譜」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A high-resolution RNA interaction atlas of Arabidopsis TUDOR STAPHYLOCOCCAL NUCLEASE1 by in vivo iCLIP",
+      "title_original": "A high-resolution RNA interaction atlas of Arabidopsis TUDOR STAPHYLOCOCCAL NUCLEASE1 by in vivo iCLIP",
+      "title_zh_tw": "透過體內 iCLIP 繪製擬南芥 TUDOR STAPHYLOCOCCAL NUCLEASE1 的高解析度 RNA 交互作用圖譜",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08094-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Josep Sanchez",
+        "Jose-Luis Lisani",
+        "Ignacio A. Catalan",
+        "Amaya Alvarez-Ellacuría"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07786-z",
+      "doi": "10.1038/s41597-026-07786-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07786-z",
+          "url": "https://doi.org/10.1038/s41597-026-07786-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「水下影片中魚類分割和追蹤的資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Dataset for Fish Segmentation and Tracking in Underwater Videos",
+      "title_original": "A Dataset for Fish Segmentation and Tracking in Underwater Videos",
+      "title_zh_tw": "水下影片中魚類分割和追蹤的資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07786-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Christian Dunkerly",
+        "John M. Volk",
+        "Sayantan Majumdar",
+        "Justin L. Huntington",
+        "Richard G. Allen",
+        "Christopher Pearson",
+        "Yeonuk Kim",
+        "Charles G. Morton",
+        "Blake A. Minor",
+        "Peter ReVelle",
+        "Ayse Kilic",
+        "Forrest Melton",
+        "Adam J. Purdy",
+        "Todd G. Caldwell"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07819-7",
+      "doi": "10.1038/s41597-026-07819-7",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07819-7",
+          "url": "https://doi.org/10.1038/s41597-026-07819-7"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「美國本土農業氣象站蒸散應用基準資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Benchmark Dataset of Agricultural Weather Stations over the Contiguous United States for Evapotranspiration Applications",
+      "title_original": "A Benchmark Dataset of Agricultural Weather Stations over the Contiguous United States for Evapotranspiration Applications",
+      "title_zh_tw": "美國本土農業氣象站蒸散應用基準資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07819-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gloria Cosoli",
+        "Luca Antognoli",
+        "Valentina Veroli",
+        "Lorenzo Scalise"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08084-4",
+      "doi": "10.1038/s41597-026-08084-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08084-4",
+          "url": "https://doi.org/10.1038/s41597-026-08084-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「游泳時穿戴式心率監測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Wearable Heart Rate Monitoring during Swimming",
+      "title_original": "Wearable Heart Rate Monitoring during Swimming",
+      "title_zh_tw": "游泳時穿戴式心率監測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08084-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michal Nohel",
+        "Vlastimil Valek",
+        "Tomas Rohan",
+        "Martin Stork",
+        "Roman Jakubicek",
+        "Jiri Chmelik",
+        "Marek Dostal"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08061-x",
+      "doi": "10.1038/s41597-026-08061-x",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08061-x",
+          "url": "https://doi.org/10.1038/s41597-026-08061-x"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「脊髓多發性骨髓瘤-SEG：雙能 CT 中脊髓多發性骨髓瘤病灶的分割」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Spinal-Multiple-Myeloma-SEG: Segmentation of spinal multiple myeloma lesions in dual-energy CT",
+      "title_original": "Spinal-Multiple-Myeloma-SEG: Segmentation of spinal multiple myeloma lesions in dual-energy CT",
+      "title_zh_tw": "脊髓多發性骨髓瘤-SEG：雙能 CT 中脊髓多發性骨髓瘤病灶的分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08061-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xuequn Chen",
+        "Qingwen Meng",
+        "Yingying Zhou",
+        "Junjing Huang",
+        "Haibo Yu",
+        "Yuhang Xie",
+        "Jilai Liu",
+        "Yao Lin",
+        "Changyou Xia",
+        "Zhen Huang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07855-3",
+      "doi": "10.1038/s41597-026-07855-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07855-3",
+          "url": "https://doi.org/10.1038/s41597-026-07855-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「福建龍岩山麻鴨近端粒到端粒基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Near telomere to telomere genome assembly of Fujian Longyan Shan-ma duck (Anas platyrhynchos)",
+      "title_original": "Near telomere to telomere genome assembly of Fujian Longyan Shan-ma duck (Anas platyrhynchos)",
+      "title_zh_tw": "福建龍岩山麻鴨近端粒到端粒基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07855-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sebastian Flöter",
+        "Frank Förster",
+        "James Vincent",
+        "Tom Sheldrake",
+        "Virgil Pasquier",
+        "Sebastian Stumpf",
+        "Lorenzo Tavazzani",
+        "Alexandra Tsay",
+        "Elias Samankassou"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07812-0",
+      "doi": "10.1038/s41597-026-07812-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07812-0",
+          "url": "https://doi.org/10.1038/s41597-026-07812-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「JCp-1-NP：新編譯的奈米粉末標準物質的 LA-ICP-MS 元素成分數據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "JCp-1-NP: New and compiled LA-ICP-MS elemental compositional data of the nano-powdered reference material",
+      "title_original": "JCp-1-NP: New and compiled LA-ICP-MS elemental compositional data of the nano-powdered reference material",
+      "title_zh_tw": "JCp-1-NP：新編譯的奈米粉末標準物質的 LA-ICP-MS 元素成分數據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07812-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mahnoush Mohammadi Jahromi",
+        "Steve H. L. Liang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08048-8",
+      "doi": "10.1038/s41597-026-08048-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08048-8",
+          "url": "https://doi.org/10.1038/s41597-026-08048-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「GeoFatigue：跨空間結構化高程轉換的人類疲勞反應的多模態資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "GeoFatigue: A Multimodal Dataset of Human Fatigue Responses Across Spatially Structured Elevation Transitions",
+      "title_original": "GeoFatigue: A Multimodal Dataset of Human Fatigue Responses Across Spatially Structured Elevation Transitions",
+      "title_zh_tw": "GeoFatigue：跨空間結構化高程轉換的人類疲勞反應的多模態資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08048-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elena Cruz",
+        "Sarah Carter",
+        "Daniel Hastings",
+        "Bruce A. Snyder",
+        "Arnab Sengupta"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07811-1",
+      "doi": "10.1038/s41597-026-07811-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07811-1",
+          "url": "https://doi.org/10.1038/s41597-026-07811-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「氰基千足蟲Cherokia georgiana編碼序列的功能註釋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Functional Annotation of Coding Sequences in the Cyanogenic Millipede Cherokia georgiana",
+      "title_original": "Functional Annotation of Coding Sequences in the Cyanogenic Millipede Cherokia georgiana",
+      "title_zh_tw": "氰基千足蟲Cherokia georgiana編碼序列的功能註釋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07811-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andrew Weng",
+        "Wendy Papakostandini"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07950-5",
+      "doi": "10.1038/s41597-026-07950-5",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07950-5",
+          "url": "https://doi.org/10.1038/s41597-026-07950-5"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「由法學碩士輔助的自由文本分類的 1,000 名電池行業專業人士的調查數據集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A survey dataset of 1,000 battery industry professionals with LLM-assisted free-text categorization",
+      "title_original": "A survey dataset of 1,000 battery industry professionals with LLM-assisted free-text categorization",
+      "title_zh_tw": "由法學碩士輔助的自由文本分類的 1,000 名電池行業專業人士的調查數據集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07950-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dominic Gonschorek",
+        "Jonathan Oesterle",
+        "Thomas Zenkel",
+        "Federico D’Agostino",
+        "Chenchen Cai",
+        "Nadine Dyszkant",
+        "Klaudia P. Szatko",
+        "Florentyna Deja",
+        "Tom Schwerd-Kleine",
+        "Ryan Arlinghaus",
+        "Katrin Franke",
+        "Zhijian Zhao",
+        "Timm Schubert",
+        "Philipp Berens",
+        "Thomas Euler"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08026-0",
+      "doi": "10.1038/s41597-026-08026-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08026-0",
+          "url": "https://doi.org/10.1038/s41597-026-08026-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「功能性小鼠神經節細胞層反應的大規模資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A large-scale dataset of functional mouse ganglion cell layer responses",
+      "title_original": "A large-scale dataset of functional mouse ganglion cell layer responses",
+      "title_zh_tw": "功能性小鼠神經節細胞層反應的大規模資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08026-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yanfeng Wen",
+        "Peng Chen",
+        "Delu Pan"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07795-y",
+      "doi": "10.1038/s41597-026-07795-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07795-y",
+          "url": "https://doi.org/10.1038/s41597-026-07795-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「全球 3D 葉綠素濃度資料集（1997-2024）：4 km 空間分辨率，月尺度，0-220 m」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Global 3D Chlorophyll Concentration Dataset (1997–2024): 4 km Spatial Resolution, Monthly Scale, 0–220 m",
+      "title_original": "A Global 3D Chlorophyll Concentration Dataset (1997–2024): 4 km Spatial Resolution, Monthly Scale, 0–220 m",
+      "title_zh_tw": "全球 3D 葉綠素濃度資料集（1997-2024）：4 km 空間分辨率，月尺度，0-220 m",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07795-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ankith Motha",
+        "Pranav Balaji R S",
+        "Nanditha K",
+        "Aravindhan B",
+        "Saraswathi D",
+        "Shyam Kumar S",
+        "Davidson Jebaseelan",
+        "Edward Jero S"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07701-6",
+      "doi": "10.1038/s41597-026-07701-6",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07701-6",
+          "url": "https://doi.org/10.1038/s41597-026-07701-6"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「使用紅外線成像和低成本反射標記進行人體姿勢估計的資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A dataset for human pose estimation using infrared imaging and low-cost reflective markers",
+      "title_original": "A dataset for human pose estimation using infrared imaging and low-cost reflective markers",
+      "title_zh_tw": "使用紅外線成像和低成本反射標記進行人體姿勢估計的資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07701-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Inhyeok Choi",
+        "Giseok Heo",
+        "Jae-Kwang Ahn",
+        "Sun-Cheon Park",
+        "Yong-Gu Jang",
+        "Dongyoup Kwak"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07719-w",
+      "doi": "10.1038/s41597-026-07719-w",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07719-w",
+          "url": "https://doi.org/10.1038/s41597-026-07719-w"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「由超過 220,000 份鑽孔日誌組成的精選岩土資料庫，包括韓國的 VS、SPT-N、地層學以及地質和地形屬性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A curated geotechnical database from over 220,000 boring logs including VS, SPT-N, stratigraphy, and geologic and topographic attributes for South Korea",
+      "title_original": "A curated geotechnical database from over 220,000 boring logs including VS, SPT-N, stratigraphy, and geologic and topographic attributes for South Korea",
+      "title_zh_tw": "由超過 220,000 份鑽孔日誌組成的精選岩土資料庫，包括韓國的 VS、SPT-N、地層學以及地質和地形屬性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07719-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yongjuan Ren",
+        "Qilin Sun",
+        "Shuai Yuan",
+        "Shi-Xiao Luo"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07998-3",
+      "doi": "10.1038/s41597-026-07998-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07998-3",
+          "url": "https://doi.org/10.1038/s41597-026-07998-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「Glochidion pseudo-obscurum（葉下珠科）的染色體規模基因組組裝和註釋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-scale genome assembly and annotation of Glochidion pseudo-obscurum (Phyllanthaceae)",
+      "title_original": "Chromosome-scale genome assembly and annotation of Glochidion pseudo-obscurum (Phyllanthaceae)",
+      "title_zh_tw": "Glochidion pseudo-obscurum（葉下珠科）的染色體規模基因組組裝和註釋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07998-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jose-Miguel Horcas",
+        "David Fernandez-Amoros",
+        "Luis Cambelo",
+        "Ruben Heradio"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07841-9",
+      "doi": "10.1038/s41597-026-07841-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07841-9",
+          "url": "https://doi.org/10.1038/s41597-026-07841-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「通用變異性語言中特徵模型的二元決策圖」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Binary Decision Diagrams for Feature Models in the Universal Variability Language",
+      "title_original": "Binary Decision Diagrams for Feature Models in the Universal Variability Language",
+      "title_zh_tw": "通用變異性語言中特徵模型的二元決策圖",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07841-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Syed Nazmus Sakib",
+        "Nafiul Haque",
+        "Mohammad Zabed Hossain",
+        "Shifat E. Arman"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07779-y",
+      "doi": "10.1038/s41597-026-07779-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07779-y",
+          "url": "https://doi.org/10.1038/s41597-026-07779-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於植物科學視覺語言模型基準測試的視覺問答資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Visual Question Answering Dataset for Benchmarking Vision-Language Models in Plant Science",
+      "title_original": "A Visual Question Answering Dataset for Benchmarking Vision-Language Models in Plant Science",
+      "title_zh_tw": "用於植物科學視覺語言模型基準測試的視覺問答資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07779-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Emily Schrag",
+        "Daniel Comaduran Marquez",
+        "Adam Kirton",
+        "Eli Kinney-Lang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08014-4",
+      "doi": "10.1038/s41597-026-08014-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08014-4",
+          "url": "https://doi.org/10.1038/s41597-026-08014-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「兒童與青少年穩態視覺誘發電位腦機介面資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A steady-state visual evoked potential-based brain-computer interface dataset in children and adolescents",
+      "title_original": "A steady-state visual evoked potential-based brain-computer interface dataset in children and adolescents",
+      "title_zh_tw": "兒童與青少年穩態視覺誘發電位腦機介面資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08014-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kailu Guo",
+        "Elif Dogu",
+        "Khalid Z. Rajab"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07808-w",
+      "doi": "10.1038/s41597-026-07808-w",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07808-w",
+          "url": "https://doi.org/10.1038/s41597-026-07808-w"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於健康應用的空間毫米波雷達點雲資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Spatial Millimetre-Wave Radar Point Cloud Dataset for Health Applications",
+      "title_original": "A Spatial Millimetre-Wave Radar Point Cloud Dataset for Health Applications",
+      "title_zh_tw": "用於健康應用的空間毫米波雷達點雲資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07808-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lufeng Feng",
+        "Baomin Xu",
+        "Haoran Zhang",
+        "Bihai Lin",
+        "Zuxuan Deng",
+        "Sidi Tao",
+        "Chenyu Liu",
+        "Shifan Jia",
+        "Li Duan",
+        "Ziyu Jia"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07807-x",
+      "doi": "10.1038/s41597-026-07807-x",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07807-x",
+          "url": "https://doi.org/10.1038/s41597-026-07807-x"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於單側肢體運動想像的多模態 fNIRS-EEG 資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Multimodal fNIRS–EEG Dataset for Unilateral Limb Motor Imagery",
+      "title_original": "A Multimodal fNIRS–EEG Dataset for Unilateral Limb Motor Imagery",
+      "title_zh_tw": "用於單側肢體運動想像的多模態 fNIRS-EEG 資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07807-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiachen Ji",
+        "Chiyuan Miao",
+        "Jinlong Hu",
+        "Shao Sun",
+        "Yi Wu",
+        "Jiajia Su",
+        "Yufei Wang",
+        "Yunmeng Zhao"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08068-4",
+      "doi": "10.1038/s41597-026-08068-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08068-4",
+          "url": "https://doi.org/10.1038/s41597-026-08068-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「1961-2100 年全球多種氣象乾旱指數資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A global dataset of multiple meteorological drought indices for 1961–2100",
+      "title_original": "A global dataset of multiple meteorological drought indices for 1961–2100",
+      "title_zh_tw": "1961-2100 年全球多種氣象乾旱指數資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08068-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Daniel J. Wieferich",
+        "Hao Yu",
+        "Mark Wiltermuth",
+        "Wesley M. Daniel",
+        "Jared A. Ross",
+        "Arthur R. Cooper",
+        "Dana M. Infante"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07177-4",
+      "doi": "10.1038/s41597-026-07177-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07177-4",
+          "url": "https://doi.org/10.1038/s41597-026-07177-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「橫跨美國本土的河川魚類豐富度指標資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A dataset of fluvial fish richness metrics for stream reaches across the conterminous U.S.",
+      "title_original": "A dataset of fluvial fish richness metrics for stream reaches across the conterminous U.S.",
+      "title_zh_tw": "橫跨美國本土的河川魚類豐富度指標資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07177-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gerardo Loza-Galindo",
+        "Mattia Magro",
+        "Benjamin Calmé",
+        "Junlei Hu",
+        "Emanuele Ruffaldi",
+        "Dominic Jones",
+        "Elena De Momi",
+        "Sharib Ali",
+        "Pietro Valdastri"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07775-2",
+      "doi": "10.1038/s41597-026-07775-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07775-2",
+          "url": "https://doi.org/10.1038/s41597-026-07775-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「動態場景機器人內視鏡深度資料集 (DRENDS)」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Dataset for Depth in Robotic Endoscopy with Dynamic Scenarios (DRENDS)",
+      "title_original": "A Dataset for Depth in Robotic Endoscopy with Dynamic Scenarios (DRENDS)",
+      "title_zh_tw": "動態場景機器人內視鏡深度資料集 (DRENDS)",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07775-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wonbeen Kang",
+        "Young-Kyoung Lee",
+        "Min Jung Sung",
+        "Dong Jun Kim",
+        "June Heo",
+        "So Young Kim",
+        "Seong Hwan Park",
+        "Jin Ho Bae",
+        "Afzal Rana Aqeel",
+        "Hyoung Rae Lee",
+        "Ji Hee Cha",
+        "Hyun Seo Yu",
+        "Tae Jun Park",
+        "Soon Sang Park"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08066-6",
+      "doi": "10.1038/s41597-026-08066-6",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08066-6",
+          "url": "https://doi.org/10.1038/s41597-026-08066-6"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「人類結腸成纖維細胞複製老化階段的綜合染色質可及性和轉錄組學特徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Integrated Chromatin Accessibility and Transcriptomic Profiles Across Replicative Senescence Stages in Human Colonic Fibroblasts",
+      "title_original": "Integrated Chromatin Accessibility and Transcriptomic Profiles Across Replicative Senescence Stages in Human Colonic Fibroblasts",
+      "title_zh_tw": "人類結腸成纖維細胞複製老化階段的綜合染色質可及性和轉錄組學特徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08066-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yang Chen",
+        "Lizhong Wang",
+        "Dengfeng Shen",
+        "Minghua Lou",
+        "Bin Wei",
+        "Bili Dong",
+        "Yameng Ren",
+        "Jianhong Zhang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07632-2",
+      "doi": "10.1038/s41597-026-07632-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07632-2",
+          "url": "https://doi.org/10.1038/s41597-026-07632-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「茶樹品種福鼎大號染色體水平基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-level genome assembly of tea cultivar Fuding Dahao",
+      "title_original": "Chromosome-level genome assembly of tea cultivar Fuding Dahao",
+      "title_zh_tw": "茶樹品種福鼎大號染色體水平基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07632-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jeong Woen Shin",
+        "Moonkyo Kim",
+        "Mi Jeong Moon",
+        "Jung Sung Kim",
+        "Yoo Kyung Lee",
+        "Jun Kim"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08059-5",
+      "doi": "10.1038/s41597-026-08059-5",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08059-5",
+          "url": "https://doi.org/10.1038/s41597-026-08059-5"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「Oxyria digyna 的染色體水平基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-level genome assembly of Oxyria digyna",
+      "title_original": "Chromosome-level genome assembly of Oxyria digyna",
+      "title_zh_tw": "Oxyria digyna 的染色體水平基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08059-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rebecca Keilhauer",
+        "Chen-Yu Wang",
+        "Jan Dübel",
+        "Didier Stricker",
+        "Michael Lorenz"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07791-2",
+      "doi": "10.1038/s41597-026-07791-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07791-2",
+          "url": "https://doi.org/10.1038/s41597-026-07791-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於臨床步態分析的多模態資料集，影響全膝關節置換術患者的光學運動捕捉和文本步態分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Multimodal Dataset for Clinical Gait Analysis compromising Optical Motion Capture and Textual Gait Analyses from Patients undergoing Total Knee Arthroplasty",
+      "title_original": "A Multimodal Dataset for Clinical Gait Analysis compromising Optical Motion Capture and Textual Gait Analyses from Patients undergoing Total Knee Arthroplasty",
+      "title_zh_tw": "用於臨床步態分析的多模態資料集，影響全膝關節置換術患者的光學運動捕捉和文本步態分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07791-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Utku Ozbulak",
+        "Michaela Cohrs",
+        "Hristo L. Svilenov",
+        "Wesley De Neve"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08001-9",
+      "doi": "10.1038/s41597-026-08001-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08001-9",
+          "url": "https://doi.org/10.1038/s41597-026-08001-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「來自應激單株抗體的亞可見蛋白質聚集體的精選流成像顯微鏡資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies",
+      "title_original": "A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies",
+      "title_zh_tw": "來自應激單株抗體的亞可見蛋白質聚集體的精選流成像顯微鏡資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08001-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elena Filimonova",
+        "Augusto Leone",
+        "Francesco Carbone",
+        "Matteo Zoli",
+        "Jamil Rzaev",
+        "Mariya Schukina",
+        "Alessandro Carretta",
+        "Andrea Bianconi",
+        "Fabio Cofano",
+        "Alberto Morello",
+        "Daniele Armocida",
+        "Uwe Spetzger",
+        "Safwan Roumia",
+        "Veronica Di Napoli",
+        "Nicola Pio Fochi",
+        "Ruth Lau",
+        "Valeria Internò",
+        "Guido Giordano",
+        "Antonello Curcio",
+        "Arianna Rustici",
+        "Flavio Angileri",
+        "Diego Mazzatenta",
+        "Francesco Signorelli",
+        "Camillo Porta",
+        "Diego Garbossa",
+        "Minh Sao Khue Luu",
+        "Margaret Benedichuk",
+        "Ahsan Shakoor",
+        "Bair Tuchinov",
+        "Antonio Colamaria"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07953-2",
+      "doi": "10.1038/s41597-026-07953-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07953-2",
+          "url": "https://doi.org/10.1038/s41597-026-07953-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「具有標準化預處理、專家驗證的分割和 MGMT 分析的膠質母細胞瘤 MRI 資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Glioblastoma MRI Dataset with Standardized Preprocessing, Expert-Validated Segmentation, and MGMT Profiling",
+      "title_original": "Glioblastoma MRI Dataset with Standardized Preprocessing, Expert-Validated Segmentation, and MGMT Profiling",
+      "title_zh_tw": "具有標準化預處理、專家驗證的分割和 MGMT 分析的膠質母細胞瘤 MRI 資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07953-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gábor Géczy",
+        "István Seres"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08063-9",
+      "doi": "10.1038/s41597-026-08063-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08063-9",
+          "url": "https://doi.org/10.1038/s41597-026-08063-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「Axiom-4 航太 Rad 奈米劑量計實驗的廣泛環境監測資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Extensive Environmental Monitoring Dataset from the Rad Nano Dosimeter Experiment of the Axiom-4 Spaceflight",
+      "title_original": "Extensive Environmental Monitoring Dataset from the Rad Nano Dosimeter Experiment of the Axiom-4 Spaceflight",
+      "title_zh_tw": "Axiom-4 航太 Rad 奈米劑量計實驗的廣泛環境監測資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08063-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lauren Chenarides",
+        "Rafael Ladislau",
+        "Natasha Noy",
+        "Manish Parashar",
+        "Simon Porter",
+        "Julia Lane"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07753-8",
+      "doi": "10.1038/s41597-026-07753-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07753-8",
+          "url": "https://doi.org/10.1038/s41597-026-07753-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「作為搜尋元資料的資料使用描述符：糧食安全資料和國家資料平台的案例」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Data-usage descriptors as search metadata: the case of food security data and the National Data Platform",
+      "title_original": "Data-usage descriptors as search metadata: the case of food security data and the National Data Platform",
+      "title_zh_tw": "作為搜尋元資料的資料使用描述符：糧食安全資料和國家資料平台的案例",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07753-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Luiz Antonio Costa Gomes",
+        "Eduardo Krempser",
+        "Marcia Chame"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07972-z",
+      "doi": "10.1038/s41597-026-07972-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07972-z",
+          "url": "https://doi.org/10.1038/s41597-026-07972-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「BATHOGEN：蝙蝠相關病原體資料集，用於支持巴西的人畜共通傳染病監測舉措」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "BATHOGEN: a dataset of bat-associated pathogens to support zoonotic disease surveillance initiatives in Brazil",
+      "title_original": "BATHOGEN: a dataset of bat-associated pathogens to support zoonotic disease surveillance initiatives in Brazil",
+      "title_zh_tw": "BATHOGEN：蝙蝠相關病原體資料集，用於支持巴西的人畜共通傳染病監測舉措",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07972-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Saminathan Sivaprakasham Murugesan",
+        "Xuan Li",
+        "Leo W. Beukeboom",
+        "Kelley Leung",
+        "Eveline C. Verhulst"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07923-8",
+      "doi": "10.1038/s41597-026-07923-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07923-8",
+          "url": "https://doi.org/10.1038/s41597-026-07923-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「寄生蜂 Nasonia vitripennis 跨倍性、性別和組織的轉錄組圖譜」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A transcriptomic atlas of the parasitoid wasp Nasonia vitripennis across ploidy, sex, and tissue",
+      "title_original": "A transcriptomic atlas of the parasitoid wasp Nasonia vitripennis across ploidy, sex, and tissue",
+      "title_zh_tw": "寄生蜂 Nasonia vitripennis 跨倍性、性別和組織的轉錄組圖譜",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07923-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mingshan Jiang",
+        "Yongbin Jia",
+        "Zhen Zeng",
+        "Chunxiang Ma",
+        "Jiaxin Li",
+        "Jiangmei Pang",
+        "Lili Li",
+        "Yan Li",
+        "Hao Lin",
+        "Hu Zhang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08049-7",
+      "doi": "10.1038/s41597-026-08049-7",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08049-7",
+          "url": "https://doi.org/10.1038/s41597-026-08049-7"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「以 Akkermansia muciniphila 治療的 DSS 誘導結腸炎小鼠脾臟 CD4⁺ T 細胞的 RNA 定序和蛋白質組學分析資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A dataset of RNA-seq and proteomic profiling of splenic CD4⁺ T cells in DSS-induced colitis mice treated with Akkermansia muciniphila",
+      "title_original": "A dataset of RNA-seq and proteomic profiling of splenic CD4⁺ T cells in DSS-induced colitis mice treated with Akkermansia muciniphila",
+      "title_zh_tw": "以 Akkermansia muciniphila 治療的 DSS 誘導結腸炎小鼠脾臟 CD4⁺ T 細胞的 RNA 定序和蛋白質組學分析資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08049-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Eunjeong Park",
+        "Yeonhee Lee",
+        "Hana Cho",
+        "Namhee Kim",
+        "Da Eun Yoon",
+        "Hyun Jung Kim",
+        "Dongho Geum",
+        "Sooyoung Chung",
+        "Gi Hoon Son"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08050-0",
+      "doi": "10.1038/s41597-026-08050-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08050-0",
+          "url": "https://doi.org/10.1038/s41597-026-08050-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「含有晝夜節律時鐘基因突變的人類多能幹細胞系的轉錄組學特徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Transcriptomic Profiles of Human Pluripotent Stem Cell Lines Harboring Circadian Clock Gene Mutations",
+      "title_original": "Transcriptomic Profiles of Human Pluripotent Stem Cell Lines Harboring Circadian Clock Gene Mutations",
+      "title_zh_tw": "含有晝夜節律時鐘基因突變的人類多能幹細胞系的轉錄組學特徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08050-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xuli Zhu",
+        "Yong He",
+        "Zhiming Xin",
+        "Shubin Dong",
+        "Ruimin Yu",
+        "Jiahua Lu",
+        "Chao Liu",
+        "Jin Cheng"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08018-0",
+      "doi": "10.1038/s41597-026-08018-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08018-0",
+          "url": "https://doi.org/10.1038/s41597-026-08018-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「沙拐棗端粒到端粒的無間隙基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Telomere-to-telomere gapless genome assembly of Calligonum mongolicum",
+      "title_original": "Telomere-to-telomere gapless genome assembly of Calligonum mongolicum",
+      "title_zh_tw": "沙拐棗端粒到端粒的無間隙基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08018-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Robiul Awoul Robin",
+        "Mohima Mehjabin",
+        "Nuha Rahman",
+        "Md Sadman Haque",
+        "Md Sakhawat Hossain",
+        "Suman Ahmmed",
+        "Ohidujjaman"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07839-3",
+      "doi": "10.1038/s41597-026-07839-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07839-3",
+          "url": "https://doi.org/10.1038/s41597-026-07839-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「使用深度學習模型進行物理實驗室設備檢測的大規模影像資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Large-Scale Image Dataset for Physics Laboratory Equipment Detection Using Deep Learning Models",
+      "title_original": "Large-Scale Image Dataset for Physics Laboratory Equipment Detection Using Deep Learning Models",
+      "title_zh_tw": "使用深度學習模型進行物理實驗室設備檢測的大規模影像資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07839-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lucia Nicosia",
+        "Patrick T. Harrison",
+        "Martina F. Scallan"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08022-4",
+      "doi": "10.1038/s41597-026-08022-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08022-4",
+          "url": "https://doi.org/10.1038/s41597-026-08022-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「質粒脂轉染或病毒樣顆粒轉導後對 CFF-16HBEge 細胞進行大量 RNA 定序」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Bulk RNA sequencing of CFF-16HBEge cells following plasmid lipofection or virus-like particle transduction",
+      "title_original": "Bulk RNA sequencing of CFF-16HBEge cells following plasmid lipofection or virus-like particle transduction",
+      "title_zh_tw": "質粒脂轉染或病毒樣顆粒轉導後對 CFF-16HBEge 細胞進行大量 RNA 定序",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08022-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Muhammad Talha",
+        "A. Pouyan Nejadhashemi",
+        "Xiaofeng Liu",
+        "Yuan Yang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08030-4",
+      "doi": "10.1038/s41597-026-08030-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08030-4",
+          "url": "https://doi.org/10.1038/s41597-026-08030-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「BASINGRID：美國流域分散式 40 年時空水文資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "BASINGRID: A distributed 40-year spatiotemporal hydrology dataset for U.S. basins",
+      "title_original": "BASINGRID: A distributed 40-year spatiotemporal hydrology dataset for U.S. basins",
+      "title_zh_tw": "BASINGRID：美國流域分散式 40 年時空水文資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08030-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lauren N. Cooper",
+        "Alaina M. Beauchamp",
+        "Tanvi A. Ingle",
+        "Marlon I. Diaz",
+        "John J. Hanna",
+        "Fateme Nateghi Haredasht",
+        "Fatemeh Amrollahi",
+        "Sanjat Kanjilal",
+        "Jonathan H. Chen",
+        "Trish M. Perl",
+        "Christoph U. Lehmann",
+        "Richard J. Medford"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07892-y",
+      "doi": "10.1038/s41597-026-07892-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07892-y",
+          "url": "https://doi.org/10.1038/s41597-026-07892-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「抗菌素抗藥性微生物數據集 (ARMD-UTSW)：基於電子健康記錄的研究數據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Antimicrobial Resistance Microbiological Dataset (ARMD-UTSW): Electronic Health Record Based Data for Research",
+      "title_original": "Antimicrobial Resistance Microbiological Dataset (ARMD-UTSW): Electronic Health Record Based Data for Research",
+      "title_zh_tw": "抗菌素抗藥性微生物數據集 (ARMD-UTSW)：基於電子健康記錄的研究數據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07892-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kaixuan Cui",
+        "Xiaoyan Chai",
+        "Mengrui Zhang",
+        "Zhenquan Wu",
+        "Xinyu Zhao",
+        "Guoming Zhang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08033-1",
+      "doi": "10.1038/s41597-026-08033-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08033-1",
+          "url": "https://doi.org/10.1038/s41597-026-08033-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於黃斑部疾病智能診斷的光學相干斷層掃描影像資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "An optical coherence tomography image dataset for intelligent diagnosis of macular diseases",
+      "title_original": "An optical coherence tomography image dataset for intelligent diagnosis of macular diseases",
+      "title_zh_tw": "用於黃斑部疾病智能診斷的光學相干斷層掃描影像資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08033-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zeshun Li",
+        "Fuhao Li",
+        "Wanting Zhang",
+        "Zijian Liang",
+        "Zijie Zheng",
+        "Shubo Cui",
+        "Yong-Jin Liu",
+        "Long Zeng"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07993-8",
+      "doi": "10.1038/s41597-026-07993-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07993-8",
+          "url": "https://doi.org/10.1038/s41597-026-07993-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「移動機器人大規模動態室內場景資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Large-Scale Dynamic Indoor Scene Dataset for Mobile Robots",
+      "title_original": "A Large-Scale Dynamic Indoor Scene Dataset for Mobile Robots",
+      "title_zh_tw": "移動機器人大規模動態室內場景資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07993-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Patricio R. De los Ríos-Escalante",
+        "Carlos Esse",
+        "Francisco Correa-Araneda",
+        "Carlos López"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08031-3",
+      "doi": "10.1038/s41597-026-08031-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08031-3",
+          "url": "https://doi.org/10.1038/s41597-026-08031-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「智利淡水甲殼類動物和相關環境變數的地理參考資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A georeferenced dataset of freshwater crustaceans and associated environmental variables across Chile",
+      "title_original": "A georeferenced dataset of freshwater crustaceans and associated environmental variables across Chile",
+      "title_zh_tw": "智利淡水甲殼類動物和相關環境變數的地理參考資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08031-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chengyi Qi",
+        "Bin Fu",
+        "Cuilian Yu",
+        "Mingshuai Shen",
+        "Shumin Chen",
+        "Yongan Wang",
+        "Kezhou Wang",
+        "Zhao Wang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08042-0",
+      "doi": "10.1038/s41597-026-08042-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08042-0",
+          "url": "https://doi.org/10.1038/s41597-026-08042-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「H1N1和H3N2流感病毒亞型特異性對巴馬小型豬腸道菌叢及血清代謝組的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Subtype-specific impacts of H1N1 and H3N2 influenza viruses on gut microbiota and serum metabolome in Bama miniature pigs",
+      "title_original": "Subtype-specific impacts of H1N1 and H3N2 influenza viruses on gut microbiota and serum metabolome in Bama miniature pigs",
+      "title_zh_tw": "H1N1和H3N2流感病毒亞型特異性對巴馬小型豬腸道菌叢及血清代謝組的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08042-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shubrajit Bhaumik",
+        "Prasanna Kumar R",
+        "Rahul Bharathwaj"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08057-7",
+      "doi": "10.1038/s41597-026-08057-7",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08057-7",
+          "url": "https://doi.org/10.1038/s41597-026-08057-7"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「AISI 52100 軸承鋼球在鈣脂潤滑下的滾動接觸疲勞資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Rolling contact fatigue dataset for AISI 52100 bearing steel balls under calcium grease lubrication",
+      "title_original": "Rolling contact fatigue dataset for AISI 52100 bearing steel balls under calcium grease lubrication",
+      "title_zh_tw": "AISI 52100 軸承鋼球在鈣脂潤滑下的滾動接觸疲勞資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08057-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xin Guo",
+        "Xiaowen Wang",
+        "Siqi Zhang",
+        "Zhangyu Sun",
+        "Lin Liu",
+        "Guoxiang Liu",
+        "Tobias Bolch"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08019-z",
+      "doi": "10.1038/s41597-026-08019-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08019-z",
+          "url": "https://doi.org/10.1038/s41597-026-08019-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「青藏高原東南部的岩石冰川：基於深度學習和高解析度影像的大規模清查」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Rock glaciers of the Southeastern Tibetan Plateau: A large-scale inventory derived from deep learning and high-resolution imagery",
+      "title_original": "Rock glaciers of the Southeastern Tibetan Plateau: A large-scale inventory derived from deep learning and high-resolution imagery",
+      "title_zh_tw": "青藏高原東南部的岩石冰川：基於深度學習和高解析度影像的大規模清查",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08019-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elizabeth Baach",
+        "Carsten F. Dormann"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07997-4",
+      "doi": "10.1038/s41597-026-07997-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07997-4",
+          "url": "https://doi.org/10.1038/s41597-026-07997-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於根據生物量和營養能量學估計多分類單元豐度和豐富度的多營養資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Multitrophic dataset for multi-taxon abundance and richness estimations from biomass and nutrient energetics",
+      "title_original": "Multitrophic dataset for multi-taxon abundance and richness estimations from biomass and nutrient energetics",
+      "title_zh_tw": "用於根據生物量和營養能量學估計多分類單元豐度和豐富度的多營養資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07997-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wei Liu",
+        "Nguyen Hung Pham",
+        "Chandra S. Verma",
+        "Hwee Kuan Lee",
+        "Jianguo Li"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07984-9",
+      "doi": "10.1038/s41597-026-07984-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07984-9",
+          "url": "https://doi.org/10.1038/s41597-026-07984-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於預測環肽滲透性的多溶劑構象集合」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Multi-solvent conformational ensembles for predicting cyclic peptide permeability",
+      "title_original": "Multi-solvent conformational ensembles for predicting cyclic peptide permeability",
+      "title_zh_tw": "用於預測環肽滲透性的多溶劑構象集合",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07984-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fuseini Yakubu",
+        "Jürgen Böhner",
+        "Udo Schickhoff",
+        "Thomas Scholten",
+        "Shabeh ul Hasson"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08060-y",
+      "doi": "10.1038/s41597-026-08060-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08060-y",
+          "url": "https://doi.org/10.1038/s41597-026-08060-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「四分之一度解析度的全域偏差校正 CORDEX 資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Global Bias-Corrected CORDEX Dataset at Quarter Degree Resolution",
+      "title_original": "Global Bias-Corrected CORDEX Dataset at Quarter Degree Resolution",
+      "title_zh_tw": "四分之一度解析度的全域偏差校正 CORDEX 資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08060-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qi Zou",
+        "Qingguo Meng"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08024-2",
+      "doi": "10.1038/s41597-026-08024-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08024-2",
+          "url": "https://doi.org/10.1038/s41597-026-08024-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「2003-2023年中國283個城市城市級人工智慧發展及區域人工智慧鴻溝評估資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "City-scale AI Development and Regional AI Divide Assessment Datasets for China’s 283 Cities from 2003 to 2023",
+      "title_original": "City-scale AI Development and Regional AI Divide Assessment Datasets for China’s 283 Cities from 2003 to 2023",
+      "title_zh_tw": "2003-2023年中國283個城市城市級人工智慧發展及區域人工智慧鴻溝評估資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08024-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ming Lei",
+        "Jing Wang",
+        "Suren Sooranna",
+        "Han Liu",
+        "Zhao-di Wen",
+        "Liang Kang",
+        "Mei Qin",
+        "Xia-lian Ou",
+        "Li-rong Huang",
+        "Ying Wei",
+        "Cui Li",
+        "Zhan-jiang Zhang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07612-6",
+      "doi": "10.1038/s41597-026-07612-6",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07612-6",
+          "url": "https://doi.org/10.1038/s41597-026-07612-6"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「特有瀕危喀斯特藥用植物紫堇的染色體水平基因組組裝與註釋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-level genome assembly and annotation of the endemic and endangered karst medicinal plant Corydalis saxicola",
+      "title_original": "Chromosome-level genome assembly and annotation of the endemic and endangered karst medicinal plant Corydalis saxicola",
+      "title_zh_tw": "特有瀕危喀斯特藥用植物紫堇的染色體水平基因組組裝與註釋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07612-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alicja Ignatowicz",
+        "Tomasz Marciniak",
+        "Agnieszka Stankiewicz",
+        "Marcin Stopa",
+        "Elżbieta Marciniak"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08009-1",
+      "doi": "10.1038/s41597-026-08009-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08009-1",
+          "url": "https://doi.org/10.1038/s41597-026-08009-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「CAVRI-H5：用於視網膜分類的均質 OCT 資料集，具有 VMA-VMT 病理學特徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "CAVRI-H5: A Homogeneous OCT Dataset for Retinal Classification Featuring VMA-VMT Pathologies",
+      "title_original": "CAVRI-H5: A Homogeneous OCT Dataset for Retinal Classification Featuring VMA-VMT Pathologies",
+      "title_zh_tw": "CAVRI-H5：用於視網膜分類的均質 OCT 資料集，具有 VMA-VMT 病理學特徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08009-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lingwei Zeng",
+        "Kewei Sun",
+        "Yimeng Yuan",
+        "Yuntao Gao",
+        "Xiuchao Wang",
+        "Zhihong Wen",
+        "Di Wu"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07800-4",
+      "doi": "10.1038/s41597-026-07800-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07800-4",
+          "url": "https://doi.org/10.1038/s41597-026-07800-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於多日區塊設計 Stroop 任務期間認知解碼的 fNIRS 資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "An fNIRS Dataset for Cognitive Decoding during a Multi-day Block-design Stroop Task",
+      "title_original": "An fNIRS Dataset for Cognitive Decoding during a Multi-day Block-design Stroop Task",
+      "title_zh_tw": "用於多日區塊設計 Stroop 任務期間認知解碼的 fNIRS 資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07800-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shoma Jingu",
+        "Minami Unno",
+        "Yui Ogawa",
+        "Ryota Aizawa",
+        "Keisuke Yamamoto",
+        "Tomoro Mukai",
+        "Saya Sunada",
+        "Yuya Watari"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08027-z",
+      "doi": "10.1038/s41597-026-08027-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08027-z",
+          "url": "https://doi.org/10.1038/s41597-026-08027-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「日本筑波 11 年時空道路死亡資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "An 11-year spatiotemporal roadkill dataset from Tsukuba, Japan",
+      "title_original": "An 11-year spatiotemporal roadkill dataset from Tsukuba, Japan",
+      "title_zh_tw": "日本筑波 11 年時空道路死亡資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08027-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ming Lv",
+        "Yun Gao",
+        "Gang Cheng",
+        "Lanxiang Wang",
+        "Mingyu Cai",
+        "Weinan Zhou",
+        "Liquan Guo",
+        "Kunlun He"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07802-2",
+      "doi": "10.1038/s41597-026-07802-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07802-2",
+          "url": "https://doi.org/10.1038/s41597-026-07802-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「基於可穿戴感測器的運動學資料集，從 120 名中風後患者的標準化復健任務中收集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A wearable sensor–based kinematic dataset collected under standardized rehabilitation tasks from 120 post-stroke patients",
+      "title_original": "A wearable sensor–based kinematic dataset collected under standardized rehabilitation tasks from 120 post-stroke patients",
+      "title_zh_tw": "基於可穿戴感測器的運動學資料集，從 120 名中風後患者的標準化復健任務中收集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07802-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anas Al-Naji",
+        "Ricarda I. Schubotz",
+        "Anoushiravan Zahedi"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08034-0",
+      "doi": "10.1038/s41597-026-08034-0",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08034-0",
+          "url": "https://doi.org/10.1038/s41597-026-08034-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「具有無監督標籤的標準化自然音頻刺激資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A standardized naturalistic audio stimulus dataset with unsupervised labeling",
+      "title_original": "A standardized naturalistic audio stimulus dataset with unsupervised labeling",
+      "title_zh_tw": "具有無監督標籤的標準化自然音頻刺激資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08034-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yejin Kim",
+        "Hyeyoung Choi",
+        "Juhyun Sim",
+        "Jiyeong Jo",
+        "Jun Sang Yu",
+        "Hye Hyun Yoo"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07980-z",
+      "doi": "10.1038/s41597-026-07980-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07980-z",
+          "url": "https://doi.org/10.1038/s41597-026-07980-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「基於 GNPS 的 MS/MS 分子網路資料集，包含 286 種違禁物質和代謝物，用於法醫和毒理學應用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A GNPS-based MS/MS molecular networking dataset of 286 prohibited substances and metabolites for forensic and toxicological applications",
+      "title_original": "A GNPS-based MS/MS molecular networking dataset of 286 prohibited substances and metabolites for forensic and toxicological applications",
+      "title_zh_tw": "基於 GNPS 的 MS/MS 分子網路資料集，包含 286 種違禁物質和代謝物，用於法醫和毒理學應用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07980-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yang Xiang",
+        "Zhencheng Lu",
+        "Haoling Jiang",
+        "Yusong Guo",
+        "Zhongduo Wang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08016-2",
+      "doi": "10.1038/s41597-026-08016-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08016-2",
+          "url": "https://doi.org/10.1038/s41597-026-08016-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「紅樹林紅鯛魚 Lutjanus argentimaculatus 的無間隙、端粒到端粒染色體規模基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A gap-free, telomere-to-telomere chromosome-scale genome assembly of the mangrove red snapper, Lutjanus argentimaculatus",
+      "title_original": "A gap-free, telomere-to-telomere chromosome-scale genome assembly of the mangrove red snapper, Lutjanus argentimaculatus",
+      "title_zh_tw": "紅樹林紅鯛魚 Lutjanus argentimaculatus 的無間隙、端粒到端粒染色體規模基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08016-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hong Zhang",
+        "Yukan Jin"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07790-3",
+      "doi": "10.1038/s41597-026-07790-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07790-3",
+          "url": "https://doi.org/10.1038/s41597-026-07790-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「中國城市道路地圖多重結構表示的資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Dataset for Multiple Structural Representations of Urban Road Maps Across Chinese Cities",
+      "title_original": "A Dataset for Multiple Structural Representations of Urban Road Maps Across Chinese Cities",
+      "title_zh_tw": "中國城市道路地圖多重結構表示的資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07790-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Emile Danvin",
+        "Paolo Salerno",
+        "Eleonora Di Venere",
+        "Gabriella Maria Squeo",
+        "Dario Righelli",
+        "Giuseppe Merla"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08058-6",
+      "doi": "10.1038/s41597-026-08058-6",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08058-6",
+          "url": "https://doi.org/10.1038/s41597-026-08058-6"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「歌舞伎綜合症 1 型皮膚纖維母細胞的轉錄組學和染色質可及性資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Transcriptomic and chromatin accessibility dataset from Kabuki syndrome type 1 skin fibroblasts",
+      "title_original": "Transcriptomic and chromatin accessibility dataset from Kabuki syndrome type 1 skin fibroblasts",
+      "title_zh_tw": "歌舞伎綜合症 1 型皮膚纖維母細胞的轉錄組學和染色質可及性資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08058-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Janek Gröhl",
+        "Sandeep Kumar Kalva",
+        "Berkan Lafci",
+        "Francesca Di Cecio",
+        "Ran Tao",
+        "Thomas R. Else",
+        "Lorna Wright",
+        "Daniel Razansky",
+        "Sarah E. Bohndiek"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08004-6",
+      "doi": "10.1038/s41597-026-08004-6",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08004-6",
+          "url": "https://doi.org/10.1038/s41597-026-08004-6"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「OpenQPAIData：使用參考標籤測量測試對象，用於定量光聲成像研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "OpenQPAIData: Measurements of test objects with reference labels for quantitative photoacoustic imaging research",
+      "title_original": "OpenQPAIData: Measurements of test objects with reference labels for quantitative photoacoustic imaging research",
+      "title_zh_tw": "OpenQPAIData：使用參考標籤測量測試對象，用於定量光聲成像研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08004-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shuhong Jiang",
+        "Shuo Li",
+        "Shenglei Han",
+        "Chen Li",
+        "Xuwen Cao",
+        "Changlin Liu",
+        "Chunlong Miao",
+        "Caichao Dong",
+        "Yanming Zhang",
+        "Kaiqiang Liu",
+        "Yuyan Liu",
+        "Qian Wang",
+        "Hong-yan Wang",
+        "Changwei Shao"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07772-5",
+      "doi": "10.1038/s41597-026-07772-5",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07772-5",
+          "url": "https://doi.org/10.1038/s41597-026-07772-5"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「虹鱒（Oncorhynchus mykiss）的近端粒到端粒基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Near telomere-to-telomere genome assembly of the rainbow trout (Oncorhynchus mykiss)",
+      "title_original": "Near telomere-to-telomere genome assembly of the rainbow trout (Oncorhynchus mykiss)",
+      "title_zh_tw": "虹鱒（Oncorhynchus mykiss）的近端粒到端粒基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07772-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yongsik Jeong",
+        "Jinku Park",
+        "Jong-U Kim",
+        "Youmin Kim",
+        "Younggeun Oh",
+        "Sin-Young Kim",
+        "Jeong-Hoon Kim"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08053-x",
+      "doi": "10.1038/s41597-026-08053-x",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08053-x",
+          "url": "https://doi.org/10.1038/s41597-026-08053-x"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「南極洲羅斯海哈雷特角阿德利企鵝群的多時相無人機正射影像（2018-2025）」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Multi-temporal UAV orthomosaics of an Adélie penguin colony at Cape Hallett, Ross Sea, Antarctica (2018–2025)",
+      "title_original": "Multi-temporal UAV orthomosaics of an Adélie penguin colony at Cape Hallett, Ross Sea, Antarctica (2018–2025)",
+      "title_zh_tw": "南極洲羅斯海哈雷特角阿德利企鵝群的多時相無人機正射影像（2018-2025）",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08053-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dillon W. P. Tay",
+        "Wan Lin Yeo",
+        "Ying Sin Koo",
+        "Jhoann M. T. Miyajima",
+        "Charmaine Chia",
+        "Shreyas Supekar",
+        "Nazreen Abdul Muthaliff",
+        "Tong Mei Teh",
+        "Hao Fan",
+        "Sebastian Maurer-Stroh",
+        "Ee Lui Ang",
+        "Yee Hwee Lim"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08020-6",
+      "doi": "10.1038/s41597-026-08020-6",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08020-6",
+          "url": "https://doi.org/10.1038/s41597-026-08020-6"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「半乳糖氧化酶突變體用於生物催化仲醇氧化的動力學活性分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Kinetic Activity Profiling of Galactose Oxidase Mutants for Biocatalytic Secondary Alcohol Oxidation",
+      "title_original": "Kinetic Activity Profiling of Galactose Oxidase Mutants for Biocatalytic Secondary Alcohol Oxidation",
+      "title_zh_tw": "半乳糖氧化酶突變體用於生物催化仲醇氧化的動力學活性分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08020-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yaffa Shalit",
+        "Inbal Tuvi-Arad"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08037-x",
+      "doi": "10.1038/s41597-026-08037-x",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08037-x",
+          "url": "https://doi.org/10.1038/s41597-026-08037-x"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「HIV-1 蛋白酶抑制劑複合物：活性和結構資料庫」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "HIV-1 Protease-inhibitor Complexes: Activity and Structure Database",
+      "title_original": "HIV-1 Protease-inhibitor Complexes: Activity and Structure Database",
+      "title_zh_tw": "HIV-1 蛋白酶抑制劑複合物：活性和結構資料庫",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08037-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Norbert Krauss",
+        "Enrique Hurtán",
+        "Joan Calafell",
+        "Lluís Jofre"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07973-y",
+      "doi": "10.1038/s41597-026-07973-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07973-y",
+          "url": "https://doi.org/10.1038/s41597-026-07973-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「可變密度超臨界 CO2 中真實配對微型 PIV 影像的實驗資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Experimental Dataset of Ground-Truth-Paired Micro-PIV Images in Variable-Density Supercritical CO2",
+      "title_original": "Experimental Dataset of Ground-Truth-Paired Micro-PIV Images in Variable-Density Supercritical CO2",
+      "title_zh_tw": "可變密度超臨界 CO2 中真實配對微型 PIV 影像的實驗資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07973-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Luca Morandini",
+        "Andrea Diecidue",
+        "Thanos Petsanis",
+        "Enrico Targhini",
+        "Georgios Karatzinis",
+        "Giacomo Boracchi",
+        "Elias B. Kosmatopoulos",
+        "Piero Fraternali",
+        "Athanasios Ch. Kapoutsis"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07970-1",
+      "doi": "10.1038/s41597-026-07970-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07970-1",
+          "url": "https://doi.org/10.1038/s41597-026-07970-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於無人機影像中廢物識別的 DroneWaste 資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "DroneWaste dataset for waste recognition in drone imagery",
+      "title_original": "DroneWaste dataset for waste recognition in drone imagery",
+      "title_zh_tw": "用於無人機影像中廢物識別的 DroneWaste 資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07970-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fan Yi",
+        "Yuanchao Liu",
+        "Huiping Hu",
+        "Mingyue Ding",
+        "Irina S. Druzhinina",
+        "Feng M. Cai"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08051-z",
+      "doi": "10.1038/s41597-026-08051-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08051-z",
+          "url": "https://doi.org/10.1038/s41597-026-08051-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「兩種菌寄生性地下真菌（肉座菌科、子囊菌門）的從頭染色體規模基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "De novo chromosome-scale genome assembly of two mycoparasitic hypocreaceous fungi (Hypocreaceae, Ascomycota)",
+      "title_original": "De novo chromosome-scale genome assembly of two mycoparasitic hypocreaceous fungi (Hypocreaceae, Ascomycota)",
+      "title_zh_tw": "兩種菌寄生性地下真菌（肉座菌科、子囊菌門）的從頭染色體規模基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08051-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohsen Ahmadi",
+        "Robert Wagner",
+        "Sander Bekeschus",
+        "Markus M. Becker"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07982-x",
+      "doi": "10.1038/s41597-026-07982-x",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07982-x",
+          "url": "https://doi.org/10.1038/s41597-026-07982-x"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「血漿醫學生物影像資料集公平共享的資料管理工作流程」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Data Management Workflow for FAIR Sharing of Bioimaging Datasets in Plasma Medicine",
+      "title_original": "Data Management Workflow for FAIR Sharing of Bioimaging Datasets in Plasma Medicine",
+      "title_zh_tw": "血漿醫學生物影像資料集公平共享的資料管理工作流程",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07982-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michael Landi",
+        "Sadik Muzemil",
+        "Adedapo O. Adediji",
+        "Laurah Nyasita Ondari",
+        "Kilsi Borgbara",
+        "Acclaim Moila",
+        "Adewale G. Awoyemi",
+        "Yedomon Ange Bovys Zoclanclounon",
+        "Tolulope R. Oladimeji",
+        "Ademola D. Ajayi",
+        "Ayodele O. Majekodunmi",
+        "ThankGod Echezona Ebenezer",
+        "Andreas Gisel",
+        "Lukman A. Aroworamimo"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08002-8",
+      "doi": "10.1038/s41597-026-08002-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08002-8",
+          "url": "https://doi.org/10.1038/s41597-026-08002-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「白星蘋果（Gambeya albida）的染色體規模基因組組裝與註釋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-scale genome assembly and annotation of the white star apple (Gambeya albida)",
+      "title_original": "Chromosome-scale genome assembly and annotation of the white star apple (Gambeya albida)",
+      "title_zh_tw": "白星蘋果（Gambeya albida）的染色體規模基因組組裝與註釋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08002-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xumin Wang",
+        "Siluo Jing",
+        "Ying Jin",
+        "Jie Zhang",
+        "Miao Feng",
+        "Wenbo Li",
+        "Siyu Wang",
+        "Zhikai Xing",
+        "Shuang Wang",
+        "Lijun Wang",
+        "Jiangyong Qu"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-06627-3",
+      "doi": "10.1038/s41597-026-06627-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-06627-3",
+          "url": "https://doi.org/10.1038/s41597-026-06627-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「黑斑鯛魚 Lutjanus fulviflamma 的染色體水平基因組組裝和註釋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-level genome assembly and annotation of the black-spot snapper, Lutjanus fulviflamma",
+      "title_original": "Chromosome-level genome assembly and annotation of the black-spot snapper, Lutjanus fulviflamma",
+      "title_zh_tw": "黑斑鯛魚 Lutjanus fulviflamma 的染色體水平基因組組裝和註釋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-06627-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Francesco Cappelli",
+        "Andrea Petroselli",
+        "Salvatore Grimaldi"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07991-w",
+      "doi": "10.1038/s41597-026-07991-w",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07991-w",
+          "url": "https://doi.org/10.1038/s41597-026-07991-w"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「ARNO-RAIN：70 個雨量計觀測（20 年）和模擬（2000 年）每小時降雨量系列的綜合資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "ARNO-RAIN: a comprehensive dataset of observed (20 years) and simulated (2000 years) sub-hourly rainfall series for 70 rain gauges",
+      "title_original": "ARNO-RAIN: a comprehensive dataset of observed (20 years) and simulated (2000 years) sub-hourly rainfall series for 70 rain gauges",
+      "title_zh_tw": "ARNO-RAIN：70 個雨量計觀測（20 年）和模擬（2000 年）每小時降雨量系列的綜合資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07991-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chengxiang Liang",
+        "Feifei Han",
+        "Xiangzhen Chen",
+        "Qiqi Zhou",
+        "Mingjun He",
+        "Yujun Wang",
+        "Chongbiao Wang",
+        "Yunfu Wang",
+        "Wenling Guan",
+        "Meng Li",
+        "Xianrong Wang",
+        "Xiangui Yi"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07989-4",
+      "doi": "10.1038/s41597-026-07989-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07989-4",
+          "url": "https://doi.org/10.1038/s41597-026-07989-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「櫻桃李的端粒到端粒基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A telomere-to-telomere genome assembly of Prunus cerasoides",
+      "title_original": "A telomere-to-telomere genome assembly of Prunus cerasoides",
+      "title_zh_tw": "櫻桃李的端粒到端粒基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07989-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "E. Manfrini",
+        "N. Sauvion",
+        "P-O. Maquart",
+        "L. Legal",
+        "O. Blight",
+        "E. Duquesne",
+        "C. Hanot",
+        "A. Bang",
+        "B. Geslin",
+        "F. R. Goebel",
+        "D. Fournier",
+        "Å. Berggren",
+        "M. Javal",
+        "E. Angulo",
+        "S. Pincebourde",
+        "M. Zakardjian",
+        "J-F. Vayssière",
+        "D. Renault",
+        "C. Le Lann",
+        "S. A. P. Derocles",
+        "B. Leroy",
+        "F. Courchamp"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07946-1",
+      "doi": "10.1038/s41597-026-07946-1",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07946-1",
+          "url": "https://doi.org/10.1038/s41597-026-07946-1"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「昆蟲性狀和人類關聯的全球資料庫」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A global database of insect traits and anthropogenic associations",
+      "title_original": "A global database of insect traits and anthropogenic associations",
+      "title_zh_tw": "昆蟲性狀和人類關聯的全球資料庫",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07946-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ted Yeung",
+        "Biruthuvan Keeran Balachandran",
+        "Vibhava Leelaratna",
+        "Thor Besier",
+        "Mark Billinghurst",
+        "Alexander Stamenkovic",
+        "Stephan Lukosch",
+        "Arash Mahnan"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07861-5",
+      "doi": "10.1038/s41597-026-07861-5",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07861-5",
+          "url": "https://doi.org/10.1038/s41597-026-07861-5"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「有或沒有頭戴式 AR/VR 顯示器的綜合全身運動學資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Comprehensive Full Body Kinematics Dataset with and without Head-Mounted AR/VR Display",
+      "title_original": "A Comprehensive Full Body Kinematics Dataset with and without Head-Mounted AR/VR Display",
+      "title_zh_tw": "有或沒有頭戴式 AR/VR 顯示器的綜合全身運動學資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07861-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Feifei Jiang",
+        "Zhanbin Luo",
+        "Jian Hao",
+        "Jiang Li",
+        "Jiayuan Guo",
+        "Weihong Guo",
+        "Jing Ma",
+        "Fu Chen"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07956-z",
+      "doi": "10.1038/s41597-026-07956-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07956-z",
+          "url": "https://doi.org/10.1038/s41597-026-07956-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「2000-2023年中國30 m不穩定耕地資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A 30 m unstable cultivated land dataset in China from 2000 to 2023",
+      "title_original": "A 30 m unstable cultivated land dataset in China from 2000 to 2023",
+      "title_zh_tw": "2000-2023年中國30 m不穩定耕地資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07956-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pengyu Fu",
+        "Jincheng Hu",
+        "Jihao Li",
+        "Jiashen Guo",
+        "Ming Liu",
+        "Jingjing Jiang",
+        "Yuanjian Zhang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-025-05809-9",
+      "doi": "10.1038/s41597-025-05809-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-025-05809-9",
+          "url": "https://doi.org/10.1038/s41597-025-05809-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「邁向完全自主代客泊車：全面的視覺和語言資料集和基準工具包」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Towards Fully Autonomous Valet Parking: A Comprehensive Vision-and-Language Dataset and Benchmark Toolkit",
+      "title_original": "Towards Fully Autonomous Valet Parking: A Comprehensive Vision-and-Language Dataset and Benchmark Toolkit",
+      "title_zh_tw": "邁向完全自主代客泊車：全面的視覺和語言資料集和基準工具包",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-025-05809-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Herminio García-González"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07877-x",
+      "doi": "10.1038/s41597-026-07877-x",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07877-x",
+          "url": "https://doi.org/10.1038/s41597-026-07877-x"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「透過宣告性映射規則產生 CodeMeta：使用 ShExML 的開放式方法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Generating CodeMeta through declarative mapping rules: An open-ended approach using ShExML",
+      "title_original": "Generating CodeMeta through declarative mapping rules: An open-ended approach using ShExML",
+      "title_zh_tw": "透過宣告性映射規則產生 CodeMeta：使用 ShExML 的開放式方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07877-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nicolette C. Ross",
+        "Kathleen M. Jagodnik",
+        "Tudor I. Oprea",
+        "Stephan C. Schürer"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07570-z",
+      "doi": "10.1038/s41597-026-07570-z",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07570-z",
+          "url": "https://doi.org/10.1038/s41597-026-07570-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「DrugMatrix 體外生物測定資料的深度元資料註釋和 FAIR 增強」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Deep metadata annotations and FAIR enhancement of DrugMatrix in vitro bioassay data",
+      "title_original": "Deep metadata annotations and FAIR enhancement of DrugMatrix in vitro bioassay data",
+      "title_zh_tw": "DrugMatrix 體外生物測定資料的深度元資料註釋和 FAIR 增強",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07570-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yiming Wu",
+        "Li Zhao",
+        "Yunyun Lv",
+        "Wenbo Liao"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08007-3",
+      "doi": "10.1038/s41597-026-08007-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08007-3",
+          "url": "https://doi.org/10.1038/s41597-026-08007-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「川南短腿蟾蜍（Brachytarsophrys chuannanensis）的染色體水平基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-level genome assembly of the Chuannan short-legged toad (Brachytarsophrys chuannanensis)",
+      "title_original": "Chromosome-level genome assembly of the Chuannan short-legged toad (Brachytarsophrys chuannanensis)",
+      "title_zh_tw": "川南短腿蟾蜍（Brachytarsophrys chuannanensis）的染色體水平基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08007-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dai Ihara",
+        "Kohki Nukada",
+        "Takeru Maekawa",
+        "Miwako Matsumoto",
+        "Katsushi Yamaguchi",
+        "Sunjidmaa Zolzaya",
+        "Yasuaki Ikuno",
+        "Seiji Hitoshi",
+        "Shuji Shigenobu",
+        "Yu Katsuyama"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07976-9",
+      "doi": "10.1038/s41597-026-07976-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07976-9",
+          "url": "https://doi.org/10.1038/s41597-026-07976-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「Sbno1 和 Trp53 雙條件敲除小鼠胚胎背側端腦和大腦皮質的批量 RNA 定序資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Bulk RNA sequencing dataset of embryonic dorsal telencephalon and cerebral cortex from Sbno1 and Trp53 double conditional knockout mice",
+      "title_original": "Bulk RNA sequencing dataset of embryonic dorsal telencephalon and cerebral cortex from Sbno1 and Trp53 double conditional knockout mice",
+      "title_zh_tw": "Sbno1 和 Trp53 雙條件敲除小鼠胚胎背側端腦和大腦皮質的批量 RNA 定序資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07976-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Leonard Pieperhoff",
+        "Mario Tranfa",
+        "Prithvi Arunachalam",
+        "Carole H. Sudre",
+        "Mathijs B. J. Dijsselhof",
+        "Beatriz Esteves Padrela",
+        "Federico Masserini",
+        "Stefano Caneva",
+        "Giuseppe Pontillo",
+        "David M. Cash",
+        "Emma S. Luckett",
+        "Craig Ritchie",
+        "Mercè Boada",
+        "Marta Marquié",
+        "Wiesje M. van der Flier",
+        "Rik Vandenberghe",
+        "Lisa Quenon",
+        "Bernard J. Hanseeuw",
+        "Pablo Martinez-Lage",
+        "Pierre Payoux",
+        "Anouk den Braber",
+        "Pieter Jelle Visser",
+        "Michael Schöll",
+        "Giovanni B. Frisoni",
+        "Andrew W. Stephens",
+        "Frank Jessen",
+        "Juan Domingo Gispert",
+        "Henk-Jan M. M. Mutsaerts",
+        "Alle Meije Wink",
+        "Lyduine E. Collij",
+        "Luigi Lorenzini",
+        "Frederik Barkhof"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07988-5",
+      "doi": "10.1038/s41597-026-07988-5",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07988-5",
+          "url": "https://doi.org/10.1038/s41597-026-07988-5"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「AMYPAD-PNHS：無失智症老年人的泛歐、多站點、多模式 MRI 資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia",
+      "title_original": "AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia",
+      "title_zh_tw": "AMYPAD-PNHS：無失智症老年人的泛歐、多站點、多模式 MRI 資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07988-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haichun Zhou",
+        "Zhexian Sun",
+        "Jian Huang",
+        "Yushuang Ding",
+        "Xiaohui Ma",
+        "Can Lai",
+        "Gang Yu"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08023-3",
+      "doi": "10.1038/s41597-026-08023-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08023-3",
+          "url": "https://doi.org/10.1038/s41597-026-08023-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於兒童顱外生殖細胞腫瘤鑑別診斷的非增強 CT 資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A Non-enhanced CT Dataset for Differential Diagnosis of Pediatric Extracranial Germ Cell Tumors",
+      "title_original": "A Non-enhanced CT Dataset for Differential Diagnosis of Pediatric Extracranial Germ Cell Tumors",
+      "title_zh_tw": "用於兒童顱外生殖細胞腫瘤鑑別診斷的非增強 CT 資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08023-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nicolas J. Kraff",
+        "Michael Wurm",
+        "John Friesen",
+        "Henri Debray",
+        "Hannes Taubenböck"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07945-2",
+      "doi": "10.1038/s41597-026-07945-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07945-2",
+          "url": "https://doi.org/10.1038/s41597-026-07945-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「全球複雜城市貧困地區建築足跡的手動解釋地理資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A manually interpreted geo-dataset of building footprints in complex urban poverty areas across the globe",
+      "title_original": "A manually interpreted geo-dataset of building footprints in complex urban poverty areas across the globe",
+      "title_zh_tw": "全球複雜城市貧困地區建築足跡的手動解釋地理資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07945-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jing Wang",
+        "Ning Xiao",
+        "Zelin Duan",
+        "Zhiyuan Gong",
+        "Nansheng Chen"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07981-y",
+      "doi": "10.1038/s41597-026-07981-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07981-y",
+          "url": "https://doi.org/10.1038/s41597-026-07981-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「深海海參 Molpdia sp 的高品質染色體水平基因組組裝。 （莫帕迪科）」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A high-quality chromosome-level genome assembly of a deep-sea sea cucumber Molpadia sp. (Molpadiidae)",
+      "title_original": "A high-quality chromosome-level genome assembly of a deep-sea sea cucumber Molpadia sp. (Molpadiidae)",
+      "title_zh_tw": "深海海參 Molpdia sp 的高品質染色體水平基因組組裝。 （莫帕迪科）",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07981-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Meisy Fortunatus",
+        "Jannik Haas",
+        "Sven Teske",
+        "Rebecca Peer"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08010-8",
+      "doi": "10.1038/s41597-026-08010-8",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08010-8",
+          "url": "https://doi.org/10.1038/s41597-026-08010-8"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於研究 COVID-19 期間電力系統彈性的全球每小時電力需求資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A global hourly electricity demand dataset for studying power system resiliency during COVID-19",
+      "title_original": "A global hourly electricity demand dataset for studying power system resiliency during COVID-19",
+      "title_zh_tw": "用於研究 COVID-19 期間電力系統彈性的全球每小時電力需求資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08010-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yulin Liu"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08008-2",
+      "doi": "10.1038/s41597-026-08008-2",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08008-2",
+          "url": "https://doi.org/10.1038/s41597-026-08008-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「以太坊上早期區塊鏈註冊人工智慧代理的資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A dataset of early blockchain-registered AI agents on Ethereum",
+      "title_original": "A dataset of early blockchain-registered AI agents on Ethereum",
+      "title_zh_tw": "以太坊上早期區塊鏈註冊人工智慧代理的資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08008-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jianfeng Jin",
+        "Wenji Zhu",
+        "Maolin Ye",
+        "Jiaming Qiao"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08028-y",
+      "doi": "10.1038/s41597-026-08028-y",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08028-y",
+          "url": "https://doi.org/10.1038/s41597-026-08028-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「Promethis valgipes Marseul 的染色體水平基因組組裝，1876（鞘翅目：步甲科）」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A chromosomal-level genome assembly of Promethis valgipes Marseul, 1876 (Coleoptera: Tenebrionidae)",
+      "title_original": "A chromosomal-level genome assembly of Promethis valgipes Marseul, 1876 (Coleoptera: Tenebrionidae)",
+      "title_zh_tw": "Promethis valgipes Marseul 的染色體水平基因組組裝，1876（鞘翅目：步甲科）",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08028-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kunning Li",
+        "Jianbin Guo",
+        "Zhaoyang Shang",
+        "Yiqing Liu",
+        "Hongmin Du",
+        "Lingling Liu",
+        "Yuping Zhao",
+        "Lifeng Dong"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07587-4",
+      "doi": "10.1038/s41597-026-07587-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07587-4",
+          "url": "https://doi.org/10.1038/s41597-026-07587-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於評估大型語言模型中辨證論治的基準資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A benchmark dataset for evaluating Syndrome Differentiation and Treatment in large language models",
+      "title_original": "A benchmark dataset for evaluating Syndrome Differentiation and Treatment in large language models",
+      "title_zh_tw": "用於評估大型語言模型中辨證論治的基準資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07587-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ming Li",
+        "Siwei Liu",
+        "Jingjing Wang",
+        "Yanmei Cui",
+        "Tingyu Wang",
+        "Yunshi Zeng",
+        "Zhu Cao",
+        "Bingxian Luo"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08005-5",
+      "doi": "10.1038/s41597-026-08005-5",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08005-5",
+          "url": "https://doi.org/10.1038/s41597-026-08005-5"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於營運應用的太陽態勢感知和耀斑預報資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Solar Situation Awareness and Flare Forecasting Dataset for Operational Applications",
+      "title_original": "Solar Situation Awareness and Flare Forecasting Dataset for Operational Applications",
+      "title_zh_tw": "用於營運應用的太陽態勢感知和耀斑預報資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08005-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jianping Wang",
+        "Haoyu Wu",
+        "Liping Li",
+        "Xiaoxia Fang",
+        "Qian Li"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-08006-4",
+      "doi": "10.1038/s41597-026-08006-4",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-08006-4",
+          "url": "https://doi.org/10.1038/s41597-026-08006-4"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「MindTS-MMD：中國抽動穢語症候群兒童情緒表達分析多模態資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "MindTS-MMD: A Chinese Multimodal Dataset for Emotion Expression Analysis in Children with Tourette Syndrome",
+      "title_original": "MindTS-MMD: A Chinese Multimodal Dataset for Emotion Expression Analysis in Children with Tourette Syndrome",
+      "title_zh_tw": "MindTS-MMD：中國抽動穢語症候群兒童情緒表達分析多模態資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-08006-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Abhijeet Gaur",
+        "Sebastian Paripsa",
+        "Frank Förste",
+        "Dmitry E. Doronkin",
+        "Wolfgang Malzer",
+        "Christopher Schlesiger",
+        "Birgit Kanngießer",
+        "Dirk Lützenkirchen-Hecht",
+        "Edmund Welter",
+        "Jan-Dierk Grunwaldt"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07966-x",
+      "doi": "10.1038/s41597-026-07966-x",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07966-x",
+          "url": "https://doi.org/10.1038/s41597-026-07966-x"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「整理和分享 XAS 資料 – 元資料和科學品質控制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Curating and sharing XAS data – Metadata and Scientific quality control",
+      "title_original": "Curating and sharing XAS data – Metadata and Scientific quality control",
+      "title_zh_tw": "整理和分享 XAS 資料 – 元資料和科學品質控制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07966-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kecheng Zhu",
+        "Baosuo Liu",
+        "Huayang Guo",
+        "Nan Zhang",
+        "Dianchang Zhang"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07518-3",
+      "doi": "10.1038/s41597-026-07518-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07518-3",
+          "url": "https://doi.org/10.1038/s41597-026-07518-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「使用 PacBio 和 Hi-C 定序技術對三種鯛科魚類基因組（金線鯛 Rhabdosargus sarba、黑頭鯛 Acanthopagrus schlegelii 和深紅鯛 Evynnis cardinalis）進行染色體水平基因組組裝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "Chromosome-level genome assembly of three Sparidae fish genomes (goldlined seabream Rhabdosargus sarba, blackhead seabream Acanthopagrus schlegelii, and crimson seabream Evynnis cardinalis) using PacBio and Hi-C sequencing technologies",
+      "title_original": "Chromosome-level genome assembly of three Sparidae fish genomes (goldlined seabream Rhabdosargus sarba, blackhead seabream Acanthopagrus schlegelii, and crimson seabream Evynnis cardinalis) using PacBio and Hi-C sequencing technologies",
+      "title_zh_tw": "使用 PacBio 和 Hi-C 定序技術對三種鯛科魚類基因組（金線鯛 Rhabdosargus sarba、黑頭鯛 Acanthopagrus schlegelii 和深紅鯛 Evynnis cardinalis）進行染色體水平基因組組裝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07518-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Seyed Mehdi Tabatabaei",
+        "Alireza Hayati",
+        "Mona Safizadeh",
+        "Zakieh Vahedian",
+        "Amin Ahmadi",
+        "Roya Arian",
+        "Pearse A. Keane",
+        "Fereshteh Tayebi"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07992-9",
+      "doi": "10.1038/s41597-026-07992-9",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07992-9",
+          "url": "https://doi.org/10.1038/s41597-026-07992-9"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「用於前房生物測定和跨模態建模的多模態配對裂隙燈攝影和眼前段光學相干斷層掃描資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A multimodal paired slit-lamp photography and anterior segment optical coherence tomography dataset for anterior chamber biometry and cross-modality modelling",
+      "title_original": "A multimodal paired slit-lamp photography and anterior segment optical coherence tomography dataset for anterior chamber biometry and cross-modality modelling",
+      "title_zh_tw": "用於前房生物測定和跨模態建模的多模態配對裂隙燈攝影和眼前段光學相干斷層掃描資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07992-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tamás-Zsolt Képes",
+        "Noémi Gaskó",
+        "János Tapolcai",
+        "Balázs Vass"
+      ],
+      "canonical_id": "doi:10.1038/s41597-026-07944-3",
+      "doi": "10.1038/s41597-026-07944-3",
+      "issns": [
+        "2052-4463"
+      ],
+      "journal": "Scientific Data",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s41597-026-07944-3",
+          "url": "https://doi.org/10.1038/s41597-026-07944-3"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇文獻聚焦於「真實合成的準平面互聯網骨幹網路拓撲的精選資料集」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究設計、數值結果、效應大小或結論。",
+      "title": "A curated dataset of real and synthetic quasi-planar Internet backbone network topologies",
+      "title_original": "A curated dataset of real and synthetic quasi-planar Internet backbone network topologies",
+      "title_zh_tw": "真實合成的準平面互聯網骨幹網路拓撲的精選資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s41597-026-07944-3"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__scientific-data__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__scientific-data__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__scientific-data__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__scientific-data__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__scientific-data__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__scientific-data__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 115,
+    "by_article_type": {
+      "journal-article": 115
+    },
+    "by_source": {
+      "crossref": 115
+    },
+    "translated_articles": 115
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "scientific-data__2026-08__r01",
+  "edition_key": "scientific-data__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "scientific-data__2026-08__r01",
+  "retrieved_at": "2026-08-14T08:18:01Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__scientific-data__2026-08__r01",
+    "edition_key": "scientific-data__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "2052-4463",
+    "journal": "Scientific Data",
+    "journal_slug": "scientific-data",
+    "language": "zh-TW",
+    "max_records": 5000,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "scientific-data__2026-08__r01",
+    "revision": 1,
+    "slug": "scientific-data",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 115,
+      "detail": null,
+      "query": "container=Scientific Data; publication=2026-08-01..2026-08-14",
+      "returned_count": 115,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 115,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": "6e065605cec8ca75002d7d0c3263c38d8d7d7f26f64d3e36d687119408ada7cf",
+    "response_generated_at": "2026-08-14T09:13:09Z",
+    "response_sha256": "16abc217be9005aa38d785cbecfac77244446289de11e07ed853148cc1b8802a",
+    "source_edition_sha256": "100e674e8f966e0e9bc18d6ded95737df062e31b8fc8b59c52d34069eeafeab2",
+    "status": "COMPLETE",
+    "total_articles": 115,
+    "translated_articles": 115
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

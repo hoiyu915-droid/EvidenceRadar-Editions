@@ -1,0 +1,43 @@
+{
+  "article_count": 465,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T09:13:09Z",
+  "edition_id": "nature-communications__2026-08__r01",
+  "edition_key": "nature-communications__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 834614,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__nature-communications__2026-08__r01.json",
+      "sha256": "bf252ad110b11bb351c44915cbcdeff7f88bbd9e71c44a31be0200b234702541"
+    },
+    "report_html": {
+      "bytes": 1319787,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__nature-communications__2026-08__r01.html",
+      "sha256": "21b48766fc9fee9e2cf7d827a94707115af998b255bf884ee26631af1424e408"
+    }
+  },
+  "journal": "Nature Communications",
+  "journal_slug": "nature-communications",
+  "manifest_name": "EvidenceRadar_Editions__nature-communications__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "nature-communications__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 465,
+  "translation_provenance": {
+    "request_binding_sha256": "9da3a15e7f3fc6bcb26b421b3c175b5d49b18fbb6238346b85b24261a48f290a",
+    "response_sha256": "3314b653e0a7580e7cb4941bbfea8ce375b51e259a848abccfdfcc8e526d9531",
+    "source_edition_sha256": "793f465541a6acd6e20f67796e5a3ef70e9e1a1dc00824b06ac6299914ecee56"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}
