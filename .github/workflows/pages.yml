@@ -71,6 +71,7 @@ jobs:
           import json
           import os
           from pathlib import Path
+
           site = Path("_site")
           receipts = json.loads((site / "abstract-acquisition.json").read_text())
           plan = json.loads((site / "abstract-fetch-plan.json").read_text())
@@ -82,9 +83,25 @@ jobs:
           assert all(item["abstract_reviewed"] is False for item in receipts["items"])
           assert all(item["full_text_fetched"] is False for item in receipts["items"])
           assert all(item["evidence_evaluated"] is False for item in receipts["items"])
-          forbidden = ("abstract_text", '"abstractText"', "payload_text", "raw_response")
-          serialized = json.dumps(receipts, ensure_ascii=False)
-          assert not any(token in serialized for token in forbidden)
+
+          forbidden_fields = {
+              "abstract",
+              "abstract_text",
+              "abstractText",
+              "payload_text",
+              "raw_response",
+          }
+          def assert_sanitized(value):
+              if isinstance(value, dict):
+                  overlap = set(value).intersection(forbidden_fields)
+                  assert not overlap, f"forbidden public fields: {sorted(overlap)}"
+                  for child in value.values():
+                      assert_sanitized(child)
+              elif isinstance(value, list):
+                  for child in value:
+                      assert_sanitized(child)
+          assert_sanitized(receipts)
+
           disposition = json.loads((Path(os.environ["RUNNER_TEMP"]) / "abstract-acquisition" / "abstract-payload-disposition.json").read_text())
           assert disposition["disposition"] == "DELETED_BEFORE_ARTIFACT_UPLOAD"
           assert disposition["abstract_text_published"] is False
