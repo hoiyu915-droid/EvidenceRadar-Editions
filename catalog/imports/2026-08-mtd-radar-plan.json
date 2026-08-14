@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "EvidenceRadar_Editions_ImportPlan",
+  "upstream": {
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config": "config/radar_master.json"
+  },
+  "coverage": {
+    "period_kind": "month",
+    "period_key": "2026-08",
+    "status": "MTD",
+    "start": "2026-08-01",
+    "end": "2026-08-14"
+  },
+  "selection_semantics": "active named-journal sources only; exclude generic indexes, repositories, subject feeds, proceedings containers, bounded verification backends, and disabled/planned sources",
+  "journal_count": 43,
+  "batches": [
+    {
+      "name": "nature-oa",
+      "journals": [
+        {"source_id":"communications_chemistry","journal":"Communications Chemistry","issn":null},
+        {"source_id":"communications_physics","journal":"Communications Physics","issn":null},
+        {"source_id":"nature_communications","journal":"Nature Communications","issn":"2041-1723"},
+        {"source_id":"scientific_reports","journal":"Scientific Reports","issn":null}
+      ]
+    },
+    {
+      "name": "jama",
+      "journals": [
+        {"source_id":"jama_network_open","journal":"JAMA Network Open","issn":"2574-3805"}
+      ]
+    },
+    {
+      "name": "lancet",
+      "journals": [
+        {"source_id":"lancet","journal":"The Lancet","issn":"0140-6736"},
+        {"source_id":"lancet_digital_health","journal":"The Lancet Digital Health","issn":"2589-7500"},
+        {"source_id":"lancet_healthy_longevity","journal":"The Lancet Healthy Longevity","issn":"2666-7568"},
+        {"source_id":"lancet_global_health","journal":"The Lancet Global Health","issn":"2214-109X"},
+        {"source_id":"lancet_regional_health_western_pacific","journal":"The Lancet Regional Health – Western Pacific","issn":"2666-6065"},
+        {"source_id":"lancet_regional_health_europe","journal":"The Lancet Regional Health – Europe","issn":"2666-7762"},
+        {"source_id":"lancet_regional_health_americas","journal":"The Lancet Regional Health – Americas","issn":"2667-193X"},
+        {"source_id":"eclinicalmedicine","journal":"eClinicalMedicine","issn":"2589-5370"}
+      ]
+    },
+    {
+      "name": "elsevier-sport-nutrition-clinical",
+      "journals": [
+        {"source_id":"elsevier_jsams","journal":"Journal of Science and Medicine in Sport","issn":"1440-2440"},
+        {"source_id":"elsevier_jshs","journal":"Journal of Sport and Health Science","issn":"2095-2546"},
+        {"source_id":"elsevier_smhs","journal":"Sports Medicine and Health Science","issn":"2666-3376"},
+        {"source_id":"elsevier_jesf","journal":"Journal of Exercise Science & Fitness","issn":"1728-869X"},
+        {"source_id":"elsevier_physical_therapy_sport","journal":"Physical Therapy in Sport","issn":"1466-853X"},
+        {"source_id":"elsevier_psychology_sport_exercise","journal":"Psychology of Sport and Exercise","issn":"1469-0292"},
+        {"source_id":"elsevier_human_movement_science","journal":"Human Movement Science","issn":"0167-9457"},
+        {"source_id":"elsevier_gait_posture","journal":"Gait & Posture","issn":"0966-6362"},
+        {"source_id":"elsevier_clinical_biomechanics","journal":"Clinical Biomechanics","issn":"0268-0033"},
+        {"source_id":"elsevier_clinical_nutrition","journal":"Clinical Nutrition","issn":"0261-5614"},
+        {"source_id":"elsevier_clinical_nutrition_espen","journal":"Clinical Nutrition ESPEN","issn":"2405-4577"},
+        {"source_id":"elsevier_clinical_nutrition_open_science","journal":"Clinical Nutrition Open Science","issn":"2667-2685"},
+        {"source_id":"elsevier_nutrition","journal":"Nutrition","issn":"0899-9007"},
+        {"source_id":"elsevier_nutrition_research","journal":"Nutrition Research","issn":"0271-5317"},
+        {"source_id":"elsevier_journal_nutritional_biochemistry","journal":"The Journal of Nutritional Biochemistry","issn":"0955-2863"},
+        {"source_id":"elsevier_journal_clinical_epidemiology","journal":"Journal of Clinical Epidemiology","issn":"0895-4356"}
+      ]
+    },
+    {
+      "name": "elsevier-ai-human-ai",
+      "journals": [
+        {"source_id":"elsevier_artificial_intelligence","journal":"Artificial Intelligence","issn":"0004-3702"},
+        {"source_id":"elsevier_neural_networks","journal":"Neural Networks","issn":"0893-6080"},
+        {"source_id":"elsevier_information_processing_management","journal":"Information Processing & Management","issn":"0306-4573"},
+        {"source_id":"elsevier_expert_systems_applications","journal":"Expert Systems with Applications","issn":"0957-4174"},
+        {"source_id":"elsevier_knowledge_based_systems","journal":"Knowledge-Based Systems","issn":"0950-7051"},
+        {"source_id":"elsevier_computer_speech_language","journal":"Computer Speech & Language","issn":"0885-2308"},
+        {"source_id":"elsevier_natural_language_processing_journal","journal":"Natural Language Processing Journal","issn":"2949-7191"},
+        {"source_id":"elsevier_artificial_intelligence_medicine","journal":"Artificial Intelligence in Medicine","issn":"0933-3657"},
+        {"source_id":"elsevier_journal_biomedical_informatics","journal":"Journal of Biomedical Informatics","issn":"1532-0464"},
+        {"source_id":"elsevier_computers_human_behavior","journal":"Computers in Human Behavior","issn":"0747-5632"},
+        {"source_id":"elsevier_computers_human_behavior_reports","journal":"Computers in Human Behavior Reports","issn":"2451-9588"},
+        {"source_id":"elsevier_computers_human_behavior_artificial_humans","journal":"Computers in Human Behavior: Artificial Humans","issn":"2949-8821"},
+        {"source_id":"elsevier_international_journal_human_computer_studies","journal":"International Journal of Human-Computer Studies","issn":"1071-5819"},
+        {"source_id":"elsevier_computers_education_ai","journal":"Computers & Education: Artificial Intelligence","issn":"2666-920X"}
+      ]
+    }
+  ]
+}
