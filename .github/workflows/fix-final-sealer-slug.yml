@@ -1,0 +1,30 @@
+name: Fix final TMLR sealer slug
+on:
+  push:
+    branches: [data/2026-08-finish-remaining]
+    paths: [.github/workflows/fix-final-sealer-slug.yml]
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - name: Fix canonical registry slug
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('tools/seal_remaining_august.py')
+          s=p.read_text()
+          old='TMLR_SLUG = "transactions-on-machine-learning-research"'
+          new='TMLR_SLUG = "tmlr"'
+          assert old in s
+          p.write_text(s.replace(old,new))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- tools/seal_remaining_august.py
+          git commit -m 'fix: use canonical TMLR registry slug'
+          git pull --rebase origin data/2026-08-finish-remaining
+          git push
