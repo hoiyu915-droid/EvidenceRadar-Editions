@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "EvidenceRadar_Editions_LiveEditionRequest",
+  "request_id": "acceptance-jama-2026-08-14-day-r01",
+  "journal_slug": "jama-network-open",
+  "start": "2026-08-14",
+  "end": "2026-08-14",
+  "period_kind": "day",
+  "revision": 1,
+  "max_records": "",
+  "sources": "",
+  "allow_planned": false,
+  "override_processing_policy": false,
+  "semantics": "Auditable GitOps request for the same live Edition workflow used by workflow_dispatch. Updating this file on main triggers one scoped live acquisition/publication/delivery run."
+}

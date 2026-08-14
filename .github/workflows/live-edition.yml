@@ -39,6 +39,10 @@ on:
         required: true
         type: boolean
         default: false
+  push:
+    branches: [main]
+    paths:
+      - "catalog/live-edition-request.json"
 
 permissions:
   contents: write
@@ -46,7 +50,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: evidenceradar-live-edition-${{ inputs.journal_slug }}-${{ inputs.start }}-${{ inputs.end }}-${{ inputs.revision }}
+  group: evidenceradar-live-edition-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -58,6 +62,88 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
+
+      - name: Resolve live Edition request
+        id: request
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_JOURNAL_SLUG: ${{ inputs.journal_slug }}
+          INPUT_START: ${{ inputs.start }}
+          INPUT_END: ${{ inputs.end }}
+          INPUT_PERIOD_KIND: ${{ inputs.period_kind }}
+          INPUT_REVISION: ${{ inputs.revision }}
+          INPUT_MAX_RECORDS: ${{ inputs.max_records }}
+          INPUT_SOURCES: ${{ inputs.sources }}
+          INPUT_ALLOW_PLANNED: ${{ inputs.allow_planned }}
+          INPUT_POLICY_OVERRIDE: ${{ inputs.override_processing_policy }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import date
+          from pathlib import Path
+
+          def text(value):
+              return str(value or "").strip()
+
+          def truth(value):
+              return text(value).casefold() in {"1", "true", "yes", "on"}
+
+          if os.environ["EVENT_NAME"] == "workflow_dispatch":
+              req = {
+                  "request_id": f"workflow-dispatch-{os.environ.get('GITHUB_RUN_ID', '')}",
+                  "journal_slug": text(os.environ.get("INPUT_JOURNAL_SLUG")),
+                  "start": text(os.environ.get("INPUT_START")),
+                  "end": text(os.environ.get("INPUT_END")),
+                  "period_kind": text(os.environ.get("INPUT_PERIOD_KIND")) or "auto",
+                  "revision": int(text(os.environ.get("INPUT_REVISION")) or "1"),
+                  "max_records": text(os.environ.get("INPUT_MAX_RECORDS")),
+                  "sources": text(os.environ.get("INPUT_SOURCES")),
+                  "allow_planned": truth(os.environ.get("INPUT_ALLOW_PLANNED")),
+                  "override_processing_policy": truth(os.environ.get("INPUT_POLICY_OVERRIDE")),
+              }
+          else:
+              path = Path("catalog/live-edition-request.json")
+              req = json.loads(path.read_text(encoding="utf-8"))
+              if not isinstance(req, dict):
+                  raise SystemExit("live-edition request must be a JSON object")
+
+          for key in ("journal_slug", "start", "end"):
+              if not text(req.get(key)):
+                  raise SystemExit(f"missing live-edition request field: {key}")
+          start = date.fromisoformat(text(req["start"]))
+          end = date.fromisoformat(text(req["end"]))
+          if start > end:
+              raise SystemExit("live-edition start must not be after end")
+          period_kind = text(req.get("period_kind")) or "auto"
+          if period_kind not in {"auto", "day", "week", "month", "range"}:
+              raise SystemExit("invalid live-edition period_kind")
+          revision = int(req.get("revision") or 1)
+          if revision < 1:
+              raise SystemExit("live-edition revision must be positive")
+          max_records = text(req.get("max_records"))
+          if max_records and int(max_records) < 1:
+              raise SystemExit("max_records must be positive when set")
+          values = {
+              "request_id": text(req.get("request_id")) or f"request-{os.environ.get('GITHUB_RUN_ID', '')}",
+              "journal_slug": text(req["journal_slug"]),
+              "start": start.isoformat(),
+              "end": end.isoformat(),
+              "period_kind": period_kind,
+              "revision": str(revision),
+              "max_records": max_records,
+              "sources": text(req.get("sources")),
+              "allow_planned": "true" if bool(req.get("allow_planned")) else "false",
+              "override_processing_policy": "true" if bool(req.get("override_processing_policy")) else "false",
+          }
+          output = Path(os.environ["GITHUB_OUTPUT"])
+          with output.open("a", encoding="utf-8") as handle:
+              for key, value in values.items():
+                  if "\n" in value or "\r" in value:
+                      raise SystemExit(f"unsafe newline in request field: {key}")
+                  handle.write(f"{key}={value}\n")
+          print(json.dumps(values, sort_keys=True))
+          PY
 
       - name: Checkout pinned EvidenceRadar source
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -80,15 +166,15 @@ jobs:
       - name: Build policy-aware edition and optional translation handoff
         id: build
         env:
-          EDITION_JOURNAL_SLUG: ${{ inputs.journal_slug }}
-          EDITION_START: ${{ inputs.start }}
-          EDITION_END: ${{ inputs.end }}
-          EDITION_PERIOD_KIND: ${{ inputs.period_kind }}
-          EDITION_REVISION: ${{ inputs.revision }}
-          EDITION_MAX_RECORDS: ${{ inputs.max_records }}
-          EDITION_SOURCES: ${{ inputs.sources }}
-          EDITION_ALLOW_PLANNED: ${{ inputs.allow_planned }}
-          EDITION_POLICY_OVERRIDE: ${{ inputs.override_processing_policy }}
+          EDITION_JOURNAL_SLUG: ${{ steps.request.outputs.journal_slug }}
+          EDITION_START: ${{ steps.request.outputs.start }}
+          EDITION_END: ${{ steps.request.outputs.end }}
+          EDITION_PERIOD_KIND: ${{ steps.request.outputs.period_kind }}
+          EDITION_REVISION: ${{ steps.request.outputs.revision }}
+          EDITION_MAX_RECORDS: ${{ steps.request.outputs.max_records }}
+          EDITION_SOURCES: ${{ steps.request.outputs.sources }}
+          EDITION_ALLOW_PLANNED: ${{ steps.request.outputs.allow_planned }}
+          EDITION_POLICY_OVERRIDE: ${{ steps.request.outputs.override_processing_policy }}
           EDITION_CATALOG_ROOT: catalog
           EDITION_OUTPUT_DIR: dist/edition
         run: python -m evidenceradar_editions.workflow
@@ -131,10 +217,10 @@ jobs:
         if: steps.publish.outputs.changed == 'true'
         env:
           TARGET: ${{ steps.publish.outputs.target }}
-          JOURNAL_SLUG: ${{ inputs.journal_slug }}
-          START: ${{ inputs.start }}
-          END: ${{ inputs.end }}
-          REVISION: ${{ inputs.revision }}
+          JOURNAL_SLUG: ${{ steps.request.outputs.journal_slug }}
+          START: ${{ steps.request.outputs.start }}
+          END: ${{ steps.request.outputs.end }}
+          REVISION: ${{ steps.request.outputs.revision }}
         run: |
           set -euo pipefail
           original_main="$(git rev-parse HEAD)"
@@ -163,45 +249,67 @@ jobs:
           git push origin "HEAD:refs/heads/$branch"
           echo "branch=$branch" >> "$GITHUB_OUTPUT"
           echo "head_sha=$head_sha" >> "$GITHUB_OUTPUT"
+          echo "base_sha=$original_main" >> "$GITHUB_OUTPUT"
 
-      - name: Create and merge publication PR
+      - name: Publish canonical commit through guarded PR or fast-forward fallback
         id: merge
         if: steps.publish.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           BRANCH: ${{ steps.commit.outputs.branch }}
           HEAD_SHA: ${{ steps.commit.outputs.head_sha }}
+          BASE_SHA: ${{ steps.commit.outputs.base_sha }}
           TARGET: ${{ steps.publish.outputs.target }}
-          JOURNAL_SLUG: ${{ inputs.journal_slug }}
-          START: ${{ inputs.start }}
-          END: ${{ inputs.end }}
-          REVISION: ${{ inputs.revision }}
+          JOURNAL_SLUG: ${{ steps.request.outputs.journal_slug }}
+          START: ${{ steps.request.outputs.start }}
+          END: ${{ steps.request.outputs.end }}
+          REVISION: ${{ steps.request.outputs.revision }}
         run: |
           set -euo pipefail
+          pr_err="$RUNNER_TEMP/live-edition-pr.err"
+          set +e
           pr_url="$(gh pr create \
             --repo "$GITHUB_REPOSITORY" \
             --base main \
             --head "$BRANCH" \
             --title "Publish ${JOURNAL_SLUG} ${START}–${END} r${REVISION}" \
-            --body "Automated canonical publication from live-edition workflow run ${GITHUB_RUN_ID}. Repository tests, bundle validation, canonical-store validation, and stale-main protection completed before this PR. Generated path: \`${TARGET}\`.")"
-          pr_number="$(gh pr view "$pr_url" --repo "$GITHUB_REPOSITORY" --json number --jq .number)"
-          merge_json="$(gh api \
-            --method PUT \
-            -H 'Accept: application/vnd.github+json' \
-            "repos/$GITHUB_REPOSITORY/pulls/$pr_number/merge" \
-            -f merge_method=squash \
-            -f sha="$HEAD_SHA" \
-            -f commit_title="Publish ${JOURNAL_SLUG} ${START}–${END} r${REVISION}")"
-          merged="$(python -c 'import json,sys; print(str(json.load(sys.stdin).get("merged", False)).lower())' <<<"$merge_json")"
-          merge_sha="$(python -c 'import json,sys; print(json.load(sys.stdin).get("sha", ""))' <<<"$merge_json")"
-          if [ "$merged" != "true" ] || [ -z "$merge_sha" ]; then
-            echo "$merge_json" >&2
-            exit 1
+            --body "Automated canonical publication from live-edition workflow run ${GITHUB_RUN_ID}. Repository tests, bundle validation, canonical-store validation, and stale-main protection completed before this PR. Generated path: \`${TARGET}\`." 2>"$pr_err")"
+          pr_status=$?
+          set -e
+
+          if [ "$pr_status" -eq 0 ]; then
+            pr_number="$(gh pr view "$pr_url" --repo "$GITHUB_REPOSITORY" --json number --jq .number)"
+            merge_json="$(gh api \
+              --method PUT \
+              -H 'Accept: application/vnd.github+json' \
+              "repos/$GITHUB_REPOSITORY/pulls/$pr_number/merge" \
+              -f merge_method=squash \
+              -f sha="$HEAD_SHA" \
+              -f commit_title="Publish ${JOURNAL_SLUG} ${START}–${END} r${REVISION}")"
+            merged="$(python -c 'import json,sys; print(str(json.load(sys.stdin).get("merged", False)).lower())' <<<"$merge_json")"
+            merge_sha="$(python -c 'import json,sys; print(json.load(sys.stdin).get("sha", ""))' <<<"$merge_json")"
+            if [ "$merged" != "true" ] || [ -z "$merge_sha" ]; then
+              echo "$merge_json" >&2
+              exit 1
+            fi
+            mode="PULL_REQUEST_SQUASH"
+          elif grep -Eqi 'not permitted to create|pull requests.*disabled|resource not accessible' "$pr_err"; then
+            cat "$pr_err" >&2
+            git fetch origin main
+            test "$(git rev-parse origin/main)" = "$BASE_SHA"
+            git push origin "$HEAD_SHA:refs/heads/main"
+            merge_sha="$HEAD_SHA"
+            pr_url="action-token-pr-disabled; guarded fast-forward used"
+            mode="DIRECT_FAST_FORWARD_FALLBACK"
+          else
+            cat "$pr_err" >&2
+            exit "$pr_status"
           fi
+
           git push origin --delete "$BRANCH" || true
           echo "pr_url=$pr_url" >> "$GITHUB_OUTPUT"
-          echo "pr_number=$pr_number" >> "$GITHUB_OUTPUT"
           echo "merge_sha=$merge_sha" >> "$GITHUB_OUTPUT"
+          echo "publication_mode=$mode" >> "$GITHUB_OUTPUT"
 
       - name: Resolve canonical main SHA for idempotent publication
         id: unchanged
@@ -210,6 +318,7 @@ jobs:
           git fetch origin main
           echo "merge_sha=$(git rev-parse origin/main)" >> "$GITHUB_OUTPUT"
           echo "pr_url=idempotent-no-new-pr" >> "$GITHUB_OUTPUT"
+          echo "publication_mode=IDEMPOTENT_ALREADY_PUBLISHED" >> "$GITHUB_OUTPUT"
 
       - name: Dispatch complete default Edition pipeline
         id: downstream
@@ -248,6 +357,7 @@ jobs:
 
       - name: Write end-to-end publication summary
         env:
+          REQUEST_ID: ${{ steps.request.outputs.request_id }}
           MODE_CONFIGURED: ${{ steps.build.outputs.processing_mode_configured }}
           MODE_EFFECTIVE: ${{ steps.build.outputs.processing_mode_effective }}
           ARTICLE_COUNT: ${{ steps.build.outputs.article_count }}
@@ -259,12 +369,14 @@ jobs:
           PUBLISHED_TARGET: ${{ steps.publish.outputs.target }}
           PUBLISH_CHANGED: ${{ steps.publish.outputs.changed }}
           PR_URL: ${{ steps.merge.outputs.pr_url || steps.unchanged.outputs.pr_url }}
+          PUBLICATION_MODE: ${{ steps.merge.outputs.publication_mode || steps.unchanged.outputs.publication_mode }}
           MERGE_SHA: ${{ steps.merge.outputs.merge_sha || steps.unchanged.outputs.merge_sha }}
           DOWNSTREAM_RUN_ID: ${{ steps.downstream.outputs.run_id }}
         run: |
           {
             echo "## EvidenceRadar Editions end-to-end publication"
             echo
+            echo "- request id: \`${REQUEST_ID}\`"
             echo "- configured mode: \`${MODE_CONFIGURED}\`"
             echo "- effective mode: \`${MODE_EFFECTIVE}\`"
             echo "- canonical metadata records: \`${ARTICLE_COUNT}\`"
@@ -275,10 +387,11 @@ jobs:
             echo "- policy override used: \`${POLICY_OVERRIDE}\`"
             echo "- canonical target: \`${PUBLISHED_TARGET}\`"
             echo "- canonical bytes changed: \`${PUBLISH_CHANGED}\`"
+            echo "- publication mode: \`${PUBLICATION_MODE}\`"
             echo "- publication PR: ${PR_URL}"
             echo "- canonical main SHA: \`${MERGE_SHA}\`"
             echo "- complete Pages/evidence run: \`${DOWNSTREAM_RUN_ID}\`"
-            echo "- terminal contract: live acquisition → canonical publication → PR/merge → default abstract/full-text/evidence/editorial pipeline → Pages"
+            echo "- terminal contract: live acquisition → canonical publication → guarded publication → default abstract/full-text/evidence/editorial pipeline → Pages"
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Upload generated edition and any TranslationRequest
