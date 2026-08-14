@@ -1,21 +1,21 @@
 {
-  "article_count": 39,
+  "article_count": 38,
   "artifact_type": "EvidenceRadar_Edition_Manifest",
-  "created_at": "2026-08-14T02:10:43Z",
+  "created_at": "2026-08-14T02:13:54Z",
   "edition_id": "nutrition__2026-08__r01",
   "edition_key": "nutrition__2026-08",
   "files": {
     "edition_json": {
-      "bytes": 64807,
+      "bytes": 78597,
       "media_type": "application/json",
       "name": "EvidenceRadar_Editions__nutrition__2026-08__r01.json",
-      "sha256": "df5ecd3df771ba825a8d4d25fbbf3af312754c9db7ab9723a46d26a2f4027c79"
+      "sha256": "d38a80810f41c9ee6a4647d6f5cad599a02167b9cd953f42ea87bbd0c988af0a"
     },
     "report_html": {
-      "bytes": 116771,
+      "bytes": 133684,
       "media_type": "text/html; charset=utf-8",
       "name": "EvidenceRadar_Editions__nutrition__2026-08__r01.html",
-      "sha256": "75dddd0f2c86d92c157f5ab7db080f056b97263e6f4eef24ffd30b203abb49f7"
+      "sha256": "27e4923834b8599da0f31841c2f61f01458155111384027bc3397e709c0a8f97"
     }
   },
   "journal": "Nutrition",
@@ -32,12 +32,12 @@
   "schema_version": "2.0",
   "software_version": "0.2.0",
   "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
-  "translated_article_count": 0,
+  "translated_article_count": 38,
   "translation_provenance": {
-    "request_binding_sha256": null,
-    "response_sha256": null,
-    "source_edition_sha256": null
+    "request_binding_sha256": "9eb8faba772f7272ec906bec664317c1650745a97024e9883ffe9253b157ac9d",
+    "response_sha256": "1127aca5cf6a5cd6f14aa45d38fedbaad3d71060d3584993df2a5139b3fd5bfc",
+    "source_edition_sha256": "ae2fd334fb09304e4e19ba2a62cde9dd21f24d4b2774797a50c1abf8bb9aa236"
   },
-  "translation_status": "NOT_REQUESTED",
+  "translation_status": "COMPLETE",
   "upstream_radar_commit": null
 }
