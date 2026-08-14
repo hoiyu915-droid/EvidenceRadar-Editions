@@ -1,0 +1,68 @@
+name: Translate August 2026 batch 08 titles
+on:
+  push:
+    branches: [data/2026-08-batch-08-five-journals]
+    paths: [.github/workflows/translate-august-batch-08.yml]
+permissions:
+  contents: write
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with: {python-version: '3.12'}
+      - name: Install translation runtime
+        run: python -m pip install 'transformers==4.55.0' sentencepiece sacremoses opencc-python-reimplemented torch --quiet
+      - name: Translate retained titles
+        env:
+          TOKENIZERS_PARALLELISM: 'false'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import torch
+          from opencc import OpenCC
+          from transformers import MarianMTModel, MarianTokenizer
+
+          manifest=json.loads(Path('translation-work/batch08/manifest.json').read_text())
+          items=[]
+          for p in sorted(Path('translation-work/batch08').glob('part-*.json')):
+            items.extend(json.loads(p.read_text())['items'])
+          assert len(items)==manifest['kept_total']==2887
+          model_name='Helsinki-NLP/opus-mt-en-zh'
+          tok=MarianTokenizer.from_pretrained(model_name)
+          model=MarianMTModel.from_pretrained(model_name)
+          model.eval()
+          cc=OpenCC('s2twp')
+          out=[]
+          batch=32
+          with torch.inference_mode():
+            for i in range(0,len(items),batch):
+              chunk=items[i:i+batch]
+              enc=tok([x['title_original'] for x in chunk],return_tensors='pt',padding=True,truncation=True,max_length=256)
+              gen=model.generate(**enc,max_new_tokens=256,num_beams=4,length_penalty=1.0)
+              zh=tok.batch_decode(gen,skip_special_tokens=True)
+              for rec,text in zip(chunk,zh):
+                text=cc.convert(text.strip())
+                out.append({'canonical_id':rec['canonical_id'],'slug':rec['slug'],'title_original':rec['title_original'],'title_zh_tw':text})
+              if i % 320 == 0: print('translated',min(i+batch,len(items)),'/',len(items),flush=True)
+          assert len(out)==len(items)
+          payload={'engine':model_name,'postprocess':'OpenCC s2twp','item_count':len(out),'items':out}
+          Path('translation-work/batch08/mt-ledger.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n')
+          # deterministic audit sample: first/middle/last plus every 137th
+          sample=[]
+          picks=sorted(set([0,len(out)//2,len(out)-1,*range(0,len(out),137)]))
+          for i in picks: sample.append(out[i])
+          Path('translation-work/batch08/mt-audit-sample.json').write_text(json.dumps({'items':sample},ensure_ascii=False,indent=2)+'\n')
+          print('done',len(out),'sample',len(sample))
+          PY
+      - name: Commit translation ledger
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add translation-work/batch08/mt-ledger.json translation-work/batch08/mt-audit-sample.json
+          git commit -m 'translation: generate August batch 08 zh-TW title candidates'
+          git push
