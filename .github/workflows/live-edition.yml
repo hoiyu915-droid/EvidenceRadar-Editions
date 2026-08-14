@@ -3,16 +3,8 @@ name: Build a live scoped edition
 on:
   workflow_dispatch:
     inputs:
-      journal:
-        description: Exact journal title
-        required: true
-        default: JAMA Network Open
-      issn:
-        description: ISSN (optional)
-        required: false
-        default: 2574-3805
-      slug:
-        description: Lowercase URL/file slug
+      journal_slug:
+        description: Registered journal slug from catalog/journals.json
         required: true
         default: jama-network-open
       start:
@@ -30,13 +22,23 @@ on:
         required: true
         default: "1"
       max_records:
-        description: Hard per-source record budget
-        required: true
-        default: "500"
+        description: Optional explicit per-source budget; policy still clamps it unless override is enabled
+        required: false
+        default: ""
       sources:
-        description: Comma-separated source lanes
+        description: Optional comma-separated source lanes; blank uses registry defaults
+        required: false
+        default: ""
+      allow_planned:
+        description: Allow a registry entry with enabled=false
         required: true
-        default: pubmed,europe_pmc,crossref,radar_rss
+        type: boolean
+        default: false
+      override_processing_policy:
+        description: Explicitly bypass SUSPENDED mode and source-record caps; recorded in provenance
+        required: true
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -64,25 +66,50 @@ jobs:
       - name: Install
         run: python -m pip install -e .
 
-      - name: Build edition and translation handoff
+      - name: Build policy-aware edition and optional translation handoff
         id: build
         env:
-          EDITION_JOURNAL: ${{ inputs.journal }}
-          EDITION_ISSN: ${{ inputs.issn }}
-          EDITION_SLUG: ${{ inputs.slug }}
+          EDITION_JOURNAL_SLUG: ${{ inputs.journal_slug }}
           EDITION_START: ${{ inputs.start }}
           EDITION_END: ${{ inputs.end }}
           EDITION_PERIOD_KIND: ${{ inputs.period_kind }}
           EDITION_REVISION: ${{ inputs.revision }}
           EDITION_MAX_RECORDS: ${{ inputs.max_records }}
           EDITION_SOURCES: ${{ inputs.sources }}
+          EDITION_ALLOW_PLANNED: ${{ inputs.allow_planned }}
+          EDITION_POLICY_OVERRIDE: ${{ inputs.override_processing_policy }}
+          EDITION_CATALOG_ROOT: catalog
           EDITION_OUTPUT_DIR: dist/edition
         run: python -m evidenceradar_editions.workflow
 
       - name: Validate acquisition bundle
         run: python -m evidenceradar_editions validate --bundle-dir dist/edition
 
-      - name: Upload generated edition and TranslationRequest
+      - name: Write processing summary
+        env:
+          MODE_CONFIGURED: ${{ steps.build.outputs.processing_mode_configured }}
+          MODE_EFFECTIVE: ${{ steps.build.outputs.processing_mode_effective }}
+          ARTICLE_COUNT: ${{ steps.build.outputs.article_count }}
+          SOURCE_LIMIT: ${{ steps.build.outputs.source_record_limit }}
+          PAGES_LIMIT: ${{ steps.build.outputs.pages_record_limit }}
+          TRANSLATION_MODE: ${{ steps.build.outputs.translation_mode }}
+          TRANSLATION_REQUEST: ${{ steps.build.outputs.translation_request_json }}
+          POLICY_OVERRIDE: ${{ steps.build.outputs.policy_override_used }}
+        run: |
+          {
+            echo "## EvidenceRadar Editions processing"
+            echo
+            echo "- configured mode: \`${MODE_CONFIGURED}\`"
+            echo "- effective mode: \`${MODE_EFFECTIVE}\`"
+            echo "- canonical metadata records: \`${ARTICLE_COUNT}\`"
+            echo "- applied per-source limit: \`${SOURCE_LIMIT}\`"
+            echo "- Pages record limit: \`${PAGES_LIMIT}\`"
+            echo "- automatic translation: \`${TRANSLATION_MODE}\`"
+            echo "- translation request: \`${TRANSLATION_REQUEST:-deferred}\`"
+            echo "- policy override used: \`${POLICY_OVERRIDE}\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload generated edition and any TranslationRequest
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: EvidenceRadar-Editions__${{ steps.build.outputs.artifact_name }}

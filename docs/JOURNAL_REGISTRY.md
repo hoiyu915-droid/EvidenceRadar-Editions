@@ -4,6 +4,8 @@
 
 It is intentionally independent from the generated `editions/` tree. The registry stores journal identity and acquisition defaults (name, slug, ISSN, publisher, categories, OA mode, status and direct source adapters). It may record the EvidenceRadar snapshot from which a journal was imported, but normal Editions runs do not need to read EvidenceRadar again.
 
+Operational volume controls live separately in `catalog/processing-policies.json`. Keeping identity and workload policy apart lets a journal move between `FULL`, `TRIAGE`, `INDEX_ONLY` and `SUSPENDED` without rewriting its canonical identity or historical editions. See [`PROCESSING_POLICIES.md`](PROCESSING_POLICIES.md).
+
 ## Use without EvidenceRadar
 
 List the local registry:
@@ -12,7 +14,11 @@ List the local registry:
 python -m evidenceradar_editions journals --enabled-only
 python -m evidenceradar_editions journals --category llm_research
 python -m evidenceradar_editions journals --publisher Elsevier
+python -m evidenceradar_editions journals --processing-mode TRIAGE
+python -m evidenceradar_editions journals --processing-mode SUSPENDED
 ```
+
+Each returned journal includes its resolved processing policy and provenance.
 
 Build an edition from the registry:
 
@@ -25,7 +31,9 @@ python -m evidenceradar_editions run \
   --output-dir work/jama-2026-08
 ```
 
-`--journal-slug` resolves the journal name, ISSN, canonical slug and direct acquisition sources from `catalog/journals.json`. `--radar-root` remains optional and is only needed when an explicit Radar-side hint or provenance lookup is desired.
+`--journal-slug` resolves the journal name, ISSN, canonical slug and direct acquisition sources from `catalog/journals.json`, then applies the workload limits from `catalog/processing-policies.json`. `--radar-root` remains optional and is only needed when an explicit Radar-side hint or provenance lookup is desired.
+
+A journal in `SUSPENDED` mode fails before source acquisition. `--override-processing-policy` is an explicit, provenance-recorded escape hatch for exceptional operator work.
 
 ## Pages information architecture
 
@@ -51,7 +59,9 @@ Canonical URLs remain stable:
 
 A registered journal without a published edition receives a lightweight placeholder journal page. When its first edition is published, the generated journal page replaces that placeholder without changing the journal URL.
 
-The Pages build also publishes `/journals.json` as the machine-readable registry. `index.json` remains the publication catalog and `search-index.json` remains the article-level search index.
+The Pages build also publishes `/journals.json` as the machine-readable identity registry and `/processing-policies.json` as the workload control plane. `index.json` remains the publication catalog and `search-index.json` remains the article-level search index.
+
+For high-volume editions, revision-level `browse.json` is a bounded Pages projection rather than a duplicate of every canonical article object. The page states the canonical, projected and omitted counts. Omitted records remain in the complete canonical `edition.json`; the projection does not claim quality or relevance ranking.
 
 ## Updating the registry
 
@@ -61,4 +71,6 @@ Synchronizing new journals from EvidenceRadar is a deliberate maintenance action
 2. import only publication containers that have a stable journal identity;
 3. keep indexes, repositories, subject feeds and bounded-verification backends out of the journal registry;
 4. preserve Editions-native journals that are not currently configured in Radar;
-5. validate unique slugs and direct acquisition sources before publishing.
+5. validate unique slugs and direct acquisition sources before publishing;
+6. add a processing-policy override only when operational evidence supports it;
+7. use `SUSPENDED` for future acquisition control, never to erase historical publications.
