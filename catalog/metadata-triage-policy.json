@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "EvidenceRadar_Editions_MetadataTriagePolicy",
+  "policy_id": "metadata-title-triage-v1",
+  "basis": [
+    "title_original",
+    "article_type",
+    "doi",
+    "pmid",
+    "pmcid",
+    "source_records"
+  ],
+  "semantics": "Deterministic metadata-only prioritization for deciding what deserves later abstract or full-text review. It is not evidence-quality grading and does not verify scientific claims.",
+  "tier_order": ["ALERT", "HIGH", "MEDIUM", "LOW"],
+  "default": {
+    "tier": "MEDIUM",
+    "attention_class": "PRIMARY_RESEARCH",
+    "fetch_recommendation": "FETCH_IF_CAPACITY",
+    "reason_code": "NO_STRONG_METADATA_SIGNAL",
+    "label_zh_tw": "一般研究紀錄"
+  },
+  "selection": {
+    "near_duplicate_jaccard_threshold": 0.72,
+    "bucket_order": [
+      "SAFETY_ALERT",
+      "GUIDANCE",
+      "EVIDENCE_SYNTHESIS",
+      "CONTROLLED_TRIAL",
+      "REPLICATION_OR_NULL",
+      "RESOURCE_OR_BENCHMARK",
+      "VALIDATION_OR_DIAGNOSTIC",
+      "PROSPECTIVE_OR_COHORT",
+      "PROTOCOL",
+      "REVIEW",
+      "PRIMARY_RESEARCH",
+      "CASE_REPORT",
+      "CORRECTION",
+      "EDITORIAL_OR_FRONTMATTER"
+    ]
+  },
+  "signals": [
+    {
+      "code": "SAFETY_ALERT",
+      "tier": "ALERT",
+      "attention_class": "SAFETY_ALERT",
+      "fetch_recommendation": "VERIFY_IMMEDIATELY",
+      "label_zh_tw": "撤回／關切警示",
+      "terminal": true,
+      "title_prefixes": [
+        "editorial expression of concern",
+        "expression of concern",
+        "retraction note",
+        "retraction",
+        "withdrawal notice",
+        "withdrawn"
+      ],
+      "title_phrases": [
+        "retracted article",
+        "has been retracted",
+        "article withdrawn"
+      ],
+      "article_type_phrases": ["retracted publication", "expression of concern"]
+    },
+    {
+      "code": "CORRECTION",
+      "tier": "LOW",
+      "attention_class": "CORRECTION",
+      "fetch_recommendation": "METADATA_ONLY",
+      "label_zh_tw": "修正／勘誤",
+      "terminal": true,
+      "title_prefixes": [
+        "author correction",
+        "publisher correction",
+        "correction",
+        "corrigendum",
+        "erratum"
+      ],
+      "title_phrases": [],
+      "article_type_phrases": ["published erratum", "correction"]
+    },
+    {
+      "code": "EDITORIAL_OR_FRONTMATTER",
+      "tier": "LOW",
+      "attention_class": "EDITORIAL_OR_FRONTMATTER",
+      "fetch_recommendation": "METADATA_ONLY",
+      "label_zh_tw": "社論／前置內容",
+      "terminal": true,
+      "title_prefixes": [
+        "guest editorial",
+        "editorial",
+        "preface",
+        "introduction to the special issue",
+        "introduction to the themed issue",
+        "table of contents",
+        "contents",
+        "cover image",
+        "cover"
+      ],
+      "title_phrases": [],
+      "article_type_phrases": ["editorial", "news", "comment", "letter"]
+    },
+    {
+      "code": "GUIDANCE",
+      "tier": "HIGH",
+      "attention_class": "GUIDANCE",
+      "fetch_recommendation": "FETCH_PRIORITY",
+      "label_zh_tw": "指引／共識",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": [
+        "clinical practice guideline",
+        "practice guideline",
+        "consensus statement",
+        "expert consensus",
+        "position statement",
+        "evidence based recommendations",
+        "evidence based recommendation"
+      ],
+      "article_type_phrases": ["practice guideline", "guideline"]
+    },
+    {
+      "code": "EVIDENCE_SYNTHESIS",
+      "tier": "HIGH",
+      "attention_class": "EVIDENCE_SYNTHESIS",
+      "fetch_recommendation": "FETCH_PRIORITY",
+      "label_zh_tw": "系統性證據整合",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": [
+        "systematic review",
+        "meta analysis",
+        "network meta analysis",
+        "umbrella review",
+        "scoping review",
+        "living review",
+        "evidence synthesis",
+        "review of reviews"
+      ],
+      "article_type_phrases": ["meta analysis", "systematic review"]
+    },
+    {
+      "code": "CONTROLLED_TRIAL",
+      "tier": "HIGH",
+      "attention_class": "CONTROLLED_TRIAL",
+      "fetch_recommendation": "FETCH_PRIORITY",
+      "label_zh_tw": "對照／隨機試驗",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": [
+        "randomized controlled trial",
+        "randomised controlled trial",
+        "randomized trial",
+        "randomised trial",
+        "controlled clinical trial",
+        "pragmatic trial",
+        "placebo controlled",
+        "double blind trial",
+        "crossover trial",
+        "cross over trial"
+      ],
+      "article_type_phrases": [
+        "randomized controlled trial",
+        "controlled clinical trial",
+        "clinical trial"
+      ]
+    },
+    {
+      "code": "REPLICATION_OR_NULL",
+      "tier": "HIGH",
+      "attention_class": "REPLICATION_OR_NULL",
+      "fetch_recommendation": "FETCH_PRIORITY",
+      "label_zh_tw": "重現／反證／零結果訊號",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": [
+        "registered replication",
+        "replication study",
+        "reproducibility study",
+        "no evidence for",
+        "no evidence of",
+        "does not improve",
+        "not associated with",
+        "null result",
+        "negative result",
+        "fails to"
+      ],
+      "article_type_phrases": []
+    },
+    {
+      "code": "RESOURCE_OR_BENCHMARK",
+      "tier": "HIGH",
+      "attention_class": "RESOURCE_OR_BENCHMARK",
+      "fetch_recommendation": "FETCH_PRIORITY",
+      "label_zh_tw": "資料集／基準／公開資源",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": [
+        "benchmark dataset",
+        "benchmarking study",
+        "benchmark for",
+        "dataset for",
+        "data set for",
+        "open dataset",
+        "open data resource",
+        "data descriptor",
+        "database of",
+        "an atlas of",
+        "open source toolkit",
+        "open source software"
+      ],
+      "article_type_phrases": ["data descriptor"]
+    },
+    {
+      "code": "VALIDATION_OR_DIAGNOSTIC",
+      "tier": "HIGH",
+      "attention_class": "VALIDATION_OR_DIAGNOSTIC",
+      "fetch_recommendation": "FETCH_PRIORITY",
+      "label_zh_tw": "外部驗證／診斷效能",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": [
+        "external validation",
+        "validation study",
+        "diagnostic accuracy",
+        "prediction model",
+        "predictive model",
+        "sensitivity and specificity"
+      ],
+      "article_type_phrases": ["validation study"]
+    },
+    {
+      "code": "PROSPECTIVE_OR_COHORT",
+      "tier": "MEDIUM",
+      "attention_class": "PROSPECTIVE_OR_COHORT",
+      "fetch_recommendation": "FETCH_IF_CAPACITY",
+      "label_zh_tw": "前瞻／世代／縱向研究",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": [
+        "prospective cohort",
+        "prospective study",
+        "longitudinal study",
+        "cohort study",
+        "follow up study"
+      ],
+      "article_type_phrases": ["cohort study"]
+    },
+    {
+      "code": "PROTOCOL",
+      "tier": "MEDIUM",
+      "attention_class": "PROTOCOL",
+      "fetch_recommendation": "FETCH_IF_CAPACITY",
+      "label_zh_tw": "研究計畫／protocol",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": ["study protocol", "trial protocol", "protocol for"],
+      "article_type_phrases": ["protocol"]
+    },
+    {
+      "code": "REVIEW",
+      "tier": "MEDIUM",
+      "attention_class": "REVIEW",
+      "fetch_recommendation": "FETCH_IF_CAPACITY",
+      "label_zh_tw": "一般綜述",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": ["narrative review", "state of the art review"],
+      "article_type_phrases": ["review"]
+    },
+    {
+      "code": "CASE_REPORT",
+      "tier": "MEDIUM",
+      "attention_class": "CASE_REPORT",
+      "fetch_recommendation": "FETCH_IF_CAPACITY",
+      "label_zh_tw": "病例報告／病例系列",
+      "terminal": false,
+      "title_prefixes": [],
+      "title_phrases": ["case report", "case series"],
+      "article_type_phrases": ["case reports", "case report"]
+    }
+  ]
+}
