@@ -943,6 +943,7 @@
         "llm_research"
       ],
       "enabled": false,
+      "issn": "2835-8856",
       "name": "Transactions on Machine Learning Research",
       "oa": "public_fulltext",
       "publisher": "TMLR / OpenReview",
