@@ -1,0 +1,17 @@
+{
+  "count": 1,
+  "items": [
+    {
+      "slug": "nutrition",
+      "canonical_id": "doi:10.1016/s0899-9007(26)00188-7",
+      "title": "Table of Contents",
+      "date": "2026-08-01",
+      "date_precision": "MONTH",
+      "article_type": "journal-article",
+      "doi": "10.1016/s0899-9007(26)00188-7",
+      "pmid": null,
+      "date_ok": true,
+      "keyword_flag": true
+    }
+  ]
+}

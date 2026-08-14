@@ -1,0 +1,1965 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuki Minato",
+        "Luc Ingenbleek",
+        "Charlee Roberts",
+        "Richard Kumapley",
+        "Arie H Havelaar",
+        "Elaine Borghi",
+        "Luz María De-Regil"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103987",
+      "doi": "10.1016/j.langlo.2026.103987",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42302805",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103987",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103987"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42302805",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42302805/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "WHO foodborne disease estimates 2000–21: bridging the burdens of infectious and non-communicable diseases",
+      "title_original": "WHO foodborne disease estimates 2000–21: bridging the burdens of infectious and non-communicable diseases",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103987",
+        "https://pubmed.ncbi.nlm.nih.gov/42302805/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lucy J Robertson",
+        "Yuki Minato",
+        "Brecht Devleesschauwer",
+        "Carlotta Di Bari",
+        "Louise Vaes",
+        "Karen H Keddy",
+        "Banchob Sripa",
+        "Kim Fernandez",
+        "Sara M Pires",
+        "Shannon E Majowicz",
+        "Robin J Lake",
+        "Charlee Roberts",
+        "Gabriela F Nane",
+        "Mirjam E Kretzschmar",
+        "Lapo Mughini-Gras",
+        "Ali Rostami",
+        "Hélène Carabin",
+        "Christine M Budke",
+        "Meritxell Donadeu",
+        "Paul R Torgerson",
+        "WHO Foodborne Disease Burden Epidemiology Reference Group for 2021–25"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103982",
+      "doi": "10.1016/j.langlo.2026.103982",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42302806",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103982",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103982"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42302806",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42302806/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "WHO estimates of the global, regional, and national foodborne burdens of 14 invasive parasitic diseases, 2000–21: an updated data synthesis",
+      "title_original": "WHO estimates of the global, regional, and national foodborne burdens of 14 invasive parasitic diseases, 2000–21: an updated data synthesis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103982",
+        "https://pubmed.ncbi.nlm.nih.gov/42302806/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lea S Jakobsen",
+        "Antonio Agudo",
+        "Louise Vaes",
+        "Mohammed Al Huthiel",
+        "Fadi Al Natour",
+        "Carlotta di Bari",
+        "Brecht Devleesschauwer",
+        "Gabriela F Nane",
+        "Sara M Pires",
+        "Sofie Theresa Thomsen",
+        "Hernan Gomez Redondo",
+        "Herman Gibb",
+        "Robin J Lake",
+        "Arie H Havelaar",
+        "Charlee Roberts",
+        "Yuki Minato",
+        "Luc Ingenbleek",
+        "Li Bai",
+        "Beau Bruce",
+        "Sithar Dorjee",
+        "Teresa Estrada-Garcia",
+        "Luria Leslie Founou",
+        "Tesfaye Gobena",
+        "Sandra Hoffmann",
+        "Karen Keddy",
+        "Martyn Kirk",
+        "Mirjam Kretzschmar",
+        "Kunihiro Kubota",
+        "Ashok Kumar",
+        "Shannon Majowicz",
+        "Lapo Mughini-Gras",
+        "Tety Rachmawati",
+        "Lucy Robertson",
+        "Elaine Scallan Walter",
+        "Banchob Sripa",
+        "Paul Torgerson"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103986",
+      "doi": "10.1016/j.langlo.2026.103986",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42302807",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103986",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103986"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42302807",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42302807/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "WHO estimates of the global, regional, and national disease burden of nine foodborne chemicals, 2000–21: an updated data synthesis",
+      "title_original": "WHO estimates of the global, regional, and national disease burden of nine foodborne chemicals, 2000–21: an updated data synthesis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103986",
+        "https://pubmed.ncbi.nlm.nih.gov/42302807/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shannon E Majowicz",
+        "Elaine Scallan Walter",
+        "Sara M Pires",
+        "Yuki Minato",
+        "Luria L Founou",
+        "Brecht Devleesschauwer",
+        "Carlotta di Bari",
+        "Arie H Havelaar",
+        "Louise Vaes",
+        "Teresa Estrada-Garcia",
+        "Charlee Roberts",
+        "Tesfaye Gobena",
+        "Ashok Kumar",
+        "Fadi Al Natour",
+        "Robin J Lake",
+        "Gabriela F Nane",
+        "Kim Fernandez",
+        "John A Crump",
+        "Martyn D Kirk",
+        "Antonio Agudo",
+        "Mohammed Al Huthiel",
+        "Fadi Al Natour",
+        "Li Bai",
+        "Beau Bruce",
+        "Brecht Devleesschauwer",
+        "Sithar Dorjee",
+        "Teresa Estrada-Garcia",
+        "Luria L Founou",
+        "Tesfaye Gobena",
+        "Sandra Hoffmann",
+        "Lea Sletting Jakobsen",
+        "Karen Keddy",
+        "Martyn D Kirk",
+        "Mirjam Kretzschmar",
+        "Kunihiro Kubota",
+        "Ashok Kumar",
+        "Robin J Lake",
+        "Shannon E Majowicz",
+        "Lapo Mughini-Gras",
+        "Sara M Pires",
+        "Tety Rachmawati",
+        "Lucy Robertson",
+        "Elaine Scallan Walter",
+        "Banchob Sripa"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103981",
+      "doi": "10.1016/j.langlo.2026.103981",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42296980",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103981",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103981"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42296980",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42296980/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "WHO estimates of the global, regional, and national burden of eight foodborne non-diarrhoeal enteric disease hazards, 2000–21: an updated data synthesis",
+      "title_original": "WHO estimates of the global, regional, and national burden of eight foodborne non-diarrhoeal enteric disease hazards, 2000–21: an updated data synthesis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103981",
+        "https://pubmed.ncbi.nlm.nih.gov/42296980/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Robin J Lake",
+        "Brecht Devleesschauwer",
+        "Shannon E Majowicz",
+        "Lucy J Robertson",
+        "Lea Sletting Jakobsen",
+        "Antonio Agudo",
+        "Sara M Pires",
+        "Martyn D Kirk",
+        "Elaine Scallan Walter",
+        "Karen H Keddy",
+        "Carlotta di Bari",
+        "Louise Vaes",
+        "Arie H Havelaar",
+        "Charlee Roberts",
+        "Tesfaye Gobena",
+        "Mirjam E Kretzschmar",
+        "Gabriela F Nane",
+        "Sandra Hoffmann",
+        "Lapo Mughini-Gras",
+        "Banchob Sripa",
+        "Kunihiro Kubota",
+        "Luria Leslie Founou",
+        "Li Bai",
+        "Mohammed Al Huthiel",
+        "Tety Rachmawati",
+        "Teresa Estrada-Garcia",
+        "Ashok Kumar",
+        "Fadi Al Natour",
+        "Steven Jaffee",
+        "Spencer Henson",
+        "Luc Ingenbleek",
+        "Richard Kumapley",
+        "Elaine Borghi",
+        "Yuki Minato",
+        "WHO Foodborne Disease Burden Epidemiology Reference Group for 2021–25"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103994",
+      "doi": "10.1016/j.langlo.2026.103994",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": "PMC13433341",
+      "pmid": "42235567",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103994",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103994"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42235567",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42235567/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "WHO estimates of the global, regional, and national burden of 42 foodborne infectious and chemical hazards, 2000–21: an updated data synthesis",
+      "title_original": "WHO estimates of the global, regional, and national burden of 42 foodborne infectious and chemical hazards, 2000–21: an updated data synthesis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103994",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13433341/",
+        "https://pubmed.ncbi.nlm.nih.gov/42235567/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shannon E Majowicz",
+        "Josh M Colston",
+        "Martyn D Kirk",
+        "Sara M Pires",
+        "Yuki Minato",
+        "Luria L Founou",
+        "Brecht Devleesschauwer",
+        "Carlotta di Bari",
+        "Teresa Estrada-Garcia",
+        "Louise Vaes",
+        "Arie H Havelaar",
+        "Charlee Roberts",
+        "Tesfaye Gobena",
+        "Ashok Kumar",
+        "Fadi Al Natour",
+        "Robin J Lake",
+        "Gabriela F Nane",
+        "Lucy J Robertson",
+        "Kim Fernandez",
+        "Elaine Scallan Walter",
+        "Margaret Kosek",
+        "Antonio Agudo",
+        "Mohammed Al Huthiel",
+        "Fadi Al Natour",
+        "Li Bai",
+        "Beau Bruce",
+        "Brecht Devleesschauwer",
+        "Sithar Dorjee",
+        "Teresa Estrada-Garcia",
+        "Luria Leslie Founou",
+        "Tesfaye Gobena",
+        "Sandra Hoffmann",
+        "Lea Sletting Jakobsen",
+        "Karen Keddy",
+        "Martyn Kirk",
+        "Mirjam Kretzschmar",
+        "Kunihiro Kubota",
+        "Ashok Kumar",
+        "Rob Lake",
+        "Shannon Majowicz",
+        "Lapo Mughini-Gras",
+        "Sara Monteiro Pires",
+        "Tety Rachmawati",
+        "Lucy Robertson",
+        "Elaine Scallan Walter",
+        "Banchob Sripa",
+        "Fadi Al Natour",
+        "Teresa Estrada-Garcia",
+        "Luria Leslie Founou",
+        "Tesfaye Gobena",
+        "Martyn Kirk",
+        "Ashok Kumar",
+        "Shannon Majowicz",
+        "Sara Monteiro Pires",
+        "Elaine Scallan Walter"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103997",
+      "doi": "10.1016/j.langlo.2026.103997",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": "PMC13358865",
+      "pmid": "42296981",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103997",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103997"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42296981",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42296981/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "WHO estimates of the global, regional, and national burden of 14 foodborne diarrhoeal enteric hazards, 2000–21: an updated data synthesis",
+      "title_original": "WHO estimates of the global, regional, and national burden of 14 foodborne diarrhoeal enteric hazards, 2000–21: an updated data synthesis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103997",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13358865/",
+        "https://pubmed.ncbi.nlm.nih.gov/42296981/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jai K Das",
+        "Rehana A Salam",
+        "Zahra Ali Padhani",
+        "Arjumand Rizvi",
+        "Sana Khatoon",
+        "Mushtaq Mirani",
+        "Imran Ahmed",
+        "Rasool Bux",
+        "Fariha Shaheen",
+        "Sajid Muhammad",
+        "Simon Cousens",
+        "Zulfiqar A Bhutta"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104019",
+      "doi": "10.1016/j.langlo.2026.104019",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104019",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104019"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Sustainability and adherence to behaviour change: a cross-sectional 3-year follow-up survey of an innovative Community Mobilisation and Community Incentivisation strategy (CoMIC trial) for child health in rural Pakistan",
+      "title_original": "Sustainability and adherence to behaviour change: a cross-sectional 3-year follow-up survey of an innovative Community Mobilisation and Community Incentivisation strategy (CoMIC trial) for child health in rural Pakistan",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104019"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hilary S Whitworth",
+        "Margaret Meller",
+        "Marija Zaric",
+        "Gabriella Quintard",
+        "Pontiano Kaleebu",
+        "Bruce Kirenga",
+        "Arianna Marini",
+        "Patricia Fast",
+        "Samuel Gurrion",
+        "Nina Malkevich",
+        "Jon Heinrichs",
+        "Swati B Gupta",
+        "Suzanna C Francis"
+      ],
+      "canonical_id": "doi:10.1016/s2214-109x(26)00072-0",
+      "doi": "10.1016/s2214-109x(26)00072-0",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42379200",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s2214-109x(26)00072-0",
+          "url": "https://doi.org/10.1016/s2214-109x(26)00072-0"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379200",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379200/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Sudan virus disease in humans",
+      "title_original": "Sudan virus disease in humans",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s2214-109x(26)00072-0",
+        "https://pubmed.ncbi.nlm.nih.gov/42379200/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Feiko O ter Kuile",
+        "Chandy C John"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103995",
+      "doi": "10.1016/j.langlo.2026.103995",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42379198",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103995",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103995"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379198",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379198/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Severe anaemia in African children: look beyond under-fives",
+      "title_original": "Severe anaemia in African children: look beyond under-fives",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103995",
+        "https://pubmed.ncbi.nlm.nih.gov/42379198/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kelvin Mokaya Abuga",
+        "John Muthii Muriuki",
+        "Agnes M Mutua",
+        "Kennedy Mwai Wambui",
+        "Neema Mturi",
+        "Shebe Mohammed",
+        "John Kalama Fondo",
+        "Salim Mwarumba",
+        "Caroline J Ngetsa",
+        "Charles R Newton",
+        "Kathryn Maitland",
+        "Philip Bejon",
+        "Calman A MacLennan",
+        "Manfred Nairz",
+        "J Anthony G Scott",
+        "Thomas N Williams",
+        "Sarah H Atkinson"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103976",
+      "doi": "10.1016/j.langlo.2026.103976",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42379203",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103976",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103976"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379203",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379203/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Severe anaemia and invasive bacterial infections in Kenyan children: a 26-year hospital surveillance observational study",
+      "title_original": "Severe anaemia and invasive bacterial infections in Kenyan children: a 26-year hospital surveillance observational study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103976",
+        "https://pubmed.ncbi.nlm.nih.gov/42379203/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michael Spagat",
+        "Jon Pedersen",
+        "Khalil Shikaki",
+        "Michael Robbins",
+        "Eran Bendavid",
+        "Håvard Hegre",
+        "Debarati Guha-Sapir"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103992",
+      "doi": "10.1016/j.langlo.2026.103992",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42276091",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103992",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103992"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42276091",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42276091/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Response to DellaPergola and Zlochin",
+      "title_original": "Response to DellaPergola and Zlochin",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103992",
+        "https://pubmed.ncbi.nlm.nih.gov/42276091/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tara Danielle Mangal"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104035",
+      "doi": "10.1016/j.langlo.2026.104035",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104035",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104035"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Redesigning service delivery for the next phase of HIV prevention",
+      "title_original": "Redesigning service delivery for the next phase of HIV prevention",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104035"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Richard Kha",
+        "Oonagh Macken",
+        "Alemka Davis",
+        "Gary Low",
+        "Yasemin Kapucu",
+        "Colina Waddell",
+        "Tim Fricke",
+        "Lauren Carr",
+        "Eleanor Yang",
+        "John Newall",
+        "Andrew White",
+        "Lisa Keay",
+        "Bamini Gopinath",
+        "Gerald Liew",
+        "Paul Mitchell"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103960",
+      "doi": "10.1016/j.langlo.2026.103960",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42379201",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103960",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103960"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379201",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379201/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Prevalence of vision and hearing impairment in Australia: a nationally representative survey of Indigenous and non-Indigenous Australians aged 50 years and older",
+      "title_original": "Prevalence of vision and hearing impairment in Australia: a nationally representative survey of Indigenous and non-Indigenous Australians aged 50 years and older",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103960",
+        "https://pubmed.ncbi.nlm.nih.gov/42379201/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sergio DellaPergola",
+        "Mark Zlochin"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103991",
+      "doi": "10.1016/j.langlo.2026.103991",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42276092",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103991",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103991"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42276092",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42276092/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Population representativeness and interviewer-level heterogeneity in the Gaza Mortality Survey",
+      "title_original": "Population representativeness and interviewer-level heterogeneity in the Gaza Mortality Survey",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103991",
+        "https://pubmed.ncbi.nlm.nih.gov/42276092/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nelson Aghogho Evaborhene",
+        "Afifah Rahman-Shepherd",
+        "Luchuo Engelbert Bain",
+        "Shashika Bandara",
+        "Arush Lal"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104021",
+      "doi": "10.1016/j.langlo.2026.104021",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42468544",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104021",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104021"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42468544",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42468544/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "PABS deferred: the rise of bilateralism and future of pandemic governance",
+      "title_original": "PABS deferred: the rise of bilateralism and future of pandemic governance",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104021",
+        "https://pubmed.ncbi.nlm.nih.gov/42468544/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "The Lancet Global Health"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104042",
+      "doi": "10.1016/j.langlo.2026.104042",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42392120",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104042",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104042"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42392120",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42392120/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "PABS and the dangerous temptation of more time",
+      "title_original": "PABS and the dangerous temptation of more time",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104042",
+        "https://pubmed.ncbi.nlm.nih.gov/42392120/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Edson Serván-Mori",
+        "Diego Cerecero-García",
+        "Octavio Gómez-Dantés"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103996",
+      "doi": "10.1016/j.langlo.2026.103996",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42263729",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103996",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103996"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263729",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263729/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Mexico’s Servicio Universal de Salud: a pathway to integration and universal health coverage?",
+      "title_original": "Mexico’s Servicio Universal de Salud: a pathway to integration and universal health coverage?",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103996",
+        "https://pubmed.ncbi.nlm.nih.gov/42263729/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Matthew P Horning",
+        "Jessica Trenc Joseph",
+        "Groesbeck Parham"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104023",
+      "doi": "10.1016/j.langlo.2026.104023",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104023",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104023"
+        },
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104022",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104022"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Methodological concerns regarding the use of automated visual evaluation without HPV testing for cervical screening",
+      "title_original": "Methodological concerns regarding the use of automated visual evaluation without HPV testing for cervical screening",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104022",
+        "https://doi.org/10.1016/j.langlo.2026.104023"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jessica O’Logbon",
+        "Alexandra Ridout",
+        "Kate Bramham",
+        "Kypros Nicolaides",
+        "Eugene Oteng-Ntim"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104010",
+      "doi": "10.1016/j.langlo.2026.104010",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42314723",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104010",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104010"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42314723",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42314723/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Low-dose aspirin in pregnant women with sickle cell disease: timing, translation, and access",
+      "title_original": "Low-dose aspirin in pregnant women with sickle cell disease: timing, translation, and access",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104010",
+        "https://pubmed.ncbi.nlm.nih.gov/42314723/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kagan A Mellencamp",
+        "Ruth Namazzi",
+        "Anthony Batte",
+        "Caroline Kazinga",
+        "Claire D Liepmann",
+        "Michael J Goings",
+        "Robert O Opoka",
+        "Dibyadyuti Datta",
+        "Jie Ren",
+        "Robert Kalyesubula",
+        "Paul Bangirana",
+        "Stuart L Goldstein",
+        "Chandy C John",
+        "Andrea L Conroy"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103984",
+      "doi": "10.1016/j.langlo.2026.103984",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103984",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103984"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Long-term mortality and risk of chronic kidney disease in children following severe malaria complicated by acute kidney injury: a prospective observational study",
+      "title_original": "Long-term mortality and risk of chronic kidney disease in children following severe malaria complicated by acute kidney injury: a prospective observational study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103984"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shipra Chaudhary",
+        "Surendra Uranw"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104045",
+      "doi": "10.1016/j.langlo.2026.104045",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104045",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104045"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Long-term effectiveness of typhoid conjugate vaccine in Nepal",
+      "title_original": "Long-term effectiveness of typhoid conjugate vaccine in Nepal",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104045"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Johanna Ralston",
+        "Lavanya Vijayasingham",
+        "Chikhulupiliro Stanley Ng’ombe",
+        "Lucia Feito Allonca",
+        "Prisca Githuka",
+        "Nupur Lalvani",
+        "Ratna Devi"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103999",
+      "doi": "10.1016/j.langlo.2026.103999",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42413527",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103999",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103999"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42413527",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42413527/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Lived experience and global health architecture reform: from afterthought to cornerstone",
+      "title_original": "Lived experience and global health architecture reform: from afterthought to cornerstone",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103999",
+        "https://pubmed.ncbi.nlm.nih.gov/42413527/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mosepele Mosepele",
+        "Tendani Gaolathe",
+        "Kago Kebotsamang",
+        "Thato Moshomo",
+        "Moagedi Mawi",
+        "Khumo Seipone",
+        "Keonayang Kgotlaetsile",
+        "Kesaobaka Molebatsi",
+        "Onkabetse J Molefe-Baikai",
+        "Matlhogonolo Kelepile",
+        "Mareko Ramotsababa",
+        "Edwin G Mogaetsho",
+        "Ponego Ponatshego",
+        "Joseph N Jarvis",
+        "Pooja Gala",
+        "Amelia Van Pelt",
+        "Nthabiseng Phaladze",
+        "Laura Bogart",
+        "Shabbar Jaffar",
+        "Duolao Wang",
+        "Lisa R Hirschhorn"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104041",
+      "doi": "10.1016/j.langlo.2026.104041",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42586107",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104041",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104041"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586107",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586107/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Integrating hypertension care into the existing HIV services package in Botswana (InterCARE): a pair-matched, cluster-randomised, type 2 hybrid effectiveness–implementation trial",
+      "title_original": "Integrating hypertension care into the existing HIV services package in Botswana (InterCARE): a pair-matched, cluster-randomised, type 2 hybrid effectiveness–implementation trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104041",
+        "https://pubmed.ncbi.nlm.nih.gov/42586107/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nebiyu Dereje",
+        "Yap Boum",
+        "Merawi Aragaw",
+        "Kyeng Mercy",
+        "Mosoka Papa Fallah",
+        "Raji Tajudeen",
+        "Ngashi Ngongo",
+        "Jean Kaseya"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103998",
+      "doi": "10.1016/j.langlo.2026.103998",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42330989",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103998",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103998"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42330989",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42330989/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Institutionalising public health emergency preparedness and responses in Africa: lessons learned during the 2022-2025 outbreaks with crossborder spread potential",
+      "title_original": "Institutionalising public health emergency preparedness and responses in Africa: lessons learned during the 2022-2025 outbreaks with crossborder spread potential",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103998",
+        "https://pubmed.ncbi.nlm.nih.gov/42330989/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Karen A McDonnell"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103993",
+      "doi": "10.1016/j.langlo.2026.103993",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42242277",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103993",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103993"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42242277",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42242277/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Including female genital mutilation or cutting in the WHO Adverse Childhood Experiences International Questionnaire: the case and the barriers",
+      "title_original": "Including female genital mutilation or cutting in the WHO Adverse Childhood Experiences International Questionnaire: the case and the barriers",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103993",
+        "https://pubmed.ncbi.nlm.nih.gov/42242277/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Felipe Silva Neves",
+        "Larissa Loures Mendes",
+        "Paula Martins Horta",
+        "Raquel Canuto"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103990",
+      "doi": "10.1016/j.langlo.2026.103990",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42263730",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103990",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103990"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263730",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263730/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Health data poverty in low-income and middle-income countries: a challenge for climate justice",
+      "title_original": "Health data poverty in low-income and middle-income countries: a challenge for climate justice",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103990",
+        "https://pubmed.ncbi.nlm.nih.gov/42263730/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Safura Abdool Karim",
+        "Tess Johnson"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104001",
+      "doi": "10.1016/j.langlo.2026.104001",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42335917",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104001",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104001"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42335917",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42335917/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Hantavirus at sea: a test of the revised IHR and global health solidarity",
+      "title_original": "Hantavirus at sea: a test of the revised IHR and global health solidarity",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104001",
+        "https://pubmed.ncbi.nlm.nih.gov/42335917/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Corinne Bintz Aerenson",
+        "Olivia Angelino",
+        "Michael Give Chipeta",
+        "Naa Dodua Dodoo",
+        "Erigene Rutayisire",
+        "Jean Christophe Fotso",
+        "McEwen Khundi",
+        "Jennifer Kidwell Drake",
+        "Henderson Mitomoni",
+        "Nyovani Madise",
+        "Themba Mzembe",
+        "Easmon Otupiri",
+        "Mahesh C Puri",
+        "Emily Woolway",
+        "Stephen Lim",
+        "Annie Haakenstad"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104034",
+      "doi": "10.1016/j.langlo.2026.104034",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104034",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104034"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Drivers of adolescent pregnancy decline in five adolescent sexual and reproductive health and rights exemplar countries: a quantitative decomposition analysis",
+      "title_original": "Drivers of adolescent pregnancy decline in five adolescent sexual and reproductive health and rights exemplar countries: a quantitative decomposition analysis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104034"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Aseel Hamid",
+        "Katrina Scior",
+        "Maria Kett"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104063",
+      "doi": "10.1016/j.langlo.2026.104063",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42580353",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104063",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104063"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580353",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580353/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Disability, conflict, and emergencies: 17 years on",
+      "title_original": "Disability, conflict, and emergencies: 17 years on",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104063",
+        "https://pubmed.ncbi.nlm.nih.gov/42580353/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Akash Malhotra",
+        "Nishali Patel",
+        "David Kaftan",
+        "Yilin Chen",
+        "Cory Arrouzet",
+        "Arden Saravis",
+        "Catherine Kiptinness",
+        "Tabitha Kareithi",
+        "Kenneth Ngure",
+        "Katrina F Ortblad",
+        "Monisha Sharma"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.103977",
+      "doi": "10.1016/j.langlo.2026.103977",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.103977",
+          "url": "https://doi.org/10.1016/j.langlo.2026.103977"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Cost-effectiveness of providing pre-exposure and post-exposure prophylaxis for the prevention of HIV via online pharmacies in western Kenya: a modelling study",
+      "title_original": "Cost-effectiveness of providing pre-exposure and post-exposure prophylaxis for the prevention of HIV via online pharmacies in western Kenya: a modelling study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.103977"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104002",
+      "doi": "10.1016/j.langlo.2026.104002",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42173103",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104002",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104002"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42173103",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42173103/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Correction to Lancet Glob Health 2026; 14: e552–59",
+      "title_original": "Correction to Lancet Glob Health 2026; 14: e552–59",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104002",
+        "https://pubmed.ncbi.nlm.nih.gov/42173103/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104071",
+      "doi": "10.1016/j.langlo.2026.104071",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42575117",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104071",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104071"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42575117",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575117/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Correction to Lancet Glob Health 2026; 14: e395–406",
+      "title_original": "Correction to Lancet Glob Health 2026; 14: e395–406",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104071",
+        "https://pubmed.ncbi.nlm.nih.gov/42575117/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104028",
+      "doi": "10.1016/j.langlo.2026.104028",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42296982",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104028",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104028"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42296982",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42296982/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Correction to Lancet Glob Health 2026; 12: e1936–44",
+      "title_original": "Correction to Lancet Glob Health 2026; 12: e1936–44",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104028",
+        "https://pubmed.ncbi.nlm.nih.gov/42296982/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alehandrea Raiha Manuel"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104000",
+      "doi": "10.1016/j.langlo.2026.104000",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42379199",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104000",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104000"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379199",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379199/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Confronting an epidemiological paradox in Indigenous sensory health",
+      "title_original": "Confronting an epidemiological paradox in Indigenous sensory health",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104000",
+        "https://pubmed.ncbi.nlm.nih.gov/42379199/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kwabena Owusu-Kyei",
+        "Maria Cussó",
+        "Augustin Eric Fombah",
+        "Llorenç Quintó",
+        "Andreu Bofill",
+        "Alba Morató",
+        "Victoria Fumadó",
+        "Mohamed Samai",
+        "Clara Menéndez",
+        "Gerard Martinez",
+        "Celia Martí",
+        "María Cussó",
+        "Emma Wilheim",
+        "María Iriondo",
+        "Laia Nou",
+        "Noelia Arguedas",
+        "María Suay",
+        "Paula Sevilla",
+        "Laura Pellicer",
+        "Ariadna Rubio",
+        "Clara Izquierdo",
+        "Maria Goretti López",
+        "Victoria Fumadó"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104025",
+      "doi": "10.1016/j.langlo.2026.104025",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42575116",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104025",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104025"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42575116",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575116/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Causes of mortality and severe morbidity in young children in Sierra Leone: a prospective cohort study",
+      "title_original": "Causes of mortality and severe morbidity in young children in Sierra Leone: a prospective cohort study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104025",
+        "https://pubmed.ncbi.nlm.nih.gov/42575116/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Francesco Branda",
+        "Mohamed Mustaf Ahmed",
+        "Zhinya Kawa Othman",
+        "Fabio Scarpa",
+        "Massimo Ciccozzi",
+        "Giancarlo Ceccarelli",
+        "Ntuli A Kapologwe"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104020",
+      "doi": "10.1016/j.langlo.2026.104020",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": "42372775",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104020",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104020"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42372775",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42372775/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Bundibugyo virus and the cognition gap: rethinking epidemic preparedness in the era of regionalised outbreaks",
+      "title_original": "Bundibugyo virus and the cognition gap: rethinking epidemic preparedness in the era of regionalised outbreaks",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104020",
+        "https://pubmed.ncbi.nlm.nih.gov/42372775/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michael Abel Alao",
+        "Patience Ngozi Obiagwu"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104007",
+      "doi": "10.1016/j.langlo.2026.104007",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104007",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104007"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Beyond survival: malaria-associated acute kidney injury",
+      "title_original": "Beyond survival: malaria-associated acute kidney injury",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104007"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dikshya Pant",
+        "Yiyuan Zhang",
+        "Francesca W Basile",
+        "Mila Shakya",
+        "Sarah Kelly",
+        "Meeru Gurung",
+        "Huma Subhani",
+        "Suchita Shrestha",
+        "Yama F Mujadidi",
+        "Sabina Dongol",
+        "Naheeda Haque",
+        "Manij Joshi",
+        "Archana Maharjan",
+        "Ashata Dahal",
+        "Abhilasha Karkey",
+        "Suraj Rijal",
+        "Shristy Rajkarnikar",
+        "Jita Nepal",
+        "Sushan Ghimire",
+        "Benjamin Curtis",
+        "Young Chan Kim",
+        "Merryn Voysey",
+        "Buddha Basnyat",
+        "Shrijana Shrestha",
+        "Andrew J Pollard",
+        "Xinxue Liu",
+        "Ashish Kumar Yadav",
+        "Sujina Maskey",
+        "Pratima Uprety",
+        "Anish Karn",
+        "Brij Kishor Chauhan",
+        "Bibek Karki",
+        "Ramesh Rokaya",
+        "Janak Bohara",
+        "Ranjit Khatri",
+        "Reena Prajapati",
+        "Kalpana Pariyar",
+        "Ranju Sapkota",
+        "Sabitri Bista",
+        "Rajendra Shrestha",
+        "Durga Sapkota",
+        "Pratibha Oli",
+        "Nikhil Shrestha",
+        "John Shrestha",
+        "Aakrit Dahal",
+        "Milan Poudel",
+        "Krishna Lama",
+        "Shambhu Mahato",
+        "Kristina Joshi",
+        "Rochak Kansakaar",
+        "Sakar Sitaula",
+        "Madhav Chandra Gautam"
+      ],
+      "canonical_id": "doi:10.1016/j.langlo.2026.104009",
+      "doi": "10.1016/j.langlo.2026.104009",
+      "issns": [
+        "2214-109X"
+      ],
+      "journal": "The Lancet Global Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.langlo.2026.104009",
+          "url": "https://doi.org/10.1016/j.langlo.2026.104009"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "8-year vaccine protection following a single dose of Vi-tetanus toxoid conjugate vaccine in children in Nepal (TyVOID): a prospective cohort follow-up study of the TyVAC Nepal randomised controlled trial",
+      "title_original": "8-year vaccine protection following a single dose of Vi-tetanus toxoid conjugate vaccine in children in Nepal (TyVOID): a prospective cohort follow-up study of the TyVAC Nepal randomised controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.langlo.2026.104009"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 38,
+    "by_article_type": {
+      "journal-article": 38
+    },
+    "by_source": {
+      "crossref": 38,
+      "pubmed": 29
+    },
+    "translated_articles": 0
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "the-lancet-global-health__2026-08__r01",
+  "edition_key": "the-lancet-global-health__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "the-lancet-global-health__2026-08__r01",
+  "retrieved_at": "2026-08-14T02:10:46Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r01",
+    "edition_key": "the-lancet-global-health__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "2214-109X",
+    "journal": "The Lancet Global Health",
+    "journal_slug": "the-lancet-global-health",
+    "language": "zh-TW",
+    "max_records": 1000,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "the-lancet-global-health__2026-08__r01",
+    "revision": 1,
+    "slug": "the-lancet-global-health",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 39,
+      "detail": null,
+      "query": "container=The Lancet Global Health; publication=2026-08-01..2026-08-14",
+      "returned_count": 39,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 39,
+      "truncated": false
+    },
+    {
+      "accepted_count": 29,
+      "detail": null,
+      "query": "(\"The Lancet Global Health\"[Journal] OR \"2214-109X\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 29,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 29,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"The Lancet Global Health\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 38,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
