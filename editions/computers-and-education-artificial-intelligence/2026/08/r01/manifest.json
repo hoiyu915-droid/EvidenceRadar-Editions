@@ -1,0 +1,43 @@
+{
+  "article_count": 4,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T04:53:02Z",
+  "edition_id": "computers-and-education-artificial-intelligence__2026-08__r01",
+  "edition_key": "computers-and-education-artificial-intelligence__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 10080,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__computers-and-education-artificial-intelligence__2026-08__r01.json",
+      "sha256": "3da5b1fe5f69e95b73851ed506bc4358423bddb59e9421e956c7209803ff6cf5"
+    },
+    "report_html": {
+      "bytes": 26228,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__computers-and-education-artificial-intelligence__2026-08__r01.html",
+      "sha256": "e1b142dc44e0e92daaa84dbdcfe1584b1161d9f73577f0b3660f10591b6d8f92"
+    }
+  },
+  "journal": "Computers & Education: Artificial Intelligence",
+  "journal_slug": "computers-and-education-artificial-intelligence",
+  "manifest_name": "EvidenceRadar_Editions__computers-and-education-artificial-intelligence__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "computers-and-education-artificial-intelligence__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 4,
+  "translation_provenance": {
+    "request_binding_sha256": "a234e81dedc8ac1382290b07628f1c72e5dfc189e97a306c894f950a302203e6",
+    "response_sha256": "74d3e2203c4442ced2872d5ef3f48cb62eb7e41c39ec416f53d9c6bb7af40740",
+    "source_edition_sha256": "ab5a9bf325de1a5ad648d25d2597375da4e5d3fdb704e51afa8990aa55df9380"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}

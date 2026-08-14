@@ -1,0 +1,43 @@
+{
+  "article_count": 9,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T04:53:02Z",
+  "edition_id": "international-journal-of-human-computer-studies__2026-08__r01",
+  "edition_key": "international-journal-of-human-computer-studies__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 18225,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__international-journal-of-human-computer-studies__2026-08__r01.json",
+      "sha256": "541d12358a103a4fff2d5733494df9d821aa25b4ebc0fa6eacd16e6289080189"
+    },
+    "report_html": {
+      "bytes": 39544,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__international-journal-of-human-computer-studies__2026-08__r01.html",
+      "sha256": "bcfa118f0118d5a9cc78912ad22706ae4acb54992d071e399e19ed2a014eff4b"
+    }
+  },
+  "journal": "International Journal of Human-Computer Studies",
+  "journal_slug": "international-journal-of-human-computer-studies",
+  "manifest_name": "EvidenceRadar_Editions__international-journal-of-human-computer-studies__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "international-journal-of-human-computer-studies__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 9,
+  "translation_provenance": {
+    "request_binding_sha256": "eb0eebf2e6f3b2cd413e315462dd3a2337f71277c4a920458270157cf9baab0b",
+    "response_sha256": "5990e82f84e9879bce741419fba92534f22fb1baa2f3f83827d8508b75923d90",
+    "source_edition_sha256": "e9c3e73799c6aa76f08553e6a906871c8bb1603514bc64dc2fafd35775a1da56"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}
