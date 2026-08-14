@@ -1,0 +1,65 @@
+name: Seal August 2026 batch 02 final five
+
+on:
+  push:
+    branches:
+      - data/2026-08-batch-02-final-five
+    paths:
+      - ".github/workflows/seal-august-batch-02-final.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  seal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: python -m pip install -e .
+      - name: Validate carried entries and seal replacements
+        run: python tools/seal_august_batch02_final.py
+      - name: Commit canonical data only
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git rm -r --ignore-unmatch -- probe-final translation-final
+          git rm --ignore-unmatch -- \
+            .github/workflows/probe-august-batch-02-final.yml \
+            .github/workflows/seal-august-batch-02-final.yml \
+            tools/seal_august_batch02_final.py
+
+          git add -- \
+            editions/nutrition/2026/08/r01 \
+            editions/the-lancet-global-health/2026/08/r01
+
+          if find editions -type f \( -name '*.html' -o -name '*.zip' \) -print -quit | grep -q .; then
+            echo '::error::presentation artifact leaked into canonical editions tree'
+            exit 1
+          fi
+
+          git diff --cached --check
+          canonical=$(git diff --cached --name-only --diff-filter=ACMR | grep -E '^editions/(nutrition|the-lancet-global-health)/2026/08/r01/(edition|manifest|storage)\.json$' | wc -l | tr -d ' ')
+          if [ "$canonical" != "6" ]; then
+            echo "::error::expected exactly 6 new canonical target files, got $canonical"
+            git status --short
+            exit 1
+          fi
+          bad=$(git diff --cached --name-only --diff-filter=ACMR | grep -Ev '^editions/(nutrition|the-lancet-global-health)/2026/08/r01/(edition|manifest|storage)\.json$' || true)
+          if [ -n "$bad" ]; then
+            echo '::error::unexpected non-deletion paths are staged'
+            printf '%s\n' "$bad"
+            exit 1
+          fi
+          git status --short
+          git commit -m 'data: publish August 2026 batch 02 final five'
+          git push origin HEAD:data/2026-08-batch-02-final-five
