@@ -82,10 +82,11 @@ jobs:
             staging/batch01
 
           git diff --cached --check
-          echo '--- staged files ---'
+          echo '--- staged commit operations ---'
           git diff --cached --name-status
+          git commit -m 'data: publish August 2026 MTD batch 01'
 
-          actual="$(git diff --cached --name-only | sort)"
+          actual="$(git diff --name-only origin/main...HEAD | sort)"
           expected="$(printf '%s\n' \
             editions/clinical-nutrition/2026/08/r01/edition.json \
             editions/clinical-nutrition/2026/08/r01/manifest.json \
@@ -102,11 +103,12 @@ jobs:
             editions/the-lancet-healthy-longevity/2026/08/r01/edition.json \
             editions/the-lancet-healthy-longevity/2026/08/r01/manifest.json \
             editions/the-lancet-healthy-longevity/2026/08/r01/storage.json | sort)"
+          echo '--- final diff against main ---'
+          git diff --name-status origin/main...HEAD
           if [ "$actual" != "$expected" ]; then
-            echo '::error::Final staged diff is not exactly the 15 canonical publication files'
+            echo '::error::Final branch diff is not exactly the 15 canonical publication files'
             diff -u <(printf '%s\n' "$expected") <(printf '%s\n' "$actual") || true
             exit 1
           fi
 
-          git commit -m 'data: publish August 2026 MTD batch 01'
           git push origin HEAD:batch/2026-08-mtd-01
