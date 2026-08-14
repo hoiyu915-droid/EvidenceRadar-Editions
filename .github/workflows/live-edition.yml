@@ -1,4 +1,4 @@
-name: Build a live scoped edition
+name: Build and publish a live scoped edition
 
 on:
   workflow_dispatch:
@@ -41,15 +41,23 @@ on:
         default: false
 
 permissions:
-  contents: read
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: evidenceradar-live-edition-${{ inputs.journal_slug }}-${{ inputs.start }}-${{ inputs.end }}-${{ inputs.revision }}
+  cancel-in-progress: false
 
 jobs:
-  build:
+  build-publish-deliver:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 70
     steps:
       - name: Checkout Editions
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
 
       - name: Checkout pinned EvidenceRadar source
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -63,8 +71,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install
-        run: python -m pip install -e .
+      - name: Install and validate repository
+        run: |
+          python -m pip install -e .
+          python -m compileall -q evidenceradar_editions tests
+          python -m unittest discover -s tests -v
 
       - name: Build policy-aware edition and optional translation handoff
         id: build
@@ -85,7 +96,157 @@ jobs:
       - name: Validate acquisition bundle
         run: python -m evidenceradar_editions validate --bundle-dir dist/edition
 
-      - name: Write processing summary
+      - name: Publish into canonical editions store
+        id: publish
+        run: |
+          set -euo pipefail
+          result="$(python -m evidenceradar_editions publish \
+            --bundle-dir dist/edition \
+            --editions-root editions \
+            --allow-untranslated)"
+          echo "$result"
+          published="$(python -c 'import json,sys; print(json.load(sys.stdin)["published"])' <<<"$result")"
+          repo_root="$(pwd)"
+          case "$published" in
+            "$repo_root"/editions/*) target="${published#$repo_root/}" ;;
+            *) echo "Unexpected canonical publication path: $published" >&2; exit 1 ;;
+          esac
+          python - "$target" <<'PY'
+          import sys
+          from pathlib import Path
+          from evidenceradar_editions.store_v3 import validate_stored_publication
+          errors = validate_stored_publication(Path(sys.argv[1]), require_zh_tw=False)
+          if errors:
+              raise SystemExit("\n".join(errors))
+          PY
+          echo "target=$target" >> "$GITHUB_OUTPUT"
+          if [ -n "$(git status --porcelain -- "$target")" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit canonical publication branch
+        id: commit
+        if: steps.publish.outputs.changed == 'true'
+        env:
+          TARGET: ${{ steps.publish.outputs.target }}
+          JOURNAL_SLUG: ${{ inputs.journal_slug }}
+          START: ${{ inputs.start }}
+          END: ${{ inputs.end }}
+          REVISION: ${{ inputs.revision }}
+        run: |
+          set -euo pipefail
+          original_main="$(git rev-parse HEAD)"
+          git fetch origin main
+          current_main="$(git rev-parse origin/main)"
+          if [ "$original_main" != "$current_main" ]; then
+            echo "main moved during live-edition acquisition; refusing stale publication" >&2
+            exit 1
+          fi
+          safe_slug="$(printf '%s' "$JOURNAL_SLUG" | tr -cd 'a-zA-Z0-9-')"
+          branch="automation/live-edition-${safe_slug}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git switch -c "$branch"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "$TARGET"
+          staged="$(git diff --cached --name-only)"
+          test -n "$staged"
+          while IFS= read -r path; do
+            case "$path" in
+              "$TARGET"/*) ;;
+              *) echo "Refusing unrelated staged path: $path" >&2; exit 1 ;;
+            esac
+          done <<< "$staged"
+          git commit -m "Publish ${JOURNAL_SLUG} ${START}–${END} r${REVISION}"
+          head_sha="$(git rev-parse HEAD)"
+          git push origin "HEAD:refs/heads/$branch"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          echo "head_sha=$head_sha" >> "$GITHUB_OUTPUT"
+
+      - name: Create and merge publication PR
+        id: merge
+        if: steps.publish.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.commit.outputs.branch }}
+          HEAD_SHA: ${{ steps.commit.outputs.head_sha }}
+          TARGET: ${{ steps.publish.outputs.target }}
+          JOURNAL_SLUG: ${{ inputs.journal_slug }}
+          START: ${{ inputs.start }}
+          END: ${{ inputs.end }}
+          REVISION: ${{ inputs.revision }}
+        run: |
+          set -euo pipefail
+          pr_url="$(gh pr create \
+            --repo "$GITHUB_REPOSITORY" \
+            --base main \
+            --head "$BRANCH" \
+            --title "Publish ${JOURNAL_SLUG} ${START}–${END} r${REVISION}" \
+            --body "Automated canonical publication from live-edition workflow run ${GITHUB_RUN_ID}. Repository tests, bundle validation, canonical-store validation, and stale-main protection completed before this PR. Generated path: \`${TARGET}\`.")"
+          pr_number="$(gh pr view "$pr_url" --repo "$GITHUB_REPOSITORY" --json number --jq .number)"
+          merge_json="$(gh api \
+            --method PUT \
+            -H 'Accept: application/vnd.github+json' \
+            "repos/$GITHUB_REPOSITORY/pulls/$pr_number/merge" \
+            -f merge_method=squash \
+            -f sha="$HEAD_SHA" \
+            -f commit_title="Publish ${JOURNAL_SLUG} ${START}–${END} r${REVISION}")"
+          merged="$(python -c 'import json,sys; print(str(json.load(sys.stdin).get("merged", False)).lower())' <<<"$merge_json")"
+          merge_sha="$(python -c 'import json,sys; print(json.load(sys.stdin).get("sha", ""))' <<<"$merge_json")"
+          if [ "$merged" != "true" ] || [ -z "$merge_sha" ]; then
+            echo "$merge_json" >&2
+            exit 1
+          fi
+          git push origin --delete "$BRANCH" || true
+          echo "pr_url=$pr_url" >> "$GITHUB_OUTPUT"
+          echo "pr_number=$pr_number" >> "$GITHUB_OUTPUT"
+          echo "merge_sha=$merge_sha" >> "$GITHUB_OUTPUT"
+
+      - name: Resolve canonical main SHA for idempotent publication
+        id: unchanged
+        if: steps.publish.outputs.changed != 'true'
+        run: |
+          git fetch origin main
+          echo "merge_sha=$(git rev-parse origin/main)" >> "$GITHUB_OUTPUT"
+          echo "pr_url=idempotent-no-new-pr" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch complete default Edition pipeline
+        id: downstream
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MERGE_SHA: ${{ steps.merge.outputs.merge_sha || steps.unchanged.outputs.merge_sha }}
+        run: |
+          set -euo pipefail
+          test -n "$MERGE_SHA"
+          gh api \
+            --method POST \
+            -H 'Accept: application/vnd.github+json' \
+            "repos/$GITHUB_REPOSITORY/actions/workflows/pages.yml/dispatches" \
+            -f ref=main
+
+          run_id=""
+          for _ in $(seq 1 60); do
+            run_id="$(gh run list \
+              --repo "$GITHUB_REPOSITORY" \
+              --workflow pages.yml \
+              --branch main \
+              --event workflow_dispatch \
+              --limit 20 \
+              --json databaseId,headSha,createdAt \
+              --jq ".[] | select(.headSha == \"$MERGE_SHA\") | .databaseId" \
+              | head -n 1)"
+            if [ -n "$run_id" ]; then break; fi
+            sleep 5
+          done
+          if [ -z "$run_id" ]; then
+            echo "Could not resolve dispatched Pages run for $MERGE_SHA" >&2
+            exit 1
+          fi
+          echo "run_id=$run_id" >> "$GITHUB_OUTPUT"
+          gh run watch "$run_id" --repo "$GITHUB_REPOSITORY" --exit-status
+
+      - name: Write end-to-end publication summary
         env:
           MODE_CONFIGURED: ${{ steps.build.outputs.processing_mode_configured }}
           MODE_EFFECTIVE: ${{ steps.build.outputs.processing_mode_effective }}
@@ -95,18 +256,29 @@ jobs:
           TRANSLATION_MODE: ${{ steps.build.outputs.translation_mode }}
           TRANSLATION_REQUEST: ${{ steps.build.outputs.translation_request_json }}
           POLICY_OVERRIDE: ${{ steps.build.outputs.policy_override_used }}
+          PUBLISHED_TARGET: ${{ steps.publish.outputs.target }}
+          PUBLISH_CHANGED: ${{ steps.publish.outputs.changed }}
+          PR_URL: ${{ steps.merge.outputs.pr_url || steps.unchanged.outputs.pr_url }}
+          MERGE_SHA: ${{ steps.merge.outputs.merge_sha || steps.unchanged.outputs.merge_sha }}
+          DOWNSTREAM_RUN_ID: ${{ steps.downstream.outputs.run_id }}
         run: |
           {
-            echo "## EvidenceRadar Editions processing"
+            echo "## EvidenceRadar Editions end-to-end publication"
             echo
             echo "- configured mode: \`${MODE_CONFIGURED}\`"
             echo "- effective mode: \`${MODE_EFFECTIVE}\`"
             echo "- canonical metadata records: \`${ARTICLE_COUNT}\`"
             echo "- applied per-source limit: \`${SOURCE_LIMIT}\`"
             echo "- Pages record limit: \`${PAGES_LIMIT}\`"
-            echo "- automatic translation: \`${TRANSLATION_MODE}\`"
+            echo "- translation mode: \`${TRANSLATION_MODE}\`"
             echo "- translation request: \`${TRANSLATION_REQUEST:-deferred}\`"
             echo "- policy override used: \`${POLICY_OVERRIDE}\`"
+            echo "- canonical target: \`${PUBLISHED_TARGET}\`"
+            echo "- canonical bytes changed: \`${PUBLISH_CHANGED}\`"
+            echo "- publication PR: ${PR_URL}"
+            echo "- canonical main SHA: \`${MERGE_SHA}\`"
+            echo "- complete Pages/evidence run: \`${DOWNSTREAM_RUN_ID}\`"
+            echo "- terminal contract: live acquisition → canonical publication → PR/merge → default abstract/full-text/evidence/editorial pipeline → Pages"
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Upload generated edition and any TranslationRequest
