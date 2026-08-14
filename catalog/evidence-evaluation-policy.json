@@ -1,0 +1,176 @@
+{
+  "artifact_type": "EvidenceRadar_Editions_EvidenceEvaluationPolicy",
+  "checklists": {
+    "CASE_REPORT": [
+      "RESULTS_SECTION",
+      "LIMITATIONS"
+    ],
+    "DEFAULT": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE",
+      "EFFECT_ESTIMATE",
+      "LIMITATIONS"
+    ],
+    "EVIDENCE_SYNTHESIS": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SEARCH_STRATEGY",
+      "RISK_OF_BIAS_METHOD",
+      "EFFECT_ESTIMATE",
+      "HETEROGENEITY",
+      "REGISTRATION",
+      "LIMITATIONS"
+    ],
+    "GUIDANCE": [
+      "METHODS_SECTION",
+      "RECOMMENDATION_LANGUAGE",
+      "CONFLICT_OF_INTEREST",
+      "FUNDING"
+    ],
+    "OBSERVATIONAL_DESIGN": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE",
+      "EFFECT_ESTIMATE",
+      "CONFOUNDING_ADJUSTMENT",
+      "ATTRITION_OR_MISSING",
+      "LIMITATIONS"
+    ],
+    "PROSPECTIVE_LONGITUDINAL": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE",
+      "FOLLOW_UP",
+      "EFFECT_ESTIMATE",
+      "CONFOUNDING_ADJUSTMENT",
+      "ATTRITION_OR_MISSING",
+      "LIMITATIONS"
+    ],
+    "PROTOCOL": [
+      "METHODS_SECTION",
+      "REGISTRATION",
+      "PRIMARY_OUTCOME"
+    ],
+    "RANDOMIZED_TRIAL": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "RANDOMIZATION",
+      "SAMPLE_SIZE",
+      "PRIMARY_OUTCOME",
+      "EFFECT_ESTIMATE",
+      "REGISTRATION",
+      "ALLOCATION_CONCEALMENT",
+      "MASKING",
+      "INTENTION_TO_TREAT",
+      "ATTRITION_OR_MISSING",
+      "LIMITATIONS"
+    ],
+    "REPLICATION_VALIDATION": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE",
+      "EFFECT_ESTIMATE",
+      "EXTERNAL_VALIDATION",
+      "LIMITATIONS"
+    ],
+    "RESOURCE_BENCHMARK": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "DATA_OR_CODE_AVAILABILITY",
+      "EXTERNAL_VALIDATION",
+      "LIMITATIONS"
+    ],
+    "SAFETY_SIGNAL": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE",
+      "EFFECT_ESTIMATE",
+      "LIMITATIONS"
+    ],
+    "SURVEY": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE",
+      "LIMITATIONS"
+    ]
+  },
+  "critical_gap_penalty": 6.0,
+  "critical_signals": {
+    "CASE_REPORT": [
+      "RESULTS_SECTION"
+    ],
+    "DEFAULT": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION"
+    ],
+    "EVIDENCE_SYNTHESIS": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "RISK_OF_BIAS_METHOD",
+      "SEARCH_STRATEGY"
+    ],
+    "GUIDANCE": [
+      "CONFLICT_OF_INTEREST",
+      "METHODS_SECTION",
+      "RECOMMENDATION_LANGUAGE"
+    ],
+    "OBSERVATIONAL_DESIGN": [
+      "CONFOUNDING_ADJUSTMENT",
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE"
+    ],
+    "PROSPECTIVE_LONGITUDINAL": [
+      "FOLLOW_UP",
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE"
+    ],
+    "PROTOCOL": [
+      "METHODS_SECTION",
+      "REGISTRATION"
+    ],
+    "RANDOMIZED_TRIAL": [
+      "EFFECT_ESTIMATE",
+      "METHODS_SECTION",
+      "PRIMARY_OUTCOME",
+      "RANDOMIZATION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE"
+    ],
+    "REPLICATION_VALIDATION": [
+      "EXTERNAL_VALIDATION",
+      "METHODS_SECTION",
+      "RESULTS_SECTION"
+    ],
+    "RESOURCE_BENCHMARK": [
+      "DATA_OR_CODE_AVAILABILITY",
+      "METHODS_SECTION",
+      "RESULTS_SECTION"
+    ],
+    "SAFETY_SIGNAL": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE"
+    ],
+    "SURVEY": [
+      "METHODS_SECTION",
+      "RESULTS_SECTION",
+      "SAMPLE_SIZE"
+    ]
+  },
+  "featured_target": 36,
+  "high_information_bonus": 4.0,
+  "journal_featured_caps": {
+    "FULL": 8,
+    "INDEX_ONLY": 2,
+    "SUSPENDED": 0,
+    "TRIAGE": 12
+  },
+  "moderate_information_bonus": 2.0,
+  "policy_id": "evidence-evaluation-v1",
+  "reporting_coverage_weight": 24.0,
+  "schema_version": "1.0",
+  "semantics": "Deterministic full-text evidence-reporting audit after hash-bound acquisition. It checks whether design-relevant evidence elements are reported; it does not establish causal validity, clinical importance, novelty, or a formal risk-of-bias grade."
+}
