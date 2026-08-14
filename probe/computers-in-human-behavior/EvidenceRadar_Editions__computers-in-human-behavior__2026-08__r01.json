@@ -1,0 +1,1379 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alexandra M. Harris-Watson",
+        "Lindsay E. Larson"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109000",
+      "doi": "10.1016/j.chb.2026.109000",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109000",
+          "url": "https://doi.org/10.1016/j.chb.2026.109000"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "When tech makes the team: Mind perception as a unifying framework for human and human-agent teams",
+      "title_original": "When tech makes the team: Mind perception as a unifying framework for human and human-agent teams",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109000"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Christopher R. Dishop"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108994",
+      "doi": "10.1016/j.chb.2026.108994",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108994",
+          "url": "https://doi.org/10.1016/j.chb.2026.108994"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "When algorithms remember what employees forget: Reversing the common view that artificial intelligence (AI) workplace advisors lack context",
+      "title_original": "When algorithms remember what employees forget: Reversing the common view that artificial intelligence (AI) workplace advisors lack context",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108994"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marta Beneda",
+        "Julia Spielmann",
+        "Amna Ramadhan Alahmadi",
+        "Domna Banakou",
+        "Andrea C. Vial"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109146",
+      "doi": "10.1016/j.chb.2026.109146",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109146",
+          "url": "https://doi.org/10.1016/j.chb.2026.109146"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Walking in Her Shoes: Virtual Embodiment of a Famous Female Scientist Reduces Implicit Gender–Science Associations",
+      "title_original": "Walking in Her Shoes: Virtual Embodiment of a Famous Female Scientist Reduces Implicit Gender–Science Associations",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109146"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jin Wang",
+        "Chang Liu",
+        "Tumaresi Paerhati",
+        "Zhuo Wang",
+        "Xilei Zhang",
+        "Yu Ku"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108991",
+      "doi": "10.1016/j.chb.2026.108991",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108991",
+          "url": "https://doi.org/10.1016/j.chb.2026.108991"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The influence of cyber descriptive norms on immoral online behavior: The moderating role of moral conviction",
+      "title_original": "The influence of cyber descriptive norms on immoral online behavior: The moderating role of moral conviction",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108991"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xi Han",
+        "Xiangxiang Zhou",
+        "Tianqi Luo",
+        "Yuan Chen",
+        "Wenting Han"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109001",
+      "doi": "10.1016/j.chb.2026.109001",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109001",
+          "url": "https://doi.org/10.1016/j.chb.2026.109001"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Strategic counter-misinformation engagement on social media: An empirical investigation of corporate response tactics and consumer attitude reconstruction",
+      "title_original": "Strategic counter-misinformation engagement on social media: An empirical investigation of corporate response tactics and consumer attitude reconstruction",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109001"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Héctor Galindo-Domínguez",
+        "Nahia Delgado",
+        "Martín Sainz-de-la-Maza",
+        "Jose-María Etxabe"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108985",
+      "doi": "10.1016/j.chb.2026.108985",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108985",
+          "url": "https://doi.org/10.1016/j.chb.2026.108985"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Self-regulation and overreliance on artificial intelligence: Unpacking a paradox through a mixed-methods study in higher education",
+      "title_original": "Self-regulation and overreliance on artificial intelligence: Unpacking a paradox through a mixed-methods study in higher education",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108985"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jin Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108988",
+      "doi": "10.1016/j.chb.2026.108988",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108988",
+          "url": "https://doi.org/10.1016/j.chb.2026.108988"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Rubric-conditioned large language model labeling: Agreement, uncertainty, and label consistency in subjective text annotation",
+      "title_original": "Rubric-conditioned large language model labeling: Agreement, uncertainty, and label consistency in subjective text annotation",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108988"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chao-Ying Chen",
+        "I-Hua Chen",
+        "Wen-Li Hou",
+        "Pei-Yu Chou",
+        "Servet Üztemur",
+        "Xianhe Chen",
+        "Ru-Yi Huang",
+        "Marc N. Potenza",
+        "Zsolt Demetrovics",
+        "Mark D. Griffiths",
+        "Chung-Ying Lin"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108977",
+      "doi": "10.1016/j.chb.2026.108977",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108977",
+          "url": "https://doi.org/10.1016/j.chb.2026.108977"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Potential effects of a gaming restriction policy on problematic use of the internet and time spent on the internet among Chinese adolescents: A longitudinal study",
+      "title_original": "Potential effects of a gaming restriction policy on problematic use of the internet and time spent on the internet among Chinese adolescents: A longitudinal study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108977"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Minjung Cho",
+        "Joonheui Bae",
+        "Erin Cho",
+        "Sung Hun Kevin Bae"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108995",
+      "doi": "10.1016/j.chb.2026.108995",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108995",
+          "url": "https://doi.org/10.1016/j.chb.2026.108995"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Polite or playful? How service robot type and apology style influence negative word-of-mouth after service failures",
+      "title_original": "Polite or playful? How service robot type and apology style influence negative word-of-mouth after service failures",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108995"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ken Watanabe",
+        "Sorato Minami",
+        "Naoki Saijo",
+        "Makio Kashino"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109005",
+      "doi": "10.1016/j.chb.2026.109005",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109005",
+          "url": "https://doi.org/10.1016/j.chb.2026.109005"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Physiological synchrony in elite esports matches driven by competitive motivation",
+      "title_original": "Physiological synchrony in elite esports matches driven by competitive motivation",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109005"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Eugy Han",
+        "Portia Wang",
+        "Monique Santoso",
+        "Keshav Rastogi",
+        "Jeremy N. Bailenson"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108975",
+      "doi": "10.1016/j.chb.2026.108975",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108975",
+          "url": "https://doi.org/10.1016/j.chb.2026.108975"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Not seeing eye to eye: The effects of perceptual conflicts during social interactions in mixed reality",
+      "title_original": "Not seeing eye to eye: The effects of perceptual conflicts during social interactions in mixed reality",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108975"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Arne Freya Zillich",
+        "Annika Wunderlich"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108987",
+      "doi": "10.1016/j.chb.2026.108987",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108987",
+          "url": "https://doi.org/10.1016/j.chb.2026.108987"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Keep it perfect or keep it real? The influence of descriptive norms on adolescents’ expression of multiple selves in Instagram Stories",
+      "title_original": "Keep it perfect or keep it real? The influence of descriptive norms on adolescents’ expression of multiple selves in Instagram Stories",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108987"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sisheng Li",
+        "Qinghua He",
+        "Yawei Qi",
+        "Ofir Turel"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108983",
+      "doi": "10.1016/j.chb.2026.108983",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108983",
+          "url": "https://doi.org/10.1016/j.chb.2026.108983"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Is anthropomorphizing AI worth it? The role of hands-on experience in shaping advice uptake",
+      "title_original": "Is anthropomorphizing AI worth it? The role of hands-on experience in shaping advice uptake",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108983"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hesun Erin Kim",
+        "Byung-Hoon Kim",
+        "Yesol Cho",
+        "Yujin Ko",
+        "Jae-Jin Kim"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108976",
+      "doi": "10.1016/j.chb.2026.108976",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108976",
+          "url": "https://doi.org/10.1016/j.chb.2026.108976"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Impact of social media use in static and dynamic functional network connectivity of social anxiety disorder",
+      "title_original": "Impact of social media use in static and dynamic functional network connectivity of social anxiety disorder",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108976"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hua Pang",
+        "Yi Wang",
+        "Mohan Sun",
+        "Rui Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108999",
+      "doi": "10.1016/j.chb.2026.108999",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108999",
+          "url": "https://doi.org/10.1016/j.chb.2026.108999"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "How artificial intelligence functionalities boost consumer benefit and impulse shopping? The significant role of responsive communication and conversational communication",
+      "title_original": "How artificial intelligence functionalities boost consumer benefit and impulse shopping? The significant role of responsive communication and conversational communication",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108999"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "James W.A. Strachan",
+        "Oriana Pansardi",
+        "Marco Celotto",
+        "Eugenio Scaliti",
+        "Krati Saxena",
+        "Chunzhi Yi",
+        "Fabio Manzi",
+        "Alessandro Rufo",
+        "Guido Manzi",
+        "Michael S.A. Graziano",
+        "Stefano Panzeri",
+        "Cristina Becchio"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108992",
+      "doi": "10.1016/j.chb.2026.108992",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108992",
+          "url": "https://doi.org/10.1016/j.chb.2026.108992"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "GPT-4o reads the mind in the eyes",
+      "title_original": "GPT-4o reads the mind in the eyes",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108992"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Florence E. Enock",
+        "Francesca Stevens",
+        "Tvesha Sippy",
+        "Jonathan Bright",
+        "Miranda Cross",
+        "Pica Johansson",
+        "Judy Wajcman",
+        "Helen Z. Margetts"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108990",
+      "doi": "10.1016/j.chb.2026.108990",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108990",
+          "url": "https://doi.org/10.1016/j.chb.2026.108990"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Gendered inequalities in online harms: Fear, safety work, and online participation",
+      "title_original": "Gendered inequalities in online harms: Fear, safety work, and online participation",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108990"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiajing Zhai",
+        "Jiayu Gina Qu"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109150",
+      "doi": "10.1016/j.chb.2026.109150",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109150",
+          "url": "https://doi.org/10.1016/j.chb.2026.109150"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts",
+      "title_original": "From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109150"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Doarka Das",
+        "Juha Munnukka",
+        "Outi Niininen"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108982",
+      "doi": "10.1016/j.chb.2026.108982",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108982",
+          "url": "https://doi.org/10.1016/j.chb.2026.108982"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "From stress to emotional well-being: Exploring how multiplayer online video games foster emotional resilience among Generation Z players",
+      "title_original": "From stress to emotional well-being: Exploring how multiplayer online video games foster emotional resilience among Generation Z players",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108982"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Serge-Lopez Wamba-Taguimdje",
+        "Pascal Koko Bashengezi"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108993",
+      "doi": "10.1016/j.chb.2026.108993",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108993",
+          "url": "https://doi.org/10.1016/j.chb.2026.108993"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "From FoMO to learning: How social media characteristics drive explorative and exploitative use and foster sustainable social relationships in micro-learning activities",
+      "title_original": "From FoMO to learning: How social media characteristics drive explorative and exploitative use and foster sustainable social relationships in micro-learning activities",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108993"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "E.R. Leukfeldt",
+        "L.M.J. Bekkers"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108996",
+      "doi": "10.1016/j.chb.2026.108996",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108996",
+          "url": "https://doi.org/10.1016/j.chb.2026.108996"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "From curiosity to crime: Exploring pathways into criminal hacking",
+      "title_original": "From curiosity to crime: Exploring pathways into criminal hacking",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108996"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maishuang Sun",
+        "Huayi Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108997",
+      "doi": "10.1016/j.chb.2026.108997",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108997",
+          "url": "https://doi.org/10.1016/j.chb.2026.108997"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Formation and resolution of the knowledge sharing dilemma under competitive pressure: An evolutionary game approach based on complex networks",
+      "title_original": "Formation and resolution of the knowledge sharing dilemma under competitive pressure: An evolutionary game approach based on complex networks",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108997"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Esther Kang",
+        "Arun Lakshmanan"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108980",
+      "doi": "10.1016/j.chb.2026.108980",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108980",
+          "url": "https://doi.org/10.1016/j.chb.2026.108980"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Feeding on screens, not on plates: The paradoxical impact of unhealthy food content in digital media",
+      "title_original": "Feeding on screens, not on plates: The paradoxical impact of unhealthy food content in digital media",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108980"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiaoxiao Meng",
+        "Shuhua Zhou"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109145",
+      "doi": "10.1016/j.chb.2026.109145",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109145",
+          "url": "https://doi.org/10.1016/j.chb.2026.109145"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Fatalistic and disengaged: How perceived cross-platform data flow and privacy boundary turbulence are associated with emotional distress",
+      "title_original": "Fatalistic and disengaged: How perceived cross-platform data flow and privacy boundary turbulence are associated with emotional distress",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109145"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/j.chb.2025.108841",
+      "doi": "10.1016/j.chb.2025.108841",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2025.108841",
+          "url": "https://doi.org/10.1016/j.chb.2025.108841"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Expression of concern: Special issue on recent trends and future advances in personalised/adaptive ubiquitous learning",
+      "title_original": "Expression of concern: Special issue on recent trends and future advances in personalised/adaptive ubiquitous learning",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2025.108841"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michail Georgiou",
+        "Ellen Giebels",
+        "Miriam S.D. Oostinga",
+        "Remco Spithoven"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108953",
+      "doi": "10.1016/j.chb.2026.108953",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108953",
+          "url": "https://doi.org/10.1016/j.chb.2026.108953"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Engaging with cybercriminals: phases and influence strategies in ransomware negotiations",
+      "title_original": "Engaging with cybercriminals: phases and influence strategies in ransomware negotiations",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108953"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/s0747-5632(26)00110-x",
+      "doi": "10.1016/s0747-5632(26)00110-x",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0747-5632(26)00110-x",
+          "url": "https://doi.org/10.1016/s0747-5632(26)00110-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Editorial Board",
+      "title_original": "Editorial Board",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0747-5632(26)00110-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zijian Lew",
+        "Jiemin Looi"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108986",
+      "doi": "10.1016/j.chb.2026.108986",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108986",
+          "url": "https://doi.org/10.1016/j.chb.2026.108986"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Disclosing vulnerability on social media: Effects on perceived authenticity and interpersonal attraction",
+      "title_original": "Disclosing vulnerability on social media: Effects on perceived authenticity and interpersonal attraction",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108986"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chenae Christensen-Duerden",
+        "Sarah M. Coyne",
+        "Peter J. Reschke",
+        "Sarah Ashby",
+        "Boston Park",
+        "Ashton K. Allen",
+        "Rachel J. Munk",
+        "Hailey Holmgren"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108979",
+      "doi": "10.1016/j.chb.2026.108979",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108979",
+          "url": "https://doi.org/10.1016/j.chb.2026.108979"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Digital pacifiers: Developmental trajectories of media emotion regulation in early childhood",
+      "title_original": "Digital pacifiers: Developmental trajectories of media emotion regulation in early childhood",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108979"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Darian Harff"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108989",
+      "doi": "10.1016/j.chb.2026.108989",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108989",
+          "url": "https://doi.org/10.1016/j.chb.2026.108989"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Detection and spill-over effects of AI-generated images in political messages: Evidence from two pre-registered experiments",
+      "title_original": "Detection and spill-over effects of AI-generated images in political messages: Evidence from two pre-registered experiments",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108989"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jin Wang",
+        "Chang Liu",
+        "Tumaresi Paerhati",
+        "Zhuo Wang",
+        "Xilei Zhang",
+        "Yu Ku"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109003",
+      "doi": "10.1016/j.chb.2026.109003",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109003",
+          "url": "https://doi.org/10.1016/j.chb.2026.109003"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Corrigendum to “The influence of cyber descriptive norms on immoral online behavior: The moderating role of moral conviction” [Computers in Human Behavior, 181 (2026) 108991]",
+      "title_original": "Corrigendum to “The influence of cyber descriptive norms on immoral online behavior: The moderating role of moral conviction” [Computers in Human Behavior, 181 (2026) 108991]",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109003"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yajing Chen",
+        "Ming Lei",
+        "Zhanyu Liu",
+        "Man Tang",
+        "Jie She"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108967",
+      "doi": "10.1016/j.chb.2026.108967",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108967",
+          "url": "https://doi.org/10.1016/j.chb.2026.108967"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Can AI reflect public opinion? Evidence from replicating Hainmueller and Hopkins’ immigration experiment with LLMs",
+      "title_original": "Can AI reflect public opinion? Evidence from replicating Hainmueller and Hopkins’ immigration experiment with LLMs",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108967"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yaxin Tu",
+        "Changqin Huang",
+        "Chengling Gao",
+        "Yun-Fang Tu",
+        "Yafeng Pan",
+        "Gwo-Jen Hwang"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108998",
+      "doi": "10.1016/j.chb.2026.108998",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108998",
+          "url": "https://doi.org/10.1016/j.chb.2026.108998"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Beyond symptoms: Latent profiles of student burnout and their social-cognitive associations in online learning",
+      "title_original": "Beyond symptoms: Latent profiles of student burnout and their social-cognitive associations in online learning",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108998"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Melanie Hirsch",
+        "Stephanie Bührer",
+        "Kevin Koban",
+        "Jörg Matthes"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.109143",
+      "doi": "10.1016/j.chb.2026.109143",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.109143",
+          "url": "https://doi.org/10.1016/j.chb.2026.109143"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Approval Mechanisms Fueling Digital Hate: Online Incivility and Intolerance Perpetration in Four Countries",
+      "title_original": "Approval Mechanisms Fueling Digital Hate: Online Incivility and Intolerance Perpetration in Four Countries",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.109143"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Silvia Erika Kober",
+        "Simon Streit",
+        "Guilherme Wood"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108984",
+      "doi": "10.1016/j.chb.2026.108984",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108984",
+          "url": "https://doi.org/10.1016/j.chb.2026.108984"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "AI or human? Exploring the effects of user awareness in conversational dynamics with virtual avatars",
+      "title_original": "AI or human? Exploring the effects of user awareness in conversational dynamics with virtual avatars",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108984"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Thao Ha",
+        "Selena I. Quiroz",
+        "Daniel McNeish"
+      ],
+      "canonical_id": "doi:10.1016/j.chb.2026.108981",
+      "doi": "10.1016/j.chb.2026.108981",
+      "issns": [
+        "0747-5632"
+      ],
+      "journal": "Computers in Human Behavior",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chb.2026.108981",
+          "url": "https://doi.org/10.1016/j.chb.2026.108981"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Adolescent sexting in romantic relationships and daily positive and negative affect dynamics: A dyadic intensive longitudinal study",
+      "title_original": "Adolescent sexting in romantic relationships and daily positive and negative affect dynamics: A dyadic intensive longitudinal study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.chb.2026.108981"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 36,
+    "by_article_type": {
+      "journal-article": 36
+    },
+    "by_source": {
+      "crossref": 36
+    },
+    "translated_articles": 0
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "computers-in-human-behavior__2026-08__r01",
+  "edition_key": "computers-in-human-behavior__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "computers-in-human-behavior__2026-08__r01",
+  "retrieved_at": "2026-08-14T01:49:50Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01",
+    "edition_key": "computers-in-human-behavior__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "0747-5632",
+    "journal": "Computers in Human Behavior",
+    "journal_slug": "computers-in-human-behavior",
+    "language": "zh-TW",
+    "max_records": 1000,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "computers-in-human-behavior__2026-08__r01",
+    "revision": 1,
+    "slug": "computers-in-human-behavior",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 36,
+      "detail": null,
+      "query": "container=Computers in Human Behavior; publication=2026-08-01..2026-08-14",
+      "returned_count": 36,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 36,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 36,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "period": "2026-08",
+  "through": "2026-08-14",
+  "journals": [
+    {
+      "slug": "clinical-nutrition",
+      "journal": "Clinical Nutrition",
+      "articles": 34,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 33,
+          "detail": null,
+          "query": "container=Clinical Nutrition; publication=2026-08-01..2026-08-14",
+          "returned_count": 33,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 33,
+          "truncated": false
+        },
+        {
+          "accepted_count": 25,
+          "detail": null,
+          "query": "(\"Clinical Nutrition\"[Journal] OR \"0261-5614\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 25,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 25,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Clinical Nutrition\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ],
+      "edition_json": "probe/clinical-nutrition/EvidenceRadar_Editions__clinical-nutrition__2026-08__r01.json"
+    },
+    {
+      "slug": "computers-in-human-behavior",
+      "journal": "Computers in Human Behavior",
+      "articles": 36,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 36,
+          "detail": null,
+          "query": "container=Computers in Human Behavior; publication=2026-08-01..2026-08-14",
+          "returned_count": 36,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 36,
+          "truncated": false
+        }
+      ],
+      "edition_json": "probe/computers-in-human-behavior/EvidenceRadar_Editions__computers-in-human-behavior__2026-08__r01.json"
+    },
+    {
+      "slug": "journal-of-science-and-medicine-in-sport",
+      "journal": "Journal of Science and Medicine in Sport",
+      "articles": 26,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 26,
+          "detail": null,
+          "query": "container=Journal of Science and Medicine in Sport; publication=2026-08-01..2026-08-14",
+          "returned_count": 26,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 26,
+          "truncated": false
+        },
+        {
+          "accepted_count": 17,
+          "detail": null,
+          "query": "(\"Journal of Science and Medicine in Sport\"[Journal] OR \"1440-2440\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 17,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 17,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Journal of Science and Medicine in Sport\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 1,
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "total_available": 1,
+          "truncated": false
+        }
+      ],
+      "edition_json": "probe/journal-of-science-and-medicine-in-sport/EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r01.json"
+    },
+    {
+      "slug": "neural-networks",
+      "journal": "Neural Networks",
+      "articles": 131,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 131,
+          "detail": null,
+          "query": "container=Neural Networks; publication=2026-08-01..2026-08-14",
+          "returned_count": 131,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 131,
+          "truncated": false
+        }
+      ],
+      "edition_json": "probe/neural-networks/EvidenceRadar_Editions__neural-networks__2026-08__r01.json"
+    },
+    {
+      "slug": "the-lancet",
+      "journal": "The Lancet",
+      "articles": 93,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 95,
+          "detail": null,
+          "query": "container=The Lancet; publication=2026-08-01..2026-08-14",
+          "returned_count": 95,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 95,
+          "truncated": false
+        },
+        {
+          "accepted_count": 59,
+          "detail": null,
+          "query": "(\"The Lancet\"[Journal] OR \"0140-6736\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 59,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 59,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"The Lancet\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ],
+      "edition_json": "probe/the-lancet/EvidenceRadar_Editions__the-lancet__2026-08__r01.json"
+    }
+  ]
+}

@@ -1,0 +1,5492 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "The Lancet"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01593-x",
+      "doi": "10.1016/s0140-6736(26)01593-x",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561964",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01593-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01593-x"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561964",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561964/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Wildfires: a health emergency",
+      "title_original": "Wildfires: a health emergency",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01593-x",
+        "https://pubmed.ncbi.nlm.nih.gov/42561964/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mervyn Singer",
+        "Flavia R Machado",
+        "Andre C Kalil"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01283-3",
+      "doi": "10.1016/s0140-6736(26)01283-3",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561969",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01283-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01283-3"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561969",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561969/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Towards a globally relevant sepsis agenda: the role of HIV – Authors' reply",
+      "title_original": "Towards a globally relevant sepsis agenda: the role of HIV – Authors' reply",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01283-3",
+        "https://pubmed.ncbi.nlm.nih.gov/42561969/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Matthew J Cummings",
+        "Shevin T Jacob",
+        "Barnabas Bakamutumaho"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01064-0",
+      "doi": "10.1016/s0140-6736(26)01064-0",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561970",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01064-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01064-0"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561970",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561970/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Towards a globally relevant sepsis agenda: the role of HIV",
+      "title_original": "Towards a globally relevant sepsis agenda: the role of HIV",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01064-0",
+        "https://pubmed.ncbi.nlm.nih.gov/42561970/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jagat Narula",
+        "Gregory Roth",
+        "Dorairaj Prabhakaran",
+        "Andrea Beaton",
+        "Daniel Piñeiro",
+        "Eduardo Bossone",
+        "Michael Weamer",
+        "Yunshu Wang",
+        "Borjana Pervan",
+        "Kim A Eagle",
+        "Perry Elliott",
+        "Bente Mikkelsen",
+        "George A Mensah",
+        "R Krishna Kumar",
+        "World Heart Federation",
+        "International Cardiomyopathy Network",
+        "Marfan Foundation"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01157-8",
+      "doi": "10.1016/s0140-6736(26)01157-8",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561968",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01157-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01157-8"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561968",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561968/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The Year of Neglected Cardiac Diseases",
+      "title_original": "The Year of Neglected Cardiac Diseases",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01157-8",
+        "https://pubmed.ncbi.nlm.nih.gov/42561968/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Laroussi Mohamed Salem",
+        "Dahaman Bachir Hamadi",
+        "Theodore L Michaels",
+        "Salek Ali Mohamed Elabd",
+        "Raabub Mohamed-Lamin Mehdi",
+        "María Carrión",
+        "Seth M Holmes"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01560-6",
+      "doi": "10.1016/s0140-6736(26)01560-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561966",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01560-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01560-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561966",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561966/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Statelessness: a boy with neck lumps and lethargy in a Sahrawi refugee camp in Algeria",
+      "title_original": "Statelessness: a boy with neck lumps and lethargy in a Sahrawi refugee camp in Algeria",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01560-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42561966/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Aparna Balasubramanian",
+        "Stephen C Mathai"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01556-4",
+      "doi": "10.1016/s0140-6736(26)01556-4",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561965",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01556-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01556-4"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561965",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561965/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Ralinepag in pulmonary arterial hypertension: a step forward",
+      "title_original": "Ralinepag in pulmonary arterial hypertension: a step forward",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01556-4",
+        "https://pubmed.ncbi.nlm.nih.gov/42561965/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carl Llor",
+        "Ramon Monfà",
+        "Rosa Morros",
+        "Ana Moragas"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01324-3",
+      "doi": "10.1016/s0140-6736(26)01324-3",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561972",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01324-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01324-3"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561972",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561972/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Power, dose, and fosfomycin in the SCOUT trial – Authors' reply",
+      "title_original": "Power, dose, and fosfomycin in the SCOUT trial – Authors' reply",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01324-3",
+        "https://pubmed.ncbi.nlm.nih.gov/42561972/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shankar Biswas",
+        "Yashasvi Srivastava",
+        "Victor Abiola Adepoju",
+        "Venkateswarlu Chintagumpala",
+        "Abdulrakib Abdulrahim"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01207-9",
+      "doi": "10.1016/s0140-6736(26)01207-9",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561971",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01207-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01207-9"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561971",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561971/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Power, dose, and fosfomycin in the SCOUT trial",
+      "title_original": "Power, dose, and fosfomycin in the SCOUT trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01207-9",
+        "https://pubmed.ncbi.nlm.nih.gov/42561971/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andrew Green"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01561-8",
+      "doi": "10.1016/s0140-6736(26)01561-8",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561967",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01561-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01561-8"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561967",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561967/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Mohamed Warsame Dualeh",
+      "title_original": "Mohamed Warsame Dualeh",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01561-8",
+        "https://pubmed.ncbi.nlm.nih.gov/42561967/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Simon I Hay",
+        "Catherine Bisignano",
+        "Susan A McLaughlin",
+        "Christopher J L Murray"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00869-x",
+      "doi": "10.1016/s0140-6736(26)00869-x",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561976",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00869-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00869-x"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561976",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561976/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Critical perspectives on GBD 2023 estimates – Authors' reply",
+      "title_original": "Critical perspectives on GBD 2023 estimates – Authors' reply",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00869-x",
+        "https://pubmed.ncbi.nlm.nih.gov/42561976/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pedro C Hallal",
+        "Ding Ding",
+        "Deborah Salvo",
+        "Adrian Bauman"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00045-0",
+      "doi": "10.1016/s0140-6736(26)00045-0",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561975",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00045-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00045-0"
+        },
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00043-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00043-7"
+        },
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00044-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00044-9"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561975",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561975/"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561974",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561974/"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561973",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561973/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Critical perspectives on GBD 2023 estimates",
+      "title_original": "Critical perspectives on GBD 2023 estimates",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00043-7",
+        "https://doi.org/10.1016/s0140-6736(26)00044-9",
+        "https://doi.org/10.1016/s0140-6736(26)00045-0",
+        "https://pubmed.ncbi.nlm.nih.gov/42561973/",
+        "https://pubmed.ncbi.nlm.nih.gov/42561974/",
+        "https://pubmed.ncbi.nlm.nih.gov/42561975/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Niall Boyce"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01077-9",
+      "doi": "10.1016/s0140-6736(26)01077-9",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42276086",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01077-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01077-9"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42276086",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42276086/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "What can psychiatrists expect from the next DSM?",
+      "title_original": "What can psychiatrists expect from the next DSM?",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01077-9",
+        "https://pubmed.ncbi.nlm.nih.gov/42276086/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Paul Adepoju"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01594-1",
+      "doi": "10.1016/s0140-6736(26)01594-1",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01594-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01594-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Uganda ends Ebola outbreak but risk remains",
+      "title_original": "Uganda ends Ebola outbreak but risk remains",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01594-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Peter White",
+        "Timothy R Nicholson",
+        "Jon Stone",
+        "Lisa Feldman Barrett",
+        "Adam Zeman"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01498-4",
+      "doi": "10.1016/s0140-6736(26)01498-4",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42580356",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01498-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01498-4"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580356",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580356/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Towards a joint classification of neurological and psychiatric disorders",
+      "title_original": "Towards a joint classification of neurological and psychiatric disorders",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01498-4",
+        "https://pubmed.ncbi.nlm.nih.gov/42580356/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zengling Ma",
+        "Pau Loke Show",
+        "Min Zhao",
+        "Christian Sonne"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01481-9",
+      "doi": "10.1016/s0140-6736(26)01481-9",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01481-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01481-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Time to apply Arctic dogs to polar One Health surveillance",
+      "title_original": "Time to apply Arctic dogs to polar One Health surveillance",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01481-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tamara Lucas"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01559-x",
+      "doi": "10.1016/s0140-6736(26)01559-x",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01559-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01559-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The sound of the climate crisis",
+      "title_original": "The sound of the climate crisis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01559-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Samukeliso Dube",
+        "Matshidiso Rebecca Moeti",
+        "Monica Geingos",
+        "Dorcas Makgato-Malesu",
+        "Muhammad Ali Pate"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01413-3",
+      "doi": "10.1016/s0140-6736(26)01413-3",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01413-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01413-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The next global health architecture cannot exclude women",
+      "title_original": "The next global health architecture cannot exclude women",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01413-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Till Bärnighausen",
+        "Maris Jesse",
+        "Vania Coelho Wisdom",
+        "Milena Vainieri"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00807-x",
+      "doi": "10.1016/s0140-6736(26)00807-x",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00807-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00807-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The Lancet Commission on the European Health Union: strengthening the union for and through health",
+      "title_original": "The Lancet Commission on the European Health Union: strengthening the union for and through health",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00807-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sophie Cousins"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01646-6",
+      "doi": "10.1016/s0140-6736(26)01646-6",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01646-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01646-6"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The global resurgence of syphilis",
+      "title_original": "The global resurgence of syphilis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01646-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yudai Kaneda"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01590-4",
+      "doi": "10.1016/s0140-6736(26)01590-4",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01590-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01590-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The 2026 Kumamoto earthquake: rescue alone is not enough",
+      "title_original": "The 2026 Kumamoto earthquake: rescue alone is not enough",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01590-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Francesco Cogliati Dezza",
+        "Lydia Barrera Pulido",
+        "Irene Borreguero Borreguero",
+        "Fernando Docobo Pérez",
+        "Virginia Palomo Jiménez",
+        "Sandra de la Rosa Riestra",
+        "José María Bravo-Ferrer",
+        "Zaira Raquel Palacios-Baena",
+        "Miguel Ángel López Zuñiga",
+        "Fernando Cobo",
+        "Joan Gómez-Junyent",
+        "Juan P Horcajada",
+        "Esperanza Merino",
+        "Mónica Parra",
+        "Joaquín López-Contreras",
+        "Alba Rivera",
+        "Dolores Sousa Regueiro",
+        "Martín Pampín Garcia",
+        "Salvador López Cardenas",
+        "María Carmen Gómez Sánchez",
+        "Inés Pérez Camacho",
+        "Sergio Manuel Martín Ramos",
+        "Eva León Jiménez",
+        "Ana Isabel Aller García",
+        "M Teresa Pérez-Rodríguez",
+        "Adrián Sousa",
+        "Maria Siller Ruiz",
+        "Francisco Arnaiz de las Revillas Almajano",
+        "Laura Gisbert Pérez",
+        "Josune Goikoetxea Agirre",
+        "Ángela Cano",
+        "Francisco Javier Martínez-Marcos",
+        "María José García País",
+        "Rosa Escudero Sánchez",
+        "Sofía de la Villa",
+        "José Ramón Yuste Ara",
+        "María Ángeles Esteban-Moreno",
+        "Andrés Ruiz-Sancho",
+        "Marc Pedrosa Aragón",
+        "Jorge Alba Fernández",
+        "Ana María Barrios Blandino",
+        "Helem Haydeé Vilchez-Rueda",
+        "Rocío Álvarez-Marín",
+        "Alberto Romero Palacios",
+        "Elisa García Vázquez",
+        "Enrique Nuño Álvarez",
+        "Clara Rosso-Fernández",
+        "Belén Gutiérrez-Gutiérrez",
+        "Álvaro Pascual",
+        "Lorena López-Cerero",
+        "Jesús Rodríguez-Baño",
+        "Pilar Retamar-Gentil",
+        "Luis Eduardo López-Cortés",
+        "María Macías Barrera",
+        "Aurora Alemán Rodríguez",
+        "Lola Cubero-Aranda",
+        "Blanca Fombuena Rubio",
+        "Vicente Merino Bohórquez",
+        "José Manuel Carretero",
+        "Inés Portillo",
+        "Sergio Sequera-Arquelladas",
+        "Svetlana Sadyrbaeva-Dolgova",
+        "Ramiro Cañaveral Vaccari",
+        "Miguel Ángel López Ruz",
+        "Silvia Castañeda",
+        "Elena Sendra",
+        "Sandra Esteban-Cucó",
+        "Ana Siverio",
+        "Livia Giner",
+        "PIlar González-de-la-Aleja",
+        "Héctor Pinargote",
+        "Juan Carlos Rodríguez",
+        "Álvaro Izquierdo-Cardenas",
+        "Celso Soares Batista",
+        "Virginia Pomar",
+        "Iris Artesero",
+        "Brais Castelo López",
+        "María Rodríguez Mayo",
+        "Alicia Alonso",
+        "Rubén Lobato Cano",
+        "Juan Manuel Sánchez Calvo",
+        "Antonio Jesús Hidalgo Castellón",
+        "Ignacio Márquez Gómez",
+        "Luis Francisco Caballero Martínez",
+        "Carmen Pérez López",
+        "Nicolás Merchante Gutiérrez",
+        "Reinaldo Espíndola Gómez",
+        "Antonio Fernández Pevida",
+        "Franciso José Vasallo",
+        "Antonio Pérez-Landeiro",
+        "Olalla Lima",
+        "M. Carmen Fariñas",
+        "Paula Runza Buznego",
+        "Noelia Ruiz Alonso",
+        "Esther Calbo",
+        "Beatriz Dietl Gómez-Luengo",
+        "Maria Jose Blanco Vidal",
+        "Javier Nieto Arana",
+        "Julián Torre-Cisneros",
+        "Isabel Machuca",
+        "Alicia Hidalgo-Jiménez",
+        "Francisco Franco Álvarez de Luna",
+        "Eva María Romay Lema",
+        "Patricia Capón González",
+        "Ana Verónica Halperin",
+        "Francesca Gioia",
+        "Emilia Cercenado",
+        "Sara Rodríguez",
+        "Amaya C. Oteiza",
+        "Idoia Bilbao",
+        "Waldo Yebra Romera",
+        "Alexandra María Aceituno-Caño",
+        "Natalia Chueca",
+        "David Vinuesa García",
+        "Oriol Gasch Blasi",
+        "Elisa Nuez Zaragoza",
+        "Lara García-Álvarez",
+        "Carla Andrea Alonso Arribas",
+        "Maria Auxiliadora Semiglia Chong",
+        "Marianela Ciudad Sañudo",
+        "María Peñaranda Vera",
+        "Xavier Mulet Aguilo",
+        "Adelina Gimeno-Gascón",
+        "María Paniagua Garcia",
+        "Blanca Anaya Baz",
+        "María Luisa Fernández Ávila",
+        "Genoveva Yagüe",
+        "Aychel Elena Roura Piloto",
+        "María Victoria García López",
+        "Marina Villalobos Hernández"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00760-9",
+      "doi": "10.1016/s0140-6736(26)00760-9",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42425122",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00760-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00760-9"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42425122",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42425122/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Temocillin versus carbapenems for bacteraemia due to third-generation cephalosporin-resistant Enterobacterales in Spain (ASTARTÉ): a multicentre, phase 3, open-label, non-inferiority, randomised clinical trial",
+      "title_original": "Temocillin versus carbapenems for bacteraemia due to third-generation cephalosporin-resistant Enterobacterales in Spain (ASTARTÉ): a multicentre, phase 3, open-label, non-inferiority, randomised clinical trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00760-9",
+        "https://pubmed.ncbi.nlm.nih.gov/42425122/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sean W X Ong",
+        "Nick Daneman"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01334-6",
+      "doi": "10.1016/s0140-6736(26)01334-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42425120",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01334-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01334-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42425120",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42425120/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Temocillin as a carbapenem-sparing option for ESBL bloodstream infection",
+      "title_original": "Temocillin as a carbapenem-sparing option for ESBL bloodstream infection",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01334-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42425120/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Giada Bianchi",
+        "Vaishali Sanchorawala",
+        "Ashutosh Wechalekar",
+        "Martha Grogan",
+        "Sarah A M Cuddy",
+        "Giampaolo Merlini"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00302-8",
+      "doi": "10.1016/s0140-6736(26)00302-8",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42419329",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00302-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00302-8"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42419329",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42419329/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Systemic light chain and transthyretin amyloidosis—treatment advancements and future directions",
+      "title_original": "Systemic light chain and transthyretin amyloidosis—treatment advancements and future directions",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00302-8",
+        "https://pubmed.ncbi.nlm.nih.gov/42419329/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Amy E Colson",
+        "Princy N Kumar",
+        "Peter J Ruane",
+        "Ploenchan Chetchotisakd",
+        "Winai Ratanasuwan",
+        "Afaaf Liberty",
+        "Ronald G Nahass",
+        "Alejandro Arenas-Pinto",
+        "Frank A Post",
+        "David A Baker",
+        "Pedro Cahn",
+        "Eveline Hofmann",
+        "Dai Watanabe",
+        "Po-Liang Lu",
+        "Anna H E Roukens",
+        "Miłosz Parczewski",
+        "Hongyuan Wang",
+        "Ke Chen",
+        "Fadi Shihadeh",
+        "Melissa Shaughnessy",
+        "Hadas Dvory-Sobol",
+        "Devi SenGupta",
+        "Cyril Llamoso",
+        "Martin Rhee",
+        "Onyema Ogbuagu",
+        "Pedro Cahn",
+        "Horacio Beylis",
+        "Florencia Cahn",
+        "Carina Cesar",
+        "Viviana De Lazzari",
+        "Luisina Fernandez",
+        "María Figueroa",
+        "Valeria Fink",
+        "Micaela Franchini",
+        "María Victoria Iannantuono",
+        "Herman Ludvik",
+        "Carolina Perez",
+        "Diego Salusso",
+        "Luciana Spadaccini",
+        "Isabel Lidia Cassetti",
+        "Viviana Bologna",
+        "Jorge Da Bouza",
+        "Mariana Espina Peña",
+        "Maria Laura Samaniego",
+        "Leia Zelarayan",
+        "Marcelo Losso",
+        "Angeles Acevedo",
+        "Bruno Boninsegna",
+        "Mariana Kundro",
+        "Tomas Schverdfinger",
+        "Guillermo Viloria",
+        "David Baker",
+        "Alexia Berkal",
+        "Eimear Byrne",
+        "Heather Farlow",
+        "Charles Geale",
+        "Mark O'Reilly",
+        "Chloe Williamson",
+        "Andrew Carr",
+        "Bronte Jeffrey",
+        "Jonathan Montemayor",
+        "Roman Pillay",
+        "Robyn Richardson",
+        "Jamie Rogers",
+        "Winnie Tong",
+        "Beng Eu",
+        "Verena Doolabh",
+        "Varun Kommidi",
+        "Andrew Lang",
+        "Helen Lau",
+        "Rebecca Overbury",
+        "Sally Price",
+        "Sven Strecker",
+        "Mark O'Reilly",
+        "Jakob Baxter",
+        "Eimear Byrne",
+        "Kathryn King",
+        "Miriam O'Brien",
+        "Matthew Shields",
+        "Michael Wheeler",
+        "Ian Woolley",
+        "Nanw Gwenallt",
+        "Sushena Krishnaswamy",
+        "Jillian Lau",
+        "James McMahon",
+        "Jessica OBryan",
+        "Anna Pierce",
+        "Stephanie Szabo",
+        "Mihiri Weerasuria",
+        "Georg Behrens",
+        "Gerrit Ahrenstorf",
+        "Renata Beider",
+        "Christine Knuth",
+        "Celia Jonsson-Oldenbüttel",
+        "Amelina Burkic",
+        "Karin Morbach",
+        "Sebastian Noe",
+        "Farhad Schabaz",
+        "Carmen Wiese",
+        "Ekkehard Wolf",
+        "Stefan Scholten",
+        "Irene Beckmann",
+        "Thomas Frohn",
+        "Tobias Göke",
+        "Nils Grote",
+        "Julia-Alina Meier",
+        "Andreas Roder",
+        "Stephan Schneeweiss",
+        "Richard Sinzig",
+        "Roger Vogelmann",
+        "Petra Buvari",
+        "Nicolai Härtel",
+        "Manfred Hensel",
+        "Christoph Plöger",
+        "Melanie Zunzunegui Timpanaro",
+        "Hiroyuki Gatanaga",
+        "Kyoko Akiyama",
+        "Naokatsu Ando",
+        "Takahiro Aoki",
+        "Yurie Chujo",
+        "Mone Edasawa",
+        "Tomoko Fujikawa",
+        "Ikumi Genka",
+        "Eri Inoue",
+        "Tsukina Katayama",
+        "Akira Kawashima",
+        "Yoshimi Kikuchi",
+        "Ryo Kuwata",
+        "Emi Matsumoto",
+        "Daisuke Mizushima",
+        "Takato Nakamoto",
+        "Atsumi Saijo",
+        "Katsuji Teruya",
+        "Hitomi Tsukada",
+        "Haruka Uemura",
+        "Yasuaki Yanagawa",
+        "Hirohisa Yazaki",
+        "Hidetoshi Igari",
+        "Ayumi Kase",
+        "Miwa Tada",
+        "Toshibumi Taniguchi",
+        "Chiho Watanabe",
+        "Misuzu Yahaba",
+        "Hiroshi Yoshikawa",
+        "Ei Kinai",
+        "Kagehiro Amano",
+        "Masato Bingo",
+        "Yushi Chikasawa",
+        "Michiko Ebisawa",
+        "Eri Gonda",
+        "Takeshi Hagiwara",
+        "Yuko Harada",
+        "Akito Ichiki",
+        "Sayuri Iwami",
+        "Shun Kaneko",
+        "Erika Kobayashi",
+        "Chisato Kusumi",
+        "Ryui Miyashita",
+        "Takashi Muramatsu",
+        "Kahori Okada",
+        "Yuka Ozaki",
+        "Asako Takeda",
+        "Rino Uchiyama",
+        "Hiromi Yamada",
+        "Tomoko Yamaguchi",
+        "Mihoko Yotsumoto",
+        "Hideta Nakamura",
+        "Mizuho Furuno",
+        "Shuhei Ideguchi",
+        "Mari Nakasone",
+        "Erina Suzaki",
+        "Kozue Taba",
+        "Kumiko Uechi",
+        "Ikuko Yonaha",
+        "Michinori Shirano",
+        "Rinrin Ageishi",
+        "Tomohiro Asaoka",
+        "Risa Fukuoka",
+        "Haruko Hironaka",
+        "Ko Iida",
+        "Ryo Morita",
+        "Misako Murakami",
+        "Hidenori Nakagawa",
+        "Asako Niwa",
+        "Kaori Okada",
+        "Rika Yamano",
+        "Dai Watanabe",
+        "Rie Fukuoka",
+        "Kazuyuki Hirota",
+        "Keiji Konishi",
+        "Takuro Matsumura",
+        "Yuko Nabata",
+        "Yasuharu Nishida",
+        "Yuka Saito",
+        "Asuka Senga",
+        "Takuma Shirasaka",
+        "Tomoko Uehira",
+        "Takashi Ueji",
+        "Erika Uno",
+        "Yoshiyuki Yokomaku",
+        "Chisato Asanuma",
+        "Yuko Hamano",
+        "Mayumi Imahashi",
+        "Ayumi Kogure",
+        "Megumi Ono",
+        "Nobuaki Sasaki",
+        "Anna Roukens",
+        "Hetty Jolink",
+        "Jessica Vlot",
+        "Marc van der Valk",
+        "Lotte Keikes",
+        "Jeannine Nellen",
+        "Annelou van der Veen",
+        "Milosz Parczewski",
+        "Bogusz Aksak-Was",
+        "Aneta Dembowska",
+        "Malwina Karasinska-Cieslak",
+        "Magdalena Leszczyszyn-Pynka",
+        "Magdalena Witak-Jedra",
+        "Bartosz Szetela",
+        "Magdalena Ciszek",
+        "Aleksandra Szymczak",
+        "Aleksander Zinczuk",
+        "Richard Kaplan",
+        "Peter Chodacki",
+        "Francois Cilliers",
+        "Sheetal Kassim",
+        "Noluthando Khiya",
+        "Gakiema Malan",
+        "Keren Middelkoop",
+        "Catherine Orrell",
+        "Tobeka Pamla",
+        "Doerieyah Reynolds",
+        "Tsholofelo Charmaine Setsiba",
+        "Mary Sihlangu",
+        "Vanessa Simkins",
+        "Yashna Singh",
+        "Viwe Soko",
+        "Dorothie Van der Vendt",
+        "Monica Vogt",
+        "Afaaf Liberty",
+        "Haseena Cassim",
+        "Lindiwe Maseko",
+        "Sisinyana Ruth Mathiba",
+        "Hilda Ndiweni",
+        "Maria De Lagarde Sebastián",
+        "Laura Bermejo",
+        "Otilia Bisbal",
+        "Asuncion Hernando Jerez",
+        "Juan Martín",
+        "Juan Martin Torres",
+        "Adriana Pinto Martinez",
+        "Federico Pulido",
+        "David Rial Crestelo",
+        "Rafael Rubio",
+        "Mireia Santacreu Guerrero",
+        "Joan Patricia Echeverria Bermudez",
+        "Susana Benet",
+        "Anna Bonjoch Badia",
+        "Josep Ferrer",
+        "Marcos Marques Sorinas",
+        "Ana Martinez",
+        "Angel Rivero",
+        "Alba San Jose",
+        "Jose Ramon Santos Fernandez",
+        "Juan Gonzalez Garcia",
+        "Maria del Mar Arcos Rueda",
+        "Victor Arribas",
+        "Jose Ignacio Bernardino de la Serna",
+        "Carmen Busca Arenzana",
+        "Juan Miguel Castro",
+        "Alejandro De Gea Grela",
+        "Luz Martin Carbonero",
+        "Rafael Mican Rivera",
+        "Maria Luisa Montes Ramirez",
+        "Luis Ramos",
+        "Luis Fernando Lopez-Cortes",
+        "Nuria Espinosa Aguilera",
+        "Marta Herrero",
+        "Manuel Francisco Liroa Romero",
+        "Silvia Llaves Flores",
+        "Francisco Javier Ortiz Ortega",
+        "Inmaculada Rivas",
+        "Cristina Roca Oporto",
+        "César Sotomayor de la Piedra",
+        "Alexandra Calmy",
+        "Yvan Gosmain",
+        "Olivier Nawej",
+        "Matthias Cavassini",
+        "Emeline Gauthiez",
+        "Dominique Niksch",
+        "Emma Schuller",
+        "Véronique Suttels",
+        "Chama Switalski",
+        "Florian Tagini",
+        "Eveline Hofmann",
+        "Lukas Baumann",
+        "Eugenie Colin-Benoit",
+        "Andrea Frei",
+        "Josina Gürtler",
+        "Manuela Herren",
+        "Daniela Hirter",
+        "Selina Krautter",
+        "Eloise Magnenat",
+        "Ursula Magyar",
+        "Benjamin Messerli",
+        "Gaétan Naudi",
+        "Andri Rauch",
+        "Pia Scherler",
+        "Cornelia Staehelin",
+        "Bernard Surial",
+        "Pascale Szalai",
+        "Theresa Von Sturm",
+        "Gilles Wandeler",
+        "Shu-Hsing Cheng",
+        "Cheng-Pin Chen",
+        "Wei-Lin Chen",
+        "Chien-Yu Cheng",
+        "Ya-han Fan",
+        "Shu-Yuan Li",
+        "Wen-Chao Weng",
+        "Chien-Ching Hung",
+        "Wen-Yu Chen",
+        "Wen-Chun Liu",
+        "Li-Hsin Su",
+        "Yi-Ching Su",
+        "Hsin-Yun Sun",
+        "Po-Liang Lu",
+        "Ya-Ting Chang",
+        "Tun-Chieh Chen",
+        "Yen-Hsu Chen",
+        "Yan-Zhen Hsu",
+        "Chung-Hao Huang",
+        "Chun-Yuan Lee",
+        "Chun-Yu Lin",
+        "Li-Ting Lin",
+        "Shang-Yi Lin",
+        "Chi-Jung Lu",
+        "Hung-Chin Tsai",
+        "Hong-Hong Chen",
+        "Jui-Kuang Chen",
+        "Chih-Chen Chou",
+        "Pei-Yun Chou",
+        "Pei-Hua Hsieh",
+        "Chen Jui-Kuang",
+        "Shin-Jung Lee",
+        "Yen-Ling Lu",
+        "Yu-Ting Tseng",
+        "Ya-Wei Weng",
+        "Kuan-Sheng Wu",
+        "Siou-Rong Wu",
+        "Chia-Jui Yang",
+        "Yu-Ping Cheng",
+        "Ying-Hsuan Chiang",
+        "Shih Chung-Yu",
+        "Jui-Chi Hung",
+        "Hui-Wen Lin",
+        "Mao-Song Tsai",
+        "Liu Yi-Ting",
+        "Anchalee Avihingsanon",
+        "Porntep Amornritvanich",
+        "Thura Kyaw Hein Minn Kyaw",
+        "Napon Hiranburana",
+        "Akarin Hiransuthikul",
+        "Yanisa Jarusyingdumrong",
+        "Hay Mar Su Lwin",
+        "Siwat Thammapiwan",
+        "Chuleeporn Wongvoranet",
+        "Khobchok Woratanarat",
+        "Ploenchan Chetchotisakd",
+        "Duangruethai Kamlek",
+        "Parichart Seawsirikul",
+        "Anchalee Tiyabut",
+        "Weerawat Manosuthi",
+        "Krittaecho Siripassorn",
+        "Lantharita Charoenpong",
+        "Supeda Thongyen",
+        "Phanasa Wongsasiripat",
+        "Nittaya Phanuphak",
+        "Jakkrapatara Boonruang",
+        "Maneepunnarai Jiwjinda",
+        "Piengfah Kamolrath",
+        "Pornpit Khomshuk",
+        "Siriporn Nonenoy",
+        "Siriporn Sittiho",
+        "Sirin Tangcharoensathien",
+        "Nipat Teeratakulpisarn",
+        "Supanat Thitipatarakorn",
+        "Sudarat Thongsuksangcharoen",
+        "Winai Ratanasuwan",
+        "Khuanchai Supparatpinyo",
+        "Nuntisa Chotirosniramit",
+        "Natthapol Kosashunhanan",
+        "Amaraporn Rerkasem",
+        "Patcharaphan Sugandhavesa",
+        "Taweewat Supindham",
+        "Daralak Tavornprasit",
+        "Alejandro Arenas-Pinto",
+        "Maeve Barlow",
+        "Laura Hennelly",
+        "Philip Oddie",
+        "Flora Olcott",
+        "Amanda Clarke",
+        "Lisa Barbour",
+        "Marion Campbell",
+        "Fiona Cresswell",
+        "Alyson Knott",
+        "Stephanie Mulhern",
+        "Kiersten Simmons",
+        "Julie Fox",
+        "Kathy Arbis",
+        "Piyumika Godakandaarachchi",
+        "Louise Terry",
+        "Margaret Johnson",
+        "Thomas Fernandez",
+        "Ana Luiza Pires Da Cunha",
+        "Pedro Simoes",
+        "Katie Spears",
+        "Thomas Swaine",
+        "Abigail Tobin",
+        "Chloe Orkin",
+        "Arnold Abraham",
+        "James Hand",
+        "Kyle Ring",
+        "Jozef Shaw",
+        "Lavanya Umashankar",
+        "Frank Post",
+        "Hannah Cameron",
+        "Lucy Campbell",
+        "Ronald Francisco",
+        "Nivenjit Kaur",
+        "Raye Marinas",
+        "Leigh McQueen",
+        "Nicholas Parkes",
+        "Fizza Qureshi",
+        "Kamvumbi Terrence",
+        "Helmut Albrecht",
+        "Divya Ahuja",
+        "Caroline Derrick",
+        "Nancy Haase",
+        "Laketa Hillman-Daughety",
+        "Monica Lynn",
+        "Alexander Milgrom",
+        "Kamla Sanasi-Bhola",
+        "Ogechika Alozie",
+        "Sonia Arzabala-Santillan",
+        "Cinthia Calleros Flores",
+        "Zoe Castro",
+        "Vanessa Gamboa",
+        "Grecia Heredia",
+        "Christopher Lopez",
+        "Gustavo Marquez",
+        "Alec Pinon",
+        "Andrea Rodriquez",
+        "Andrea Salcedo",
+        "Wenoah Veikley",
+        "Jessica Altamirano",
+        "Remy Bougeois",
+        "Madison Fink",
+        "Jose Ortega",
+        "Alma Toussaint",
+        "Emilio Vega",
+        "Archana Asundi",
+        "Daniel Chen",
+        "Dena Kivett",
+        "Samantha Roche",
+        "Sergio Romero",
+        "Manish Sagar",
+        "Paul Benson",
+        "Mark Bornstein",
+        "Amber Hooper",
+        "Mark Rosen",
+        "Mezgebe Berhe",
+        "Asia Ataghauman",
+        "Sarah Balogun",
+        "Christopher Bettacchi",
+        "Jessica Caldwell",
+        "Clinton Haley",
+        "Bryan King",
+        "Michelle Nwoha",
+        "Jessica Osunde",
+        "Daphney Robinson",
+        "Uriel Sandkovsky",
+        "Indira Brar",
+        "Khaled Almawri",
+        "Dalton Bender",
+        "Elena Groulx",
+        "Smitha Gudipati",
+        "Brianna Hohmann",
+        "Margaret Justusson",
+        "Erika Pastor",
+        "Shannon Payne",
+        "Zina Pinderi",
+        "Jeremiah Rooker",
+        "Nicholas Yared",
+        "Cynthia Brinson",
+        "Pete Camacho Jr.",
+        "Steven Grantham",
+        "Christa Honsowetz",
+        "Alissa Milam",
+        "Steven Paris",
+        "David Wright",
+        "Thomas Campbell",
+        "Joslyn Axinn",
+        "Jennifer Bitzan",
+        "Kristine Erlandson",
+        "Sarah Mann",
+        "Jacqueline Rausch",
+        "Vanessa Sutton",
+        "Jennifer Chang",
+        "William Towner",
+        "Maricela Esqueda",
+        "Christina Flores",
+        "Vikas Jayadeva",
+        "Pham LePhong",
+        "Ya-Chien Lu",
+        "Jessie Masiclat",
+        "Reynalda Meza",
+        "Chinyere Ogugu",
+        "Domonique Osborn",
+        "Paula Pearlman",
+        "Gladiz Ponce",
+        "Amy Porter",
+        "Deborah Ramirez",
+        "Jesus Salina",
+        "Alesya P Sumantri",
+        "Jada Williams",
+        "Mona Zia",
+        "Lakshmi Chauhan",
+        "Cynthia Firnhaber",
+        "Hannah Kostoff",
+        "Alexandra Lee",
+        "Sarah Mann",
+        "Daniel Taylor",
+        "Billie Thomas",
+        "Amy Colson",
+        "Karen McLaughlin",
+        "Paul Cook",
+        "Jennifer Emberger",
+        "Lindsey Smith",
+        "Alexandra Stang",
+        "Catherine Creticos",
+        "Andrew Crone",
+        "Tina Ayilola",
+        "Danai Bemplidaki",
+        "Kathya Chartre",
+        "John Duly",
+        "William Kvasnicka",
+        "Zachary Long",
+        "Dan Rowell",
+        "Gordon Crofoot",
+        "Juston Baze",
+        "John Chapman",
+        "Kendrick Clack",
+        "Daniel Dyer",
+        "Maya Halliburton",
+        "Tatianna Mai",
+        "Derek Smith",
+        "Frederick Cruickshank",
+        "Thomas Dawson-Tripodis",
+        "Tuyana Matthews",
+        "Ashley Scott",
+        "Douglas Cunningham",
+        "Dena Banker",
+        "Sue Turner",
+        "Vincent DeGennaro",
+        "Zachary Henry",
+        "Daniel Brown",
+        "Chiavani Carland",
+        "Benjie Coopersmith",
+        "Polane Pierre",
+        "Emily Ruiz",
+        "Sheetal Sharma",
+        "Jalaya Williams",
+        "Alexandra Dretler",
+        "Milton Boden",
+        "Robin Dretler",
+        "Bhavani Kondamuri",
+        "Katherine Maclure",
+        "Jael Matos",
+        "Annapoorani Subramani",
+        "Anson Wurapa",
+        "Carl Fichtenbaum",
+        "Jenifer Baer",
+        "Makayla Bishop",
+        "Laura Cho",
+        "Jennifer Forrester",
+        "Linda Hinds",
+        "Shaina Horner",
+        "Moises Huaman Joo",
+        "Jaime Robertson",
+        "Michelle Saemann",
+        "Alan Smulian",
+        "Sarah Trentman",
+        "Joel Gallant",
+        "Linda Gorgos",
+        "Sonia Arzabala-Santillan",
+        "Erika Benson",
+        "Zoe Castro",
+        "Vanessa Gamboa",
+        "Sarah Hobongwana",
+        "Wendy Johnson",
+        "Christopher Lopez",
+        "Gustavo Marquez",
+        "Andrea Rodriguez",
+        "Tess Salazar",
+        "Wenoah Veikley",
+        "Cyril Gaultier",
+        "Ashraf Zadshir",
+        "Joseph Dahman",
+        "Lizeth Gutierrez",
+        "Leah Lane",
+        "Angel Marin",
+        "Golkoo Morcos",
+        "Agustin Peraza",
+        "Imelda Rojas",
+        "Patric Schine",
+        "Kim Skeete",
+        "Robert Grossberg",
+        "Uriel Felsen",
+        "Marcela Arizabaleta Ibanez",
+        "Margaret McCort",
+        "Eric Meyerowitz",
+        "Elvis Nelson",
+        "Beendu Pujar",
+        "Alfredo Silvestre",
+        "Julian Torres",
+        "Barry Zingman",
+        "Samir Gupta",
+        "Rory Duplantier",
+        "Karem Gonzalez Gomez",
+        "Danielle Grounds",
+        "Tina Nitsos",
+        "TaCarrea Shaw",
+        "Debbie Hagins",
+        "Mayah Bailey",
+        "Andrea Moon",
+        "Bonzo Reddick",
+        "Sonya Heath",
+        "Kennedie Bass",
+        "Paul Goepfert",
+        "Olivia Hogue",
+        "Heather Logan",
+        "Allison Self",
+        "LaTasha Vereen",
+        "Jennifer Hoffman",
+        "Jeffrey Stephens",
+        "Jeremy Aguinaldo",
+        "Michelle Damron",
+        "Jaime Fleming",
+        "Marnie Hill",
+        "Harold Katner",
+        "Michael Stevens",
+        "Andrew Jameson",
+        "William Boshoven",
+        "Melissa Brown-Culbertson",
+        "Katherine Schwass",
+        "Charles Tomlin",
+        "Lucas Vermaire",
+        "Susana Keeshin",
+        "Sally Bowen",
+        "Zoe Castro",
+        "Malia Iranon",
+        "Kristian Rivera",
+        "Andrea Rodriguez",
+        "Wenoah Veikley",
+        "Princy Kumar",
+        "Gayle Balba",
+        "Ronald Beaulieu",
+        "Matthew Copeland",
+        "Katherine Fan",
+        "Jai Kumar",
+        "Rebecca Kumar",
+        "Danial Mahmood",
+        "Bernardine Mohanraj",
+        "Joseph Timpone",
+        "Jennifer Manne-Goehler",
+        "Jennifer Johnson",
+        "Hannah Jordan",
+        "Cheryl Keenan",
+        "Daniel Kuritzkes",
+        "Paul Sax",
+        "Elizabeth Zhang",
+        "Cynthia Mayer",
+        "Lillie Bruton",
+        "Chrissy La Pointe",
+        "Sean Lefort",
+        "Karen Maroney",
+        "Tori Noris",
+        "Jean Thibault",
+        "Peggy Wallace",
+        "Cheryl McDonald",
+        "Ligta Cooper",
+        "Suzanna Farmer",
+        "Mark Hubert",
+        "Vivek Ramarathnam",
+        "Lakshmi Sambathkumar",
+        "Bryan Youree",
+        "Joseph McGowan",
+        "Jessica Charlton",
+        "Andrew Diaz",
+        "Gerald Field",
+        "Marina Guzman",
+        "Bruce Hirsch",
+        "Steven Hong",
+        "Jessica Rao",
+        "Frances Wallach",
+        "Mehri McKellar",
+        "Gary Cox",
+        "Laura Farrow",
+        "Justin Frye",
+        "Jacqueline Hodges",
+        "Shuqin Li",
+        "Rebecca Mangus",
+        "Nwora Okeke",
+        "Tina Watkins",
+        "Ronald Nahass",
+        "Enam Akasreku",
+        "Oluwole Atoe asokej",
+        "Sabitha Dasoju",
+        "Olga Kaplun",
+        "Rida Khan",
+        "Sharon Kohler",
+        "Eric Liu",
+        "Kathleen Seneca",
+        "Onyema Ogbuagu",
+        "Amit Achhra",
+        "Terese Critch-Gilfillan",
+        "Olayemi Osiyemi",
+        "Christina Campbell",
+        "Natasha Colman",
+        "William Habegger",
+        "Amber Herring",
+        "Jose Menajovsky-Chaves",
+        "Amanda Stroemberg",
+        "Moti Ramgopal",
+        "Brenda Jacobs",
+        "Ian Leeflang",
+        "Carly Sharp",
+        "Charlotte-Paige Rolle",
+        "Edwin DeJesus",
+        "Angela E'akels",
+        "Andrew Fontaine",
+        "Jeffrey Garrett",
+        "Federico Hinestrosa",
+        "Phillip Maxwell",
+        "Stephanie Skipper",
+        "Peter Ruane",
+        "Alejandra Galvan",
+        "Grecia Maldonado",
+        "Matthew Musikanth",
+        "Kenny Trinidad",
+        "Crystal Vargas",
+        "Peter Wolfe",
+        "Rachel Safran",
+        "Hayley Gower",
+        "Jessica Horton",
+        "McKenna Kobalter",
+        "Veronica Navarro",
+        "Lizette Santiago Colon",
+        "Carlos Del Valle",
+        "Tanya Schreibman",
+        "Brittney Dickerson",
+        "Stacy McNeill",
+        "Prerak Shukla",
+        "Lavinia Suciu",
+        "Jennifer Turfano",
+        "Anita Scribner",
+        "Gloria Ambrose",
+        "Christopher Burns",
+        "Shelby Marvin",
+        "Jihad Slim",
+        "Helen Fadoju-Oloyede",
+        "James Fallon",
+        "Amit Gupa",
+        "D'Ajanai Lee",
+        "Nicole McCormick",
+        "Gabe Montgomery",
+        "Jananthan Paramsothy",
+        "Cindy Saroop",
+        "Maria Elaine Szabela",
+        "David Stein",
+        "Olga Diaz",
+        "Julie Hoffman",
+        "Elizabeth Jenny-Avital",
+        "Jason Leider",
+        "Sindy Mora",
+        "Fanny Ita Nagy",
+        "Francisco Reinoso",
+        "Kelli Roe",
+        "David Wheeler",
+        "Yoseph Aldras",
+        "Amma Appiah-Asantewaa",
+        "Walid El-Nahal",
+        "Alexander Ogilvy",
+        "Donald Poretz",
+        "Alise Santos",
+        "Malika Welborn",
+        "Mitchell Whitehead",
+        "Zacarro Flucker",
+        "Brett Frans",
+        "Coby Myers",
+        "Hilary Rojas",
+        "Shelia Wilson",
+        "Lok Yung",
+        "Sorana Segal-Maurer",
+        "Gloria Brovchuk",
+        "Mari Tsovian",
+        "Glenn Turett",
+        "James Yoon",
+        "Carmen Zorrilla",
+        "Jessica Ibarra",
+        "Gloria Martino Gonzalez",
+        "Juana Rivera",
+        "Hiram Santiago"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01442-x",
+      "doi": "10.1016/s0140-6736(26)01442-x",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42586113",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01442-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01442-x"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586113",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586113/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Switch to once-weekly, single-tablet islatravir–lenacapavir from daily standard of care for HIV-1 (ISLEND-2): a multicentre, randomised, open-label, active-controlled, phase 3 non-inferiority trial",
+      "title_original": "Switch to once-weekly, single-tablet islatravir–lenacapavir from daily standard of care for HIV-1 (ISLEND-2): a multicentre, randomised, open-label, active-controlled, phase 3 non-inferiority trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01442-x",
+        "https://pubmed.ncbi.nlm.nih.gov/42586113/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "The Lancet"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01644-2",
+      "doi": "10.1016/s0140-6736(26)01644-2",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01644-2",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01644-2"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Skin diseases: beyond the visible",
+      "title_original": "Skin diseases: beyond the visible",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01644-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ivan Koychev",
+        "Rury R Holman"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01647-8",
+      "doi": "10.1016/s0140-6736(26)01647-8",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01647-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01647-8"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Semaglutide treatment fails but might prevent Alzheimer's disease",
+      "title_original": "Semaglutide treatment fails but might prevent Alzheimer's disease",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01647-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Augusto Vaglio",
+        "Francesco Peyronel",
+        "Ingeborg M Bajema",
+        "Francesco Pegoraro"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00037-1",
+      "doi": "10.1016/s0140-6736(26)00037-1",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00037-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00037-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Retroperitoneal fibrosis",
+      "title_original": "Retroperitoneal fibrosis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00037-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Claudia Allemani",
+        "Veronica Di Carlo",
+        "Naomi Ssenyonga",
+        "Nelson E Arias-Ortiz",
+        "Michel P Coleman"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01284-5",
+      "doi": "10.1016/s0140-6736(26)01284-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532060",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01284-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01284-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532060",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532060/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Representativeness of the Cancer Survival Index in Colombia – Authors' reply",
+      "title_original": "Representativeness of the Cancer Survival Index in Colombia – Authors' reply",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01284-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42532060/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Oscar Ramirez",
+        "Monica L Quijano-Lievano",
+        "Michael Lauzardo",
+        "Luis E Bravo",
+        "Paula Aristizabal",
+        "VIGICANCER Working Group"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01063-9",
+      "doi": "10.1016/s0140-6736(26)01063-9",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532058",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01063-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01063-9"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532058",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532058/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Representativeness of the Cancer Survival Index in Colombia",
+      "title_original": "Representativeness of the Cancer Survival Index in Colombia",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01063-9",
+        "https://pubmed.ncbi.nlm.nih.gov/42532058/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rana R McKay"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01246-8",
+      "doi": "10.1016/s0140-6736(26)01246-8",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42586112",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01246-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01246-8"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586112",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586112/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Redefining therapy for previously treated renal cell carcinoma",
+      "title_original": "Redefining therapy for previously treated renal cell carcinoma",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01246-8",
+        "https://pubmed.ncbi.nlm.nih.gov/42586112/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lauren R Schaff",
+        "Michael Scordo",
+        "Christian Grommes"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00973-6",
+      "doi": "10.1016/s0140-6736(26)00973-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42486132",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00973-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00973-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42486132",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42486132/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Redefining consolidation in primary CNS lymphoma: autologous stem-cell transplantation as the standard",
+      "title_original": "Redefining consolidation in primary CNS lymphoma: autologous stem-cell transplantation as the standard",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00973-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42486132/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vallerie V McLaughlin",
+        "Derek Solum",
+        "Daniel Lachant",
+        "Ali Ataya",
+        "Joan A Barberà",
+        "Gisela Bohns Meyer",
+        "Sung-A Chang",
+        "Richard Channick",
+        "Colin Church",
+        "John Feenstra",
+        "Sean Gaine",
+        "George Giannakoulas",
+        "Carlos Jerjes-Sanchez",
+        "Dinesh Khanna",
+        "Nick H Kim",
+        "Ronald Oudiz",
+        "Ioana R Preston",
+        "Namita Sood",
+        "Fernando Torres",
+        "Jean-Luc Vachiery",
+        "Tomás Pulido",
+        "Dana Cella",
+        "Chunqin Deng",
+        "Miluska Escudero",
+        "Victoria Lacasse",
+        "Leigh Peterson",
+        "Raymond Benza",
+        "Marc Humbert",
+        "ADVANCE OUTCOMES Investigators"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01011-1",
+      "doi": "10.1016/s0140-6736(26)01011-1",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42520828",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01011-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01011-1"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42520828",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42520828/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Ralinepag for the treatment of pulmonary arterial hypertension (ADVANCE OUTCOMES): a randomised, double-blind, placebo-controlled phase 3 study",
+      "title_original": "Ralinepag for the treatment of pulmonary arterial hypertension (ADVANCE OUTCOMES): a randomised, double-blind, placebo-controlled phase 3 study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01011-1",
+        "https://pubmed.ncbi.nlm.nih.gov/42520828/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Charles D Scales",
+        "Alana C Desai",
+        "Peter P Reese",
+        "John C Lieske",
+        "Gregory E Tasian"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01282-1",
+      "doi": "10.1016/s0140-6736(26)01282-1",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532062",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01282-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01282-1"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532062",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532062/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "PUSH trial limits: why fluids still matter – Authors' reply",
+      "title_original": "PUSH trial limits: why fluids still matter – Authors' reply",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01282-1",
+        "https://pubmed.ncbi.nlm.nih.gov/42532062/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alba Martina Renzullo",
+        "Simone Benvenuto"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01030-5",
+      "doi": "10.1016/s0140-6736(26)01030-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532063",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01030-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01030-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532063",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532063/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "PUSH trial limits: why fluids still matter",
+      "title_original": "PUSH trial limits: why fluids still matter",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01030-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42532063/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wim De Ceukelaire"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01505-9",
+      "doi": "10.1016/s0140-6736(26)01505-9",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01505-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01505-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Poor response from the Israeli Medical Association",
+      "title_original": "Poor response from the Israeli Medical Association",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01505-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Joacim Rocklöv",
+        "Sarah Dunlop",
+        "Thomas C Chiles",
+        "Lizzie Fuller",
+        "Roland Geyer",
+        "Mary Margaret Johnson",
+        "Rachel Karasik",
+        "Jane Muncke",
+        "Herve Raps",
+        "Cassandra Rauert",
+        "Megan G Rhodes",
+        "Margaret Spring",
+        "John Stegeman",
+        "Christos Symeonides",
+        "Kevin V Thomas",
+        "Marina Treskova",
+        "Costas A Velis",
+        "Martin Wagner",
+        "Philip J Landrigan"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00647-1",
+      "doi": "10.1016/s0140-6736(26)00647-1",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42001895",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00647-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00647-1"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42001895",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42001895/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Plastics, plastic chemicals, and microplastics: multiple harms to health",
+      "title_original": "Plastics, plastic chemicals, and microplastics: multiple harms to health",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00647-1",
+        "https://pubmed.ncbi.nlm.nih.gov/42001895/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "David J Thomson",
+        "James M Price",
+        "Matthew Tyler",
+        "Emma Hall"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01182-7",
+      "doi": "10.1016/s0140-6736(26)01182-7",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532061",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01182-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01182-7"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532061",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532061/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Perspective on proton beam therapy for oropharyngeal cancer – Authors' reply",
+      "title_original": "Perspective on proton beam therapy for oropharyngeal cancer – Authors' reply",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01182-7",
+        "https://pubmed.ncbi.nlm.nih.gov/42532061/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pietro De Luca",
+        "Francesco Bussu",
+        "Angelo Camaioni"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01070-6",
+      "doi": "10.1016/s0140-6736(26)01070-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532059",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01070-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01070-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532059",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532059/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Perspective on proton beam therapy for oropharyngeal cancer",
+      "title_original": "Perspective on proton beam therapy for oropharyngeal cancer",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01070-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42532059/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Donna Wakefield"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01197-9",
+      "doi": "10.1016/s0140-6736(26)01197-9",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532055",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01197-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01197-9"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532055",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532055/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Pandora's box: why context is key in inequalities research",
+      "title_original": "Pandora's box: why context is key in inequalities research",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01197-9",
+        "https://pubmed.ncbi.nlm.nih.gov/42532055/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Heidi J Larson"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01603-x",
+      "doi": "10.1016/s0140-6736(26)01603-x",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01603-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01603-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Pandemic emotions",
+      "title_original": "Pandemic emotions",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01603-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zulfiqar A Bhutta",
+        "Fawad Akbari",
+        "Shabina Raza",
+        "Suraya Dalil"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01189-x",
+      "doi": "10.1016/s0140-6736(26)01189-x",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01189-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01189-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Pakistan and Afghanistan: a call for health diplomacy and restraint",
+      "title_original": "Pakistan and Afghanistan: a call for health diplomacy and restraint",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01189-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Julia A Bielicki",
+        "Michelle Clements",
+        "Victor Musiime",
+        "David P Moore",
+        "Muhammad Sidat",
+        "Veronica Mulenga",
+        "Constantine Mutata",
+        "Damalie Nalwanga",
+        "Zainab Waggie",
+        "Josina Chilundo",
+        "Chishala Chabala",
+        "Mutsawashe Bwakura-Dangarembizi",
+        "Moherndran Archary",
+        "Andrew Kiggwe",
+        "Ziyaad Dangor",
+        "Ben Spittle",
+        "Monica Kapasa",
+        "Abner Tagoola",
+        "Charity Jeki",
+        "Jahit Sacarlal",
+        "W Chris Buck",
+        "Shula Chanda",
+        "Hilda A Mujuru",
+        "Carlo Giaquinto",
+        "Shabir A Madhi",
+        "A Sarah Walker",
+        "Mike Sharland",
+        "Cláudia Massitela",
+        "Winete Joaquim",
+        "Alice Maieca",
+        "Uneisse Cassia",
+        "Quim Adriano",
+        "Elias Manjate",
+        "Sonia Martins",
+        "Nádia Manjate",
+        "Mara Bombe",
+        "Eleutéria Macanze",
+        "Sheila Nhacumba",
+        "Faiaz Issa",
+        "Natércia Florindo",
+        "Ana Sigaúque",
+        "Rosalina Chilengue",
+        "Nigel Klein",
+        "Leatitia Kampiire",
+        "Anne Derache",
+        "Samkelisiwe Buthelezi",
+        "Senamile Makari",
+        "Sandisiwe Nkosi",
+        "Sihle Zindela",
+        "Nomhle Nkumana",
+        "Ntombi Khumalo",
+        "Lethabo Nkosi",
+        "Tshepiso Msibi",
+        "Brandon Jones",
+        "Lora Frank",
+        "Monica Kapasa",
+        "Gae Mundundu",
+        "Patricia Ngoma",
+        "Jacqueline H. Kaira",
+        "Oliver Mwenechanya",
+        "Anne Chimolula",
+        "Bwalya Simunyola",
+        "Martha Sakala",
+        "Joyce C. Lungu",
+        "Chimuka Kwale",
+        "Dorothy Zangata",
+        "Naomi Mumba",
+        "Jacqueline Mulako",
+        "Mundimba Makwamba",
+        "Frederick Chansa",
+        "Carolyn Zulu",
+        "Kusum J. Nathoo",
+        "Ennie Chidziva",
+        "Shepherd Mudzingwa",
+        "Misheck Phiri",
+        "Ruth Nhema",
+        "Godfrey Musoro",
+        "Vivian Mumbiro",
+        "Moses Chitsamatanga",
+        "Joy Chimhanzi",
+        "Shirley Mutsai",
+        "Dorcas Murungu",
+        "Wendy Mapfumo",
+        "Musakanya Ching'andu",
+        "Francesca Viero",
+        "Susan Cleary",
+        "Lucy Cunnama",
+        "Mutsawashe Chitando",
+        "Paolo Denti",
+        "Roeland Wasmann",
+        "Manna Semere Gebreyesus",
+        "Jennie van Dyk",
+        "Günther Fink",
+        "Gillian Levine",
+        "Sally Ellis",
+        "Kamla Pillay",
+        "Louise Hill",
+        "Tatiana Munera-Huertas",
+        "Jan Goelen",
+        "Clare Shakeshaft",
+        "Farjana Haque",
+        "Hanh Nguyen",
+        "Emily Dennis",
+        "Tatiana Sarfati",
+        "Brendan Murphy",
+        "Kolpona Begum",
+        "Nishdha Naufal",
+        "Hannah Sweeney",
+        "Jemima Shickle",
+        "Fatima Mohamed",
+        "Lee Barker",
+        "Marion Hall",
+        "Mallory Williams",
+        "Charlotte Hartley",
+        "Annabelle South",
+        "Elizabeth Molyneux",
+        "Elizabeth Obimbo",
+        "Shamim Qazi",
+        "Somwe Wa Somwe",
+        "Robin Green",
+        "Mainga Hamaluba",
+        "Tim Peto",
+        "Andrew Prendergast",
+        "Haroon Saloojee",
+        "Margaret Siwale",
+        "Felicity Fitzgerald",
+        "Christina Obiero",
+        "Anna Turkova"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00879-2",
+      "doi": "10.1016/s0140-6736(26)00879-2",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42492562",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00879-2",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00879-2"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42492562",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42492562/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Oral step-down, optimal drug, and total duration of antibiotic treatment in African children hospitalised with severe community-acquired pneumonia (PediCAP): a factorial randomised controlled trial",
+      "title_original": "Oral step-down, optimal drug, and total duration of antibiotic treatment in African children hospitalised with severe community-acquired pneumonia (PediCAP): a factorial randomised controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00879-2",
+        "https://pubmed.ncbi.nlm.nih.gov/42492562/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Viktoria Eleftheriadou"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01027-5",
+      "doi": "10.1016/s0140-6736(26)01027-5",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01027-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01027-5"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Oral JAK inhibitors for vitiligo: a new era of innovation",
+      "title_original": "Oral JAK inhibitors for vitiligo: a new era of innovation",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01027-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hazim Abu Sondos"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01415-7",
+      "doi": "10.1016/s0140-6736(26)01415-7",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42537679",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01415-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01415-7"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42537679",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42537679/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Oncology and emergency care collapse in the West Bank",
+      "title_original": "Oncology and emergency care collapse in the West Bank",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01415-7",
+        "https://pubmed.ncbi.nlm.nih.gov/42537679/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "María del Mar Arcos",
+        "José R Arribas"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01557-6",
+      "doi": "10.1016/s0140-6736(26)01557-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42586111",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01557-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01557-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586111",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586111/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Once-weekly oral antiretroviral therapy for HIV",
+      "title_original": "Once-weekly oral antiretroviral therapy for HIV",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01557-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42586111/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jacqui Thornton"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01604-1",
+      "doi": "10.1016/s0140-6736(26)01604-1",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01604-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01604-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Naseem Salahuddin",
+      "title_original": "Naseem Salahuddin",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01604-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lucia Crivelli",
+        "Claudia Kimie Suemoto",
+        "Ana Luisa Sosa",
+        "Francisco Lopera",
+        "David Aguillón",
+        "Ricardo Francisco Allegri",
+        "Ricardo Nitrini",
+        "Ismael Luis Calandri",
+        "Lina Velilla-Jiménez",
+        "Mônica Sanches Yassuda",
+        "Natalia Acosta-Baena",
+        "Rosa María Salinas",
+        "Ana Charamelo",
+        "Carolina Delgado Derio",
+        "Daisy Miguelina Acosta",
+        "Jorge Mario León-Salas",
+        "Lissette Duque-Peñailillo",
+        "María Isabel Cusicanqui",
+        "Nilton Custodio",
+        "Adriana Anchia-Alfaro",
+        "Alberto Núñez-Herrera",
+        "Alejandra De Rubens",
+        "Alice Leites",
+        "Ana Vigil-Martínez",
+        "Andrés Damian",
+        "Beatriz María Flores-Blanco",
+        "Belén Custodio",
+        "Carlos Laforcada",
+        "Carlos Márquez",
+        "Clarisse Vasconcelos Friedlaender",
+        "Clara Gabriela Espinoza-Cruz",
+        "Cristina Cañadas",
+        "Cristiane Peixoto",
+        "Darina Helen Muñoz",
+        "Diego Fernández Slezak",
+        "Elainy Felix",
+        "Esteban Aguirre-Salvador",
+        "Ezequiel Ignacio Surace",
+        "Francesca Mariani",
+        "Gabriela Rojas De La Torre",
+        "Graciet Verástegui",
+        "Greta Keller",
+        "Gustavo Henrique Peixoto",
+        "Handel Arturo Morilla",
+        "Ivonne Z Jiménez-Velázquez",
+        "Jamileth Yasmín More",
+        "Javiera Francisca Rodríguez",
+        "Jéssica Abdo Gonçalves Tosatti",
+        "João Victor de Faria Rocha",
+        "Jonathan Saldarriaga-Hernández",
+        "José Carlos Huilca",
+        "José Tomás García-Molina",
+        "Joyce Graciela Martínez-Galindo",
+        "Juan Carlos Duran",
+        "Juana Guillermina Rodriguez",
+        "Karina Braga Gomes",
+        "Karolina Gouveia César-Freitas",
+        "Katherine Agüero",
+        "Lara Mora-Villalobos",
+        "Laura Osorio Asprilla",
+        "Leonardo Cruz de Souza",
+        "Ligia Soto",
+        "Lucia Cortabarría",
+        "Lucy Baldeón",
+        "Luzia Lima Carreira",
+        "Lizeth Marin-Buitrago",
+        "Maira Camila Moreno",
+        "Maira Tonidandel Barbosa",
+        "Maren Torheim",
+        "Maria Aquimara Zambone Magalhães",
+        "Maria da Graça Morais Martin",
+        "Maria Eugenia Martin",
+        "Melissa Francisca Torres",
+        "Mercedes Menéndez",
+        "Micaela Anahi Hernandez",
+        "Mónica Sánchez Granizo",
+        "Myriam Gutiérrez",
+        "Nicolás Corvalán",
+        "Paula Jimena Mora",
+        "Pedro Peguero",
+        "Rocío Ramírez-Santos",
+        "Rodrigo Sebastian Fernández",
+        "Rosa Montesinos",
+        "Sebastian Ospina-Henao",
+        "Silvia Ysabel Montes",
+        "Sofía Santero",
+        "Sonia Maria Dozzi Brucki",
+        "Sylvia Josephy-Hernandez",
+        "Tomas Casildo Vazquez",
+        "Yanina Bérgamo",
+        "Yamile Bocanegra",
+        "Yleana Altagracia Muñoz",
+        "Yosselin Vicuña",
+        "Zoraida Del Carmen Lora",
+        "Miia Kivipelto",
+        "Rema Raman",
+        "Mark A Espeland",
+        "Laura D Baker",
+        "Heather M Snyder",
+        "Gustavo Emilio Sevlever",
+        "María C Carrillo",
+        "Paulo Caramelli",
+        "Agostina Carello",
+        "Carolina Ardohain Cristalli",
+        "Daniel Avendaño",
+        "Diego Querze",
+        "Emiliana Seminara",
+        "Julieta Tortonesi",
+        "Loana De los Santos",
+        "María Bellucci",
+        "Matias Alet",
+        "Micaela Arruabarrena",
+        "Romina Maur",
+        "Sofía Elgani",
+        "Vanina Banjsak",
+        "Victoria Massazza",
+        "Celeny Velarde",
+        "Deby Mallo",
+        "Griselda Gamboa",
+        "Mariana Rengel",
+        "Sergio Silva",
+        "Adalberto Studart-Neto",
+        "Ana Luísa de Meneses",
+        "Andreia de Andrade Dias",
+        "André Lopes",
+        "Bruno Rodrigues",
+        "Dalila Lima",
+        "Davi Cardoso",
+        "Eduardo Rios",
+        "Eduardo Trés",
+        "Fabiana Tameirão",
+        "Flavia Machado",
+        "Isabella Avolio",
+        "Jerusa Smid",
+        "Jéssica Pereira",
+        "Laís Figueiredo",
+        "Leonel Takada",
+        "Letícia da Silva",
+        "Letícia de Souza",
+        "Marcelo Prates",
+        "Pedro Bandeira Mendonça",
+        "Sérgio Jardim",
+        "Silvia Merlin",
+        "Valquíria Barbara",
+        "Vinícius Jeunon",
+        "Vitória Vieira",
+        "Alexandra Zepeda",
+        "Jacinta Bravo",
+        "Jose Lema",
+        "Maria Urrutia",
+        "Natalia Pozo",
+        "Oriana Lara",
+        "Rodrigo Gomez",
+        "Rodrigo Vergara",
+        "Claudia Guzman",
+        "Claudia Muñoz",
+        "Cristian Morales",
+        "Eliana Henao",
+        "Francisco Piedrahita",
+        "Gloria Deossa R",
+        "Gloria Garcia",
+        "Juan Felipe Quintero",
+        "Laura Serna",
+        "Manuela Arcila",
+        "Santiago Montaña",
+        "Victoria Tirado",
+        "Vladimir Zapata",
+        "Alessandro Solis-Perez",
+        "Diego Quesada-Loría",
+        "Esteban Zavaleta-Monestel",
+        "Luis Ortega-Araya",
+        "Paula Chinchilla-Fonseca",
+        "Sebastian Arguedas-Chacon",
+        "Vivian Chaves-Quirós",
+        "Claudia Acra-Despradel",
+        "Peter Stoeter",
+        "Rosanny Roman",
+        "Rossil Rodriguez",
+        "Tatiana Gonzales",
+        "Yohenny Castillo",
+        "Adriana Rueda",
+        "Alberto Nuñez - Duque",
+        "Gladys Bautista",
+        "Natalia Andrade",
+        "Victoria Ruiz",
+        "Ana Isidro-Pérez",
+        "Isabel Galindo Molina",
+        "Alexanderson Fernández",
+        "Fiorela López",
+        "Isabel Loyola",
+        "Maria Fe Albujar",
+        "Milagros Núñez",
+        "Pamela Bartolo",
+        "Rossanna Cruz del Castillo",
+        "Zadith Yauri",
+        "Alejandra Amestoy",
+        "Fabian Preciozzi",
+        "Florencia Arredondo",
+        "Juan Andres Abin-Carriquiry",
+        "Laura Bocos",
+        "Laura Reyes",
+        "Laura Uriarte",
+        "Leandro Dansilio",
+        "Lucia Fernandez",
+        "Margarita García-Fontes",
+        "Ramon Suarez",
+        "Roberto Superchi",
+        "Rodolfo Ferrando",
+        "Sergio Dansilio",
+        "Valeria Contreras"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01278-x",
+      "doi": "10.1016/s0140-6736(26)01278-x",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42442374",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01278-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01278-x"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42442374",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42442374/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Multidomain lifestyle intervention for the prevention of cognitive decline in at-risk older adults in Latin America (LatAm-FINGERS): a single-blind, multicentre, randomised controlled trial",
+      "title_original": "Multidomain lifestyle intervention for the prevention of cognitive decline in at-risk older adults in Latin America (LatAm-FINGERS): a single-blind, multicentre, randomised controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01278-x",
+        "https://pubmed.ncbi.nlm.nih.gov/42442374/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Muniba Khan",
+        "Siyana Mahroof-Shaffi",
+        "Emma Wiley",
+        "Sadia Mohiud-Din"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01414-5",
+      "doi": "10.1016/s0140-6736(26)01414-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42508444",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01414-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01414-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42508444",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42508444/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Medical emergency: urgent medical care for Dr Hussam Abu Safiya",
+      "title_original": "Medical emergency: urgent medical care for Dr Hussam Abu Safiya",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01414-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42508444/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Francesco Peyronel",
+        "Francesco Pegoraro",
+        "Augusto Vaglio"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00864-0",
+      "doi": "10.1016/s0140-6736(26)00864-0",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00864-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00864-0"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Massive bilateral perirenal infiltration in Erdheim-Chester disease",
+      "title_original": "Massive bilateral perirenal infiltration in Erdheim-Chester disease",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00864-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tanya L Zakrison",
+        "Carles Muntaner"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01286-9",
+      "doi": "10.1016/s0140-6736(26)01286-9",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01286-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01286-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Manufactured ruin: what the World Report on Cuba left unsaid",
+      "title_original": "Manufactured ruin: what the World Report on Cuba left unsaid",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01286-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "The Lancet"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01548-5",
+      "doi": "10.1016/s0140-6736(26)01548-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532054",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01548-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01548-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532054",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532054/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Learning from a decade of progress in amyloidosis",
+      "title_original": "Learning from a decade of progress in amyloidosis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01548-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42532054/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Md Sabbir Hossain"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01477-7",
+      "doi": "10.1016/s0140-6736(26)01477-7",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532082",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01477-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01477-7"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532082",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532082/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "July 2026 floods in Chattogram, Bangladesh: an escalating emergency",
+      "title_original": "July 2026 floods in Chattogram, Bangladesh: an escalating emergency",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01477-7",
+        "https://pubmed.ncbi.nlm.nih.gov/42532082/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Suerie Moon",
+        "Sinhye Ha",
+        "Jerome Kim",
+        "Soonman Kwon",
+        "Hoon-Sang Lee",
+        "Sue Park",
+        "Minah Kang"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01153-0",
+      "doi": "10.1016/s0140-6736(26)01153-0",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42330994",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01153-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01153-0"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42330994",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42330994/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "How middle powers can strengthen global health governance: the case of South Korea",
+      "title_original": "How middle powers can strengthen global health governance: the case of South Korea",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01153-0",
+        "https://pubmed.ncbi.nlm.nih.gov/42330994/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jason C Gallagher"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01289-4",
+      "doi": "10.1016/s0140-6736(26)01289-4",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42492561",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01289-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01289-4"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42492561",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42492561/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "How long must we treat? A question as old as penicillin",
+      "title_original": "How long must we treat? A question as old as penicillin",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01289-4",
+        "https://pubmed.ncbi.nlm.nih.gov/42492561/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Solja T Nyberg",
+        "Philipp Frank",
+        "Mika Kivimäki"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01133-5",
+      "doi": "10.1016/s0140-6736(26)01133-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532065",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01133-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01133-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532065",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532065/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "How definitions shape obesity-attributable death estimates – Authors' reply",
+      "title_original": "How definitions shape obesity-attributable death estimates – Authors' reply",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01133-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42532065/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ayoub Boulares",
+        "Nicola Luigi Bragazzi"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01029-9",
+      "doi": "10.1016/s0140-6736(26)01029-9",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532064",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01029-9",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01029-9"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532064",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532064/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "How definitions shape obesity-attributable death estimates",
+      "title_original": "How definitions shape obesity-attributable death estimates",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01029-9",
+        "https://pubmed.ncbi.nlm.nih.gov/42532064/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gilbert Nakweya"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01595-3",
+      "doi": "10.1016/s0140-6736(26)01595-3",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01595-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01595-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "HIV care suffers under Senegal anti-gay law",
+      "title_original": "HIV care suffers under Senegal anti-gay law",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01595-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gerald Illerhaus",
+        "Andrés J M Ferreri",
+        "Julia Wendler",
+        "Mascha Binder",
+        "Peter Borchmann",
+        "Justin Hasenkamp",
+        "Stephan Stilgenbauer",
+        "Alexander Röth",
+        "Gerlinde Egerer",
+        "Thomas Ernst",
+        "Thomas Weber",
+        "Bernd Hertenstein",
+        "Georg Lenz",
+        "Martin Dreyling",
+        "Robert Möhle",
+        "Guido Kobbe",
+        "Christian A Schmidt",
+        "Uta Brunnberg",
+        "Jens Panse",
+        "Michael Kneba",
+        "Thomas Heinicke",
+        "Sebastian Schroll",
+        "Thomas S Larsen",
+        "Lorenz Thurner",
+        "Tobias Pukrop",
+        "Hans Salwender",
+        "Ralph Naumann",
+        "Georg Hess",
+        "Frank P Kroschinsky",
+        "Anne K Blystad",
+        "Ulrich Keller",
+        "Elisa J Pulczynski",
+        "Martin Bjerregård Pedersen",
+        "Francesca Re",
+        "Lorella Orsucci",
+        "Lisa Pospiech",
+        "Paul La Rosée",
+        "Martina Deckert",
+        "Maurilio Ponzoni",
+        "Dennis Gmehlin",
+        "Matthias Backenstrass",
+        "Antje Jensch",
+        "Elke Valk",
+        "Teresa Calimeri",
+        "Benjamin Kasenda",
+        "Martin Trepel",
+        "Heidi Fricker",
+        "Inna Semenova",
+        "Florian Scherer",
+        "Philipp von Gottberg",
+        "Elvira Burger",
+        "Olga Grishina",
+        "Claudia Hader",
+        "Gabriele Ihorst",
+        "Jürgen Finke",
+        "Emanuele Zucca",
+        "Elisabeth Schorb"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00917-7",
+      "doi": "10.1016/s0140-6736(26)00917-7",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42486133",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00917-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00917-7"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42486133",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42486133/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "High-dose chemotherapy followed by autologous stem-cell transplantation versus non-myeloablative consolidation in primary CNS lymphoma (MATRix/IELSG43): a randomised phase 3 trial",
+      "title_original": "High-dose chemotherapy followed by autologous stem-cell transplantation versus non-myeloablative consolidation in primary CNS lymphoma (MATRix/IELSG43): a randomised phase 3 trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00917-7",
+        "https://pubmed.ncbi.nlm.nih.gov/42486133/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Noele P Nelson",
+        "John W Ward"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00510-6",
+      "doi": "10.1016/s0140-6736(26)00510-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42034117",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00510-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00510-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42034117",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42034117/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Hepatitis A prevention in the USA depends on routine universal childhood vaccination",
+      "title_original": "Hepatitis A prevention in the USA depends on routine universal childhood vaccination",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00510-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42034117/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hedva Eyal",
+        "Zvika Orr",
+        "Zohar Lederman",
+        "Ohad Bitan",
+        "Seth M Holmes"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01502-3",
+      "doi": "10.1016/s0140-6736(26)01502-3",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01502-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01502-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Health care under fire: the need for medical leadership",
+      "title_original": "Health care under fire: the need for medical leadership",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01502-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carol Ann Schwartz",
+        "Yoram Weiss"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01504-7",
+      "doi": "10.1016/s0140-6736(26)01504-7",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01504-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01504-7"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Hate has no place in medicine",
+      "title_original": "Hate has no place in medicine",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01504-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Patricia J Garcia",
+        "Fernando Ariel Garcia-Terron",
+        "Juliette Morgan",
+        "Ana B Amaya",
+        "Diana García Gonzalez",
+        "Jacob N Batycki",
+        "Adolfo Rubinstein",
+        "Ximena Garzón-Villalba",
+        "Jorge Ramirez Diaz",
+        "Jorge Saavedra"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01188-8",
+      "doi": "10.1016/s0140-6736(26)01188-8",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42314728",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01188-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01188-8"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42314728",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42314728/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Hantavirus: the need for a rapid regional response platform in Latin America",
+      "title_original": "Hantavirus: the need for a rapid regional response platform in Latin America",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01188-8",
+        "https://pubmed.ncbi.nlm.nih.gov/42314728/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Matthew Evison",
+        "Kerri-Anne Mullen",
+        "Hassan Mir"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01365-6",
+      "doi": "10.1016/s0140-6736(26)01365-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532057",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01365-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01365-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532057",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532057/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Global tobacco control in 2026: progress yet deepening inequity",
+      "title_original": "Global tobacco control in 2026: progress yet deepening inequity",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01365-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42532057/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tinglong Dai",
+        "Kathryn M McDonald",
+        "Daniel C Baumgart"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00693-8",
+      "doi": "10.1016/s0140-6736(26)00693-8",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42263727",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00693-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00693-8"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263727",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263727/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Global advances in health artificial intelligence: a workforce imperative",
+      "title_original": "Global advances in health artificial intelligence: a workforce imperative",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00693-8",
+        "https://pubmed.ncbi.nlm.nih.gov/42263727/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Matthew S Davids",
+        "Toby A Eyre",
+        "Jennifer A Woyach",
+        "Lindsey E Roeker",
+        "Alessandra Ferrajoli",
+        "Yucai Wang",
+        "Constantine S Tam",
+        "Wojciech Jurczak",
+        "Pier Luigi Zinzani",
+        "Martin Šimkovič",
+        "Jian-Yong Li",
+        "Francesc Bosch",
+        "Damien Roos-Weil",
+        "Paula Cramer",
+        "Anders Osterborg",
+        "Prioty Islam",
+        "Ryan Jacobs",
+        "Alan Skarbnik",
+        "Seema A Bhat",
+        "Suhyun Kang",
+        "Min Chen",
+        "Bastien Nguyen",
+        "Samuel C McNeely",
+        "Karen Lee Chung",
+        "Joana M Oliveira",
+        "Rodrigo Ito",
+        "Paolo Ghia",
+        "William G Wierda"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01204-3",
+      "doi": "10.1016/s0140-6736(26)01204-3",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42425121",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01204-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01204-3"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42425121",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42425121/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Fixed-duration pirtobrutinib plus venetoclax–rituximab versus venetoclax–rituximab for patients with previously treated chronic lymphocytic leukaemia or small lymphocytic lymphoma (BRUIN CLL-322): an open-label, multicentre, randomised, controlled, phase 3 trial",
+      "title_original": "Fixed-duration pirtobrutinib plus venetoclax–rituximab versus venetoclax–rituximab for patients with previously treated chronic lymphocytic leukaemia or small lymphocytic lymphoma (BRUIN CLL-322): an open-label, multicentre, randomised, controlled, phase 3 trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01204-3",
+        "https://pubmed.ncbi.nlm.nih.gov/42425121/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andrew Green"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00977-3",
+      "doi": "10.1016/s0140-6736(26)00977-3",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42134383",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00977-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00977-3"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42134383",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42134383/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Eugene Braunwald",
+      "title_original": "Eugene Braunwald",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00977-3",
+        "https://pubmed.ncbi.nlm.nih.gov/42134383/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "José Alberto González Cáceres"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01287-0",
+      "doi": "10.1016/s0140-6736(26)01287-0",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01287-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01287-0"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Ethics laundering and Cuba's health myth",
+      "title_original": "Ethics laundering and Cuba's health myth",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01287-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mary Doherty",
+        "Sebastian C K Shaw",
+        "Eddie Chaplin",
+        "Simon Baron-Cohen"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01422-4",
+      "doi": "10.1016/s0140-6736(26)01422-4",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01422-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01422-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Embracing neurodiversity in medicine: insights from the history of psychiatry",
+      "title_original": "Embracing neurodiversity in medicine: insights from the history of psychiatry",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01422-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Thierry Passeron",
+        "Vimal H Prajapati",
+        "Raja K Sivamani",
+        "Khaled Ezzedine",
+        "Nanja van Geel",
+        "Iltefat Hamzavi",
+        "Amit G Pandya",
+        "David Rosmarin",
+        "Leihong Xiang",
+        "Tamio Suzuki",
+        "Seemal Desai",
+        "Mehdi Rashighi",
+        "Smitha Suravaram",
+        "Irina Fish",
+        "Xiaofei Hu",
+        "Xiaoqiang Wu",
+        "Minglu Wang",
+        "Yao Yu",
+        "Ahmed M Soliman",
+        "Heidi S Camp",
+        "Henrique D Teixeira",
+        "Stavonnie Patterson",
+        "Bethanee J Schlosser",
+        "Julien Seneschal"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00896-2",
+      "doi": "10.1016/s0140-6736(26)00896-2",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00896-2",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00896-2"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Efficacy and safety of upadacitinib in adults and adolescents for treatment of non-segmental vitiligo (Viti-Up): results of two phase 3 randomised controlled studies",
+      "title_original": "Efficacy and safety of upadacitinib in adults and adolescents for treatment of non-segmental vitiligo (Viti-Up): results of two phase 3 randomised controlled studies",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00896-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pablo Mora",
+        "Vanita R Aroda",
+        "Marisse Asong",
+        "Matthias Blüher",
+        "Line Dam Heftdal",
+        "Amanda-Louise Fenger Carlander",
+        "Louise Nygaard Vilsen",
+        "Julio Rosenstock"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01248-1",
+      "doi": "10.1016/s0140-6736(26)01248-1",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01248-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01248-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+      "title_original": "Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01248-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pablo Mora",
+        "Vanita R Aroda",
+        "Marisse Asong",
+        "Matthias Blüher",
+        "Amanda-Louise Fenger Carlander",
+        "Morten Kaltoft",
+        "Louise Nygaard Vilsen",
+        "Julio Rosenstock"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01247-x",
+      "doi": "10.1016/s0140-6736(26)01247-x",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01247-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01247-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+      "title_original": "Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01247-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "James Clifford Kent"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01341-3",
+      "doi": "10.1016/s0140-6736(26)01341-3",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01341-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01341-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Documenting hospice care",
+      "title_original": "Documenting hospice care",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01341-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01486-8",
+      "doi": "10.1016/s0140-6736(26)01486-8",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42480575",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01486-8",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01486-8"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42480575",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42480575/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Department of Error",
+      "title_original": "Department of Error",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01486-8",
+        "https://pubmed.ncbi.nlm.nih.gov/42480575/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Juan Fortea",
+        "Jean Ikanga",
+        "Elisa de Paula França Resende"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01373-5",
+      "doi": "10.1016/s0140-6736(26)01373-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42442375",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01373-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01373-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42442375",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42442375/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Dementia prevention in Latin America and the Global South",
+      "title_original": "Dementia prevention in Latin America and the Global South",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01373-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42442375/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ruth Oratz",
+        "Jerome Teitel",
+        "Fiona Sim",
+        "Gareth Kantor",
+        "Jack Green"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01506-0",
+      "doi": "10.1016/s0140-6736(26)01506-0",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01506-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01506-0"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Delegitimisation of national medical associations",
+      "title_original": "Delegitimisation of national medical associations",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01506-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Susan Jaffe"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01549-7",
+      "doi": "10.1016/s0140-6736(26)01549-7",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01549-7",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01549-7"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Cyclospora in the USA: why is it so hard to stop?",
+      "title_original": "Cyclospora in the USA: why is it so hard to stop?",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01549-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gregory Y H Lip",
+        "Lukasz Kuzma"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00747-6",
+      "doi": "10.1016/s0140-6736(26)00747-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42456693",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00747-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00747-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42456693",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42456693/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Combination antithrombotic therapy in atrial fibrillation after coronary interventions: shorter duration, more safety?",
+      "title_original": "Combination antithrombotic therapy in atrial fibrillation after coronary interventions: shorter duration, more safety?",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00747-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42456693/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andrei Popoviciu"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01596-5",
+      "doi": "10.1016/s0140-6736(26)01596-5",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01596-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01596-5"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Can Romania tackle its measles outbreaks?",
+      "title_original": "Can Romania tackle its measles outbreaks?",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01596-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sima Barmania"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01550-3",
+      "doi": "10.1016/s0140-6736(26)01550-3",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01550-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01550-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Cambodia reaches HIV milestone",
+      "title_original": "Cambodia reaches HIV milestone",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01550-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ramanan Laxminarayan"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01303-6",
+      "doi": "10.1016/s0140-6736(26)01303-6",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01303-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01303-6"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Beyond the metaphor: what One Health must become",
+      "title_original": "Beyond the metaphor: what One Health must become",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01303-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Arnon P Kater",
+        "John Seymour"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01370-x",
+      "doi": "10.1016/s0140-6736(26)01370-x",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42425123",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01370-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01370-x"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42425123",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42425123/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Beyond MURANO: sequencing therapy in relapsed chronic lymphocytic leukaemia",
+      "title_original": "Beyond MURANO: sequencing therapy in relapsed chronic lymphocytic leukaemia",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01370-x",
+        "https://pubmed.ncbi.nlm.nih.gov/42425123/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ruth Bonita",
+        "Robert Beaglehole"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01129-3",
+      "doi": "10.1016/s0140-6736(26)01129-3",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01129-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01129-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Beyond a smoke-free generation: ending smoking within a generation",
+      "title_original": "Beyond a smoke-free generation: ending smoking within a generation",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01129-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Robert J Motzer",
+        "Ray McDermott",
+        "Se Hoon Park",
+        "Mauricio Burotto",
+        "Roberto Iacovelli",
+        "Elena Verzoni",
+        "Cristina Suárez",
+        "Masatoshi Eto",
+        "Hernan J Cutuli",
+        "Camillo Porta",
+        "Ray Manneh Kopp",
+        "Sylvie Rottey",
+        "Guillermo de Velasco",
+        "Begoña P Valderrama",
+        "Arun A Azad",
+        "Ugo De Giorgi",
+        "Michel Pavic",
+        "Piotr Tomczak",
+        "Robert Figlin",
+        "Hans M Westgeest",
+        "Annalisa Guida",
+        "Andrea Necchi",
+        "Fabio A Schutz",
+        "Britt B M Suelmann",
+        "John B A G Haanen",
+        "Sammy Shuai Yuan",
+        "Rodolfo F Perini",
+        "Ding Wang",
+        "Daniel Y C Heng",
+        "Manuela Schmidinger",
+        "Juan Pablo Sade",
+        "Ernesto Pablo Korbenfeld",
+        "Marcelo Daniel Tatangelo",
+        "Juan Ignacio Hernandez Moran",
+        "Hernan Javier Cutuli",
+        "Alejandro Dri",
+        "Babak Tamjid",
+        "Christopher Hocking",
+        "Arun Azad",
+        "Laurence Krieger",
+        "Ferdinand Luger",
+        "Clemens Mayr",
+        "Manuela Schmidinger",
+        "Dora Niedersuess-Beke",
+        "Johannes Meran",
+        "Martin Pichler",
+        "Thomas Bauernhofer",
+        "Sylvie Rottey",
+        "Benoit Beuselinck",
+        "Christine Gennigens",
+        "Nieves Martinez Chanza",
+        "Spyridon Sideris",
+        "Marco Gizzi",
+        "Jean-Pascal Machiels",
+        "Alan Arrieira Azambuja",
+        "Silvana Vale",
+        "Fabio A.B. Schutz",
+        "Silvio Correia Sales",
+        "Mahmoud Abdelsalam",
+        "Michel Pavic",
+        "Catherine Sperlich",
+        "Francisco Vera-Badillo",
+        "Daniel Heng",
+        "Christian Kollmannsberger",
+        "Naveen S. Basappa",
+        "Georg Arnold Bjarnason",
+        "Aly-Khan Lalani",
+        "Nicolas Marcoux",
+        "Dominick Bosse",
+        "Mauricio Burotto",
+        "Eduardo Yanez Ruiz",
+        "Ricardo Bruges",
+        "Martha Liliana Alarcon",
+        "Javier Cuello Lopez",
+        "Ray Manneh Kopp",
+        "Tomas Buchler",
+        "Jindrich Kopecky",
+        "Alexandr Poprach",
+        "Pavel Tolinger",
+        "Tomas Buchler",
+        "Katriina Jalkanen",
+        "Kaisa Leea Sunela",
+        "Krista Kankaanranta",
+        "Kalle Ensio Mattila",
+        "Vesa Valiaho",
+        "Sophie Abadie-Lacourtoisie",
+        "Frederic Rolland",
+        "Marine Gross-Goupil",
+        "Sabrina Falkowski",
+        "Ahmed Khalil",
+        "Christine Chevreau",
+        "Damien Pouessel",
+        "Loic Mourey",
+        "Jean-Christophe Eymard",
+        "Delphine Borchiellini",
+        "Philippe Barthelemy",
+        "Marinela Augustin",
+        "Andreas Becker",
+        "Severine Banek",
+        "Clara Humke",
+        "Markus Grabbert",
+        "Stefan Siemer",
+        "Julia Heinzelbecker",
+        "Peter Reichardt",
+        "Juliane Kuenzel",
+        "Florian Seseke",
+        "Thomas Steiner",
+        "Volker Perst",
+        "Matthias Saar",
+        "Jennifer Kranz",
+        "Sofia Shah",
+        "Ramona Stelmach",
+        "Stefanie Zschaebitz",
+        "Maria De Santis",
+        "Sofia Baka",
+        "Aristotelis Bamias",
+        "Angelos Koutras",
+        "Marinos Tsiatas",
+        "Flora Zagouri",
+        "Ray McDermott",
+        "John McCaffrey",
+        "Giuseppe Procopio",
+        "Elena Verzoni",
+        "Sergio Bracarda",
+        "Annalisa Guida",
+        "Camillo Porta",
+        "Elisa Biscaldi",
+        "Andrea Premoli",
+        "Sabrina Del Buono",
+        "Alketa Hamzaj",
+        "Consuelo Buttigliero",
+        "Armando Santoro",
+        "Ugo Federico Francesco De Giorgi",
+        "Cristian Lolli",
+        "Andrea Zivi",
+        "Andrea Necchi",
+        "Roberto Iacovelli",
+        "Nobuaki Matsubara",
+        "Yuji Miura",
+        "Koichi Suyama",
+        "Satoshi Anai",
+        "Makito Miyake",
+        "Makoto Sumitomo",
+        "Hideaki Miyake",
+        "Yuto Matsushita",
+        "Masatoshi Eto",
+        "Go Kimura",
+        "Noboru Nakaigawa",
+        "Hisashi Hasumi",
+        "Naoya Masumori",
+        "Yasuhisa Fujii",
+        "Kazutoshi Fujita",
+        "Ryuichi Mizuno",
+        "Mototsugu Oya",
+        "Taigo Kato",
+        "Yoshihiko Tomita",
+        "Kazutoshi Yamana",
+        "Naoto Kamiya",
+        "Tsunenori Kondo",
+        "Yasutomo Nakai",
+        "Akira Nagahara",
+        "Mutsushi Kawakita",
+        "Toshinari Yamasaki",
+        "John B.A.G. Haanen",
+        "Franchette van den Berkmortel",
+        "Marco Ben Polee",
+        "Paul Hamberg",
+        "Britt Berendine Maria Suelmann",
+        "Hans Westgeest",
+        "Astrid Van der Veldt",
+        "Danny Houtsma",
+        "Pawel Wiechno",
+        "Piotr Tomczak",
+        "Bogdan Zurawski",
+        "Marek Ziobro",
+        "Tudor Eliade Ciuleanu",
+        "Cristina Ligia Cebotaru",
+        "Michael Schenker",
+        "Igor Utyashev",
+        "Nikolay Keshishev",
+        "Aleksander Bystrov",
+        "Dmitry Vladislavovich Perlin",
+        "Andrey Vladimirovich Semenov",
+        "Anastasia Mochalova",
+        "Nikolay Viktorovich Kislov",
+        "Jae Lyun Lee",
+        "Se Hoon Park",
+        "Woo Kyun Bae",
+        "Oscar Reig Torras",
+        "Jose Pablo Maroto Rey",
+        "Aurea Molina Diaz",
+        "Begona Perez Valderrama",
+        "Javier Puente Vazquez",
+        "Jose Angel Arranz Arija",
+        "Cristina Suarez Rodriguez",
+        "Guillermo de Velasco Oria de Rueda",
+        "Richard Cathomas",
+        "Anja Lorch",
+        "Petros Tsantoulis",
+        "Ursula Vogl",
+        "Paul Nathan",
+        "Anand Sharma",
+        "Matthew Sephton",
+        "Gordon Urquhart",
+        "Poulam Patel",
+        "Naveed Sarwar",
+        "Mark Beresford",
+        "Sing Yu Moorcraft",
+        "Awais Jalil",
+        "Steven Ades",
+        "Carlos Alemany",
+        "Claud Grigg",
+        "Daniel Marcus Anderson",
+        "Michael Benjamin Atkins",
+        "Gary R. MacVicar",
+        "Bradley Carthon",
+        "Thomas Paul Bradley",
+        "Waddah Arafat",
+        "Sreenivasa Chandana",
+        "Robert Figlin",
+        "Arash Rezazadeh Kalebasty",
+        "Julio Hajdenberg",
+        "Daniel Landau",
+        "Hatem Hassanein",
+        "John Clark Henegan",
+        "Alan Tan",
+        "Thomas Christopher Westbrook",
+        "Mark D. Kochenderfer",
+        "Sandy Liu",
+        "Alexandra Drakaki",
+        "Robert Motzer",
+        "Suresh G. Nair",
+        "Petros Nikolinakos",
+        "Lindsay C. Overton",
+        "Joseph Maly",
+        "Mikhail Shtivelband",
+        "Eric A. Singer",
+        "Biren Saraiya",
+        "Przemyslaw Twardowski",
+        "Haris Zahoor",
+        "Zhentao Zhang",
+        "Brendan Connell",
+        "Scott Tykodi",
+        "Timothy Byun",
+        "Michael Roger Harrison",
+        "Pedro Barata",
+        "Brian Lewis",
+        "Benjamin Maughan"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01089-5",
+      "doi": "10.1016/s0140-6736(26)01089-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42586114",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01089-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01089-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586114",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586114/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial",
+      "title_original": "Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01089-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42586114/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Keith Cloete",
+        "Mickey Chopra"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01364-4",
+      "doi": "10.1016/s0140-6736(26)01364-4",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42532056",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01364-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01364-4"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42532056",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42532056/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "An eleventh lesson: escaping the scarcity equilibrium",
+      "title_original": "An eleventh lesson: escaping the scarcity equilibrium",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01364-4",
+        "https://pubmed.ncbi.nlm.nih.gov/42532056/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Udani Samarasekera"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01384-x",
+      "doi": "10.1016/s0140-6736(26)01384-x",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42442373",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01384-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01384-x"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42442373",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42442373/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Alison Holmes: sustaining global attention on AMR",
+      "title_original": "Alison Holmes: sustaining global attention on AMR",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01384-x",
+        "https://pubmed.ncbi.nlm.nih.gov/42442373/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ermo Chen",
+        "Ilona Kickbusch",
+        "Gordon Liu",
+        "Bernhard Schwartländer"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01368-1",
+      "doi": "10.1016/s0140-6736(26)01368-1",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01368-1",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01368-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "AI for science: decoding complexity for planetary health",
+      "title_original": "AI for science: decoding complexity for planetary health",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01368-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sophie Cousins"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01645-4",
+      "doi": "10.1016/s0140-6736(26)01645-4",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01645-4",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01645-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Afghan health under pressure 5 years after Taliban takeover",
+      "title_original": "Afghan health under pressure 5 years after Taliban takeover",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01645-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hans Wildiers",
+        "Marije Hamaker",
+        "Simon Mooijaart",
+        "Supriya Mohile",
+        "Florence Canoui-Poitrine",
+        "Luigina Guasti",
+        "Nienke de Glas"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00905-0",
+      "doi": "10.1016/s0140-6736(26)00905-0",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42431219",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00905-0",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00905-0"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42431219",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42431219/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Advancing the relevance of clinical trials for older patients",
+      "title_original": "Advancing the relevance of clinical trials for older patients",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00905-0",
+        "https://pubmed.ncbi.nlm.nih.gov/42431219/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tomer Saad"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01503-5",
+      "doi": "10.1016/s0140-6736(26)01503-5",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01503-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01503-5"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Actions speak louder than words",
+      "title_original": "Actions speak louder than words",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01503-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elaine Chow",
+        "Zhengli Bai"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01487-x",
+      "doi": "10.1016/s0140-6736(26)01487-x",
+      "issns": [
+        "0140-6736"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01487-x",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01487-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "A novel unimolecular GLP1 and amylin receptor agonist for glucose and weight control",
+      "title_original": "A novel unimolecular GLP1 and amylin receptor agonist for glucose and weight control",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01487-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Scott T Tagawa",
+        "Oliver Sartor",
+        "Josep M Piulats",
+        "Fred Saad",
+        "Karim Fizazi",
+        "Alison Reid",
+        "Himisha Beltran",
+        "Gero Kramer",
+        "Hakim Mahammedi",
+        "Matthias Eiber",
+        "Shilpa Gupta",
+        "Daniel Castellano",
+        "Ralph Hauke",
+        "Hyun Kim",
+        "Cheol Kwak",
+        "See Tong Pang",
+        "Philippe Barthélémy",
+        "Dong Dai",
+        "Jae Lyun Lee",
+        "Luke Nordquist",
+        "Russell Z Szmulewitz",
+        "Paweł Wiechno",
+        "Alejandro Yovine",
+        "Lauren Smith",
+        "Emmanuel Bouillaud",
+        "Olga Sakharova",
+        "Michael J Morris",
+        "PSMAddition Investigators"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01092-5",
+      "doi": "10.1016/s0140-6736(26)01092-5",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561994",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01092-5",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01092-5"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561994",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561994/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "[177Lu]Lu-PSMA-617 in patients with PSMA-positive metastatic androgen pathway modulator-naive/sensitive prostate cancer (PSMAddition): a phase 3 randomised, controlled trial",
+      "title_original": "[177Lu]Lu-PSMA-617 in patients with PSMA-positive metastatic androgen pathway modulator-naive/sensitive prostate cancer (PSMAddition): a phase 3 randomised, controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01092-5",
+        "https://pubmed.ncbi.nlm.nih.gov/42561994/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Georges Gebrael",
+        "Neeraj Agarwal"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)01231-6",
+      "doi": "10.1016/s0140-6736(26)01231-6",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42561995",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)01231-6",
+          "url": "https://doi.org/10.1016/s0140-6736(26)01231-6"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42561995",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42561995/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "[177Lu]Lu-PSMA-617 in metastatic androgen pathway modulator-sensitive prostate cancer",
+      "title_original": "[177Lu]Lu-PSMA-617 in metastatic androgen pathway modulator-sensitive prostate cancer",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)01231-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42561995/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yohei Sotomi",
+        "Ken Kozuma",
+        "Yoshiharu Higuchi",
+        "Gaku Nakazawa",
+        "Yoshihiro Morino",
+        "Kenji Ando",
+        "Junya Ako",
+        "Kengo Tanabe",
+        "Takashi Muramatsu",
+        "Ken Kobayashi",
+        "Yasuhiro Ichibori",
+        "Takayuki Ishihara",
+        "Keiji Hirooka",
+        "Satoru Suwa",
+        "Takayuki Warisawa",
+        "Toru Naganuma",
+        "Atsushi Kikuchi",
+        "Ryu Shutta",
+        "Naotaka Okamoto",
+        "Yasuhiro Tanabe",
+        "Atsunori Okamura",
+        "Kosuke Kashiwabara",
+        "Shungo Hikoso",
+        "Yasushi Sakata",
+        "OPTIMA-AF Investigators"
+      ],
+      "canonical_id": "doi:10.1016/s0140-6736(26)00665-3",
+      "doi": "10.1016/s0140-6736(26)00665-3",
+      "issns": [
+        "0140-6736",
+        "1474-547X"
+      ],
+      "journal": "The Lancet",
+      "pmcid": null,
+      "pmid": "42456692",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/s0140-6736(26)00665-3",
+          "url": "https://doi.org/10.1016/s0140-6736(26)00665-3"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42456692",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42456692/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "1-month versus 12-month dual antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation (OPTIMA-AF): a multicentre, open-label, hybrid non-inferiority and superiority, randomised, controlled trial",
+      "title_original": "1-month versus 12-month dual antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation (OPTIMA-AF): a multicentre, open-label, hybrid non-inferiority and superiority, randomised, controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/s0140-6736(26)00665-3",
+        "https://pubmed.ncbi.nlm.nih.gov/42456692/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__the-lancet__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__the-lancet__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__the-lancet__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__the-lancet__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__the-lancet__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__the-lancet__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 93,
+    "by_article_type": {
+      "journal-article": 93
+    },
+    "by_source": {
+      "crossref": 93,
+      "pubmed": 57
+    },
+    "translated_articles": 0
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "the-lancet__2026-08__r01",
+  "edition_key": "the-lancet__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "the-lancet__2026-08__r01",
+  "retrieved_at": "2026-08-14T01:49:39Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__the-lancet__2026-08__r01",
+    "edition_key": "the-lancet__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "0140-6736",
+    "journal": "The Lancet",
+    "journal_slug": "the-lancet",
+    "language": "zh-TW",
+    "max_records": 1000,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "the-lancet__2026-08__r01",
+    "revision": 1,
+    "slug": "the-lancet",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 95,
+      "detail": null,
+      "query": "container=The Lancet; publication=2026-08-01..2026-08-14",
+      "returned_count": 95,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 95,
+      "truncated": false
+    },
+    {
+      "accepted_count": 59,
+      "detail": null,
+      "query": "(\"The Lancet\"[Journal] OR \"0140-6736\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 59,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 59,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"The Lancet\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 93,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
