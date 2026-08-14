@@ -1,0 +1,1890 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carl-Emil Lim",
+        "Björn Pasternak",
+        "Björn Eliasson",
+        "Laura Pazzagli",
+        "Peter Ueda"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101729",
+      "doi": "10.1016/j.lanepe.2026.101729",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13265897",
+      "pmid": "42306189",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101729",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101729"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42306189",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42306189/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「第一型糖尿病患者使用 GLP-1 受體促效劑與 SGLT2 抑制劑：全國登錄型世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Use of GLP-1 Receptor Agonists and SGLT2 Inhibitors Among Patients with Type 1 Diabetes: A Nationwide Register-Based Cohort Study",
+      "title_original": "Use of GLP-1 Receptor Agonists and SGLT2 Inhibitors Among Patients with Type 1 Diabetes: A Nationwide Register-Based Cohort Study",
+      "title_zh_tw": "第一型糖尿病患者使用 GLP-1 受體促效劑與 SGLT2 抑制劑：全國登錄型世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101729",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13265897/",
+        "https://pubmed.ncbi.nlm.nih.gov/42306189/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Katharina Lechner",
+        "Siqi Zhang",
+        "Nils Krüger",
+        "Johannes Krefting",
+        "Kathrin Wolf",
+        "Marco Dallavalle",
+        "Tobias Dreischulte",
+        "Frank Offenborn",
+        "Fabian Starnecker",
+        "Moritz von Scheidt",
+        "Kai Chen",
+        "Annette Peters",
+        "Susanne Breitner",
+        "Alexandra Schneider",
+        "Heribert Schunkert"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101730",
+      "doi": "10.1016/j.lanepe.2026.101730",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13262291",
+      "pmid": "42294354",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101730",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101730"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42294354",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42294354/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「氣溫上升與動脈粥樣硬化性心血管疾病患者的急性心血管事件：時間分層病例交叉研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Upward Air Temperature Shifts and Acute Cardiovascular Events in Individuals with Atherosclerotic Cardiovascular Disease: A Time-Stratified Case-Crossover Study",
+      "title_original": "Upward Air Temperature Shifts and Acute Cardiovascular Events in Individuals with Atherosclerotic Cardiovascular Disease: A Time-Stratified Case-Crossover Study",
+      "title_zh_tw": "氣溫上升與動脈粥樣硬化性心血管疾病患者的急性心血管事件：時間分層病例交叉研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101730",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262291/",
+        "https://pubmed.ncbi.nlm.nih.gov/42294354/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Naomi Holman",
+        "Jackie O’Keefe",
+        "Edward Gregg",
+        "Garry Daniel Tan",
+        "Kamlesh Khunti",
+        "Jonathan Valabhji",
+        "Chirag Bakhai",
+        "Clare Hambling",
+        "Bob Young",
+        "Shivani Misra"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101764",
+      "doi": "10.1016/j.lanepe.2026.101764",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13453952",
+      "pmid": "42577376",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101764",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101764"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577376",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577376/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「2011–2024 年第二型糖尿病發病率及診斷時 BMI 趨勢：依年齡、性別與族群分層的英格蘭國家糖尿病稽核人口分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Trends in type 2 diabetes incidence and BMI at diagnosis by age, sex, and ethnicity, 2011–2024: a population-based analysis of the English National Diabetes Audit",
+      "title_original": "Trends in type 2 diabetes incidence and BMI at diagnosis by age, sex, and ethnicity, 2011–2024: a population-based analysis of the English National Diabetes Audit",
+      "title_zh_tw": "2011–2024 年第二型糖尿病發病率及診斷時 BMI 趨勢：依年齡、性別與族群分層的英格蘭國家糖尿病稽核人口分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101764",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453952/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577376/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sarah E. Jackson",
+        "Hazel Cheeseman",
+        "Jamie Brown"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101781",
+      "doi": "10.1016/j.lanepe.2026.101781",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13382405",
+      "pmid": "42519710",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101781",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101781"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42519710",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42519710/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「英國《菸草與電子菸法案》使終結吸菸近在咫尺，但工作尚未完成」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The UK’s Tobacco and Vapes Act puts the end of smoking within reach, but the job is not done",
+      "title_original": "The UK’s Tobacco and Vapes Act puts the end of smoking within reach, but the job is not done",
+      "title_zh_tw": "英國《菸草與電子菸法案》使終結吸菸近在咫尺，但工作尚未完成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101781",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13382405/",
+        "https://pubmed.ncbi.nlm.nih.gov/42519710/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Astrid Berner-Rodoreda",
+        "Pramiti Parwani",
+        "Chetali Rao",
+        "Emmanuel André",
+        "Günter Fröschl",
+        "Jolene Skordis",
+        "Sangeeta Sharma",
+        "Quique Bassat",
+        "Rifat Atun",
+        "Milena Vainieri",
+        "Andrew Farlow",
+        "Fabrizio Tediosi",
+        "Raffaella Ravinetto",
+        "Khaled M. Ismail",
+        "Elil Renganathan",
+        "Anniek de Ruijter",
+        "Tim Taylor",
+        "Gorik Ooms",
+        "Eldrid Herrington",
+        "Gopal Dabade",
+        "Till Bärnighausen",
+        "Katrina Perehudoff"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101794",
+      "doi": "10.1016/j.lanepe.2026.101794",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13430253",
+      "pmid": "42548956",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101794",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101794"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42548956",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42548956/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「2026 年歐盟－印度自由貿易協定：為何對全球健康與貿易重要」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The 2026 EU–India free trade agreement: why it matters for global health and trade",
+      "title_original": "The 2026 EU–India free trade agreement: why it matters for global health and trade",
+      "title_zh_tw": "2026 年歐盟－印度自由貿易協定：為何對全球健康與貿易重要",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101794",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430253/",
+        "https://pubmed.ncbi.nlm.nih.gov/42548956/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Daniel Camprubí–Ferrer",
+        "Cesc Bertran–Cobo",
+        "Lluís Valerio",
+        "Meritxell Saloni",
+        "Isabel González Nieto",
+        "Victoria López López",
+        "David Garcia",
+        "Elisabet Jurado",
+        "Maria Luisa Machado",
+        "Daniela Pérez–León",
+        "Sarai Cuevas Marín",
+        "Carme Subirà",
+        "Judit Villar–García",
+        "Dolores Herena García",
+        "Susana Nuria Ayala Cortés",
+        "Maria Sànchez Casado",
+        "Aina Gomila–Grange",
+        "Claudia Flores",
+        "Natalia Morales Llorente",
+        "Ester Górriz Hidalgo",
+        "Raisa Margarita Morales Martínez",
+        "Fátima Vila",
+        "Nora Martín",
+        "Jose Muñoz",
+        "Daniel Camprubí-Ferrer",
+        "Cesc Bertran-Cobo",
+        "Meritxell Saloni",
+        "David Garcia",
+        "Carme Subirà",
+        "Fátima Vila",
+        "Nora Martín",
+        "Claudia Flores",
+        "Tessa de Alba",
+        "Berta Vicedo",
+        "Isabel Vera",
+        "Lluís Valerio",
+        "Dolores Herena García",
+        "Ester Górriz Hidalgo",
+        "Laura Soldevila Langa",
+        "Isabel González Nieto",
+        "Judit Villar García",
+        "Natalia Morales Llorente",
+        "Cecilia Canepa",
+        "Marta Guerrero Muñoz",
+        "Victoria López López",
+        "Susana Nuria Ayala Cortés",
+        "Raisa Margarita Morales Martínez",
+        "Maria del Carme Altadill Sánchez",
+        "José Santos",
+        "Edurne Ruiz Martí",
+        "María Guadalupe García Salgado",
+        "Maria Luisa Machado",
+        "Aina Gomila Grange",
+        "Elisabet Jurado",
+        "Maria Sànchez Casado",
+        "Rocío Raya Gómez",
+        "Daniela Perez-León",
+        "Cristina Masuet",
+        "Laura González González",
+        "Sarai Cuevas Marín",
+        "Cristina Cortés Lunar",
+        "Montse Martínez Marcos",
+        "Gloria Cereza Garcia",
+        "José Muñoz"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101727",
+      "doi": "10.1016/j.lanepe.2026.101727",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13453950",
+      "pmid": "42577248",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101727",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101727"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577248",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577248/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「TAK-003 登革熱疫苗的安全性及與非流行區旅客不良事件相關因素：西班牙真實世界前瞻性多中心藥物警戒世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Safety of the Dengue Vaccine TAK-003 and Factors Associated with Adverse Events in Travellers from Non-Endemic Areas: A Real-World Prospective Multicentre Pharmacovigilance Cohort Study in Spain",
+      "title_original": "Safety of the Dengue Vaccine TAK-003 and Factors Associated with Adverse Events in Travellers from Non-Endemic Areas: A Real-World Prospective Multicentre Pharmacovigilance Cohort Study in Spain",
+      "title_zh_tw": "TAK-003 登革熱疫苗的安全性及與非流行區旅客不良事件相關因素：西班牙真實世界前瞻性多中心藥物警戒世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101727",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453950/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577248/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nicola J. Reavley",
+        "Amy J. Morgan"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101763",
+      "doi": "10.1016/j.lanepe.2026.101763",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13355423",
+      "pmid": "42436944",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101763",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101763"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42436944",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42436944/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「降低心理疾病成年人的自我污名並支持病情揭露」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reducing self-stigma and supporting disclosure in adults with mental illness",
+      "title_original": "Reducing self-stigma and supporting disclosure in adults with mental illness",
+      "title_zh_tw": "降低心理疾病成年人的自我污名並支持病情揭露",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101763",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13355423/",
+        "https://pubmed.ncbi.nlm.nih.gov/42436944/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Johannes Jungwirth",
+        "Samuel Westenhöfer",
+        "Helena D. Aicher",
+        "Barbora Provaznikova",
+        "Golo Kronenberg",
+        "Erich Seifritz",
+        "Susanne Prinz",
+        "Sebastian Olbrich"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101719",
+      "doi": "10.1016/j.lanepe.2026.101719",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13453954",
+      "pmid": "42577282",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101719",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101719"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577282",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577282/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「難治型憂鬱症的真實世界裸蓋菇素治療：回溯性觀察研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Real-World Psilocybin Therapy for Treatment-Resistant Depression: A Retrospective Observational Study",
+      "title_original": "Real-World Psilocybin Therapy for Treatment-Resistant Depression: A Retrospective Observational Study",
+      "title_zh_tw": "難治型憂鬱症的真實世界裸蓋菇素治療：回溯性觀察研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101719",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453954/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577282/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nicolas Rüsch",
+        "Claudia Schulz",
+        "Chiara Weisshap",
+        "Carolin Knoke",
+        "Julia Wöhrle",
+        "Kathrin Reichmann",
+        "Ronja Büchner",
+        "Christian Sander",
+        "Georg Schomerus",
+        "Irina Papazova",
+        "Naiiri Khorikian-Ghazari",
+        "Wolfgang Strube",
+        "Patrick W. Corrigan",
+        "Reinhold Kilian",
+        "Christian Ruckes",
+        "Alkomiet Hasan",
+        "Peter Brieger",
+        "Nathalie Oexle"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101751",
+      "doi": "10.1016/j.lanepe.2026.101751",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13310598",
+      "pmid": "42371533",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101751",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101751"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42371533",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42371533/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「同儕主導 Honest, Open, Proud 計畫對心理疾病成人自我污名的真實世界成效：務實型多中心隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Real-World Effectiveness of the Peer-Led Honest, Open, Proud Programme for Self-Stigma Among Adults With Mental Illness: A Pragmatic, Multicentre, Randomised Controlled Trial",
+      "title_original": "Real-World Effectiveness of the Peer-Led Honest, Open, Proud Programme for Self-Stigma Among Adults With Mental Illness: A Pragmatic, Multicentre, Randomised Controlled Trial",
+      "title_zh_tw": "同儕主導 Honest, Open, Proud 計畫對心理疾病成人自我污名的真實世界成效：務實型多中心隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101751",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13310598/",
+        "https://pubmed.ncbi.nlm.nih.gov/42371533/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Daniela Correia",
+        "Maria Neufeld",
+        "Carina Ferreira-Borges",
+        "Beatrice Lauby-Secretan",
+        "Harriet Rumgay",
+        "Isabelle Soerjomataram",
+        "Elisabete Weiderpass",
+        "Kevin Shield",
+        "Ahmed S. Hassan",
+        "Jürgen Rehm"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101734",
+      "doi": "10.1016/j.lanepe.2026.101734",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13310646",
+      "pmid": "42375818",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101734",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101734"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42375818",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375818/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「量化酒精政策在歐盟癌症預防上的潛力：模型研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Quantifying the potential of alcohol policies for cancer prevention in the EU: a modelling study",
+      "title_original": "Quantifying the potential of alcohol policies for cancer prevention in the EU: a modelling study",
+      "title_zh_tw": "量化酒精政策在歐盟癌症預防上的潛力：模型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101734",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13310646/",
+        "https://pubmed.ncbi.nlm.nih.gov/42375818/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alysha S. Thompson",
+        "Amy Jennings",
+        "Nicola P. Bondonno",
+        "Aedín Cassidy",
+        "Tilman Kühn"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101736",
+      "doi": "10.1016/j.lanepe.2026.101736",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13264357",
+      "pmid": "42294356",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101736",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101736"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42294356",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42294356/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「植物性飲食、超加工食品與死亡及主要慢性疾病風險：前瞻性世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Plant-Based Diets, Ultra-Processed Foods, and Risks of Mortality and Major Chronic Diseases: A Prospective Cohort Study",
+      "title_original": "Plant-Based Diets, Ultra-Processed Foods, and Risks of Mortality and Major Chronic Diseases: A Prospective Cohort Study",
+      "title_zh_tw": "植物性飲食、超加工食品與死亡及主要慢性疾病風險：前瞻性世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101736",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13264357/",
+        "https://pubmed.ncbi.nlm.nih.gov/42294356/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ole A Andreassen",
+        "Hakon Heimer",
+        "Søren Brunak",
+        "Olli Kallioniemi",
+        "Nordic AI-Health Initiativef"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101769",
+      "doi": "10.1016/j.lanepe.2026.101769",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13382437",
+      "pmid": "42519709",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101769",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101769"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42519709",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42519709/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「Nordic AI-Health：促進科學發現與臨床影響的獨特機會」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nordic AI-Health: a unique opportunity for discovery and clinical impact",
+      "title_original": "Nordic AI-Health: a unique opportunity for discovery and clinical impact",
+      "title_zh_tw": "Nordic AI-Health：促進科學發現與臨床影響的獨特機會",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101769",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13382437/",
+        "https://pubmed.ncbi.nlm.nih.gov/42519709/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marie-Joelle Jabagi",
+        "Marion Bertrand",
+        "Amélie Gabet",
+        "Ludovic Tréluyer",
+        "Epiphane Kolla",
+        "Antoine Rachas",
+        "Valérie Olié",
+        "Mahmoud Zureik"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101756",
+      "doi": "10.1016/j.lanepe.2026.101756",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13310600",
+      "pmid": "42371532",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101756",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101756"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42371532",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42371532/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「孕婦 RSVpreF 免疫接種預防嬰兒 RSV 住院：全國人口型成效與持久性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Maternal RSVpreF Immunisation Against Infant RSV Hospitalisation: Nationwide Population-Based Effectiveness and Durability Study",
+      "title_original": "Maternal RSVpreF Immunisation Against Infant RSV Hospitalisation: Nationwide Population-Based Effectiveness and Durability Study",
+      "title_zh_tw": "孕婦 RSVpreF 免疫接種預防嬰兒 RSV 住院：全國人口型成效與持久性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101756",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13310600/",
+        "https://pubmed.ncbi.nlm.nih.gov/42371532/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marco Stortz",
+        "Andreas Kommer",
+        "Myriam Meineck",
+        "Simone Cosima Boedecker-Lips",
+        "Paul Claßen",
+        "Vanessa Tomalla",
+        "Felix Rausch",
+        "Livia Sophie Lang",
+        "Philipp S. Wild",
+        "Irene Schmidtmann",
+        "Arndt Weinmann",
+        "Daniel Kraus",
+        "Julia Weinmann-Menke"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101744",
+      "doi": "10.1016/j.lanepe.2026.101744",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13272180",
+      "pmid": "42318167",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101744",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101744"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42318167",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42318167/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「免疫吸附與假治療用於 COVID 後症候群：隨機假治療對照交叉試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Immunoadsorption Versus Sham Treatment for Post-COVID Syndrome: A Randomised Sham-Controlled Crossover Trial",
+      "title_original": "Immunoadsorption Versus Sham Treatment for Post-COVID Syndrome: A Randomised Sham-Controlled Crossover Trial",
+      "title_zh_tw": "免疫吸附與假治療用於 COVID 後症候群：隨機假治療對照交叉試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101744",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13272180/",
+        "https://pubmed.ncbi.nlm.nih.gov/42318167/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "George D. Dimitriadis",
+        "Vaia Lambadiari"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101782",
+      "doi": "10.1016/j.lanepe.2026.101782",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13416622",
+      "pmid": "42529222",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101782",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101782"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42529222",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42529222/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「第一型糖尿病中的 GLP-1 受體促效劑：將治療版圖拓展至胰島素之外」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "GLP-1 receptor agonists in type 1 diabetes: expanding the therapeutic landscape beyond insulin",
+      "title_original": "GLP-1 receptor agonists in type 1 diabetes: expanding the therapeutic landscape beyond insulin",
+      "title_zh_tw": "第一型糖尿病中的 GLP-1 受體促效劑：將治療版圖拓展至胰島素之外",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101782",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13416622/",
+        "https://pubmed.ncbi.nlm.nih.gov/42529222/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vassilis Martiadis"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101780",
+      "doi": "10.1016/j.lanepe.2026.101780",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13383938",
+      "pmid": "42519708",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101780",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101780"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42519708",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42519708/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從試驗到臨床：裸蓋菇素在常規難治型憂鬱症治療中的療效」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "From trial to clinic: psilocybin’s efficacy in routine treatment-resistant depression",
+      "title_original": "From trial to clinic: psilocybin’s efficacy in routine treatment-resistant depression",
+      "title_zh_tw": "從試驗到臨床：裸蓋菇素在常規難治型憂鬱症治療中的療效",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101780",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13383938/",
+        "https://pubmed.ncbi.nlm.nih.gov/42519708/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Massimo Filippi",
+        "Giordano Cecchetti",
+        "Alma Ghirelli",
+        "Edoardo G. Spinelli",
+        "Giulia Rugarli",
+        "Stefano Pisano",
+        "Ana Maria Samanes Gajate",
+        "Arturo Chiti",
+        "Federica Agosta"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101757",
+      "doi": "10.1016/j.lanepe.2026.101757",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13320437",
+      "pmid": "42389420",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101757",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101757"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42389420",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42389420/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從標靶結合到治療治理：類澱粉蛋白 PET 在抗類澱粉蛋白治療中不斷演變的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "From Target Engagement to Treatment Governance: The Evolving Role of Amyloid PET in Anti-Amyloid Therapy",
+      "title_original": "From Target Engagement to Treatment Governance: The Evolving Role of Amyloid PET in Anti-Amyloid Therapy",
+      "title_zh_tw": "從標靶結合到治療治理：類澱粉蛋白 PET 在抗類澱粉蛋白治療中不斷演變的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101757",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13320437/",
+        "https://pubmed.ncbi.nlm.nih.gov/42389420/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bruno Sepodes",
+        "Juan Garcia Burgos",
+        "Steffen Thirstrup"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101779",
+      "doi": "10.1016/j.lanepe.2026.101779",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101779",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101779"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「歐洲藥品管理局於 2026 年 5 月與 6 月的新藥核准」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "European Medicines Agency approvals of new medicines in May and June 2026",
+      "title_original": "European Medicines Agency approvals of new medicines in May and June 2026",
+      "title_zh_tw": "歐洲藥品管理局於 2026 年 5 月與 6 月的新藥核准",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101779"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "The Lancet Regional Health – Europe"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101813",
+      "doi": "10.1016/j.lanepe.2026.101813",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13453945",
+      "pmid": "42577322",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101813",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101813"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577322",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577322/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「歐洲未能有效應對抗藥性結核病」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Europe's failure to deliver on drug-resistant tuberculosis",
+      "title_original": "Europe's failure to deliver on drug-resistant tuberculosis",
+      "title_zh_tw": "歐洲未能有效應對抗藥性結核病",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101813",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453945/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577322/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Uwe Holzwarth",
+        "Roberta Cirillo",
+        "Margarida Goulart",
+        "Diego Hernandez",
+        "Platon Peristeris",
+        "Andreas Poschenrieder",
+        "Panagiota Papaioannou",
+        "Panos Kanavos",
+        "Christian la Fougère",
+        "Leonhard Schaetz"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101733",
+      "doi": "10.1016/j.lanepe.2026.101733",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13265898",
+      "pmid": "42306188",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101733",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101733"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42306188",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42306188/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「估算未來歐盟與英國符合放射性配體治療資格的患者族群：模型研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Estimation of Future Patient Populations Eligible for Radioligand Therapies in the EU and the UK: A Modelling Study",
+      "title_original": "Estimation of Future Patient Populations Eligible for Radioligand Therapies in the EU and the UK: A Modelling Study",
+      "title_zh_tw": "估算未來歐盟與英國符合放射性配體治療資格的患者族群：模型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101733",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13265898/",
+        "https://pubmed.ncbi.nlm.nih.gov/42306188/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maurizio Zega",
+        "Annalisa Bononati",
+        "Valentina Vanzi",
+        "Andrea Urbani",
+        "Ivano Giuliani",
+        "Gennaro Scialò",
+        "Stefano Severini",
+        "Annalisa Testa"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101773",
+      "doi": "10.1016/j.lanepe.2026.101773",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13380471",
+      "pmid": "42472065",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101773",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101773"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42472065",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42472065/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「將標準化護理術語嵌入電子健康紀錄：拉齊奧地區經驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Embedding standardized nursing terminology in electronic health records: the Lazio regional experience",
+      "title_original": "Embedding standardized nursing terminology in electronic health records: the Lazio regional experience",
+      "title_zh_tw": "將標準化護理術語嵌入電子健康紀錄：拉齊奧地區經驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101773",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13380471/",
+        "https://pubmed.ncbi.nlm.nih.gov/42472065/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Juul M.P.A. van den Reek",
+        "Charlotte A.M. van Riel",
+        "Rani Soenen",
+        "Anke Eylenbosch",
+        "Lisa Schots",
+        "Lara S. van der Schoot",
+        "Lynda Grine",
+        "Gerjon Hannink",
+        "Fabienne Willaert",
+        "Tom Hillary",
+        "Paula P.M. van Lümig",
+        "Pierre-Dominique Ghislain",
+        "Paul M. Ossenkoppele",
+        "Sven Lanssens",
+        "Bas S.P. Prens",
+        "Linda Temmerman",
+        "Martijn B.A. van Doorn",
+        "Ella A.M. van der Voort",
+        "Inge Haeck",
+        "Janneke Huizinga",
+        "Arjen F. Nikkels",
+        "Laurence Dierckxsens",
+        "Maartje A.M. Berends",
+        "Sharon R.P. Dodemont",
+        "Jorn Bovenschen",
+        "Jo L.W. Lambert",
+        "Elke M.G.J. de Jong"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101721",
+      "doi": "10.1016/j.lanepe.2026.101721",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13453948",
+      "pmid": "42577288",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101721",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101721"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577288",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577288/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「銀屑病中 IL-17 與 IL-23 抑制劑減量（BeNeBio 研究）：國際、務實型、多中心、隨機、對照、非劣性試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis (BeNeBio study): An International, Pragmatic, Multicentre, Randomised, Controlled, Non-Inferiority Trial",
+      "title_original": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis (BeNeBio study): An International, Pragmatic, Multicentre, Randomised, Controlled, Non-Inferiority Trial",
+      "title_zh_tw": "銀屑病中 IL-17 與 IL-23 抑制劑減量（BeNeBio 研究）：國際、務實型、多中心、隨機、對照、非劣性試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101721",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453948/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577288/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Angela Fanelli",
+        "Baptiste Alglave",
+        "Luca Caporaso",
+        "Alessandro Cescatti",
+        "Juan-Carlos Ciscar",
+        "Gregoire Dubois",
+        "Alessandro Dosio",
+        "Rosa M. Estevez-Reboredo",
+        "María Blazquez",
+        "Dolores Ibarreta",
+        "Andrea Mandrici",
+        "Emanuele Massaro",
+        "Rachel Lowe",
+        "Wojtek Szewczyk"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101790",
+      "doi": "10.1016/j.lanepe.2026.101790",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13446356",
+      "pmid": "42564956",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101790",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101790"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564956",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564956/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「更正：〈歐洲鉤端螺旋體病的時空動態：附前瞻性預測的回溯性觀察研究〉《The Lancet Regional Health – Europe》第 65 卷，2026 年 6 月，101671」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Corrigendum to “Spatiotemporal dynamics of leptospirosis in Europe: a retrospective observational study with prospective projections” The Lancet Regional Health – Europe, Volume 65, June 2026, 101671",
+      "title_original": "Corrigendum to “Spatiotemporal dynamics of leptospirosis in Europe: a retrospective observational study with prospective projections” The Lancet Regional Health – Europe, Volume 65, June 2026, 101671",
+      "title_zh_tw": "更正：〈歐洲鉤端螺旋體病的時空動態：附前瞻性預測的回溯性觀察研究〉《The Lancet Regional Health – Europe》第 65 卷，2026 年 6 月，101671",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101790",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446356/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564956/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Célia Dupain",
+        "Nicolas Jacquin",
+        "Aurélien Latouche",
+        "Zoé Nevière",
+        "Pierre Gestraud",
+        "Abderaouf Hamza",
+        "Kenza Nedara",
+        "Vincent Cockenpot",
+        "Janick Selves",
+        "Yves Allory",
+        "Laetitia Chanas",
+        "Maud Milder",
+        "Isabelle Soubeyran",
+        "Hélène Blons",
+        "Anna Patrikidou",
+        "Axel de Bernardi",
+        "Julien Masliah-Planchon",
+        "Odette Mariani",
+        "Etienne Rouleau",
+        "Fabienne Escande",
+        "Sandrine Boyault",
+        "Pierre Saintigny",
+        "Florence de Fraipont",
+        "Pierre Blanc",
+        "Jennifer Wong",
+        "Camille Tlemsani",
+        "Isabelle Guillou",
+        "Julie Flavius",
+        "Noemie Fuentealba",
+        "Maud Kamal",
+        "Ivan Bièche",
+        "Nicolas Servant",
+        "Christophe Le Tourneau",
+        "Sarah Watson"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101789",
+      "doi": "10.1016/j.lanepe.2026.101789",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13416621",
+      "pmid": "42529191",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101789",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101789"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42529191",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42529191/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「更正：〈經法國國家多專科腫瘤委員會討論之原發部位不明癌症患者的治療與存活：回溯性分析〉《The Lancet Regional Health – Europe》第 60 卷，2026 年 1 月，101524」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Corrigendum to “Management and survival of patients with cancer of unknown primary discussed by a French national multidisciplinary tumour board: a retrospective analysis” The Lancet Regional Health – Europe, Volume 60, January 2026, 101524",
+      "title_original": "Corrigendum to “Management and survival of patients with cancer of unknown primary discussed by a French national multidisciplinary tumour board: a retrospective analysis” The Lancet Regional Health – Europe, Volume 60, January 2026, 101524",
+      "title_zh_tw": "更正：〈經法國國家多專科腫瘤委員會討論之原發部位不明癌症患者的治療與存活：回溯性分析〉《The Lancet Regional Health – Europe》第 60 卷，2026 年 1 月，101524",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101789",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13416621/",
+        "https://pubmed.ncbi.nlm.nih.gov/42529191/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Liisa Hakaste",
+        "Mette K. Andersen",
+        "Lars Ängquist",
+        "Haifa Maalmi",
+        "Jagadish Vangipurapu",
+        "Türküler Cakmak",
+        "Anna Möllsten",
+        "Björn Tavelin",
+        "Mikko Lehtovirta",
+        "Most Champa Begum",
+        "Rashmi B. Prasad",
+        "Annette Peters",
+        "Barbara Thorand",
+        "Allan Linneberg",
+        "Markku Laakso",
+        "Olov Rolandsson",
+        "Bjørn Olav Åsvold",
+        "Valeriya Lyssenko",
+        "Peter M. Nilsson",
+        "Christian Herder",
+        "Michael Roden",
+        "Torben Hansen",
+        "Emma Ahlqvist",
+        "Tiinamaija Tuomi"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101793",
+      "doi": "10.1016/j.lanepe.2026.101793",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13416620",
+      "pmid": "42529288",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101793",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101793"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42529288",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42529288/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「更正：〈不同亞群在糖尿病診斷前的代謝軌跡：歐洲前瞻性世代研究的合併分析〉[The Lancet Regional Health—Europe 第 66 卷（2026）1–11/101715]」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Corrigendum to ‘Metabolic trajectories before diabetes diagnosis across subgroups: a pooled analysis of prospective European cohort studies’ [The Lancet Regional Health—Europe volume 66 (2026) 1–11/101715]",
+      "title_original": "Corrigendum to ‘Metabolic trajectories before diabetes diagnosis across subgroups: a pooled analysis of prospective European cohort studies’ [The Lancet Regional Health—Europe volume 66 (2026) 1–11/101715]",
+      "title_zh_tw": "更正：〈不同亞群在糖尿病診斷前的代謝軌跡：歐洲前瞻性世代研究的合併分析〉[The Lancet Regional Health—Europe 第 66 卷（2026）1–11/101715]",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101793",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13416620/",
+        "https://pubmed.ncbi.nlm.nih.gov/42529288/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Franziska S. Ulrich",
+        "Morten Frost Nielsen",
+        "Nicola Napoli",
+        "Andrea M. Burden"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101738",
+      "doi": "10.1016/j.lanepe.2026.101738",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13262276",
+      "pmid": "42294355",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101738",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101738"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42294355",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42294355/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「英國基層照護中第二型糖尿病患者每週一次注射 Semaglutide 與 Dulaglutide 的比較成效與安全性：人口型世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Comparative Effectiveness and Safety of Once-Weekly Injectable Semaglutide Versus Dulaglutide in Individuals with Type 2 Diabetes Managed in UK Primary Care: A Population-Based Cohort Study",
+      "title_original": "Comparative Effectiveness and Safety of Once-Weekly Injectable Semaglutide Versus Dulaglutide in Individuals with Type 2 Diabetes Managed in UK Primary Care: A Population-Based Cohort Study",
+      "title_zh_tw": "英國基層照護中第二型糖尿病患者每週一次注射 Semaglutide 與 Dulaglutide 的比較成效與安全性：人口型世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101738",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13262276/",
+        "https://pubmed.ncbi.nlm.nih.gov/42294355/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Naoko Kishita",
+        "Rebecca L. Gould",
+        "Mizanur Khondoker",
+        "Lance M. McCracken",
+        "Megan Riggey",
+        "Ana Paula Trucco",
+        "David Howe",
+        "Abbey Couchman",
+        "Emma Flanagan",
+        "Ramesh Vishwakarma",
+        "Cecile Guillard",
+        "Polly-Anna Ashford",
+        "David Turner",
+        "Andrés Losada-Baltar",
+        "Isabel Cabrera-Lafuente",
+        "Laura Gallego-Alberto",
+        "Erica Richmond",
+        "Barbara Czyznikowska",
+        "Matthew Hammond",
+        "Aditya Nautiyal",
+        "Morag Farquhar"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101766",
+      "doi": "10.1016/j.lanepe.2026.101766",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13453953",
+      "pmid": "42577221",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101766",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101766"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577221",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577221/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「網路提供自助式接納與承諾治療對失智症患者家庭照顧者的臨床成效（iACT4CARERS）：多中心平行隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Clinical effectiveness of internet-delivered self-help Aacceptance and Commitment Therapy for family carers of people with dementia (iACT4CARERS): a multicentre, parallel, randomised controlled trial",
+      "title_original": "Clinical effectiveness of internet-delivered self-help Aacceptance and Commitment Therapy for family carers of people with dementia (iACT4CARERS): a multicentre, parallel, randomised controlled trial",
+      "title_zh_tw": "網路提供自助式接納與承諾治療對失智症患者家庭照顧者的臨床成效（iACT4CARERS）：多中心平行隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101766",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453953/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577221/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kevin K.W. Olesen",
+        "Christine Gyldenkerne",
+        "Pernille G. Thrane",
+        "Nina Stødkilde-Jørgensen",
+        "Pernille T. Tonnesen",
+        "Malene K. Hansen",
+        "Reimar W. Thomsen",
+        "Naveed Sattar",
+        "Henrik T. Sørensen",
+        "Michael Maeng"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101753",
+      "doi": "10.1016/j.lanepe.2026.101753",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13310599",
+      "pmid": "42371531",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101753",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101753"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42371531",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42371531/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「糖尿病、冠心病或兩者兼具者的心血管結果：丹麥西部人口型世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Cardiovascular Outcomes in Individuals With Diabetes, Coronary Heart Disease, or Both: A Population-Based Cohort Study in Western Denmark",
+      "title_original": "Cardiovascular Outcomes in Individuals With Diabetes, Coronary Heart Disease, or Both: A Population-Based Cohort Study in Western Denmark",
+      "title_zh_tw": "糖尿病、冠心病或兩者兼具者的心血管結果：丹麥西部人口型世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101753",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13310599/",
+        "https://pubmed.ncbi.nlm.nih.gov/42371531/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Roos Edgar",
+        "Catharina E. Jansen",
+        "Lente R. Pol",
+        "Kambiz Ebrahimkheil",
+        "Ruud C. van Kaam",
+        "Eelko Ronner",
+        "Marc A. Brouwer",
+        "Rypko J. Beukema",
+        "Aysun Cetinyurek-Yavuz",
+        "Peter C. Stas",
+        "Eric Boersma",
+        "Cornelia W.E. Hoedemaekers",
+        "Niels van Royen",
+        "Judith L. Bonnes"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101791",
+      "doi": "10.1016/j.lanepe.2026.101791",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13427576",
+      "pmid": "42542583",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101791",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101791"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42542583",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42542583/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在撤除維生治療期間使用腕部光體積描記法自動偵測心搏停止：前瞻性臨床驗證研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Automated cardiac arrest detection using wrist-derived photoplethysmography during withdrawal of life-sustaining treatment: a prospective clinical validation study",
+      "title_original": "Automated cardiac arrest detection using wrist-derived photoplethysmography during withdrawal of life-sustaining treatment: a prospective clinical validation study",
+      "title_zh_tw": "在撤除維生治療期間使用腕部光體積描記法自動偵測心搏停止：前瞻性臨床驗證研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101791",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427576/",
+        "https://pubmed.ncbi.nlm.nih.gov/42542583/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Amber John",
+        "Gavin R. Stewart",
+        "William Mandy",
+        "Celine El Baou",
+        "Elizabeth O’Nions",
+        "Lucy Corrigan",
+        "Henry Shelford",
+        "Rob Saunders",
+        "Douglas G.J. McKechnie",
+        "Jae Won Suh",
+        "Georgia Pavlopoulou",
+        "Philip Asherson",
+        "Jessica Agnew-Blais",
+        "Josh Stott"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101740",
+      "doi": "10.1016/j.lanepe.2026.101740",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13453955",
+      "pmid": "42577275",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101740",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101740"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577275",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577275/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「英格蘭兒童與成人注意力不足過動症，2000–2025：使用常規收集基層照護資料的人口型觀察研究之紀錄盛行率與診斷趨勢」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Attention-Deficit/Hyperactivity Disorder in Children and Adults in England, 2000–2025: Recorded Prevalence and Diagnostic Trends in a Population-Based Observational Study Using Routinely Collected Primary Care Data",
+      "title_original": "Attention-Deficit/Hyperactivity Disorder in Children and Adults in England, 2000–2025: Recorded Prevalence and Diagnostic Trends in a Population-Based Observational Study Using Routinely Collected Primary Care Data",
+      "title_zh_tw": "英格蘭兒童與成人注意力不足過動症，2000–2025：使用常規收集基層照護資料的人口型觀察研究之紀錄盛行率與診斷趨勢",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101740",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453955/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577275/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hannah van Kolfschooten",
+        "Georges Hattab",
+        "Franziska Bächler",
+        "Giulio Stefanini"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101784",
+      "doi": "10.1016/j.lanepe.2026.101784",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13446344",
+      "pmid": "42564972",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101784",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101784"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564972",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564972/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「歐盟 Safe Hearts 計畫中的人工智慧：僅靠預測並不足夠」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Artificial intelligence in the EU Safe Hearts Plan: prediction alone is not enough",
+      "title_original": "Artificial intelligence in the EU Safe Hearts Plan: prediction alone is not enough",
+      "title_zh_tw": "歐盟 Safe Hearts 計畫中的人工智慧：僅靠預測並不足夠",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101784",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446344/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564972/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Clàudia Rodés-Bachs",
+        "Jon Sampedro",
+        "Mercè Amich",
+        "Alexandros Nikas",
+        "Konstantinos Koasidis",
+        "Claudio A. Belis",
+        "Dirk-Jan Van de Ven"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101754",
+      "doi": "10.1016/j.lanepe.2026.101754",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13310596",
+      "pmid": "42371534",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101754",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101754"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42371534",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42371534/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「現行歐洲氣候政策下戶外空氣污染預估健康影響的社會經濟評估：模型研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A Socioeconomic Assessment of Projected Health Impacts From Outdoor Air Pollution Under Current European Climate Policy: A Modelling Study",
+      "title_original": "A Socioeconomic Assessment of Projected Health Impacts From Outdoor Air Pollution Under Current European Climate Policy: A Modelling Study",
+      "title_zh_tw": "現行歐洲氣候政策下戶外空氣污染預估健康影響的社會經濟評估：模型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101754",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13310596/",
+        "https://pubmed.ncbi.nlm.nih.gov/42371534/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Thomas Theo Brehm",
+        "Askar Yedilbayev",
+        "Ihor Perehinets",
+        "Diane Ashiru-Oredope",
+        "Dumitru Chesov",
+        "Christoph Lange",
+        "Onno W. Akkerman",
+        "Anne M. Akkerman-Nijland",
+        "Aabid Ali",
+        "Muhammad Hasnain Ali",
+        "Alina Malic",
+        "Aysel Elman Aslanova",
+        "Filiz Duyar Ağca",
+        "Aylin Babalik",
+        "Yazeed Garba Bala",
+        "Ariful Basher",
+        "Adrian Belîi",
+        "Luisa Berckenhagen",
+        "Mathieu S. Bolhuis",
+        "Dragoş Băiceanu",
+        "Andrea Maurizio Cabibbe",
+        "Ivica Čabraja",
+        "Lucy Catteau",
+        "Emil Ceban",
+        "Olga Cerneţchi",
+        "Elena Chițan",
+        "Nelly Ciobanu",
+        "Osman Sezer Cirit",
+        "Valeriu Crudu",
+        "Raquel Duarte",
+        "Fusun Oner Eyuboglu",
+        "Federico Fama",
+        "Margaret M. Fitzgibbon",
+        "Agnes Gebhard",
+        "Evelina I. Gherghelegiu",
+        "Lorenzo Guglielmetti",
+        "Elmira Gurbanova",
+        "Sophia Hatzianastasiou",
+        "Eduard Kabasakalyan",
+        "Seth Kagia",
+        "Gülkan Karadağ",
+        "Khasan Safaev",
+        "Yousra Kherabi",
+        "Ohanna Kirakosyan",
+        "Freddy Eric Kitutu",
+        "Till Koch",
+        "Andrii Kruzhylin",
+        "Martin Kuhns",
+        "Niklas Köhler",
+        "Christoph Lange",
+        "Adriana Nívea Leão-Helder",
+        "Viktorija Lodeikina",
+        "Natalie Lorent",
+        "Kalambayi Francois Lumbala",
+        "Cecile Magis-Escurra",
+        "Beatrice Mahler",
+        "Francesca Mariotti",
+        "Anne Marie McLaughlin",
+        "Donika Bardhi Mema",
+        "Silja Mentula",
+        "Rūta Mereškevičienė",
+        "Alexander Mischnik",
+        "Liuba Mitrofan",
+        "Temesgen Mohammed",
+        "Charalampos Moschos",
+        "Tehmina Mustafa",
+        "Nosheen Nasir",
+        "Adriana Niguleanu",
+        "Juvenal Nkeramahame",
+        "Adam Nowiński",
+        "Ralf Otto-Knapp",
+        "Riccardo Paggi",
+        "Dimitrios Papaventsis",
+        "Elena N. Paskaleva-Georgieva",
+        "Sivan Haia Perl",
+        "Juliana Maira Watanabe Pinhata",
+        "Francesca Saluzzo",
+        "Helmut J.F. Salzer",
+        "Malay Sarkar",
+        "Otto D. Schoch",
+        "Muratali Serikbayev",
+        "Armine Serobyan",
+        "Sten Skogmar",
+        "Alena Skrahina",
+        "Billel Smara",
+        "Giovanni Sotgiu",
+        "Maja Stosic",
+        "Clara Suñer",
+        "Irma Tashi",
+        "Esra Taş",
+        "Yana Terleieva",
+        "Laura Tervo",
+        "Simon Tiberi",
+        "Mykhailo Anatolyovich Tkhorovskiy",
+        "Janina Trauth",
+        "Tuula Vasankari",
+        "Laima Vasiliauskaite",
+        "Kavindhran Velen",
+        "Valentina Vilc",
+        "Alexandru Voloc",
+        "Lusine Yeghiazaryan",
+        "Amina Zaffagnini"
+      ],
+      "canonical_id": "doi:10.1016/j.lanepe.2026.101797",
+      "doi": "10.1016/j.lanepe.2026.101797",
+      "issns": [
+        "2666-7762"
+      ],
+      "journal": "The Lancet Regional Health - Europe",
+      "pmcid": "PMC13430254",
+      "pmid": "42549001",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanepe.2026.101797",
+          "url": "https://doi.org/10.1016/j.lanepe.2026.101797"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42549001",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42549001/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「對結核病抗菌藥物管理採取行動的呼籲：為後代守護有效的結核病治療」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A call to action on antimicrobial stewardship in tuberculosis: safeguarding effective tuberculosis treatment for future generations",
+      "title_original": "A call to action on antimicrobial stewardship in tuberculosis: safeguarding effective tuberculosis treatment for future generations",
+      "title_zh_tw": "對結核病抗菌藥物管理採取行動的呼籲：為後代守護有效的結核病治療",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanepe.2026.101797",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430254/",
+        "https://pubmed.ncbi.nlm.nih.gov/42549001/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 33,
+    "by_article_type": {
+      "journal-article": 33
+    },
+    "by_source": {
+      "crossref": 33,
+      "pubmed": 32
+    },
+    "translated_articles": 33
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "the-lancet-regional-health-europe__2026-08__r01",
+  "edition_key": "the-lancet-regional-health-europe__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "the-lancet-regional-health-europe__2026-08__r01",
+  "retrieved_at": "2026-08-14T05:03:10Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r01",
+    "edition_key": "the-lancet-regional-health-europe__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "2666-7762",
+    "journal": "The Lancet Regional Health – Europe",
+    "journal_slug": "the-lancet-regional-health-europe",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "the-lancet-regional-health-europe__2026-08__r01",
+    "revision": 1,
+    "slug": "the-lancet-regional-health-europe",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 33,
+      "detail": null,
+      "query": "container=The Lancet Regional Health – Europe; publication=2026-08-01..2026-08-14",
+      "returned_count": 33,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 33,
+      "truncated": false
+    },
+    {
+      "accepted_count": 32,
+      "detail": null,
+      "query": "(\"The Lancet Regional Health – Europe\"[Journal] OR \"2666-7762\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 32,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 32,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"The Lancet Regional Health – Europe\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": "8fb9052bc6db4c6c46ecbe9f01156b4705886847fb70c1af4b0a8a08a18fd97a",
+    "response_generated_at": "2026-08-14T05:07:59Z",
+    "response_sha256": "b511aa880339335b881da759af15003b32880df56ce9ae97a7b718ea071d45ff",
+    "source_edition_sha256": "22260e0aec93d561e896389a96e602700baf8e1db3e084ca18fb908aa73cd3c0",
+    "status": "COMPLETE",
+    "total_articles": 33,
+    "translated_articles": 33
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
