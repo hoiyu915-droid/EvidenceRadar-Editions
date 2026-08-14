@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "EvidenceRadar_Editions_EditorialShortlistPolicy",
+  "policy_id": "editorial-shortlist-v1",
+  "semantics": "Deterministic title-and-bibliographic-metadata editorial shortlisting for deciding which small set should receive abstract acquisition next. It is not evidence-quality grading, novelty assessment, scope verification, or full-text review.",
+  "fetch_now_target": 48,
+  "hold_reserve_target": 144,
+  "eligible_prefetch_routes": [
+    "FETCH_CANDIDATE",
+    "RESERVE"
+  ],
+  "fetch_now_source_routes": [
+    "FETCH_CANDIDATE"
+  ],
+  "reserve_backfill_enabled": true,
+  "journal_fetch_caps": {
+    "FULL": 4,
+    "TRIAGE": 8,
+    "INDEX_ONLY": 2,
+    "SUSPENDED": 0
+  },
+  "journal_hold_caps": {
+    "FULL": 12,
+    "TRIAGE": 24,
+    "INDEX_ONLY": 4,
+    "SUSPENDED": 0
+  },
+  "category_order": [
+    "clinical_medicine",
+    "interdisciplinary",
+    "sport_nutrition_fitness",
+    "llm_research",
+    "human_ai",
+    "sport_science",
+    "chemistry",
+    "physics_astronomy",
+    "uncategorized"
+  ],
+  "category_minimums": {
+    "clinical_medicine": 10,
+    "interdisciplinary": 6,
+    "sport_nutrition_fitness": 6,
+    "llm_research": 5,
+    "human_ai": 5,
+    "sport_science": 3
+  },
+  "category_soft_caps": {
+    "clinical_medicine": 14,
+    "interdisciplinary": 10,
+    "sport_nutrition_fitness": 8,
+    "llm_research": 8,
+    "human_ai": 6,
+    "sport_science": 4,
+    "chemistry": 4,
+    "physics_astronomy": 4,
+    "uncategorized": 6
+  },
+  "category_hard_caps": {
+    "clinical_medicine": 18,
+    "interdisciplinary": 12,
+    "sport_nutrition_fitness": 10,
+    "llm_research": 10,
+    "human_ai": 8,
+    "sport_science": 5,
+    "chemistry": 5,
+    "physics_astronomy": 5,
+    "uncategorized": 8
+  },
+  "path_order": [
+    "GUIDANCE",
+    "EVIDENCE_SYNTHESIS",
+    "RANDOMIZED_TRIAL",
+    "REPLICATION_VALIDATION",
+    "SAFETY_SIGNAL",
+    "RESOURCE_BENCHMARK",
+    "PROSPECTIVE_LONGITUDINAL",
+    "OBSERVATIONAL_DESIGN",
+    "SURVEY",
+    "PROTOCOL",
+    "CASE_REPORT"
+  ],
+  "path_minimums": {
+    "GUIDANCE": 2,
+    "EVIDENCE_SYNTHESIS": 6,
+    "RANDOMIZED_TRIAL": 6,
+    "REPLICATION_VALIDATION": 4,
+    "SAFETY_SIGNAL": 4,
+    "RESOURCE_BENCHMARK": 4,
+    "PROSPECTIVE_LONGITUDINAL": 3,
+    "OBSERVATIONAL_DESIGN": 2,
+    "SURVEY": 1,
+    "PROTOCOL": 0,
+    "CASE_REPORT": 0
+  },
+  "path_soft_caps": {
+    "GUIDANCE": 4,
+    "EVIDENCE_SYNTHESIS": 10,
+    "RANDOMIZED_TRIAL": 10,
+    "REPLICATION_VALIDATION": 6,
+    "SAFETY_SIGNAL": 7,
+    "RESOURCE_BENCHMARK": 6,
+    "PROSPECTIVE_LONGITUDINAL": 5,
+    "OBSERVATIONAL_DESIGN": 3,
+    "SURVEY": 2,
+    "PROTOCOL": 1,
+    "CASE_REPORT": 1
+  },
+  "path_hard_caps": {
+    "GUIDANCE": 4,
+    "EVIDENCE_SYNTHESIS": 14,
+    "RANDOMIZED_TRIAL": 14,
+    "REPLICATION_VALIDATION": 8,
+    "SAFETY_SIGNAL": 10,
+    "RESOURCE_BENCHMARK": 10,
+    "PROSPECTIVE_LONGITUDINAL": 8,
+    "OBSERVATIONAL_DESIGN": 6,
+    "SURVEY": 4,
+    "PROTOCOL": 2,
+    "CASE_REPORT": 2
+  },
+  "near_duplicate_jaccard_threshold": 0.72,
+  "topic_signature_tokens": 4,
+  "topic_soft_cap_per_journal": 2,
+  "hold_topic_soft_cap_per_journal": 4,
+  "source_order": {
+    "pmcid": [
+      "EUROPE_PMC_PMCID",
+      "PUBMED_PMID",
+      "EUROPE_PMC_PMID",
+      "EUROPE_PMC_DOI"
+    ],
+    "pmid": [
+      "PUBMED_PMID",
+      "EUROPE_PMC_PMID",
+      "EUROPE_PMC_DOI"
+    ],
+    "doi": [
+      "EUROPE_PMC_DOI"
+    ]
+  }
+}
