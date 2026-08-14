@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "EvidenceRadar_Editions_ProcessingPolicies",
+  "semantics": "Controls future metadata acquisition, automatic translation handoff, and Pages projection. It never upgrades metadata to full-text or evidence evaluation.",
+  "defaults": {
+    "mode": "FULL"
+  },
+  "mode_defaults": {
+    "FULL": {
+      "source_record_limit": 500,
+      "pages_record_limit": 1000,
+      "auto_triage_threshold": 1000,
+      "triage_pages_record_limit": 250,
+      "translation_mode": "ALL"
+    },
+    "TRIAGE": {
+      "source_record_limit": 500,
+      "pages_record_limit": 250,
+      "auto_triage_threshold": null,
+      "triage_pages_record_limit": 250,
+      "translation_mode": "DEFERRED"
+    },
+    "INDEX_ONLY": {
+      "source_record_limit": 500,
+      "pages_record_limit": 100,
+      "auto_triage_threshold": null,
+      "triage_pages_record_limit": 100,
+      "translation_mode": "NONE"
+    },
+    "SUSPENDED": {
+      "source_record_limit": 0,
+      "pages_record_limit": 100,
+      "auto_triage_threshold": null,
+      "triage_pages_record_limit": 100,
+      "translation_mode": "NONE"
+    }
+  },
+  "journals": {
+    "scientific-reports": {
+      "mode": "TRIAGE",
+      "note": "High-volume broad-scope source. The 2026-08 MTD canonical edition already contains 1,888 records, so future runs retain bounded metadata coverage while blanket translation/commentary is deferred and the default Pages projection is capped."
+    }
+  }
+}
