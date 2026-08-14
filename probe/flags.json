@@ -1,0 +1,70 @@
+{
+  "count": 5,
+  "items": [
+    {
+      "slug": "journal-of-nutritional-biochemistry",
+      "canonical_id": "doi:10.1016/s0955-2863(26)00146-4",
+      "title": "Editorial Board",
+      "date": "2026-08-01",
+      "date_precision": "MONTH",
+      "article_type": "journal-article",
+      "doi": "10.1016/s0955-2863(26)00146-4",
+      "pmid": null,
+      "date_ok": true,
+      "keyword_flag": true,
+      "reason": "date_precision_or_front_matter"
+    },
+    {
+      "slug": "nutrition-research",
+      "canonical_id": "doi:10.1016/j.nutres.2026.07.004",
+      "title": "Immunomodulatory effects of palm-derived tocotrienol-rich fraction in healthy volunteers following influenza vaccination: A randomised clinical trial.",
+      "date": "2026-01-01",
+      "date_precision": "YEAR",
+      "article_type": "Journal Article",
+      "doi": "10.1016/j.nutres.2026.07.004",
+      "pmid": "42579941",
+      "date_ok": false,
+      "keyword_flag": false,
+      "reason": "date_precision_or_front_matter"
+    },
+    {
+      "slug": "psychology-of-sport-and-exercise",
+      "canonical_id": "doi:10.1016/j.psychsport.2026.103242",
+      "title": "Using the COM-B model to identify barriers and facilitators to implementing school-based yoga in UK secondary schools: A qualitative focus group study with recommendations.",
+      "date": "2026-01-01",
+      "date_precision": "YEAR",
+      "article_type": "Journal Article",
+      "doi": "10.1016/j.psychsport.2026.103242",
+      "pmid": "42562135",
+      "date_ok": false,
+      "keyword_flag": false,
+      "reason": "date_precision_or_front_matter"
+    },
+    {
+      "slug": "psychology-of-sport-and-exercise",
+      "canonical_id": "doi:10.1016/j.psychsport.2026.103240",
+      "title": "Understanding physical activity through physical fatigue, mental fatigue, and physical effort tendencies: a two-study investigation including the Italian Physical Effort Scale (PES) validation and a longitudinal study.",
+      "date": "2026-01-01",
+      "date_precision": "YEAR",
+      "article_type": "Journal Article",
+      "doi": "10.1016/j.psychsport.2026.103240",
+      "pmid": "42543096",
+      "date_ok": false,
+      "keyword_flag": false,
+      "reason": "date_precision_or_front_matter"
+    },
+    {
+      "slug": "psychology-of-sport-and-exercise",
+      "canonical_id": "doi:10.1016/j.psychsport.2026.103238",
+      "title": "Longitudinal changes in basic psychological needs and performance perceptions in specialized sport schools at the lower secondary level.",
+      "date": "2026-01-01",
+      "date_precision": "YEAR",
+      "article_type": "Journal Article",
+      "doi": "10.1016/j.psychsport.2026.103238",
+      "pmid": "42556764",
+      "date_ok": false,
+      "keyword_flag": false,
+      "reason": "date_precision_or_front_matter"
+    }
+  ]
+}

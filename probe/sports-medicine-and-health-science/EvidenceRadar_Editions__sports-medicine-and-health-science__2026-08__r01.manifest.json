@@ -1,0 +1,43 @@
+{
+  "article_count": 2,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T05:02:04Z",
+  "edition_id": "sports-medicine-and-health-science__2026-08__r01",
+  "edition_key": "sports-medicine-and-health-science__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 5981,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__sports-medicine-and-health-science__2026-08__r01.json",
+      "sha256": "29a1ce0ebd1705b6bf6fe4739a346a5c6dd73d91cf0fbe9b278fad5f65f46326"
+    },
+    "report_html": {
+      "bytes": 19676,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__sports-medicine-and-health-science__2026-08__r01.html",
+      "sha256": "eb1b731d535ad66b877cad6fbe420c5940236c0f3b3d3a62547fc80d7655f0d4"
+    }
+  },
+  "journal": "Sports Medicine and Health Science",
+  "journal_slug": "sports-medicine-and-health-science",
+  "manifest_name": "EvidenceRadar_Editions__sports-medicine-and-health-science__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "sports-medicine-and-health-science__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": null
+}

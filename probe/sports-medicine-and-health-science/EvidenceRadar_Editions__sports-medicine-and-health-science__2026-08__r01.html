@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Sports Medicine and Health Science 2026 年 8 月（MTD 至 8 月 14 日） 文獻刊物">
+<title>Sports Medicine and Health Science｜2026 年 8 月（MTD 至 8 月 14 日）｜EvidenceRadar Editions</title>
+<style>
+:root {
+  color-scheme: light;
+  --ink: #172033;
+  --muted: #5c667a;
+  --line: #dbe2ee;
+  --panel: #ffffff;
+  --soft: #f4f7fb;
+  --brand: #2457d6;
+  --brand-2: #6f42c1;
+  --ok: #18794e;
+  --warn: #9a6700;
+  --bad: #b42318;
+  --shadow: 0 10px 30px rgba(24, 37, 68, .08);
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: #eef2f8;
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "PingFang TC", sans-serif;
+  line-height: 1.55;
+}
+a { color: var(--brand); text-underline-offset: .16em; }
+button, input, select { font: inherit; }
+.hero {
+  background: linear-gradient(135deg, #10275f 0%, #244fc1 55%, #6f42c1 100%);
+  color: white;
+  padding: 32px max(20px, calc((100vw - 1180px) / 2));
+}
+.eyebrow { margin: 0 0 8px; letter-spacing: .08em; font-size: .78rem; font-weight: 750; opacity: .82; }
+.hero h1 { margin: 0; font-size: clamp(1.8rem, 4vw, 3.1rem); line-height: 1.15; }
+.hero .period { margin: 8px 0 0; font-size: 1.08rem; opacity: .94; }
+.hero-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin-top: 24px; }
+.metric { padding: 12px 14px; border: 1px solid rgba(255,255,255,.22); background: rgba(255,255,255,.1); border-radius: 12px; backdrop-filter: blur(8px); }
+.metric strong { display: block; font-size: 1.35rem; }
+.metric span { font-size: .82rem; opacity: .82; }
+.shell { width: min(1180px, calc(100% - 28px)); margin: 22px auto 60px; }
+.notice { margin: 0 0 16px; padding: 14px 16px; border-radius: 12px; background: #fff8db; border: 1px solid #ecd887; color: #5d4a00; }
+.notice strong { color: #493900; }
+.toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: grid;
+  grid-template-columns: minmax(240px, 2fr) repeat(3, minmax(145px, 1fr));
+  gap: 10px;
+  padding: 14px;
+  background: rgba(255,255,255,.96);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(12px);
+}
+.field { display: grid; gap: 5px; }
+.field label { font-size: .78rem; color: var(--muted); font-weight: 700; }
+.field input, .field select {
+  width: 100%;
+  min-height: 42px;
+  border: 1px solid #bfc9d9;
+  border-radius: 9px;
+  background: white;
+  color: var(--ink);
+  padding: 8px 10px;
+}
+.field input:focus, .field select:focus, button:focus-visible, a:focus-visible { outline: 3px solid rgba(36,87,214,.25); outline-offset: 1px; }
+.filter-row { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; }
+.check { display: inline-flex; align-items: center; gap: 6px; color: #344054; font-size: .9rem; }
+.check input { width: 17px; height: 17px; }
+.actions { margin-left: auto; display: flex; gap: 8px; }
+.btn { min-height: 38px; border: 1px solid #bfc9d9; border-radius: 9px; padding: 7px 12px; background: white; color: var(--ink); cursor: pointer; }
+.btn:hover { border-color: var(--brand); color: var(--brand); }
+.btn.primary { background: var(--brand); border-color: var(--brand); color: white; }
+.result-bar { display: flex; justify-content: space-between; gap: 12px; align-items: center; margin: 18px 2px 10px; color: var(--muted); }
+.result-bar strong { color: var(--ink); }
+.downloads { display: flex; gap: 10px; flex-wrap: wrap; }
+.downloads a { font-size: .86rem; }
+.section-card { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); margin: 14px 0; overflow: hidden; }
+.section-card > summary { cursor: pointer; padding: 14px 16px; font-weight: 760; }
+.coverage-wrap { overflow-x: auto; padding: 0 16px 16px; }
+table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+th, td { text-align: left; border-bottom: 1px solid var(--line); padding: 9px 8px; vertical-align: top; }
+th { color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .035em; }
+.status { display: inline-flex; border-radius: 999px; padding: 3px 9px; font-size: .76rem; font-weight: 800; }
+.status.success { background: #e8f6ef; color: var(--ok); }
+.status.partial { background: #fff3d6; color: var(--warn); }
+.status.no-results { background: #eef2f8; color: #475467; }
+.status.failed { background: #ffebe9; color: var(--bad); }
+.status.not-attempted { background: #fff3d6; color: var(--warn); }
+.paper-list { display: grid; gap: 12px; }
+.paper { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 18px; box-shadow: var(--shadow); }
+.paper[hidden] { display: none !important; }
+.paper-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; }
+.paper h2 { margin: 0; font-size: clamp(1.05rem, 2.1vw, 1.28rem); line-height: 1.35; }
+.original-title { margin: 7px 0 0; color: var(--muted); font-size: .9rem; }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0; }
+.badge { display: inline-flex; align-items: center; min-height: 25px; padding: 3px 9px; border-radius: 999px; background: #edf2ff; color: #2346a5; font-size: .76rem; font-weight: 750; }
+.badge.type { background: #f1eafe; color: #6240a0; }
+.badge.source { background: #e9f6f1; color: #176b4c; }
+.badge.pending { background: #fff1d6; color: #805600; }
+.summary { margin: 12px 0 0; padding: 12px 14px; background: var(--soft); border-left: 4px solid var(--brand); border-radius: 8px; }
+.summary .basis { display: block; color: var(--muted); font-size: .76rem; margin-top: 7px; }
+.meta { display: flex; flex-wrap: wrap; gap: 7px 15px; color: var(--muted); font-size: .84rem; margin-top: 12px; }
+.identifiers { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.identifier { display: inline-flex; align-items: center; border: 1px solid #ccd5e3; border-radius: 8px; padding: 5px 8px; font-size: .8rem; text-decoration: none; background: white; }
+.paper details { margin-top: 12px; border-top: 1px solid var(--line); padding-top: 10px; }
+.paper details summary { cursor: pointer; color: var(--brand); font-size: .86rem; font-weight: 700; }
+.detail-grid { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 7px 12px; margin-top: 10px; font-size: .84rem; }
+.detail-grid dt { color: var(--muted); }
+.detail-grid dd { margin: 0; overflow-wrap: anywhere; }
+.empty { display: none; padding: 30px; text-align: center; border: 1px dashed #aeb9ca; border-radius: 14px; background: white; color: var(--muted); }
+.empty.visible { display: block; }
+footer { color: var(--muted); font-size: .8rem; text-align: center; padding: 20px; }
+@media (max-width: 850px) {
+  .hero-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .toolbar { position: static; grid-template-columns: 1fr 1fr; }
+  .toolbar .field.search { grid-column: 1 / -1; }
+}
+@media (max-width: 560px) {
+  .hero { padding: 24px 18px; }
+  .shell { width: min(100% - 18px, 1180px); }
+  .hero-grid, .toolbar { grid-template-columns: 1fr; }
+  .toolbar .field.search, .filter-row { grid-column: 1; }
+  .actions { margin-left: 0; width: 100%; }
+  .actions .btn { flex: 1; }
+  .paper-head { display: block; }
+  .detail-grid { grid-template-columns: 1fr; }
+}
+@media print {
+  body { background: white; }
+  .toolbar, .downloads, .actions { display: none !important; }
+  .paper, .section-card { box-shadow: none; break-inside: avoid; }
+}
+</style>
+</head>
+<body data-edition-id="sports-medicine-and-health-science__2026-08__r01">
+<header class="hero">
+  <p class="eyebrow">EVIDENCERADAR EDITIONS · 可追溯期刊刊物</p>
+  <h1>Sports Medicine and Health Science</h1>
+  <p class="period">2026 年 8 月（MTD 至 8 月 14 日）</p>
+  <div class="hero-grid">
+    <div class="metric"><strong>2</strong><span>去重後文章</span></div>
+    <div class="metric"><strong>0</strong><span>繁中完成</span></div>
+    <div class="metric"><strong>來源完整</strong><span>本次來源狀態</span></div>
+    <div class="metric"><strong>r01</strong><span>刊物修訂版</span></div>
+  </div>
+</header>
+<main class="shell">
+  <p class="notice"><strong>資料語義：</strong>這份刊物是依目前公開來源重建指定出版日期範圍，並非重播當時 Radar 曾看見的世界。後續新增索引、PMCID、修正或撤回狀態可能改變重建結果。</p>
+  <section class="toolbar" aria-label="文章篩選工具" data-testid="interactive-filters">
+    <div class="field search"><label for="filter-query">搜尋題名、作者、DOI、PMID、摘要導讀</label><input id="filter-query" type="search" placeholder="輸入關鍵字…" autocomplete="off"></div>
+    <div class="field"><label for="filter-type">文章類型</label><select id="filter-type"><option value="">全部類型</option><option value="journal-article">期刊論文</option></select></div>
+    <div class="field"><label for="filter-source">來源</label><select id="filter-source"><option value="">全部來源</option><option value="crossref">Crossref</option></select></div>
+    <div class="field"><label for="filter-date">出版日期</label><select id="filter-date"><option value="">全部日期</option><option value="2026-08-01">2026-08-01</option></select></div>
+    <div class="filter-row">
+      <label class="check"><input id="filter-doi" type="checkbox">有 DOI</label>
+      <label class="check"><input id="filter-pmid" type="checkbox">有 PMID</label>
+      <label class="check"><input id="filter-pmcid" type="checkbox">有 PMCID／PMC 全文入口</label>
+      <label class="check"><input id="filter-translated" type="checkbox">繁中完成</label>
+      <div class="field"><label for="filter-sort">排序</label><select id="filter-sort"><option value="newest">日期：新到舊</option><option value="oldest">日期：舊到新</option><option value="title">題名</option></select></div>
+      <div class="actions"><button class="btn" id="clear-filters" type="button">清除篩選</button><button class="btn primary" id="toggle-details" type="button">展開全部細節</button></div>
+    </div>
+  </section>
+  <div class="result-bar"><span>目前顯示 <strong id="visible-count">2</strong> / 2 篇</span><span class="downloads"><a href="EvidenceRadar_Editions__sports-medicine-and-health-science__2026-08__r01.html" download>下載 HTML</a><a href="EvidenceRadar_Editions__sports-medicine-and-health-science__2026-08__r01.json" download>下載 JSON</a><a href="EvidenceRadar_Editions__sports-medicine-and-health-science__2026-08__r01.manifest.json" download>下載 manifest</a></span></div>
+  <details class="section-card"><summary>來源覆蓋與查詢狀態</summary><div class="coverage-wrap"><table><thead><tr><th>來源</th><th>狀態</th><th>取得</th><th>納入</th><th>來源總數</th><th>備註</th></tr></thead><tbody><tr><td>Crossref</td><td><span class="status success">成功</span></td><td>2</td><td>2</td><td>2</td><td>—<details><summary>查詢式</summary><code>container=Sports Medicine and Health Science; publication=2026-08-01..2026-08-14</code></details></td></tr><tr><td>PubMed</td><td><span class="status no-results">無結果</span></td><td>0</td><td>0</td><td>0</td><td>—<details><summary>查詢式</summary><code>(&quot;Sports Medicine and Health Science&quot;[Journal] OR &quot;2666-3376&quot;[ISSN]) AND (&quot;2026/08/01&quot;[Date - Publication] : &quot;2026/08/14&quot;[Date - Publication])</code></details></td></tr><tr><td>Europe PMC</td><td><span class="status no-results">無結果</span></td><td>0</td><td>0</td><td>0</td><td>—<details><summary>查詢式</summary><code>JOURNAL:&quot;Sports Medicine and Health Science&quot; AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]</code></details></td></tr></tbody></table></div></details>
+  <section class="paper-list" id="paper-list" aria-live="polite"><article class="paper" data-canonical-id="doi:10.1016/j.smhs.2026.07.006" data-search="Is exercise induced oxidative stress a friend or a foe? Is exercise induced oxidative stress a friend or a foe?  Jose Vina 10.1016/j.smhs.2026.07.006   journal-article crossref" data-date="2026-08-01" data-type="journal-article" data-sources="crossref" data-doi="1" data-pmid="0" data-pmcid="0" data-translated="0" data-sort-title="Is exercise induced oxidative stress a friend or a foe?"><div class="paper-head"><div><h2>Is exercise induced oxidative stress a friend or a foe?</h2><p class="original-title">原文題名（尚未翻譯）</p></div><time datetime="2026-08-01">2026-08</time></div><div class="badges"><span class="badge pending">待繁中</span><span class="badge type">期刊論文</span><span class="badge type">日期精度：月；實際日未明</span><span class="badge source">Crossref</span></div><div class="summary">尚未提供繁中導讀；目前僅顯示原文題名。<span class="basis">出版至 Pages 前應完成繁中翻譯契約。</span></div><div class="meta"><span><strong>作者：</strong>Jose Vina</span><span><strong>期刊：</strong>Sports Medicine and Health Science</span></div><div class="identifiers"><a class="identifier" href="https://doi.org/10.1016/j.smhs.2026.07.006" rel="noopener noreferrer">DOI 10.1016/j.smhs.2026.07.006</a></div><details><summary>識別碼、來源與永久身分</summary><dl class="detail-grid"><dt>Canonical ID</dt><dd>doi:10.1016/j.smhs.2026.07.006</dd><dt>日期精度</dt><dd>日期精度：月；實際日未明</dd><dt>ISSN</dt><dd>2666-3376</dd><dt>來源連結</dt><dd><a href="https://doi.org/10.1016/j.smhs.2026.07.006" rel="noopener noreferrer">Crossref</a></dd></dl></details></article><article class="paper" data-canonical-id="doi:10.1016/j.smhs.2026.07.009" data-search="From ROS signaling to redox resistance in exercise and metabolic disease From ROS signaling to redox resistance in exercise and metabolic disease  Ruy A. Louzada 10.1016/j.smhs.2026.07.009   journal-article crossref" data-date="2026-08-01" data-type="journal-article" data-sources="crossref" data-doi="1" data-pmid="0" data-pmcid="0" data-translated="0" data-sort-title="From ROS signaling to redox resistance in exercise and metabolic disease"><div class="paper-head"><div><h2>From ROS signaling to redox resistance in exercise and metabolic disease</h2><p class="original-title">原文題名（尚未翻譯）</p></div><time datetime="2026-08-01">2026-08</time></div><div class="badges"><span class="badge pending">待繁中</span><span class="badge type">期刊論文</span><span class="badge type">日期精度：月；實際日未明</span><span class="badge source">Crossref</span></div><div class="summary">尚未提供繁中導讀；目前僅顯示原文題名。<span class="basis">出版至 Pages 前應完成繁中翻譯契約。</span></div><div class="meta"><span><strong>作者：</strong>Ruy A. Louzada</span><span><strong>期刊：</strong>Sports Medicine and Health Science</span></div><div class="identifiers"><a class="identifier" href="https://doi.org/10.1016/j.smhs.2026.07.009" rel="noopener noreferrer">DOI 10.1016/j.smhs.2026.07.009</a></div><details><summary>識別碼、來源與永久身分</summary><dl class="detail-grid"><dt>Canonical ID</dt><dd>doi:10.1016/j.smhs.2026.07.009</dd><dt>日期精度</dt><dd>日期精度：月；實際日未明</dd><dt>ISSN</dt><dd>2666-3376</dd><dt>來源連結</dt><dd><a href="https://doi.org/10.1016/j.smhs.2026.07.009" rel="noopener noreferrer">Crossref</a></dd></dl></details></article></section>
+  <div class="empty" id="empty-state">沒有文章符合目前的篩選條件。</div>
+  <details class="section-card"><summary>刊物 provenance 與翻譯狀態</summary><div class="coverage-wrap"><dl class="detail-grid">
+    <dt>刊物 ID</dt><dd>sports-medicine-and-health-science__2026-08__r01</dd>
+    <dt>重建時間</dt><dd>2026-08-14T05:02:04Z</dd>
+    <dt>執行狀態</dt><dd>COMPLETE（來源完整）</dd>
+    <dt>Radar 參考版本</dt><dd>未 pin</dd>
+    <dt>Radar 設定雜湊</dt><dd>—</dd>
+    <dt>翻譯狀態</dt><dd>NOT_REQUESTED（0/2）</dd>
+    <dt>資料範圍</dt><dd>2026-08-01 至 2026-08-14</dd>
+  </dl></div></details>
+</main>
+<footer>EvidenceRadar Editions · HTML 由 canonical edition JSON 投影生成；不可在 HTML 內另加未寫回資料層的實質結論。</footer>
+<script>
+(() => {
+  const q = document.querySelector('#filter-query');
+  const type = document.querySelector('#filter-type');
+  const source = document.querySelector('#filter-source');
+  const date = document.querySelector('#filter-date');
+  const sort = document.querySelector('#filter-sort');
+  const doi = document.querySelector('#filter-doi');
+  const pmid = document.querySelector('#filter-pmid');
+  const pmcid = document.querySelector('#filter-pmcid');
+  const translated = document.querySelector('#filter-translated');
+  const clear = document.querySelector('#clear-filters');
+  const expand = document.querySelector('#toggle-details');
+  const list = document.querySelector('#paper-list');
+  const cards = Array.from(list.querySelectorAll('.paper'));
+  const visible = document.querySelector('#visible-count');
+  const empty = document.querySelector('#empty-state');
+  let detailsOpen = false;
+
+  const norm = value => String(value || '').normalize('NFKC').toLocaleLowerCase('zh-Hant');
+  const apply = () => {
+    const needle = norm(q.value).trim();
+    const wantedType = type.value;
+    const wantedSource = source.value;
+    const wantedDate = date.value;
+    let shown = 0;
+    for (const card of cards) {
+      const ok = (!needle || norm(card.dataset.search).includes(needle))
+        && (!wantedType || card.dataset.type === wantedType)
+        && (!wantedSource || card.dataset.sources.split('|').includes(wantedSource))
+        && (!wantedDate || card.dataset.date === wantedDate)
+        && (!doi.checked || card.dataset.doi === '1')
+        && (!pmid.checked || card.dataset.pmid === '1')
+        && (!pmcid.checked || card.dataset.pmcid === '1')
+        && (!translated.checked || card.dataset.translated === '1');
+      card.hidden = !ok;
+      if (ok) shown += 1;
+    }
+    const visibleCards = cards.filter(card => !card.hidden);
+    visibleCards.sort((a, b) => {
+      if (sort.value === 'oldest') return a.dataset.date.localeCompare(b.dataset.date) || a.dataset.sortTitle.localeCompare(b.dataset.sortTitle, 'zh-Hant');
+      if (sort.value === 'title') return a.dataset.sortTitle.localeCompare(b.dataset.sortTitle, 'zh-Hant');
+      return b.dataset.date.localeCompare(a.dataset.date) || a.dataset.sortTitle.localeCompare(b.dataset.sortTitle, 'zh-Hant');
+    });
+    for (const card of visibleCards) list.appendChild(card);
+    visible.textContent = String(shown);
+    empty.classList.toggle('visible', shown === 0);
+  };
+
+  for (const control of [q, type, source, date, sort, doi, pmid, pmcid, translated]) {
+    control.addEventListener(control.tagName === 'INPUT' && control.type === 'search' ? 'input' : 'change', apply);
+  }
+  clear.addEventListener('click', () => {
+    q.value = '';
+    type.value = '';
+    source.value = '';
+    date.value = '';
+    sort.value = 'newest';
+    doi.checked = pmid.checked = pmcid.checked = translated.checked = false;
+    apply();
+    q.focus();
+  });
+  expand.addEventListener('click', () => {
+    detailsOpen = !detailsOpen;
+    for (const details of list.querySelectorAll('details')) details.open = detailsOpen;
+    expand.textContent = detailsOpen ? '收合全部細節' : '展開全部細節';
+  });
+  apply();
+})();
+</script>
+</body>
+</html>

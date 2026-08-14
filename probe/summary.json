@@ -1,0 +1,198 @@
+{
+  "period": "2026-08",
+  "through": "2026-08-14",
+  "journals": [
+    {
+      "slug": "journal-of-nutritional-biochemistry",
+      "journal": "The Journal of Nutritional Biochemistry",
+      "articles": 21,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 21,
+          "detail": null,
+          "query": "container=The Journal of Nutritional Biochemistry; publication=2026-08-01..2026-08-14",
+          "returned_count": 21,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 21,
+          "truncated": false
+        },
+        {
+          "accepted_count": 20,
+          "detail": null,
+          "query": "(\"The Journal of Nutritional Biochemistry\"[Journal] OR \"0955-2863\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 20,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 20,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"The Journal of Nutritional Biochemistry\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 4,
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "total_available": 4,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "journal-of-sport-and-health-science",
+      "journal": "Journal of Sport and Health Science",
+      "articles": 0,
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "container=Journal of Sport and Health Science; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "(\"Journal of Sport and Health Science\"[Journal] OR \"2095-2546\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 0,
+          "source": "pubmed",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Journal of Sport and Health Science\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "nutrition-research",
+      "journal": "Nutrition Research",
+      "articles": 18,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 17,
+          "detail": null,
+          "query": "container=Nutrition Research; publication=2026-08-01..2026-08-14",
+          "returned_count": 17,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 17,
+          "truncated": false
+        },
+        {
+          "accepted_count": 14,
+          "detail": null,
+          "query": "(\"Nutrition Research\"[Journal] OR \"0271-5317\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 14,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 14,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Nutrition Research\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "psychology-of-sport-and-exercise",
+      "journal": "Psychology of Sport and Exercise",
+      "articles": 3,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "container=Psychology of Sport and Exercise; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        },
+        {
+          "accepted_count": 3,
+          "detail": null,
+          "query": "(\"Psychology of Sport and Exercise\"[Journal] OR \"1469-0292\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 3,
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "total_available": 3,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Psychology of Sport and Exercise\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 3,
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "total_available": 3,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "sports-medicine-and-health-science",
+      "journal": "Sports Medicine and Health Science",
+      "articles": 2,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 2,
+          "detail": null,
+          "query": "container=Sports Medicine and Health Science; publication=2026-08-01..2026-08-14",
+          "returned_count": 2,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 2,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "(\"Sports Medicine and Health Science\"[Journal] OR \"2666-3376\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 0,
+          "source": "pubmed",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        },
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "JOURNAL:\"Sports Medicine and Health Science\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    }
+  ],
+  "total_articles": 44,
+  "flag_count": 5
+}
