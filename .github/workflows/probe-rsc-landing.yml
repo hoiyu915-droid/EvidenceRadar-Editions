@@ -96,11 +96,8 @@ jobs:
           from urllib.parse import quote
 
           dois = [
-              # RSC official first-published dates are known for these controls:
-              # D5SC08870D = 2026-03-12; D6SC90108E = 2026-05-13.
               "10.1039/D5SC08870D",
               "10.1039/D6SC90108E",
-              # Current created-date candidate.
               "10.1039/D6SC05688A",
           ]
           s = requests.Session()
@@ -126,4 +123,59 @@ jobs:
                   snippets.extend(re.findall(pat, text, flags=re.I | re.S))
               compact = [re.sub(r"\s+", " ", x).strip() for x in snippets[:20]]
               print("UNIXREF_DATES", doi, json.dumps(compact, ensure_ascii=False))
+          PY
+
+      - name: Backtest Crossref created date against RSC First published
+        run: |
+          python - <<'PY'
+          import json
+          import requests
+          from urllib.parse import quote
+
+          # Expected dates are transcribed from official RSC Chemical Science
+          # article/collection pages. They are used only to validate whether the
+          # Crossref DOI creation day is a stable RSC-specific surrogate.
+          expected = {
+              "10.1039/D6SC02555B": "2026-05-12",
+              "10.1039/D6SC01189F": "2026-04-08",
+              "10.1039/D5SC08419A": "2026-02-02",
+              "10.1039/D6SC02112C": "2026-06-10",
+              "10.1039/D6SC01835A": "2026-05-15",
+              "10.1039/D6SC00738D": "2026-05-21",
+              "10.1039/D6SC01985D": "2026-04-24",
+              "10.1039/D6SC03294J": "2026-05-19",
+              "10.1039/D6SC00025H": "2026-03-23",
+              "10.1039/D6SC00603E": "2026-03-10",
+              "10.1039/D6SC00439C": "2026-03-30",
+              "10.1039/D5SC09496H": "2026-02-25",
+              "10.1039/D5SC08870D": "2026-03-12",
+              "10.1039/D5SC08277C": "2026-02-18",
+              "10.1039/D5SC08561F": "2026-02-11",
+              "10.1039/D5SC06930K": "2026-01-28",
+              "10.1039/D5SC09508E": "2026-02-02",
+              "10.1039/D5SC09619G": "2026-01-15",
+              "10.1039/D5SC07068F": "2026-01-09",
+              "10.1039/D5SC08183A": "2026-01-07",
+              "10.1039/D6SC90108E": "2026-05-13",
+          }
+          s = requests.Session()
+          s.headers.update({"User-Agent": "EvidenceRadar-Editions/0.2 rsc-created-backtest (mailto:noreply@example.com)"})
+          rows = []
+          for doi, official in expected.items():
+              r = s.get("https://api.crossref.org/works/" + quote(doi, safe=""), timeout=30)
+              r.raise_for_status()
+              msg = r.json()["message"]
+              parts = ((msg.get("created") or {}).get("date-parts") or [[]])[0]
+              created = "-".join(f"{x:02d}" if i else f"{x:04d}" for i, x in enumerate(parts[:3])) if len(parts) >= 3 else None
+              row = {"doi": doi, "official_first_published": official, "crossref_created": created, "match": created == official}
+              rows.append(row)
+              print(json.dumps(row))
+          mismatches = [r for r in rows if not r["match"]]
+          print(json.dumps({
+              "sample_size": len(rows),
+              "matches": len(rows) - len(mismatches),
+              "mismatches": len(mismatches),
+              "match_rate": (len(rows) - len(mismatches)) / len(rows),
+              "mismatch_rows": mismatches,
+          }, indent=2))
           PY
