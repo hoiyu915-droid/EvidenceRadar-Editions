@@ -79,6 +79,7 @@
     "manifest_json": "EvidenceRadar_Editions__machine-learning__2026-08__r01.manifest.json",
     "report_html": "EvidenceRadar_Editions__machine-learning__2026-08__r01.html",
     "stem": "EvidenceRadar_Editions__machine-learning__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__machine-learning__2026-08__r01.translation-request.zh-TW.json",
     "translation_response_json": "EvidenceRadar_Editions__machine-learning__2026-08__r01.translation-response.zh-TW.json"
   },
   "counts": {
@@ -110,7 +111,7 @@
       "source_match_count": 2
     }
   },
-  "retrieved_at": "2026-08-13T22:54:59Z",
+  "retrieved_at": "2026-08-14T00:41:00Z",
   "run_status": "COMPLETE",
   "schema_version": "2.0",
   "scope": {
@@ -161,16 +162,17 @@
   ],
   "translation": {
     "language": "zh-TW",
-    "request_binding_sha256": "f26bf938964fe9ce8f4722d614e00b4b76b2c6e9022b1f14ebe614149da20719",
-    "response_sha256": "741ae8bc2c4c643efa6077d4dda0c751065ee56e9452d7881689a61a5615d070",
-    "source_edition_sha256": "34f5c51c77e379b8b3bcee1a0dd5bec4172ae8ace07d4931be1b73c2e0d9666b",
+    "request_binding_sha256": "ca865060aee58766091ae2f276cd4b7bcf08f5d98eb71d074b2b8d32f3e7abd2",
+    "response_generated_at": "2026-08-14T00:41:00Z",
+    "response_sha256": "db34ab2881c2c53b03e2bdef62ddbf0ec0df8e66215cc1a80ae3b48975a419b5",
+    "source_edition_sha256": "d9524161b3e5fcea9eece85ed23e00517cfada6c2dddf7642a92a0b402f7de97",
     "status": "COMPLETE",
     "total_articles": 2,
     "translated_articles": 2
   },
   "upstream_radar": {
     "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
-    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "config_sha256": null,
     "control_plane": "config/radar_master.json",
     "matched_source_ids": [],
     "repository": "hoiyu915-droid/EvidenceRadar",
