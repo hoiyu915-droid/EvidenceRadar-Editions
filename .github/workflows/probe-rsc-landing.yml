@@ -51,7 +51,6 @@ jobs:
               "sampled": len(candidates),
           }, indent=2))
 
-          # Known official Chemical Science article landing used as a control.
           probes = [("10.1039/d6sc90108e", "known-control")]
           probes += [(str(item.get("DOI") or "").lower(), "candidate") for item in candidates]
 
@@ -78,7 +77,7 @@ jobs:
                   row["error"] = f"{type(exc).__name__}: {exc}"
               results.append(row)
               print(json.dumps(row, ensure_ascii=False))
-              time.sleep(0.15)
+              time.sleep(0.10)
 
           ok = [x for x in results if x.get("status") == 200 and x.get("first_published")]
           print(json.dumps({
@@ -86,4 +85,45 @@ jobs:
               "first_published_ok": len(ok),
               "first_published_dois": [x["doi"] for x in ok],
           }, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Inspect Crossref REST and Unixref date metadata
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import requests
+          from urllib.parse import quote
+
+          dois = [
+              # RSC official first-published dates are known for these controls:
+              # D5SC08870D = 2026-03-12; D6SC90108E = 2026-05-13.
+              "10.1039/D5SC08870D",
+              "10.1039/D6SC90108E",
+              # Current created-date candidate.
+              "10.1039/D6SC05688A",
+          ]
+          s = requests.Session()
+          s.headers.update({"User-Agent": "EvidenceRadar-Editions/0.2 crossref-unixref-probe (mailto:noreply@example.com)"})
+          date_keys = ["created", "deposited", "indexed", "issued", "published", "published-online", "published-print", "posted", "accepted"]
+          for doi in dois:
+              rest = s.get("https://api.crossref.org/works/" + quote(doi, safe=""), timeout=30)
+              rest.raise_for_status()
+              msg = rest.json()["message"]
+              print("REST", doi, json.dumps({k: msg.get(k) for k in date_keys if msg.get(k) is not None}, ensure_ascii=False))
+
+              u = "https://api.crossref.org/v1/works/" + quote(doi, safe="") + "/transform/application/vnd.crossref.unixref+xml"
+              xr = s.get(u, timeout=30)
+              print("UNIXREF_STATUS", doi, xr.status_code, xr.headers.get("content-type"), len(xr.content))
+              text = xr.text
+              snippets = []
+              for pat in (
+                  r"<publication_date[^>]*>.*?</publication_date>",
+                  r"<posted_date[^>]*>.*?</posted_date>",
+                  r"<acceptance_date[^>]*>.*?</acceptance_date>",
+                  r"<date[^>]*>.*?</date>",
+              ):
+                  snippets.extend(re.findall(pat, text, flags=re.I | re.S))
+              compact = [re.sub(r"\s+", " ", x).strip() for x in snippets[:20]]
+              print("UNIXREF_DATES", doi, json.dumps(compact, ensure_ascii=False))
           PY
