@@ -1,0 +1,132 @@
+{
+  "journals": [
+    {
+      "journal": "Chemical Science",
+      "slug": "chemical-science",
+      "issn": "2041-6520",
+      "articles": 0,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 0,
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "query": "container=Chemical Science; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "Journal of Machine Learning Research",
+      "slug": "journal-of-machine-learning-research",
+      "issn": "1532-4435",
+      "articles": 0,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 0,
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "query": "container=Journal of Machine Learning Research; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "issn": "2041-1723",
+      "articles": 465,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 465,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=Nature Communications; publication=2026-08-01..2026-08-14",
+          "returned_count": 465,
+          "accepted_count": 465,
+          "total_available": 465,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "query": "(\"Nature Communications\"[Journal] OR \"2041-1723\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 82,
+          "accepted_count": 82,
+          "total_available": 82,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "query": "JOURNAL:\"Nature Communications\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 70,
+          "accepted_count": 70,
+          "total_available": 70,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "issn": "2045-2322",
+      "articles": 1888,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 1888,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=Scientific Reports; publication=2026-08-01..2026-08-14",
+          "returned_count": 1888,
+          "accepted_count": 1888,
+          "total_available": 1888,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "query": "(\"Scientific Reports\"[Journal] OR \"2045-2322\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 261,
+          "accepted_count": 261,
+          "total_available": 261,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "query": "JOURNAL:\"Scientific Reports\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 238,
+          "accepted_count": 238,
+          "total_available": 238,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    }
+  ]
+}
