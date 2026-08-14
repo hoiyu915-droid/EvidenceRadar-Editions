@@ -1,0 +1,98 @@
+{
+  "period": "2026-08",
+  "through": "2026-08-14",
+  "journals": [
+    {
+      "slug": "computer-speech-and-language",
+      "journal": "Computer Speech & Language",
+      "articles": 1,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 1,
+          "detail": null,
+          "query": "container=Computer Speech & Language; publication=2026-08-01..2026-08-14",
+          "returned_count": 1,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 1,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "computers-and-education-artificial-intelligence",
+      "journal": "Computers & Education: Artificial Intelligence",
+      "articles": 4,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 4,
+          "detail": null,
+          "query": "container=Computers & Education: Artificial Intelligence; publication=2026-08-01..2026-08-14",
+          "returned_count": 4,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 4,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "computers-in-human-behavior-artificial-humans",
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "articles": 31,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 31,
+          "detail": null,
+          "query": "container=Computers in Human Behavior: Artificial Humans; publication=2026-08-01..2026-08-14",
+          "returned_count": 31,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 31,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "computers-in-human-behavior-reports",
+      "journal": "Computers in Human Behavior Reports",
+      "articles": 103,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "accepted_count": 103,
+          "detail": null,
+          "query": "container=Computers in Human Behavior Reports; publication=2026-08-01..2026-08-14",
+          "returned_count": 103,
+          "source": "crossref",
+          "status": "SUCCESS",
+          "total_available": 103,
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "slug": "information-processing-and-management",
+      "journal": "Information Processing & Management",
+      "articles": 0,
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "accepted_count": 0,
+          "detail": null,
+          "query": "container=Information Processing & Management; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "total_available": 0,
+          "truncated": false
+        }
+      ]
+    }
+  ],
+  "total_articles": 139,
+  "flag_count": 0
+}
