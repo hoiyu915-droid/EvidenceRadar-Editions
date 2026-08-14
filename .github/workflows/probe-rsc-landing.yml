@@ -1,4 +1,4 @@
-name: Probe RSC first-party article landings
+name: Prepare Chemical Science translation input
 
 on:
   push:
@@ -9,66 +9,42 @@ permissions:
   contents: write
 
 jobs:
-  probe:
+  prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.12"
-      - name: Install package
-        run: python -m pip install -e .
-      - name: Unit-test Chemical Science adapter
-        run: python -m unittest tests.test_rsc_chemical_science -v
-      - name: Build live untranslated Chemical Science run
+      - name: Emit compact translation input
         run: |
           python - <<'PY'
           import json
-          from datetime import date
           from pathlib import Path
-          from evidenceradar_editions.engine import build_run
-          from evidenceradar_editions.models import EditionSpec
-
-          spec = EditionSpec(
-              journal="Chemical Science",
-              start_date=date(2026, 8, 1),
-              end_date=date(2026, 8, 14),
-              slug="chemical-science",
-              issn="2041-6539",
-              sources=("rsc_chemical_science",),
-              max_records=500,
-              period_kind="month",
-              revision=1,
+          run = json.loads(Path('probe/chemical-science-live-untranslated.json').read_text(encoding='utf-8'))
+          rows = []
+          for article in run['articles']:
+              rows.append({
+                  'canonical_id': article['canonical_id'],
+                  'doi': article['doi'],
+                  'publication_date': article['publication_date'],
+                  'article_type': article['article_type'],
+                  'title': article['title_original'],
+              })
+          rows.sort(key=lambda x: (x['publication_date'], x['doi']))
+          assert len(rows) == 76
+          Path('probe/chemical-science-translation-input.jsonl').write_text(
+              ''.join(json.dumps(row, ensure_ascii=False, separators=(',', ':')) + '\n' for row in rows),
+              encoding='utf-8',
           )
-          run = build_run(spec)
-          Path("probe").mkdir(exist_ok=True)
-          Path("probe/chemical-science-live-untranslated.json").write_text(
-              json.dumps(run, indent=2, ensure_ascii=False, sort_keys=True) + "\n",
-              encoding="utf-8",
-          )
-          print(json.dumps({
-              "run_status": run["run_status"],
-              "article_count": run["counts"]["articles"],
-              "by_article_type": run["counts"]["by_article_type"],
-              "source_checks": run["source_checks"],
-          }, indent=2, ensure_ascii=False))
-          assert run["run_status"] == "COMPLETE"
-          assert run["counts"]["articles"] == 76
-          assert run["counts"]["by_article_type"] == {"Correction": 2, "Journal Article": 74}
-          check = run["source_checks"][0]
-          assert check["status"] == "SUCCESS"
-          assert check["returned_count"] == 83
-          assert check["accepted_count"] == 76
-          assert check["total_available"] == 83
-          assert "issue furniture excluded=7" in check["detail"]
-          assert "unexpected records rejected=0" in check["detail"]
+          print(json.dumps({'count': len(rows), 'first': rows[0], 'last': rows[-1]}, ensure_ascii=False, indent=2))
           PY
-      - name: Commit live untranslated run
+      - name: Commit translation input
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add -- probe/chemical-science-live-untranslated.json
+          git add -- probe/chemical-science-translation-input.jsonl
           git diff --cached --quiet && exit 0
-          git commit -m 'data: capture Chemical Science live adapter run'
+          git commit -m 'data: prepare Chemical Science translation input'
           git push origin HEAD:fix/chemical-science-first-party
