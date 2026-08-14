@@ -1,0 +1,1629 @@
+{
+  "jmlr": {
+    "count": 0,
+    "candidate_count": null,
+    "errors": [],
+    "items": []
+  },
+  "tmlr": {
+    "count": 80,
+    "candidate_count": 80,
+    "errors": [],
+    "items": [
+      {
+        "title": "A Survey on Behavioral Data Representation Learning",
+        "authors": [
+          "Xi Chen",
+          "Siwei Zhang",
+          "kangxiang jia",
+          "Sijia Peng",
+          "Yuxuan Wang",
+          "Liang Su",
+          "Xinyi Huang",
+          "Jiarong Xu",
+          "Yun Xiong",
+          "Philip S. Yu"
+        ],
+        "openreview_id": "NSdV2qvglw",
+        "url": "https://openreview.net/forum?id=NSdV2qvglw",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=NSdV2qvglw')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NSdV2qvglw')"
+        ]
+      },
+      {
+        "title": "Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review",
+        "authors": [
+          "Rachel S.Y. Teo",
+          "Yutaro Yamada",
+          "Shashank Kotyan",
+          "Yuki Imajuku",
+          "Tarin Clanuwat"
+        ],
+        "openreview_id": "7iX2Z2bPFB",
+        "url": "https://openreview.net/forum?id=7iX2Z2bPFB",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=7iX2Z2bPFB')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=7iX2Z2bPFB')"
+        ]
+      },
+      {
+        "title": "Variational Set Operator Networks: Uncertainty-Aware Meta-Learning via Probabilistic Neural Operators",
+        "authors": [
+          "William Ryan",
+          "Dirk Husmeier",
+          "Vladislav Vyshemirsky"
+        ],
+        "openreview_id": "rLgrHnZtzh",
+        "url": "https://openreview.net/forum?id=rLgrHnZtzh",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=rLgrHnZtzh')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=rLgrHnZtzh')"
+        ]
+      },
+      {
+        "title": "BiScale-GTR: Fragment-Aware graph Transformers for Multi-Scale Molecular Representation Learning",
+        "authors": [
+          "Yi Yang",
+          "Ovidiu Daescu"
+        ],
+        "openreview_id": "97L9IRPWu7",
+        "url": "https://openreview.net/forum?id=97L9IRPWu7",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=97L9IRPWu7')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=97L9IRPWu7')"
+        ]
+      },
+      {
+        "title": "Few Contrastive Attention Heads Enable Visual Grounding in Large Vision-Language Models",
+        "authors": [
+          "Neha Sengar",
+          "Andres Saurez",
+          "Dongsoo Har",
+          "Sangkeum Lee"
+        ],
+        "openreview_id": "CnrAiXbw8a",
+        "url": "https://openreview.net/forum?id=CnrAiXbw8a",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=CnrAiXbw8a')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=CnrAiXbw8a')"
+        ]
+      },
+      {
+        "title": "The Embodiment Gap in Robot Foundation Models",
+        "authors": [
+          "Yukiyasu Domae",
+          "Keisuke Shirai",
+          "Hanbit Oh",
+          "Ryoichi Nakajo",
+          "Tomohiro Motoda",
+          "Koshi Makihara",
+          "Masaki Murooka",
+          "Takuma Yagi",
+          "Yoshiaki Bando",
+          "Ryo Hanai"
+        ],
+        "openreview_id": "D0XcH9Cso4",
+        "url": "https://openreview.net/forum?id=D0XcH9Cso4",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=D0XcH9Cso4')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=D0XcH9Cso4')"
+        ]
+      },
+      {
+        "title": "ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning",
+        "authors": [
+          "Wenwu Fan",
+          "Zhijie Xia",
+          "Qihong Lin",
+          "Zhuo Zheng",
+          "Sihao Wang",
+          "QiangChen",
+          "Liangsheng Zhu"
+        ],
+        "openreview_id": "8sBZSgAkAH",
+        "url": "https://openreview.net/forum?id=8sBZSgAkAH",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=8sBZSgAkAH')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=8sBZSgAkAH')"
+        ]
+      },
+      {
+        "title": "Learning as Homeostasis: Beyond the Optimization Paradigm in Machine Intelligence",
+        "authors": [
+          "Zaryab Rahman",
+          "Mattia Ottoborgo"
+        ],
+        "openreview_id": "sgvPGWZ1uv",
+        "url": "https://openreview.net/forum?id=sgvPGWZ1uv",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=sgvPGWZ1uv')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=sgvPGWZ1uv')"
+        ]
+      },
+      {
+        "title": "HyperCLIP: Prompt-Conditioned Image Encoders for Contrastive Vision-Language Pre-training",
+        "authors": [
+          "Victor Akinwande",
+          "Mohammad Sadegh Norouzzadeh",
+          "Devin Willmott",
+          "Anna Bair",
+          "Madan Ravi Ganesh",
+          "J Zico Kolter"
+        ],
+        "openreview_id": "kX7iwF5s3v",
+        "url": "https://openreview.net/forum?id=kX7iwF5s3v",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=kX7iwF5s3v')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=kX7iwF5s3v')"
+        ]
+      },
+      {
+        "title": "Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models",
+        "authors": [
+          "Shaunak A. Mehta",
+          "Ananya Hazarika",
+          "Haochen Zhang",
+          "Fan Yang",
+          "Ryo Moriyama",
+          "Wenkai Li",
+          "Yash Patel",
+          "Kanata Suzuki"
+        ],
+        "openreview_id": "AXv7OjfuiT",
+        "url": "https://openreview.net/forum?id=AXv7OjfuiT",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=AXv7OjfuiT')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=AXv7OjfuiT')"
+        ]
+      },
+      {
+        "title": "Aligning Path-based Link Prediction with Human Understanding of Valid Reasoning",
+        "authors": [
+          "Christoph Wehner",
+          "Lukas Bahr",
+          "Erik Voigt",
+          "Janne Wagner",
+          "Jakob Elias Wagner",
+          "Ute Schmid"
+        ],
+        "openreview_id": "FrMBxE7J0v",
+        "url": "https://openreview.net/forum?id=FrMBxE7J0v",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=FrMBxE7J0v')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=FrMBxE7J0v')"
+        ]
+      },
+      {
+        "title": "Patch-based Memory Gate Model in Time Series Foundation Model",
+        "authors": [
+          "Samuel Yoon",
+          "Jongwon Kim",
+          "Juyoung Ha",
+          "Young Myoung Ko"
+        ],
+        "openreview_id": "Fm2ddpR0aw",
+        "url": "https://openreview.net/forum?id=Fm2ddpR0aw",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Fm2ddpR0aw')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Fm2ddpR0aw')"
+        ]
+      },
+      {
+        "title": "Online Learning and Unlearning: Efficient Algorithms with Near-Optimal Regret Guarantees",
+        "authors": [
+          "Yaxi Hu",
+          "Bernhard SchÃ¶lkopf",
+          "Amartya Sanyal"
+        ],
+        "openreview_id": "lyvCVfTdiY",
+        "url": "https://openreview.net/forum?id=lyvCVfTdiY",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=lyvCVfTdiY')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=lyvCVfTdiY')"
+        ]
+      },
+      {
+        "title": "Symbolic Graphics Programming with Large Language Models",
+        "authors": [
+          "Yamei Chen",
+          "Haoquan Zhang",
+          "Yangyi Huang",
+          "Zeju Qiu",
+          "Kaipeng Zhang",
+          "Yandong Wen",
+          "Weiyang Liu"
+        ],
+        "openreview_id": "JfK8EHJAQn",
+        "url": "https://openreview.net/forum?id=JfK8EHJAQn",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=JfK8EHJAQn')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=JfK8EHJAQn')"
+        ]
+      },
+      {
+        "title": "Learning What to Fail On: Failure-Mode Contextual Bandits for Adversarial Data Curation",
+        "authors": [
+          "Roie Kazoom",
+          "Ofir Cohen",
+          "Rami Puzis",
+          "Asaf Shabtai",
+          "Ofer Hadar"
+        ],
+        "openreview_id": "DSpKdN6whZ",
+        "url": "https://openreview.net/forum?id=DSpKdN6whZ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=DSpKdN6whZ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=DSpKdN6whZ')"
+        ]
+      },
+      {
+        "title": "FairT2I: Latent Variable Guidance for Training-Free Bias Mitigation with LLM-Assisted Bias Detection",
+        "authors": [
+          "Jinya Sakurai",
+          "Yuki Koyama",
+          "Issei Sato"
+        ],
+        "openreview_id": "WHYE1WjMYf",
+        "url": "https://openreview.net/forum?id=WHYE1WjMYf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=WHYE1WjMYf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=WHYE1WjMYf')"
+        ]
+      },
+      {
+        "title": "Deep Models, Shallow Alignment: Uncovering the Granularity Mismatch in Neural Decoding",
+        "authors": [
+          "Yang Du",
+          "Siyuan Dai",
+          "Yonghao Song",
+          "Paul Thompson",
+          "Haoteng Tang",
+          "Liang Zhan"
+        ],
+        "openreview_id": "SzDHkICZpm",
+        "url": "https://openreview.net/forum?id=SzDHkICZpm",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=SzDHkICZpm')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=SzDHkICZpm')"
+        ]
+      },
+      {
+        "title": "World Model Anomaly Detection with a Latent Linear Prior",
+        "authors": [
+          "Zarif Ikram",
+          "Harry Zhao",
+          "Ling Pan",
+          "Alex Lamb",
+          "Dianbo Liu"
+        ],
+        "openreview_id": "VLIzLK3CfR",
+        "url": "https://openreview.net/forum?id=VLIzLK3CfR",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=VLIzLK3CfR')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=VLIzLK3CfR')"
+        ]
+      },
+      {
+        "title": "Partial Observation Inversion and Batched Belief-State Planning for Information Gathering POMDPs",
+        "authors": [
+          "Robert J. Moss",
+          "David Zhen Yin",
+          "Mahdi Al-Husseini",
+          "Patrick T Belliveau",
+          "Jef Caers",
+          "Mykel Kochenderfer"
+        ],
+        "openreview_id": "K7MPwAV1AT",
+        "url": "https://openreview.net/forum?id=K7MPwAV1AT",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=K7MPwAV1AT')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=K7MPwAV1AT')"
+        ]
+      },
+      {
+        "title": "Invariant Causal Set Covering Machine",
+        "authors": [
+          "Thibaud Godon",
+          "Baptiste Bauvin",
+          "Pascal Germain",
+          "Jacques Corbeil",
+          "Alexandre Drouin"
+        ],
+        "openreview_id": "slquR2A8rA",
+        "url": "https://openreview.net/forum?id=slquR2A8rA",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=slquR2A8rA')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=slquR2A8rA')"
+        ]
+      },
+      {
+        "title": "Sampling Boltzmann distributions via normalizing flow approximation of transport maps",
+        "authors": [
+          "Zia Ur Rehman",
+          "Gero Friesecke"
+        ],
+        "openreview_id": "4HLZD6LMuJ",
+        "url": "https://openreview.net/forum?id=4HLZD6LMuJ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=4HLZD6LMuJ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=4HLZD6LMuJ')"
+        ]
+      },
+      {
+        "title": "A Survey of Hybrid Inference Systems for Large Language Models",
+        "authors": [
+          "Arkul Prathamesh Shenoy",
+          "Amogh Kulkarni",
+          "Atharv Rawal",
+          "Yatin Prabhakar",
+          "Bhaskarjyoti Das"
+        ],
+        "openreview_id": "OIrJI53MvN",
+        "url": "https://openreview.net/forum?id=OIrJI53MvN",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=OIrJI53MvN')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=OIrJI53MvN')"
+        ]
+      },
+      {
+        "title": "Chance-Constrained Inference for Hallucination Risk Control in Large Language Models",
+        "authors": [
+          "Sreenivasan M"
+        ],
+        "openreview_id": "cJDhDC69m9",
+        "url": "https://openreview.net/forum?id=cJDhDC69m9",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=cJDhDC69m9')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=cJDhDC69m9')"
+        ]
+      },
+      {
+        "title": "Learning with Local Search MCMC Layers",
+        "authors": [
+          "Germain Vivier-Ardisson",
+          "Mathieu Blondel",
+          "Axel Parmentier"
+        ],
+        "openreview_id": "M2a0mbACNf",
+        "url": "https://openreview.net/forum?id=M2a0mbACNf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=M2a0mbACNf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=M2a0mbACNf')"
+        ]
+      },
+      {
+        "title": "Behavioral Inference at Scale: The Fundamental Asymmetry Between Motivations and Belief Systems",
+        "authors": [
+          "Jason Starace",
+          "Terry Soule"
+        ],
+        "openreview_id": "aDMDqtw63H",
+        "url": "https://openreview.net/forum?id=aDMDqtw63H",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=aDMDqtw63H')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=aDMDqtw63H')"
+        ]
+      },
+      {
+        "title": "Lost in Aggregation: On a Fundamental Expressivity Limit of Message-Passing Graph Neural Networks",
+        "authors": [
+          "Eran Rosenbluth"
+        ],
+        "openreview_id": "F4OlpAJ0o2",
+        "url": "https://openreview.net/forum?id=F4OlpAJ0o2",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=F4OlpAJ0o2')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=F4OlpAJ0o2')"
+        ]
+      },
+      {
+        "title": "A Closed-Form Persistence-Landmark Pipeline for Certified Point-Cloud and Graph Classification",
+        "authors": [
+          "Sushovan Majhi",
+          "Atish Mitra",
+          "Ziga Virk",
+          "Pramita Bagchi"
+        ],
+        "openreview_id": "4kZxNlE5Ve",
+        "url": "https://openreview.net/forum?id=4kZxNlE5Ve",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=4kZxNlE5Ve')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=4kZxNlE5Ve')"
+        ]
+      },
+      {
+        "title": "Physics-Aware Variational Autoencoder for Urban Travel Demand Calibration",
+        "authors": [
+          "Defu Cao",
+          "Sam Griesemer",
+          "Zijun Cui",
+          "Carolina Osorio",
+          "Yan Liu"
+        ],
+        "openreview_id": "r5oS1XXbT3",
+        "url": "https://openreview.net/forum?id=r5oS1XXbT3",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=r5oS1XXbT3')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=r5oS1XXbT3')"
+        ]
+      },
+      {
+        "title": "On the Statistical Limits of Self-Improving Agents",
+        "authors": [
+          "Charles L. Wang",
+          "Keir Dorchen",
+          "Peter Jin"
+        ],
+        "openreview_id": "q4vuDMtYgF",
+        "url": "https://openreview.net/forum?id=q4vuDMtYgF",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=q4vuDMtYgF')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=q4vuDMtYgF')"
+        ]
+      },
+      {
+        "title": "Clarity: The Flexibility-Interpretability Trade-Off in Sparsity-aware Concept Bottleneck Models",
+        "authors": [
+          "Konstantinos P. Panousis",
+          "Diego Marcos"
+        ],
+        "openreview_id": "IyQEQBRR4M",
+        "url": "https://openreview.net/forum?id=IyQEQBRR4M",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=IyQEQBRR4M')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=IyQEQBRR4M')"
+        ]
+      },
+      {
+        "title": "Analyzing the Effect of Noise in LLM Fine-Tuning",
+        "authors": [
+          "Lingfang Li",
+          "Procheta Sen"
+        ],
+        "openreview_id": "NlSBeHZEz5",
+        "url": "https://openreview.net/forum?id=NlSBeHZEz5",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=NlSBeHZEz5')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NlSBeHZEz5')"
+        ]
+      },
+      {
+        "title": "Same-Expert Iteration Improves a Translation MoE Where Expert Communication Does Not",
+        "authors": [
+          "Libo Sun",
+          "Peixiong He",
+          "Po-wei Harn",
+          "Xiao Qin"
+        ],
+        "openreview_id": "hPD4MjMfoN",
+        "url": "https://openreview.net/forum?id=hPD4MjMfoN",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=hPD4MjMfoN')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=hPD4MjMfoN')"
+        ]
+      },
+      {
+        "title": "From Centerlines to Hemodynamics: Anisotropic RBF Decoders for Coronary Arteries",
+        "authors": [
+          "Reza Akbarian Bafghi",
+          "Sukirt Thakur",
+          "Maziar Raissi"
+        ],
+        "openreview_id": "AoJUrVjufP",
+        "url": "https://openreview.net/forum?id=AoJUrVjufP",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=AoJUrVjufP')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=AoJUrVjufP')"
+        ]
+      },
+      {
+        "title": "EHR2Path: Comprehensive Pathway-Level Modeling of Longitudinal Patient Trajectories from Multimodal Electronic Health Records",
+        "authors": [
+          "Chantal Pellegrini",
+          "Ege Ãzsoy",
+          "David Bani-Harouni",
+          "Nassir Navab",
+          "Matthias Keicher"
+        ],
+        "openreview_id": "ywa71iOykg",
+        "url": "https://openreview.net/forum?id=ywa71iOykg",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=ywa71iOykg')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=ywa71iOykg')"
+        ]
+      },
+      {
+        "title": "Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists",
+        "authors": [
+          "Lianhao Zhou",
+          "Hongyi Ling",
+          "Keqiang Yan",
+          "Kaiji Zhao",
+          "Xiaoning Qian",
+          "Raymundo Arroyave",
+          "Xiaofeng Qian",
+          "Shuiwang Ji"
+        ],
+        "openreview_id": "Cwq1U8tbWW",
+        "url": "https://openreview.net/forum?id=Cwq1U8tbWW",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Cwq1U8tbWW')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Cwq1U8tbWW')"
+        ]
+      },
+      {
+        "title": "Predicting Chain-of-Thought Correctness from Trajectory Geometry",
+        "authors": [
+          "Arjun Balaji"
+        ],
+        "openreview_id": "H9cBkEqVeY",
+        "url": "https://openreview.net/forum?id=H9cBkEqVeY",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=H9cBkEqVeY')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=H9cBkEqVeY')"
+        ]
+      },
+      {
+        "title": "Gen-MURE: Generalized Multiplicative Unbiased Risk Estimate",
+        "authors": [
+          "Soumee Guha",
+          "Scott Acton"
+        ],
+        "openreview_id": "Hie13qRm1x",
+        "url": "https://openreview.net/forum?id=Hie13qRm1x",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Hie13qRm1x')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Hie13qRm1x')"
+        ]
+      },
+      {
+        "title": "A Cross-Model Study of Over-Compliance in Large Lan- guage Models",
+        "authors": [
+          "Harish Gupta"
+        ],
+        "openreview_id": "LnUP74YNze",
+        "url": "https://openreview.net/forum?id=LnUP74YNze",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=LnUP74YNze')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=LnUP74YNze')"
+        ]
+      },
+      {
+        "title": "Navigating the Labyrinth: Evaluating LLMsâ Ability to Reason About Search Problems",
+        "authors": [
+          "Nasim Borazjanizadeh",
+          "Roei Herzig",
+          "Trevor Darrell",
+          "Rogerio Feris",
+          "Leonid Karlinsky"
+        ],
+        "openreview_id": "oub2I1ioL5",
+        "url": "https://openreview.net/forum?id=oub2I1ioL5",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=oub2I1ioL5')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=oub2I1ioL5')"
+        ]
+      },
+      {
+        "title": "Hyperedge Anomaly Detection with Hypergraph Neural Network",
+        "authors": [
+          "Md. Tanvir Alam",
+          "Md Mahmudur Rahman",
+          "Md. Fahim Arefin",
+          "Chowdhury Farhan Ahmed",
+          "Zisan Mahmud",
+          "Md. Sadman Sakib",
+          "Carson Leung"
+        ],
+        "openreview_id": "etPYIk1BqO",
+        "url": "https://openreview.net/forum?id=etPYIk1BqO",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=etPYIk1BqO')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=etPYIk1BqO')"
+        ]
+      },
+      {
+        "title": "Unbiased Stochastic Optimization for Gaussian Processes on Finite Dimensional RKHS",
+        "authors": [
+          "Neta Shoham",
+          "Haim Avron"
+        ],
+        "openreview_id": "wDCulUZla4",
+        "url": "https://openreview.net/forum?id=wDCulUZla4",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=wDCulUZla4')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=wDCulUZla4')"
+        ]
+      },
+      {
+        "title": "XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher",
+        "authors": [
+          "Lazar ÄokoviÄ",
+          "Aimee Lin"
+        ],
+        "openreview_id": "2WI889Ulin",
+        "url": "https://openreview.net/forum?id=2WI889Ulin",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=2WI889Ulin')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=2WI889Ulin')"
+        ]
+      },
+      {
+        "title": "eDQA: Efficient Deep Quantization of DNN Activations on Edge Devices",
+        "authors": [
+          "Wenhao Hu",
+          "Jude Haris",
+          "Paul Henderson",
+          "JosÃ© Cano"
+        ],
+        "openreview_id": "SEIBCdgE5W",
+        "url": "https://openreview.net/forum?id=SEIBCdgE5W",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=SEIBCdgE5W')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=SEIBCdgE5W')"
+        ]
+      },
+      {
+        "title": "VQEL: Enabling Self-Play in Emergent Language Games via Agent Internal Vector Quantization",
+        "authors": [
+          "Mahdi Samiei",
+          "Mehdi Jamalkhah",
+          "Mahdieh Soleymani Baghshah"
+        ],
+        "openreview_id": "5nqQlGWlsW",
+        "url": "https://openreview.net/forum?id=5nqQlGWlsW",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=5nqQlGWlsW')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=5nqQlGWlsW')"
+        ]
+      },
+      {
+        "title": "QMoE+: Hybrid Quantum Mixture of Experts",
+        "authors": [
+          "Haribandhu Jena",
+          "Subhankar Mishra"
+        ],
+        "openreview_id": "l1JaPqZ6K5",
+        "url": "https://openreview.net/forum?id=l1JaPqZ6K5",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=l1JaPqZ6K5')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=l1JaPqZ6K5')"
+        ]
+      },
+      {
+        "title": "Enhance the Safety in Reinforcement Learning by ADRC Lagrangian Methods",
+        "authors": [
+          "Mingxu Zhang",
+          "Huicheng Zhang",
+          "Jiaming Ji",
+          "Yaodong Yang",
+          "Ying Sun"
+        ],
+        "openreview_id": "3IbuT8uzYS",
+        "url": "https://openreview.net/forum?id=3IbuT8uzYS",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=3IbuT8uzYS')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=3IbuT8uzYS')"
+        ]
+      },
+      {
+        "title": "DS-STAR: Data Science Agent for Solving Diverse Tasks across Heterogeneous Formats and Open-Ended Queries",
+        "authors": [
+          "Jaehyun Nam",
+          "Jinsung Yoon",
+          "Jiefeng Chen",
+          "Rajarishi Sinha",
+          "Jinwoo Shin",
+          "Tomas Pfister"
+        ],
+        "openreview_id": "Yz3ZPLzYaU",
+        "url": "https://openreview.net/forum?id=Yz3ZPLzYaU",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Yz3ZPLzYaU')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Yz3ZPLzYaU')"
+        ]
+      },
+      {
+        "title": "The 2025 Foundation Model Transparency Index",
+        "authors": [
+          "Alexander Wan",
+          "Kevin Klyman",
+          "Sayash Kapoor",
+          "Nestor Maslej",
+          "Shayne Longpre",
+          "Betty Xiong",
+          "Percy Liang",
+          "Rishi Bommasani"
+        ],
+        "openreview_id": "1jT253Xtyf",
+        "url": "https://openreview.net/forum?id=1jT253Xtyf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=1jT253Xtyf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=1jT253Xtyf')"
+        ]
+      },
+      {
+        "title": "Optimal or Greedy Decision Trees? Revisiting their Objectives, Tuning, and Performance",
+        "authors": [
+          "Jacobus G. M. van der Linden",
+          "DaniÃ«l Vos",
+          "Mathijs de Weerdt",
+          "Sicco Verwer",
+          "Emir DemiroviÄ"
+        ],
+        "openreview_id": "DvDOAtskXl",
+        "url": "https://openreview.net/forum?id=DvDOAtskXl",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=DvDOAtskXl')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=DvDOAtskXl')"
+        ]
+      },
+      {
+        "title": "SAFT: Structure-Aware Fine-Tuning of Large Language Models for AMR-to-Text Generation",
+        "authors": [
+          "Rafiq Kamel",
+          "Filippo Guerranti",
+          "Simon Geisler",
+          "Stephan GÃ¼nnemann"
+        ],
+        "openreview_id": "QZoUMyzYDB",
+        "url": "https://openreview.net/forum?id=QZoUMyzYDB",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=QZoUMyzYDB')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=QZoUMyzYDB')"
+        ]
+      },
+      {
+        "title": "Minimax learning rates for estimating binary classifiers under margin conditions",
+        "authors": [
+          "Jonathan GarcÃ­a",
+          "Philipp Christian Petersen"
+        ],
+        "openreview_id": "ZIshsqojB6",
+        "url": "https://openreview.net/forum?id=ZIshsqojB6",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=ZIshsqojB6')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=ZIshsqojB6')"
+        ]
+      },
+      {
+        "title": "Influencing Humans to Conform to Preference Models for RLHF",
+        "authors": [
+          "Stephane Hatgis-Kessell",
+          "W. Bradley Knox",
+          "Serena Booth",
+          "Peter Stone"
+        ],
+        "openreview_id": "7YPlw1nUmW",
+        "url": "https://openreview.net/forum?id=7YPlw1nUmW",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=7YPlw1nUmW')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=7YPlw1nUmW')"
+        ]
+      },
+      {
+        "title": "Stronger Approximation Guarantees for Non-Monotone $\\gamma$-Weakly DR-Submodular Maximization",
+        "authors": [
+          "Hareshkumar Jadav",
+          "Ranveer Singh",
+          "Vaneet Aggarwal"
+        ],
+        "openreview_id": "yS78Cb1CnX",
+        "url": "https://openreview.net/forum?id=yS78Cb1CnX",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=yS78Cb1CnX')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=yS78Cb1CnX')"
+        ]
+      },
+      {
+        "title": "Analysis of Natural Actor-Critic with Randomized Low- Discrepancy Sampling",
+        "authors": [
+          "Ajin George Joseph",
+          "shikher chhawchharia"
+        ],
+        "openreview_id": "kOSx9v6dfb",
+        "url": "https://openreview.net/forum?id=kOSx9v6dfb",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=kOSx9v6dfb')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=kOSx9v6dfb')"
+        ]
+      },
+      {
+        "title": "TransformerâSSM Hybrid Language Models: Systematic Analysis and Design Insights",
+        "authors": [
+          "Sangmin Bae",
+          "Bilge Acun",
+          "Chien-Yu Lin",
+          "Haroun Habeeb",
+          "Seungyeon Kim",
+          "Liang Luo",
+          "Junjie Wang",
+          "Carole-Jean Wu"
+        ],
+        "openreview_id": "x7qyXl8ecT",
+        "url": "https://openreview.net/forum?id=x7qyXl8ecT",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=x7qyXl8ecT')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=x7qyXl8ecT')"
+        ]
+      },
+      {
+        "title": "The Impact of Enforcing Representational Consistency of Identical Transformations for Disentangled Representation",
+        "authors": [
+          "Hee-Jun Jung",
+          "Hoyong Kim",
+          "Ilmin Kang",
+          "Kangil Kim"
+        ],
+        "openreview_id": "VjbBxj4aWb",
+        "url": "https://openreview.net/forum?id=VjbBxj4aWb",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=VjbBxj4aWb')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=VjbBxj4aWb')"
+        ]
+      },
+      {
+        "title": "Probing Visual Concepts in Lightweight Vision-Language Models for Automated Driving",
+        "authors": [
+          "Nikos Theodoridis",
+          "Reenu Mohandas",
+          "Ganesh Sistu",
+          "Anthony Scanlan",
+          "CiarÃ¡n Eising",
+          "Tim Brophy"
+        ],
+        "openreview_id": "HlBBy19ojC",
+        "url": "https://openreview.net/forum?id=HlBBy19ojC",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=HlBBy19ojC')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=HlBBy19ojC')"
+        ]
+      },
+      {
+        "title": "Instance-Level Generation for Representation Learning",
+        "authors": [
+          "Yankun Wu",
+          "Zakaria Laskar",
+          "Giorgos Kordopatis-Zilos",
+          "Noa Garcia",
+          "Giorgos Tolias"
+        ],
+        "openreview_id": "T3JgJXH3ZK",
+        "url": "https://openreview.net/forum?id=T3JgJXH3ZK",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=T3JgJXH3ZK')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=T3JgJXH3ZK')"
+        ]
+      },
+      {
+        "title": "Learning Structured Set Utility Functions with Contrastive Element Representations",
+        "authors": [
+          "Jayanth Bhargav",
+          "Younggil Chang",
+          "Mahsa Ghasemi",
+          "Shreyas Sundaram"
+        ],
+        "openreview_id": "SZ8mOziJBx",
+        "url": "https://openreview.net/forum?id=SZ8mOziJBx",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=SZ8mOziJBx')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=SZ8mOziJBx')"
+        ]
+      },
+      {
+        "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+        "authors": [
+          "Wei-Chieh Huang",
+          "Weizhi Zhang",
+          "Yueqing Liang",
+          "Yuanchen Bei",
+          "Yankai Chen",
+          "Tao Feng",
+          "xinyu Pan",
+          "Zhen Tan",
+          "Yu Wang",
+          "Tianxin Wei",
+          "Shanglin Wu",
+          "Ruiyao Xu",
+          "Liangwei Yang",
+          "Rui Yang",
+          "Wooseong Yang",
+          "Chin-Yuan Yeh",
+          "Hanrong Zhang",
+          "Haozhen Zhang",
+          "Siqi Zhu",
+          "Henry Peng Zou",
+          "Wanjia Zhao",
+          "Song Wang",
+          "Wujiang Xu",
+          "Zixuan Ke",
+          "Zheng Hui",
+          "Dawei Li",
+          "Yaozu Wu",
+          "Langzhou He",
+          "Chen Wang",
+          "Xiongxiao Xu",
+          "Baixiang Huang",
+          "Juntao Tan",
+          "Shelby Heinecke",
+          "Huan Wang",
+          "Caiming Xiong",
+          "Ahmed Metwally",
+          "Jun Yan",
+          "Chen-Yu Lee",
+          "Hanqing Zeng",
+          "Yinglong Xia",
+          "Xiaokai Wei",
+          "Ali Payani",
+          "Yu Wang",
+          "Haitong Ma",
+          "Wenya Wang",
+          "Chenguang Wang",
+          "Yu Zhang",
+          "Xin Eric Wang",
+          "Yongfeng Zhang",
+          "Jiaxuan You",
+          "Hanghang Tong",
+          "Xiao Luo",
+          "Xue Liu",
+          "Yizhou Sun",
+          "Wei Wang",
+          "Julian McAuley",
+          "James Zou",
+          "Jiawei Han",
+          "Philip S. Yu",
+          "Kai Shu"
+        ],
+        "openreview_id": "XycbogUAeJ",
+        "url": "https://openreview.net/forum?id=XycbogUAeJ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=XycbogUAeJ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=XycbogUAeJ')"
+        ]
+      },
+      {
+        "title": "How Much Information Fits in a Vector?",
+        "authors": [
+          "Christopher Neil Gadzinski",
+          "Decebal Constantin Mocanu"
+        ],
+        "openreview_id": "Nby4pCPIZI",
+        "url": "https://openreview.net/forum?id=Nby4pCPIZI",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Nby4pCPIZI')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Nby4pCPIZI')"
+        ]
+      },
+      {
+        "title": "Environmental Footprint of GenAI Research: Insights from the Moshi Foundation Model",
+        "authors": [
+          "Marta LÃ³pez-Rauhut",
+          "Loic Landrieu",
+          "Mathieu Aubry",
+          "Anne-Laure Ligozat"
+        ],
+        "openreview_id": "uurX0xsr8G",
+        "url": "https://openreview.net/forum?id=uurX0xsr8G",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=uurX0xsr8G')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=uurX0xsr8G')"
+        ]
+      },
+      {
+        "title": "Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights",
+        "authors": [
+          "Shubham Parashar",
+          "Blake Olson",
+          "Sambhav Khurana",
+          "Eric Li",
+          "Hongyi Ling",
+          "James Caverlee",
+          "Shuiwang Ji"
+        ],
+        "openreview_id": "budZJyCK8G",
+        "url": "https://openreview.net/forum?id=budZJyCK8G",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=budZJyCK8G')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=budZJyCK8G')"
+        ]
+      },
+      {
+        "title": "On the Fundamental Limits of LLMs at Scale",
+        "authors": [
+          "Muhammad Ahmed Mohsin",
+          "Muhammad Umer",
+          "Ahsan Bilal",
+          "Zeeshan Memon",
+          "Muhammad Ibtsaam Qadir",
+          "Sagnik Bhattacharya",
+          "Hassan Rizwan",
+          "Abhiram Rao Gorle",
+          "Maahe Zehra Kazmi",
+          "Ayesha Mohsin",
+          "Ali Subhan",
+          "M. Usman Rafique",
+          "Zihao He",
+          "Pulkit Mehta",
+          "Jinda Han",
+          "Muhammad Ali Jamshed",
+          "Dean F. Hougen",
+          "John M. Cioffi"
+        ],
+        "openreview_id": "BIRDGVrom8",
+        "url": "https://openreview.net/forum?id=BIRDGVrom8",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=BIRDGVrom8')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=BIRDGVrom8')"
+        ]
+      },
+      {
+        "title": "ANU-RL: A New Perspective on Weakly-Supervised Representation Learning for Visual Place Recognition",
+        "authors": [
+          "Anuradha Uggi",
+          "Sumohana S. Channappayya"
+        ],
+        "openreview_id": "mXE4OP55il",
+        "url": "https://openreview.net/forum?id=mXE4OP55il",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=mXE4OP55il')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=mXE4OP55il')"
+        ]
+      },
+      {
+        "title": "DIMENSION DOMAIN CO-DECOMPOSITION: SOLVING PDES WITH INTERPRETABILITY",
+        "authors": [
+          "Shuyuan Shang",
+          "Ming Zhong",
+          "Ren Wang"
+        ],
+        "openreview_id": "kuzkynVyRq",
+        "url": "https://openreview.net/forum?id=kuzkynVyRq",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=kuzkynVyRq')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=kuzkynVyRq')"
+        ]
+      },
+      {
+        "title": "Federated Class-Incremental Learning with Hierarchical Generative Prototypes",
+        "authors": [
+          "Riccardo Salami",
+          "Pietro Buzzega",
+          "Matteo Mosconi",
+          "Mattia Verasani",
+          "Simone Calderara"
+        ],
+        "openreview_id": "k2TT42Ei8W",
+        "url": "https://openreview.net/forum?id=k2TT42Ei8W",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=k2TT42Ei8W')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=k2TT42Ei8W')"
+        ]
+      },
+      {
+        "title": "Dynamic Reward Incentives for Emergent Cooperation under Changing Rewards",
+        "authors": [
+          "Philipp Altmann",
+          "Maximilian Zorn",
+          "Sven Koenig",
+          "Thomy Phan"
+        ],
+        "openreview_id": "9Ltu1HV2YI",
+        "url": "https://openreview.net/forum?id=9Ltu1HV2YI",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=9Ltu1HV2YI')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=9Ltu1HV2YI')"
+        ]
+      },
+      {
+        "title": "PAC-Bayesian Meta-Learning for Few-Shot Identification of Linear Dynamical Systems",
+        "authors": [
+          "Chenfeng Huang",
+          "George Michailidis"
+        ],
+        "openreview_id": "CiGFpSLzFv",
+        "url": "https://openreview.net/forum?id=CiGFpSLzFv",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=CiGFpSLzFv')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=CiGFpSLzFv')"
+        ]
+      },
+      {
+        "title": "Reasoning with Preference Constraints: A Benchmark for Language Models in Many-to-One Matching Markets",
+        "authors": [
+          "Marylou Fauchard",
+          "Florian Carichon",
+          "Margarida Carvalho",
+          "Golnoosh Farnadi"
+        ],
+        "openreview_id": "2dpt2Ughzt",
+        "url": "https://openreview.net/forum?id=2dpt2Ughzt",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=2dpt2Ughzt')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=2dpt2Ughzt')"
+        ]
+      },
+      {
+        "title": "Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning",
+        "authors": [
+          "Jiaer Xia",
+          "Yuhang Zang",
+          "Peng Gao",
+          "Sharon Li",
+          "Kaiyang Zhou"
+        ],
+        "openreview_id": "JWkZXBgh5a",
+        "url": "https://openreview.net/forum?id=JWkZXBgh5a",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=JWkZXBgh5a')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=JWkZXBgh5a')"
+        ]
+      },
+      {
+        "title": "NeMoS: Nearest Neighbors Bandit meets Active Learning for Online Model Selection",
+        "authors": [
+          "Jules Damidaux",
+          "Basile Lewandowski",
+          "Farzan Farnia",
+          "Lydia Chen"
+        ],
+        "openreview_id": "CSjewjplO1",
+        "url": "https://openreview.net/forum?id=CSjewjplO1",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=CSjewjplO1')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=CSjewjplO1')"
+        ]
+      },
+      {
+        "title": "Wiring the âWhyâ: A Unified Taxonomy and Survey of Abductive Reasoning in LLMs",
+        "authors": [
+          "Moein Salimi",
+          "Shaygan Adim",
+          "Danial Parnian",
+          "Nima Alighardashi",
+          "Mahdi Jafari Siavoshani",
+          "Mohammad Hossein Rohban"
+        ],
+        "openreview_id": "oeVkugH0WB",
+        "url": "https://openreview.net/forum?id=oeVkugH0WB",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=oeVkugH0WB')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=oeVkugH0WB')"
+        ]
+      },
+      {
+        "title": "Provably Safe Generative Sampling with Constricting Barrier Functions",
+        "authors": [
+          "Darshan Gadginmath",
+          "Ahmed Allibhoy",
+          "Fabio Pasqualetti"
+        ],
+        "openreview_id": "iZi471b4Pf",
+        "url": "https://openreview.net/forum?id=iZi471b4Pf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=iZi471b4Pf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=iZi471b4Pf')"
+        ]
+      },
+      {
+        "title": "Neural Diversity Regularizes Hallucinations in Language Models",
+        "authors": [
+          "Kushal Chakrabarti",
+          "Nirmal Balachundhar"
+        ],
+        "openreview_id": "5l9ZflyApA",
+        "url": "https://openreview.net/forum?id=5l9ZflyApA",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=5l9ZflyApA')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=5l9ZflyApA')"
+        ]
+      },
+      {
+        "title": "Task-Relevant Language-conditioned Segmentation for Robust Generalization in Reinforcement Learning",
+        "authors": [
+          "Vedant Dave",
+          "Christian Rauch",
+          "Elmar Rueckert"
+        ],
+        "openreview_id": "MRHXB6eooE",
+        "url": "https://openreview.net/forum?id=MRHXB6eooE",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=MRHXB6eooE')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=MRHXB6eooE')"
+        ]
+      },
+      {
+        "title": "Verify What Matters: Budgeted Verification for Tool-Using Agents under Counterfactual Downstream Harm",
+        "authors": [
+          "Yueh Tang",
+          "Justin Zhan"
+        ],
+        "openreview_id": "nv1jzr0FaZ",
+        "url": "https://openreview.net/forum?id=nv1jzr0FaZ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=nv1jzr0FaZ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=nv1jzr0FaZ')"
+        ]
+      },
+      {
+        "title": "Cross-Fitted Clipped Covariance Estimation with a Data-Driven Tail-Energy Criterion",
+        "authors": [
+          "Even He",
+          "Zaizai Yan"
+        ],
+        "openreview_id": "MyNXLdRFJ3",
+        "url": "https://openreview.net/forum?id=MyNXLdRFJ3",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=MyNXLdRFJ3')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=MyNXLdRFJ3')"
+        ]
+      },
+      {
+        "title": "ViP$^2$-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection",
+        "authors": [
+          "Ziteng Yang",
+          "Jingzehua Xu",
+          "Cong Liu",
+          "Yanshu Li",
+          "Zepeng Li",
+          "Yeqiang Wang",
+          "Xinghui Li"
+        ],
+        "openreview_id": "KCRRuiQSIm",
+        "url": "https://openreview.net/forum?id=KCRRuiQSIm",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=KCRRuiQSIm')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=KCRRuiQSIm')"
+        ]
+      },
+      {
+        "title": "RIGID: A Training-Free and Generator-Agnostic Framework for Robust AI-Generated Image Detection",
+        "authors": [
+          "RIGID: A Training-Free and Generator-Agnostic  Framework for Robust AI-Generated Image Detection Zhiyuan He",
+          "Pin-Yu Chen",
+          "Tsung-Yi Ho"
+        ],
+        "openreview_id": "NBkBI2Zjlm",
+        "url": "https://openreview.net/forum?id=NBkBI2Zjlm",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=NBkBI2Zjlm')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NBkBI2Zjlm')"
+        ]
+      }
+    ]
+  },
+  "chemical_science": {
+    "count": 0,
+    "candidate_count": null,
+    "errors": [
+      "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='feeds.rsc.org', port=443): Max retries exceeded with url: /rss/sc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))\"))"
+    ],
+    "items": []
+  },
+  "tacl": {
+    "count": 0,
+    "candidate_count": 34,
+    "errors": [],
+    "items": []
+  }
+}

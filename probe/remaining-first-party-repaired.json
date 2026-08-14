@@ -1,0 +1,3333 @@
+{
+  "jmlr": {
+    "source": "https://www.jmlr.org/jmlr.xml",
+    "items": [],
+    "all_items": [
+      {
+        "title": "Bridging Domain Invariance and Diversity: A Fine-Grained Risk Bound for Domain Generalization",
+        "url": "http://jmlr.org/papers/v27/25-0399.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "High-Dimensional Analysis of Gradient Flow for Extensive-Width Quadratic Neural Networks",
+        "url": "http://jmlr.org/papers/v27/26-0672.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Error Analyses of Auto-Regressive Video Diffusion Models",
+        "url": "http://jmlr.org/papers/v27/25-3128.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Near-optimal Delta-convex Estimation of Lipschitz Functions",
+        "url": "http://jmlr.org/papers/v27/25-2864.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "The Sample Complexity of Parameter-Free Stochastic Convex Optimization",
+        "url": "http://jmlr.org/papers/v27/25-2383.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "End-to-End Deep Learning for Predicting Metric Space-Valued Outputs",
+        "url": "http://jmlr.org/papers/v27/25-2364.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Graph-based Clustering Revisited: A Relaxation of Kernel k-Means Perspective",
+        "url": "http://jmlr.org/papers/v27/25-2307.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Learning to Play Two-Player Perfect-Information Games without Knowledge",
+        "url": "http://jmlr.org/papers/v27/25-2259.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Doubly Debiased Robust Subsampling for Transfer Learning",
+        "url": "http://jmlr.org/papers/v27/25-2221.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Abstract Gradient Training: A Unified Certification Framework for Data Poisoning, Unlearning, and Differential Privacy",
+        "url": "http://jmlr.org/papers/v27/25-2206.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Mixing times of data-augmentation Gibbs samplers for high-dimensional probit regression",
+        "url": "http://jmlr.org/papers/v27/25-2192.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Underdamped Langevin MCMC with third order convergence",
+        "url": "http://jmlr.org/papers/v27/25-2122.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Approximation-Free Differentiable Oblique Decision Trees",
+        "url": "http://jmlr.org/papers/v27/25-2047.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Minimax Optimal Convergence of Gradient Descent in Logistic Regression via Large and Adaptive Stepsizes",
+        "url": "http://jmlr.org/papers/v27/25-1941.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Adaptive Nonparametric Perturbations of Parametric Models with Generalized Bayes",
+        "url": "http://jmlr.org/papers/v27/25-1832.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Robust training of implicit generative models for multivariate and heavy-tailed distributions with an invariant statistical loss",
+        "url": "http://jmlr.org/papers/v27/25-1660.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Gradient Span Algorithms Make Predictable Progress in High Dimension",
+        "url": "http://jmlr.org/papers/v27/25-1651.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "py/cuTAGI: An Open-Source Library for Tractable Approximate Gaussian Inference in Bayesian Neural Networks",
+        "url": "http://jmlr.org/papers/v27/25-1634.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Statistical Test for Attention in Transformers for Images and Time Series",
+        "url": "http://jmlr.org/papers/v27/25-1631.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Accelerating Constrained Sampling: A Large Deviations Approach",
+        "url": "http://jmlr.org/papers/v27/25-1616.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Learning general conditional independence structures via the neighbourhood lattice",
+        "url": "http://jmlr.org/papers/v27/25-1595.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Statistical guarantees for denoising reflected diffusion models",
+        "url": "http://jmlr.org/papers/v27/25-1588.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Vecchia-Inducing-Points Full-Scale Approximations for Gaussian Processes",
+        "url": "http://jmlr.org/papers/v27/25-1549.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "STDE++: Polynomial-Time Amortization for Linear Differential Operators",
+        "url": "http://jmlr.org/papers/v27/25-1474.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "The Within-Orbit Adaptive Leapfrog No-U-Turn Sampler",
+        "url": "http://jmlr.org/papers/v27/25-1452.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Finite-Time Decoupled Convergence in Nonlinear Two-Time-Scale Stochastic Approximation",
+        "url": "http://jmlr.org/papers/v27/25-1449.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Embedding Network Autoregression for Time Series Analysis and Causal Peer Effect Inference",
+        "url": "http://jmlr.org/papers/v27/25-1223.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Three Types of Calibration using Properties and their Semantic and Formal Relationships",
+        "url": "http://jmlr.org/papers/v27/25-1064.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Convergence of Decentralized Stochastic Subgradient-based Methods for Nonsmooth Nonconvex Optimization",
+        "url": "http://jmlr.org/papers/v27/25-1030.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Two-Timescale Primal-Dual Framework for Reinforcement Learning via Online Dual Variable Guidance",
+        "url": "http://jmlr.org/papers/v27/25-1016.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "FLAGG: Flexible Autoregressive Graph Generation",
+        "url": "http://jmlr.org/papers/v27/25-0994.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Nested Subspace Learning with Flags",
+        "url": "http://jmlr.org/papers/v27/25-0807.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Unified Approach to Analysis and Design of Denoising Markov Models",
+        "url": "http://jmlr.org/papers/v27/25-0693.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Flavors of Margin: Implicit Bias of Steepest Descent in Homogeneous Neural Networks",
+        "url": "http://jmlr.org/papers/v27/25-0634.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Single-Loop Stochastic Proximal Quasi-Newton Method for Large-Scale Nonsmooth Convex Optimization",
+        "url": "http://jmlr.org/papers/v27/25-0632.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Statistical Learning Theory for Neural Operators",
+        "url": "http://jmlr.org/papers/v27/25-0543.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Deconvolution in unlinked linear models",
+        "url": "http://jmlr.org/papers/v27/25-0516.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Spectral Truncation Kernels: Noncommutativity in C*-algebraic Kernel Machines",
+        "url": "http://jmlr.org/papers/v27/25-0509.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "High-dimensional Parameter Transfer With Fused-Regularizer",
+        "url": "http://jmlr.org/papers/v27/25-0437.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Exogenous Randomness Empowering Random Forests",
+        "url": "http://jmlr.org/papers/v27/25-0247.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Kernel Mean Embedding Deviation Subspace for Unsupervised Learning with Heterogeneous Data",
+        "url": "http://jmlr.org/papers/v27/25-0163.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Deep Nonparametric Conditional Independence Tests for Images",
+        "url": "http://jmlr.org/papers/v27/25-0107.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Semi-supervised learning for linear extremile regression",
+        "url": "http://jmlr.org/papers/v27/25-0093.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Transfer Learning via Regularized Random-effects Linear Discriminant Analysis",
+        "url": "http://jmlr.org/papers/v27/25-0031.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Cheap Bootstrap for Fast Uncertainty Quantification of Stochastic Gradient Descent",
+        "url": "http://jmlr.org/papers/v27/25-0008.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Natural Primal-Dual Hybrid Gradient Method for Adversarial Neural Network Training on Solving Partial Differential Equation",
+        "url": "http://jmlr.org/papers/v27/24-1929.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Generalized Resubstitution for Regression Error Estimation",
+        "url": "http://jmlr.org/papers/v27/24-1905.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Transfer Conformal Predictive Inference for Regression",
+        "url": "http://jmlr.org/papers/v27/24-1899.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Towards Convexity in Anomaly Detection: A New Formulation of SSLM with Unique Optimal Solutions",
+        "url": "http://jmlr.org/papers/v27/24-1885.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Node Regression on Latent Position Random Graphs via Local Averaging",
+        "url": "http://jmlr.org/papers/v27/24-1819.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "On the Relevance of Byzantine Robust Optimization Against Data Poisoning",
+        "url": "http://jmlr.org/papers/v27/24-1748.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Best Arm Identification with Minimal Regret",
+        "url": "http://jmlr.org/papers/v27/24-1612.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Convergence of Noise-Free Sampling Algorithms with Regularized Wasserstein Proximals",
+        "url": "http://jmlr.org/papers/v27/24-1560.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features",
+        "url": "http://jmlr.org/papers/v27/24-1538.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Asymptotics of Stochastic Gradient Descent with Dropout Regularization in Linear Models",
+        "url": "http://jmlr.org/papers/v27/24-1484.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Beyond Unconstrained Features: Neural Collapse for Shallow Neural Networks with General Data",
+        "url": "http://jmlr.org/papers/v27/24-1429.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Differentially Private Estimation and Inference in High-Dimensional Regression with FDR Control",
+        "url": "http://jmlr.org/papers/v27/24-1413.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Demographic Parity in Regression and Classification Within the Unawareness Framework",
+        "url": "http://jmlr.org/papers/v27/24-1338.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Enhancing Accuracy in Generative Models via Knowledge Transfer",
+        "url": "http://jmlr.org/papers/v27/24-1291.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Multi-relational Network Autoregression Model with Latent Group Structures",
+        "url": "http://jmlr.org/papers/v27/24-1191.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Limiting Over-Smoothing and Over-Squashing of Graph Message Passing by Deep Scattering Transforms",
+        "url": "http://jmlr.org/papers/v27/24-1075.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Fully Parameter-Free Second-Order Algorithm for Convex-Concave Minimax Problems",
+        "url": "http://jmlr.org/papers/v27/24-1035.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Stochastic Differential Equations models for Least-Squares Stochastic Gradient Descent",
+        "url": "http://jmlr.org/papers/v27/24-1025.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Vector-Valued Gaussian Processes for Approximating Divergence- or Rotation-free Vector Fields",
+        "url": "http://jmlr.org/papers/v27/24-0885.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Differentially Private Best-Arm Identification",
+        "url": "http://jmlr.org/papers/v27/24-0880.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Corruptions of Supervised Learning Problems: Typology and Mitigations",
+        "url": "http://jmlr.org/papers/v27/24-0808.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Nonparametric Partial Disentanglement via Mechanism Sparsity: Sparse Actions, Interventions and Sparse Temporal Dependencies",
+        "url": "http://jmlr.org/papers/v27/24-0771.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Mean-Field Analysis of Neural Stochastic Gradient Descent-Ascent for Functional Minimax Optimization",
+        "url": "http://jmlr.org/papers/v27/24-0554.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Minimax density estimation in the adversarial framework under local differential privacy",
+        "url": "http://jmlr.org/papers/v27/24-0494.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Approximations and Learning for Continuous State and Action MDPs under Average Cost Criteria",
+        "url": "http://jmlr.org/papers/v27/24-0395.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Optimal Approximation and Generalization Errors for Deep Convolutional Neural Networks",
+        "url": "http://jmlr.org/papers/v27/24-0314.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Investigating the Histogram Loss in Regression",
+        "url": "http://jmlr.org/papers/v27/24-0260.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Bayes-Optimal Fair Classification with Linear Disparity Constraints via Pre-, In-, and Post-processing",
+        "url": "http://jmlr.org/papers/v27/24-0188.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Why \"Classic\" Transformers Are Shallow and A Depth-Enabling Technique",
+        "url": "http://jmlr.org/papers/v27/24-0169.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Kernel-based Distributed Learning",
+        "url": "http://jmlr.org/papers/v27/23-1592.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Convex Framework for Confounding Robust Inference",
+        "url": "http://jmlr.org/papers/v27/23-1434.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Global Fr{\\'{e}}chet Manifold Learning for Random Objects, With Application to Low-Dimensional Wasserstein Representations of Distributional Data",
+        "url": "http://jmlr.org/papers/v27/23-1392.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Probabilistic Rainfall Downscaling: Joint Generalized Neural Models with Censored Spatial Gaussian Copula",
+        "url": "http://jmlr.org/papers/v27/23-1381.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Sparse Topic Modeling via Spectral Decomposition and Thresholding",
+        "url": "http://jmlr.org/papers/v27/23-1344.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Nonparametric generative modeling for time series via Schr{\\\"{o}}dinger bridge",
+        "url": "http://jmlr.org/papers/v27/23-1162.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Do We Need to Penalize Variance of Losses for Learning with Label Noise?",
+        "url": "http://jmlr.org/papers/v27/23-1102.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Causal Influences over Social Learning Networks",
+        "url": "http://jmlr.org/papers/v27/23-0910.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Neural Exploitation and Exploration of Contextual Bandits",
+        "url": "http://jmlr.org/papers/v27/23-0582.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation",
+        "url": "http://jmlr.org/papers/v27/23-0359.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Inference with non-differentiable surrogate loss in a general high-dimensional classification framework",
+        "url": "http://jmlr.org/papers/v27/23-0126.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks",
+        "url": "http://jmlr.org/papers/v27/22-1232.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "The Role of Contextual Information in Best Arm Identification",
+        "url": "http://jmlr.org/papers/v27/22-0358.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Transformers Can Overcome the Curse of Dimensionality: A Theoretical Study from an Approximation Perspective",
+        "url": "http://jmlr.org/papers/v27/25-1214.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Online Bernstein-von Mises theorem",
+        "url": "http://jmlr.org/papers/v27/25-0989.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Covariate-dependent Hierarchical Dirichlet Processes",
+        "url": "http://jmlr.org/papers/v27/25-0668.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "DCatalyst: A Unified Accelerated Framework for Decentralized Optimization",
+        "url": "http://jmlr.org/papers/v27/25-0185.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Boosted Control Functions: Distribution Generalization and Invariance in Confounded Models",
+        "url": "http://jmlr.org/papers/v27/24-2207.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Contrasting Local and Global Modeling with Machine Learning and Satellite Data: A Case Study Estimating Tree Canopy Height in African Savannas",
+        "url": "http://jmlr.org/papers/v27/24-1592.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Symplectic Analysis of Alternating Mirror Descent",
+        "url": "http://jmlr.org/papers/v27/24-0792.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Two-way Node Popularity Model for Directed and Bipartite Networks",
+        "url": "http://jmlr.org/papers/v27/24-0526.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Convergence and complexity of block majorization-minimization for constrained block-Riemannian optimization",
+        "url": "http://jmlr.org/papers/v27/24-0020.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Bayesian Inference of Contextual Bandit Policies via Empirical Likelihood",
+        "url": "http://jmlr.org/papers/v27/23-0958.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A causal fused lasso for interpretable heterogeneous treatment effects estimation",
+        "url": "http://jmlr.org/papers/v27/23-0535.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Unsupervised Feature Selection via Nonnegative Orthogonal Constrained Regularized Minimization",
+        "url": "http://jmlr.org/papers/v27/23-0157.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Reparameterized Complex-valued Neurons Can Efficiently Learn More than Real-valued Neurons via Gradient Descent",
+        "url": "http://jmlr.org/papers/v27/25-1106.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Hierarchical Causal Models",
+        "url": "http://jmlr.org/papers/v27/25-0899.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection",
+        "url": "http://jmlr.org/papers/v27/25-0549.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Adaptive Forward Stepwise: A Method for High Sparsity Regression",
+        "url": "http://jmlr.org/papers/v27/25-0151.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Optimization and Generalization of Gradient Descent for Shallow ReLU Networks with Minimal Width",
+        "url": "http://jmlr.org/papers/v27/24-2030.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Finite Neural Networks as Mixtures of Gaussian Processes: From Provable Error Bounds to Prior Selection",
+        "url": "http://jmlr.org/papers/v27/24-1199.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "CHANI: Correlation-based Hawkes Aggregation of Neurons with bio-Inspiration",
+        "url": "http://jmlr.org/papers/v27/24-0783.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Persistence Diagrams Estimation of Multivariate Piecewise H{\\\"o}lder-continuous Signals",
+        "url": "http://jmlr.org/papers/v27/24-0456.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Exploring Novel Uncertainty Quantification through Forward Intensity Function Modeling",
+        "url": "http://jmlr.org/papers/v27/23-1465.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Generative Bayesian Inference with GANs",
+        "url": "http://jmlr.org/papers/v27/23-0946.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Communication-efficient Distributed Statistical Inference for Massive Data with Heterogeneous Auxiliary Information",
+        "url": "http://jmlr.org/papers/v27/23-0440.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Decorrelated Local Linear Estimator: Inference for Non-linear Effects in High-dimensional Additive Models",
+        "url": "http://jmlr.org/papers/v27/22-1436.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Refined Risk Bounds for Unbounded Losses via Transductive Priors",
+        "url": "http://jmlr.org/papers/v27/25-2745.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Common Interface for Automatic Differentiation",
+        "url": "http://jmlr.org/papers/v27/25-1024.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "LazyDINO: Fast, Scalable, and Efficiently Amortized Bayesian Inversion via Structure-Exploiting and Surrogate-Driven Measure Transport",
+        "url": "http://jmlr.org/papers/v27/25-0858.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "The Distribution of Ridgeless Least Squares Interpolators",
+        "url": "http://jmlr.org/papers/v27/25-0458.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Nonparametric Estimation of a Factorizable Density using Diffusion Models",
+        "url": "http://jmlr.org/papers/v27/25-0121.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Learning Bayesian Network Classifiers to Minimize Class Variable Parameters",
+        "url": "http://jmlr.org/papers/v27/24-1901.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Simulation-based Calibration of Uncertainty Intervals under Approximate Bayesian Estimation",
+        "url": "http://jmlr.org/papers/v27/24-1139.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "An Anytime Algorithm for Good Arm Identification",
+        "url": "http://jmlr.org/papers/v27/24-0680.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Extrapolated Markov Chain Oversampling Method for Imbalanced Text Classification",
+        "url": "http://jmlr.org/papers/v27/24-0428.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Neural Network Parameter-optimization of Gaussian Pre-marginalized Directed Acyclic Graphs",
+        "url": "http://jmlr.org/papers/v27/23-1249.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Flexible Functional Treatment Effect Estimation",
+        "url": "http://jmlr.org/papers/v27/23-0944.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Error Analysis for Deep ReLU Feedforward Density-Ratio Estimation with Bregman Divergence",
+        "url": "http://jmlr.org/papers/v27/23-0425.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Reinforcement Learning Approach in Multi-Phase Second-Price Auction Design",
+        "url": "http://jmlr.org/papers/v27/22-1194.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "UQLM: A Python Package for Uncertainty Quantification in Large Language Models",
+        "url": "http://jmlr.org/papers/v27/25-1557.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Nonlinear function-on-function regression by RKHS",
+        "url": "http://jmlr.org/papers/v27/25-1017.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Nonlocal Techniques for the Analysis of Deep ReLU Neural Network Approximations",
+        "url": "http://jmlr.org/papers/v27/25-0746.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "A Data-Augmented Contrastive Learning Approach to Nonparametric Density Estimation",
+        "url": "http://jmlr.org/papers/v27/25-0376.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent",
+        "url": "http://jmlr.org/papers/v27/25-0012.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "skwdro: a library for Wasserstein distributionally robust machine learning",
+        "url": "http://jmlr.org/papers/v27/24-1840.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Extending Mean-Field Variational Inference via Entropic Regularization: Theory and Computation",
+        "url": "http://jmlr.org/papers/v27/24-1057.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Stochastic Gradient Methods: Bias, Stability and Generalization",
+        "url": "http://jmlr.org/papers/v27/24-0637.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Classification Under Local Differential Privacy with Model Reversal and Model Averaging",
+        "url": "http://jmlr.org/papers/v27/24-0290.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Identifying Weight-Variant Latent Causal Models",
+        "url": "http://jmlr.org/papers/v27/23-1023.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Efficient frequent directions algorithms for approximate decomposition of matrices and higher-order tensors",
+        "url": "http://jmlr.org/papers/v27/23-0737.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "Online Detection of Changes in Moment--Based Projections: When to Retrain Deep Learners or Update Portfolios?",
+        "url": "http://jmlr.org/papers/v27/23-0274.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      },
+      {
+        "title": "The surrogate Gibbs-posterior of a corrected stochastic MALA: Towards uncertainty quantification for neural networks",
+        "url": "http://jmlr.org/papers/v27/22-0483.html",
+        "publication_date": null,
+        "publication_date_precision": null,
+        "pubDate": "2026",
+        "authors": []
+      }
+    ],
+    "errors": [],
+    "count": 0
+  },
+  "tmlr": {
+    "source": "https://jmlr.org/tmlr/papers/",
+    "snapshot_date": "2026-08-14",
+    "items": [
+      {
+        "title": "A Survey on Behavioral Data Representation Learning",
+        "authors": [
+          "Xi Chen",
+          "Siwei Zhang",
+          "kangxiang jia",
+          "Sijia Peng",
+          "Yuxuan Wang",
+          "Liang Su",
+          "Xinyi Huang",
+          "Jiarong Xu",
+          "Yun Xiong",
+          "Philip S. Yu"
+        ],
+        "openreview_id": "NSdV2qvglw",
+        "url": "https://openreview.net/forum?id=NSdV2qvglw",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=NSdV2qvglw')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NSdV2qvglw')"
+        ]
+      },
+      {
+        "title": "Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review",
+        "authors": [
+          "Rachel S.Y. Teo",
+          "Yutaro Yamada",
+          "Shashank Kotyan",
+          "Yuki Imajuku",
+          "Tarin Clanuwat"
+        ],
+        "openreview_id": "7iX2Z2bPFB",
+        "url": "https://openreview.net/forum?id=7iX2Z2bPFB",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=7iX2Z2bPFB')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=7iX2Z2bPFB')"
+        ]
+      },
+      {
+        "title": "Variational Set Operator Networks: Uncertainty-Aware Meta-Learning via Probabilistic Neural Operators",
+        "authors": [
+          "William Ryan",
+          "Dirk Husmeier",
+          "Vladislav Vyshemirsky"
+        ],
+        "openreview_id": "rLgrHnZtzh",
+        "url": "https://openreview.net/forum?id=rLgrHnZtzh",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=rLgrHnZtzh')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=rLgrHnZtzh')"
+        ]
+      },
+      {
+        "title": "BiScale-GTR: Fragment-Aware graph Transformers for Multi-Scale Molecular Representation Learning",
+        "authors": [
+          "Yi Yang",
+          "Ovidiu Daescu"
+        ],
+        "openreview_id": "97L9IRPWu7",
+        "url": "https://openreview.net/forum?id=97L9IRPWu7",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=97L9IRPWu7')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=97L9IRPWu7')"
+        ]
+      },
+      {
+        "title": "Few Contrastive Attention Heads Enable Visual Grounding in Large Vision-Language Models",
+        "authors": [
+          "Neha Sengar",
+          "Andres Saurez",
+          "Dongsoo Har",
+          "Sangkeum Lee"
+        ],
+        "openreview_id": "CnrAiXbw8a",
+        "url": "https://openreview.net/forum?id=CnrAiXbw8a",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=CnrAiXbw8a')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=CnrAiXbw8a')"
+        ]
+      },
+      {
+        "title": "The Embodiment Gap in Robot Foundation Models",
+        "authors": [
+          "Yukiyasu Domae",
+          "Keisuke Shirai",
+          "Hanbit Oh",
+          "Ryoichi Nakajo",
+          "Tomohiro Motoda",
+          "Koshi Makihara",
+          "Masaki Murooka",
+          "Takuma Yagi",
+          "Yoshiaki Bando",
+          "Ryo Hanai"
+        ],
+        "openreview_id": "D0XcH9Cso4",
+        "url": "https://openreview.net/forum?id=D0XcH9Cso4",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=D0XcH9Cso4')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=D0XcH9Cso4')"
+        ]
+      },
+      {
+        "title": "ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning",
+        "authors": [
+          "Wenwu Fan",
+          "Zhijie Xia",
+          "Qihong Lin",
+          "Zhuo Zheng",
+          "Sihao Wang",
+          "QiangChen",
+          "Liangsheng Zhu"
+        ],
+        "openreview_id": "8sBZSgAkAH",
+        "url": "https://openreview.net/forum?id=8sBZSgAkAH",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=8sBZSgAkAH')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=8sBZSgAkAH')"
+        ]
+      },
+      {
+        "title": "Learning as Homeostasis: Beyond the Optimization Paradigm in Machine Intelligence",
+        "authors": [
+          "Zaryab Rahman",
+          "Mattia Ottoborgo"
+        ],
+        "openreview_id": "sgvPGWZ1uv",
+        "url": "https://openreview.net/forum?id=sgvPGWZ1uv",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=sgvPGWZ1uv')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=sgvPGWZ1uv')"
+        ]
+      },
+      {
+        "title": "HyperCLIP: Prompt-Conditioned Image Encoders for Contrastive Vision-Language Pre-training",
+        "authors": [
+          "Victor Akinwande",
+          "Mohammad Sadegh Norouzzadeh",
+          "Devin Willmott",
+          "Anna Bair",
+          "Madan Ravi Ganesh",
+          "J Zico Kolter"
+        ],
+        "openreview_id": "kX7iwF5s3v",
+        "url": "https://openreview.net/forum?id=kX7iwF5s3v",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=kX7iwF5s3v')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=kX7iwF5s3v')"
+        ]
+      },
+      {
+        "title": "Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models",
+        "authors": [
+          "Shaunak A. Mehta",
+          "Ananya Hazarika",
+          "Haochen Zhang",
+          "Fan Yang",
+          "Ryo Moriyama",
+          "Wenkai Li",
+          "Yash Patel",
+          "Kanata Suzuki"
+        ],
+        "openreview_id": "AXv7OjfuiT",
+        "url": "https://openreview.net/forum?id=AXv7OjfuiT",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=AXv7OjfuiT')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=AXv7OjfuiT')"
+        ]
+      },
+      {
+        "title": "Aligning Path-based Link Prediction with Human Understanding of Valid Reasoning",
+        "authors": [
+          "Christoph Wehner",
+          "Lukas Bahr",
+          "Erik Voigt",
+          "Janne Wagner",
+          "Jakob Elias Wagner",
+          "Ute Schmid"
+        ],
+        "openreview_id": "FrMBxE7J0v",
+        "url": "https://openreview.net/forum?id=FrMBxE7J0v",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=FrMBxE7J0v')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=FrMBxE7J0v')"
+        ]
+      },
+      {
+        "title": "Patch-based Memory Gate Model in Time Series Foundation Model",
+        "authors": [
+          "Samuel Yoon",
+          "Jongwon Kim",
+          "Juyoung Ha",
+          "Young Myoung Ko"
+        ],
+        "openreview_id": "Fm2ddpR0aw",
+        "url": "https://openreview.net/forum?id=Fm2ddpR0aw",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Fm2ddpR0aw')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Fm2ddpR0aw')"
+        ]
+      },
+      {
+        "title": "Online Learning and Unlearning: Efficient Algorithms with Near-Optimal Regret Guarantees",
+        "authors": [
+          "Yaxi Hu",
+          "Bernhard SchÃ¶lkopf",
+          "Amartya Sanyal"
+        ],
+        "openreview_id": "lyvCVfTdiY",
+        "url": "https://openreview.net/forum?id=lyvCVfTdiY",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=lyvCVfTdiY')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=lyvCVfTdiY')"
+        ]
+      },
+      {
+        "title": "Symbolic Graphics Programming with Large Language Models",
+        "authors": [
+          "Yamei Chen",
+          "Haoquan Zhang",
+          "Yangyi Huang",
+          "Zeju Qiu",
+          "Kaipeng Zhang",
+          "Yandong Wen",
+          "Weiyang Liu"
+        ],
+        "openreview_id": "JfK8EHJAQn",
+        "url": "https://openreview.net/forum?id=JfK8EHJAQn",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=JfK8EHJAQn')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=JfK8EHJAQn')"
+        ]
+      },
+      {
+        "title": "Learning What to Fail On: Failure-Mode Contextual Bandits for Adversarial Data Curation",
+        "authors": [
+          "Roie Kazoom",
+          "Ofir Cohen",
+          "Rami Puzis",
+          "Asaf Shabtai",
+          "Ofer Hadar"
+        ],
+        "openreview_id": "DSpKdN6whZ",
+        "url": "https://openreview.net/forum?id=DSpKdN6whZ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=DSpKdN6whZ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=DSpKdN6whZ')"
+        ]
+      },
+      {
+        "title": "FairT2I: Latent Variable Guidance for Training-Free Bias Mitigation with LLM-Assisted Bias Detection",
+        "authors": [
+          "Jinya Sakurai",
+          "Yuki Koyama",
+          "Issei Sato"
+        ],
+        "openreview_id": "WHYE1WjMYf",
+        "url": "https://openreview.net/forum?id=WHYE1WjMYf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=WHYE1WjMYf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=WHYE1WjMYf')"
+        ]
+      },
+      {
+        "title": "Deep Models, Shallow Alignment: Uncovering the Granularity Mismatch in Neural Decoding",
+        "authors": [
+          "Yang Du",
+          "Siyuan Dai",
+          "Yonghao Song",
+          "Paul Thompson",
+          "Haoteng Tang",
+          "Liang Zhan"
+        ],
+        "openreview_id": "SzDHkICZpm",
+        "url": "https://openreview.net/forum?id=SzDHkICZpm",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=SzDHkICZpm')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=SzDHkICZpm')"
+        ]
+      },
+      {
+        "title": "World Model Anomaly Detection with a Latent Linear Prior",
+        "authors": [
+          "Zarif Ikram",
+          "Harry Zhao",
+          "Ling Pan",
+          "Alex Lamb",
+          "Dianbo Liu"
+        ],
+        "openreview_id": "VLIzLK3CfR",
+        "url": "https://openreview.net/forum?id=VLIzLK3CfR",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=VLIzLK3CfR')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=VLIzLK3CfR')"
+        ]
+      },
+      {
+        "title": "Partial Observation Inversion and Batched Belief-State Planning for Information Gathering POMDPs",
+        "authors": [
+          "Robert J. Moss",
+          "David Zhen Yin",
+          "Mahdi Al-Husseini",
+          "Patrick T Belliveau",
+          "Jef Caers",
+          "Mykel Kochenderfer"
+        ],
+        "openreview_id": "K7MPwAV1AT",
+        "url": "https://openreview.net/forum?id=K7MPwAV1AT",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=K7MPwAV1AT')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=K7MPwAV1AT')"
+        ]
+      },
+      {
+        "title": "Invariant Causal Set Covering Machine",
+        "authors": [
+          "Thibaud Godon",
+          "Baptiste Bauvin",
+          "Pascal Germain",
+          "Jacques Corbeil",
+          "Alexandre Drouin"
+        ],
+        "openreview_id": "slquR2A8rA",
+        "url": "https://openreview.net/forum?id=slquR2A8rA",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=slquR2A8rA')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=slquR2A8rA')"
+        ]
+      },
+      {
+        "title": "Sampling Boltzmann distributions via normalizing flow approximation of transport maps",
+        "authors": [
+          "Zia Ur Rehman",
+          "Gero Friesecke"
+        ],
+        "openreview_id": "4HLZD6LMuJ",
+        "url": "https://openreview.net/forum?id=4HLZD6LMuJ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=4HLZD6LMuJ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=4HLZD6LMuJ')"
+        ]
+      },
+      {
+        "title": "A Survey of Hybrid Inference Systems for Large Language Models",
+        "authors": [
+          "Arkul Prathamesh Shenoy",
+          "Amogh Kulkarni",
+          "Atharv Rawal",
+          "Yatin Prabhakar",
+          "Bhaskarjyoti Das"
+        ],
+        "openreview_id": "OIrJI53MvN",
+        "url": "https://openreview.net/forum?id=OIrJI53MvN",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=OIrJI53MvN')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=OIrJI53MvN')"
+        ]
+      },
+      {
+        "title": "Chance-Constrained Inference for Hallucination Risk Control in Large Language Models",
+        "authors": [
+          "Sreenivasan M"
+        ],
+        "openreview_id": "cJDhDC69m9",
+        "url": "https://openreview.net/forum?id=cJDhDC69m9",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=cJDhDC69m9')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=cJDhDC69m9')"
+        ]
+      },
+      {
+        "title": "Learning with Local Search MCMC Layers",
+        "authors": [
+          "Germain Vivier-Ardisson",
+          "Mathieu Blondel",
+          "Axel Parmentier"
+        ],
+        "openreview_id": "M2a0mbACNf",
+        "url": "https://openreview.net/forum?id=M2a0mbACNf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=M2a0mbACNf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=M2a0mbACNf')"
+        ]
+      },
+      {
+        "title": "Behavioral Inference at Scale: The Fundamental Asymmetry Between Motivations and Belief Systems",
+        "authors": [
+          "Jason Starace",
+          "Terry Soule"
+        ],
+        "openreview_id": "aDMDqtw63H",
+        "url": "https://openreview.net/forum?id=aDMDqtw63H",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=aDMDqtw63H')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=aDMDqtw63H')"
+        ]
+      },
+      {
+        "title": "Lost in Aggregation: On a Fundamental Expressivity Limit of Message-Passing Graph Neural Networks",
+        "authors": [
+          "Eran Rosenbluth"
+        ],
+        "openreview_id": "F4OlpAJ0o2",
+        "url": "https://openreview.net/forum?id=F4OlpAJ0o2",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=F4OlpAJ0o2')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=F4OlpAJ0o2')"
+        ]
+      },
+      {
+        "title": "A Closed-Form Persistence-Landmark Pipeline for Certified Point-Cloud and Graph Classification",
+        "authors": [
+          "Sushovan Majhi",
+          "Atish Mitra",
+          "Ziga Virk",
+          "Pramita Bagchi"
+        ],
+        "openreview_id": "4kZxNlE5Ve",
+        "url": "https://openreview.net/forum?id=4kZxNlE5Ve",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=4kZxNlE5Ve')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=4kZxNlE5Ve')"
+        ]
+      },
+      {
+        "title": "Physics-Aware Variational Autoencoder for Urban Travel Demand Calibration",
+        "authors": [
+          "Defu Cao",
+          "Sam Griesemer",
+          "Zijun Cui",
+          "Carolina Osorio",
+          "Yan Liu"
+        ],
+        "openreview_id": "r5oS1XXbT3",
+        "url": "https://openreview.net/forum?id=r5oS1XXbT3",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=r5oS1XXbT3')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=r5oS1XXbT3')"
+        ]
+      },
+      {
+        "title": "On the Statistical Limits of Self-Improving Agents",
+        "authors": [
+          "Charles L. Wang",
+          "Keir Dorchen",
+          "Peter Jin"
+        ],
+        "openreview_id": "q4vuDMtYgF",
+        "url": "https://openreview.net/forum?id=q4vuDMtYgF",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=q4vuDMtYgF')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=q4vuDMtYgF')"
+        ]
+      },
+      {
+        "title": "Clarity: The Flexibility-Interpretability Trade-Off in Sparsity-aware Concept Bottleneck Models",
+        "authors": [
+          "Konstantinos P. Panousis",
+          "Diego Marcos"
+        ],
+        "openreview_id": "IyQEQBRR4M",
+        "url": "https://openreview.net/forum?id=IyQEQBRR4M",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=IyQEQBRR4M')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=IyQEQBRR4M')"
+        ]
+      },
+      {
+        "title": "Analyzing the Effect of Noise in LLM Fine-Tuning",
+        "authors": [
+          "Lingfang Li",
+          "Procheta Sen"
+        ],
+        "openreview_id": "NlSBeHZEz5",
+        "url": "https://openreview.net/forum?id=NlSBeHZEz5",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=NlSBeHZEz5')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NlSBeHZEz5')"
+        ]
+      },
+      {
+        "title": "Same-Expert Iteration Improves a Translation MoE Where Expert Communication Does Not",
+        "authors": [
+          "Libo Sun",
+          "Peixiong He",
+          "Po-wei Harn",
+          "Xiao Qin"
+        ],
+        "openreview_id": "hPD4MjMfoN",
+        "url": "https://openreview.net/forum?id=hPD4MjMfoN",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=hPD4MjMfoN')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=hPD4MjMfoN')"
+        ]
+      },
+      {
+        "title": "From Centerlines to Hemodynamics: Anisotropic RBF Decoders for Coronary Arteries",
+        "authors": [
+          "Reza Akbarian Bafghi",
+          "Sukirt Thakur",
+          "Maziar Raissi"
+        ],
+        "openreview_id": "AoJUrVjufP",
+        "url": "https://openreview.net/forum?id=AoJUrVjufP",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=AoJUrVjufP')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=AoJUrVjufP')"
+        ]
+      },
+      {
+        "title": "EHR2Path: Comprehensive Pathway-Level Modeling of Longitudinal Patient Trajectories from Multimodal Electronic Health Records",
+        "authors": [
+          "Chantal Pellegrini",
+          "Ege Ãzsoy",
+          "David Bani-Harouni",
+          "Nassir Navab",
+          "Matthias Keicher"
+        ],
+        "openreview_id": "ywa71iOykg",
+        "url": "https://openreview.net/forum?id=ywa71iOykg",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=ywa71iOykg')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=ywa71iOykg')"
+        ]
+      },
+      {
+        "title": "Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists",
+        "authors": [
+          "Lianhao Zhou",
+          "Hongyi Ling",
+          "Keqiang Yan",
+          "Kaiji Zhao",
+          "Xiaoning Qian",
+          "Raymundo Arroyave",
+          "Xiaofeng Qian",
+          "Shuiwang Ji"
+        ],
+        "openreview_id": "Cwq1U8tbWW",
+        "url": "https://openreview.net/forum?id=Cwq1U8tbWW",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Cwq1U8tbWW')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Cwq1U8tbWW')"
+        ]
+      },
+      {
+        "title": "Predicting Chain-of-Thought Correctness from Trajectory Geometry",
+        "authors": [
+          "Arjun Balaji"
+        ],
+        "openreview_id": "H9cBkEqVeY",
+        "url": "https://openreview.net/forum?id=H9cBkEqVeY",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=H9cBkEqVeY')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=H9cBkEqVeY')"
+        ]
+      },
+      {
+        "title": "Gen-MURE: Generalized Multiplicative Unbiased Risk Estimate",
+        "authors": [
+          "Soumee Guha",
+          "Scott Acton"
+        ],
+        "openreview_id": "Hie13qRm1x",
+        "url": "https://openreview.net/forum?id=Hie13qRm1x",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Hie13qRm1x')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Hie13qRm1x')"
+        ]
+      },
+      {
+        "title": "A Cross-Model Study of Over-Compliance in Large Lan- guage Models",
+        "authors": [
+          "Harish Gupta"
+        ],
+        "openreview_id": "LnUP74YNze",
+        "url": "https://openreview.net/forum?id=LnUP74YNze",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=LnUP74YNze')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=LnUP74YNze')"
+        ]
+      },
+      {
+        "title": "Navigating the Labyrinth: Evaluating LLMsâ Ability to Reason About Search Problems",
+        "authors": [
+          "Nasim Borazjanizadeh",
+          "Roei Herzig",
+          "Trevor Darrell",
+          "Rogerio Feris",
+          "Leonid Karlinsky"
+        ],
+        "openreview_id": "oub2I1ioL5",
+        "url": "https://openreview.net/forum?id=oub2I1ioL5",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=oub2I1ioL5')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=oub2I1ioL5')"
+        ]
+      },
+      {
+        "title": "Hyperedge Anomaly Detection with Hypergraph Neural Network",
+        "authors": [
+          "Md. Tanvir Alam",
+          "Md Mahmudur Rahman",
+          "Md. Fahim Arefin",
+          "Chowdhury Farhan Ahmed",
+          "Zisan Mahmud",
+          "Md. Sadman Sakib",
+          "Carson Leung"
+        ],
+        "openreview_id": "etPYIk1BqO",
+        "url": "https://openreview.net/forum?id=etPYIk1BqO",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=etPYIk1BqO')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=etPYIk1BqO')"
+        ]
+      },
+      {
+        "title": "Unbiased Stochastic Optimization for Gaussian Processes on Finite Dimensional RKHS",
+        "authors": [
+          "Neta Shoham",
+          "Haim Avron"
+        ],
+        "openreview_id": "wDCulUZla4",
+        "url": "https://openreview.net/forum?id=wDCulUZla4",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=wDCulUZla4')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=wDCulUZla4')"
+        ]
+      },
+      {
+        "title": "XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher",
+        "authors": [
+          "Lazar ÄokoviÄ",
+          "Aimee Lin"
+        ],
+        "openreview_id": "2WI889Ulin",
+        "url": "https://openreview.net/forum?id=2WI889Ulin",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=2WI889Ulin')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=2WI889Ulin')"
+        ]
+      },
+      {
+        "title": "eDQA: Efficient Deep Quantization of DNN Activations on Edge Devices",
+        "authors": [
+          "Wenhao Hu",
+          "Jude Haris",
+          "Paul Henderson",
+          "JosÃ© Cano"
+        ],
+        "openreview_id": "SEIBCdgE5W",
+        "url": "https://openreview.net/forum?id=SEIBCdgE5W",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=SEIBCdgE5W')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=SEIBCdgE5W')"
+        ]
+      },
+      {
+        "title": "VQEL: Enabling Self-Play in Emergent Language Games via Agent Internal Vector Quantization",
+        "authors": [
+          "Mahdi Samiei",
+          "Mehdi Jamalkhah",
+          "Mahdieh Soleymani Baghshah"
+        ],
+        "openreview_id": "5nqQlGWlsW",
+        "url": "https://openreview.net/forum?id=5nqQlGWlsW",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=5nqQlGWlsW')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=5nqQlGWlsW')"
+        ]
+      },
+      {
+        "title": "QMoE+: Hybrid Quantum Mixture of Experts",
+        "authors": [
+          "Haribandhu Jena",
+          "Subhankar Mishra"
+        ],
+        "openreview_id": "l1JaPqZ6K5",
+        "url": "https://openreview.net/forum?id=l1JaPqZ6K5",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=l1JaPqZ6K5')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=l1JaPqZ6K5')"
+        ]
+      },
+      {
+        "title": "Enhance the Safety in Reinforcement Learning by ADRC Lagrangian Methods",
+        "authors": [
+          "Mingxu Zhang",
+          "Huicheng Zhang",
+          "Jiaming Ji",
+          "Yaodong Yang",
+          "Ying Sun"
+        ],
+        "openreview_id": "3IbuT8uzYS",
+        "url": "https://openreview.net/forum?id=3IbuT8uzYS",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=3IbuT8uzYS')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=3IbuT8uzYS')"
+        ]
+      },
+      {
+        "title": "DS-STAR: Data Science Agent for Solving Diverse Tasks across Heterogeneous Formats and Open-Ended Queries",
+        "authors": [
+          "Jaehyun Nam",
+          "Jinsung Yoon",
+          "Jiefeng Chen",
+          "Rajarishi Sinha",
+          "Jinwoo Shin",
+          "Tomas Pfister"
+        ],
+        "openreview_id": "Yz3ZPLzYaU",
+        "url": "https://openreview.net/forum?id=Yz3ZPLzYaU",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Yz3ZPLzYaU')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Yz3ZPLzYaU')"
+        ]
+      },
+      {
+        "title": "The 2025 Foundation Model Transparency Index",
+        "authors": [
+          "Alexander Wan",
+          "Kevin Klyman",
+          "Sayash Kapoor",
+          "Nestor Maslej",
+          "Shayne Longpre",
+          "Betty Xiong",
+          "Percy Liang",
+          "Rishi Bommasani"
+        ],
+        "openreview_id": "1jT253Xtyf",
+        "url": "https://openreview.net/forum?id=1jT253Xtyf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=1jT253Xtyf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=1jT253Xtyf')"
+        ]
+      },
+      {
+        "title": "Optimal or Greedy Decision Trees? Revisiting their Objectives, Tuning, and Performance",
+        "authors": [
+          "Jacobus G. M. van der Linden",
+          "DaniÃ«l Vos",
+          "Mathijs de Weerdt",
+          "Sicco Verwer",
+          "Emir DemiroviÄ"
+        ],
+        "openreview_id": "DvDOAtskXl",
+        "url": "https://openreview.net/forum?id=DvDOAtskXl",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=DvDOAtskXl')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=DvDOAtskXl')"
+        ]
+      },
+      {
+        "title": "SAFT: Structure-Aware Fine-Tuning of Large Language Models for AMR-to-Text Generation",
+        "authors": [
+          "Rafiq Kamel",
+          "Filippo Guerranti",
+          "Simon Geisler",
+          "Stephan GÃ¼nnemann"
+        ],
+        "openreview_id": "QZoUMyzYDB",
+        "url": "https://openreview.net/forum?id=QZoUMyzYDB",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=QZoUMyzYDB')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=QZoUMyzYDB')"
+        ]
+      },
+      {
+        "title": "Minimax learning rates for estimating binary classifiers under margin conditions",
+        "authors": [
+          "Jonathan GarcÃ­a",
+          "Philipp Christian Petersen"
+        ],
+        "openreview_id": "ZIshsqojB6",
+        "url": "https://openreview.net/forum?id=ZIshsqojB6",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=ZIshsqojB6')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=ZIshsqojB6')"
+        ]
+      },
+      {
+        "title": "Influencing Humans to Conform to Preference Models for RLHF",
+        "authors": [
+          "Stephane Hatgis-Kessell",
+          "W. Bradley Knox",
+          "Serena Booth",
+          "Peter Stone"
+        ],
+        "openreview_id": "7YPlw1nUmW",
+        "url": "https://openreview.net/forum?id=7YPlw1nUmW",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=7YPlw1nUmW')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=7YPlw1nUmW')"
+        ]
+      },
+      {
+        "title": "Stronger Approximation Guarantees for Non-Monotone $\\gamma$-Weakly DR-Submodular Maximization",
+        "authors": [
+          "Hareshkumar Jadav",
+          "Ranveer Singh",
+          "Vaneet Aggarwal"
+        ],
+        "openreview_id": "yS78Cb1CnX",
+        "url": "https://openreview.net/forum?id=yS78Cb1CnX",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=yS78Cb1CnX')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=yS78Cb1CnX')"
+        ]
+      },
+      {
+        "title": "Analysis of Natural Actor-Critic with Randomized Low- Discrepancy Sampling",
+        "authors": [
+          "Ajin George Joseph",
+          "shikher chhawchharia"
+        ],
+        "openreview_id": "kOSx9v6dfb",
+        "url": "https://openreview.net/forum?id=kOSx9v6dfb",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=kOSx9v6dfb')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=kOSx9v6dfb')"
+        ]
+      },
+      {
+        "title": "TransformerâSSM Hybrid Language Models: Systematic Analysis and Design Insights",
+        "authors": [
+          "Sangmin Bae",
+          "Bilge Acun",
+          "Chien-Yu Lin",
+          "Haroun Habeeb",
+          "Seungyeon Kim",
+          "Liang Luo",
+          "Junjie Wang",
+          "Carole-Jean Wu"
+        ],
+        "openreview_id": "x7qyXl8ecT",
+        "url": "https://openreview.net/forum?id=x7qyXl8ecT",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=x7qyXl8ecT')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=x7qyXl8ecT')"
+        ]
+      },
+      {
+        "title": "The Impact of Enforcing Representational Consistency of Identical Transformations for Disentangled Representation",
+        "authors": [
+          "Hee-Jun Jung",
+          "Hoyong Kim",
+          "Ilmin Kang",
+          "Kangil Kim"
+        ],
+        "openreview_id": "VjbBxj4aWb",
+        "url": "https://openreview.net/forum?id=VjbBxj4aWb",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=VjbBxj4aWb')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=VjbBxj4aWb')"
+        ]
+      },
+      {
+        "title": "Probing Visual Concepts in Lightweight Vision-Language Models for Automated Driving",
+        "authors": [
+          "Nikos Theodoridis",
+          "Reenu Mohandas",
+          "Ganesh Sistu",
+          "Anthony Scanlan",
+          "CiarÃ¡n Eising",
+          "Tim Brophy"
+        ],
+        "openreview_id": "HlBBy19ojC",
+        "url": "https://openreview.net/forum?id=HlBBy19ojC",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=HlBBy19ojC')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=HlBBy19ojC')"
+        ]
+      },
+      {
+        "title": "Instance-Level Generation for Representation Learning",
+        "authors": [
+          "Yankun Wu",
+          "Zakaria Laskar",
+          "Giorgos Kordopatis-Zilos",
+          "Noa Garcia",
+          "Giorgos Tolias"
+        ],
+        "openreview_id": "T3JgJXH3ZK",
+        "url": "https://openreview.net/forum?id=T3JgJXH3ZK",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=T3JgJXH3ZK')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=T3JgJXH3ZK')"
+        ]
+      },
+      {
+        "title": "Learning Structured Set Utility Functions with Contrastive Element Representations",
+        "authors": [
+          "Jayanth Bhargav",
+          "Younggil Chang",
+          "Mahsa Ghasemi",
+          "Shreyas Sundaram"
+        ],
+        "openreview_id": "SZ8mOziJBx",
+        "url": "https://openreview.net/forum?id=SZ8mOziJBx",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=SZ8mOziJBx')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=SZ8mOziJBx')"
+        ]
+      },
+      {
+        "title": "A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents",
+        "authors": [
+          "Wei-Chieh Huang",
+          "Weizhi Zhang",
+          "Yueqing Liang",
+          "Yuanchen Bei",
+          "Yankai Chen",
+          "Tao Feng",
+          "xinyu Pan",
+          "Zhen Tan",
+          "Yu Wang",
+          "Tianxin Wei",
+          "Shanglin Wu",
+          "Ruiyao Xu",
+          "Liangwei Yang",
+          "Rui Yang",
+          "Wooseong Yang",
+          "Chin-Yuan Yeh",
+          "Hanrong Zhang",
+          "Haozhen Zhang",
+          "Siqi Zhu",
+          "Henry Peng Zou",
+          "Wanjia Zhao",
+          "Song Wang",
+          "Wujiang Xu",
+          "Zixuan Ke",
+          "Zheng Hui",
+          "Dawei Li",
+          "Yaozu Wu",
+          "Langzhou He",
+          "Chen Wang",
+          "Xiongxiao Xu",
+          "Baixiang Huang",
+          "Juntao Tan",
+          "Shelby Heinecke",
+          "Huan Wang",
+          "Caiming Xiong",
+          "Ahmed Metwally",
+          "Jun Yan",
+          "Chen-Yu Lee",
+          "Hanqing Zeng",
+          "Yinglong Xia",
+          "Xiaokai Wei",
+          "Ali Payani",
+          "Yu Wang",
+          "Haitong Ma",
+          "Wenya Wang",
+          "Chenguang Wang",
+          "Yu Zhang",
+          "Xin Eric Wang",
+          "Yongfeng Zhang",
+          "Jiaxuan You",
+          "Hanghang Tong",
+          "Xiao Luo",
+          "Xue Liu",
+          "Yizhou Sun",
+          "Wei Wang",
+          "Julian McAuley",
+          "James Zou",
+          "Jiawei Han",
+          "Philip S. Yu",
+          "Kai Shu"
+        ],
+        "openreview_id": "XycbogUAeJ",
+        "url": "https://openreview.net/forum?id=XycbogUAeJ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=XycbogUAeJ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=XycbogUAeJ')"
+        ]
+      },
+      {
+        "title": "How Much Information Fits in a Vector?",
+        "authors": [
+          "Christopher Neil Gadzinski",
+          "Decebal Constantin Mocanu"
+        ],
+        "openreview_id": "Nby4pCPIZI",
+        "url": "https://openreview.net/forum?id=Nby4pCPIZI",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=Nby4pCPIZI')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=Nby4pCPIZI')"
+        ]
+      },
+      {
+        "title": "Environmental Footprint of GenAI Research: Insights from the Moshi Foundation Model",
+        "authors": [
+          "Marta LÃ³pez-Rauhut",
+          "Loic Landrieu",
+          "Mathieu Aubry",
+          "Anne-Laure Ligozat"
+        ],
+        "openreview_id": "uurX0xsr8G",
+        "url": "https://openreview.net/forum?id=uurX0xsr8G",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=uurX0xsr8G')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=uurX0xsr8G')"
+        ]
+      },
+      {
+        "title": "Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights",
+        "authors": [
+          "Shubham Parashar",
+          "Blake Olson",
+          "Sambhav Khurana",
+          "Eric Li",
+          "Hongyi Ling",
+          "James Caverlee",
+          "Shuiwang Ji"
+        ],
+        "openreview_id": "budZJyCK8G",
+        "url": "https://openreview.net/forum?id=budZJyCK8G",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=budZJyCK8G')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=budZJyCK8G')"
+        ]
+      },
+      {
+        "title": "On the Fundamental Limits of LLMs at Scale",
+        "authors": [
+          "Muhammad Ahmed Mohsin",
+          "Muhammad Umer",
+          "Ahsan Bilal",
+          "Zeeshan Memon",
+          "Muhammad Ibtsaam Qadir",
+          "Sagnik Bhattacharya",
+          "Hassan Rizwan",
+          "Abhiram Rao Gorle",
+          "Maahe Zehra Kazmi",
+          "Ayesha Mohsin",
+          "Ali Subhan",
+          "M. Usman Rafique",
+          "Zihao He",
+          "Pulkit Mehta",
+          "Jinda Han",
+          "Muhammad Ali Jamshed",
+          "Dean F. Hougen",
+          "John M. Cioffi"
+        ],
+        "openreview_id": "BIRDGVrom8",
+        "url": "https://openreview.net/forum?id=BIRDGVrom8",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=BIRDGVrom8')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=BIRDGVrom8')"
+        ]
+      },
+      {
+        "title": "ANU-RL: A New Perspective on Weakly-Supervised Representation Learning for Visual Place Recognition",
+        "authors": [
+          "Anuradha Uggi",
+          "Sumohana S. Channappayya"
+        ],
+        "openreview_id": "mXE4OP55il",
+        "url": "https://openreview.net/forum?id=mXE4OP55il",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=mXE4OP55il')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=mXE4OP55il')"
+        ]
+      },
+      {
+        "title": "DIMENSION DOMAIN CO-DECOMPOSITION: SOLVING PDES WITH INTERPRETABILITY",
+        "authors": [
+          "Shuyuan Shang",
+          "Ming Zhong",
+          "Ren Wang"
+        ],
+        "openreview_id": "kuzkynVyRq",
+        "url": "https://openreview.net/forum?id=kuzkynVyRq",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=kuzkynVyRq')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=kuzkynVyRq')"
+        ]
+      },
+      {
+        "title": "Federated Class-Incremental Learning with Hierarchical Generative Prototypes",
+        "authors": [
+          "Riccardo Salami",
+          "Pietro Buzzega",
+          "Matteo Mosconi",
+          "Mattia Verasani",
+          "Simone Calderara"
+        ],
+        "openreview_id": "k2TT42Ei8W",
+        "url": "https://openreview.net/forum?id=k2TT42Ei8W",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=k2TT42Ei8W')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=k2TT42Ei8W')"
+        ]
+      },
+      {
+        "title": "Dynamic Reward Incentives for Emergent Cooperation under Changing Rewards",
+        "authors": [
+          "Philipp Altmann",
+          "Maximilian Zorn",
+          "Sven Koenig",
+          "Thomy Phan"
+        ],
+        "openreview_id": "9Ltu1HV2YI",
+        "url": "https://openreview.net/forum?id=9Ltu1HV2YI",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=9Ltu1HV2YI')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=9Ltu1HV2YI')"
+        ]
+      },
+      {
+        "title": "PAC-Bayesian Meta-Learning for Few-Shot Identification of Linear Dynamical Systems",
+        "authors": [
+          "Chenfeng Huang",
+          "George Michailidis"
+        ],
+        "openreview_id": "CiGFpSLzFv",
+        "url": "https://openreview.net/forum?id=CiGFpSLzFv",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=CiGFpSLzFv')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=CiGFpSLzFv')"
+        ]
+      },
+      {
+        "title": "Reasoning with Preference Constraints: A Benchmark for Language Models in Many-to-One Matching Markets",
+        "authors": [
+          "Marylou Fauchard",
+          "Florian Carichon",
+          "Margarida Carvalho",
+          "Golnoosh Farnadi"
+        ],
+        "openreview_id": "2dpt2Ughzt",
+        "url": "https://openreview.net/forum?id=2dpt2Ughzt",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=2dpt2Ughzt')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=2dpt2Ughzt')"
+        ]
+      },
+      {
+        "title": "Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning",
+        "authors": [
+          "Jiaer Xia",
+          "Yuhang Zang",
+          "Peng Gao",
+          "Sharon Li",
+          "Kaiyang Zhou"
+        ],
+        "openreview_id": "JWkZXBgh5a",
+        "url": "https://openreview.net/forum?id=JWkZXBgh5a",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=JWkZXBgh5a')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=JWkZXBgh5a')"
+        ]
+      },
+      {
+        "title": "NeMoS: Nearest Neighbors Bandit meets Active Learning for Online Model Selection",
+        "authors": [
+          "Jules Damidaux",
+          "Basile Lewandowski",
+          "Farzan Farnia",
+          "Lydia Chen"
+        ],
+        "openreview_id": "CSjewjplO1",
+        "url": "https://openreview.net/forum?id=CSjewjplO1",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=CSjewjplO1')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=CSjewjplO1')"
+        ]
+      },
+      {
+        "title": "Wiring the âWhyâ: A Unified Taxonomy and Survey of Abductive Reasoning in LLMs",
+        "authors": [
+          "Moein Salimi",
+          "Shaygan Adim",
+          "Danial Parnian",
+          "Nima Alighardashi",
+          "Mahdi Jafari Siavoshani",
+          "Mohammad Hossein Rohban"
+        ],
+        "openreview_id": "oeVkugH0WB",
+        "url": "https://openreview.net/forum?id=oeVkugH0WB",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=oeVkugH0WB')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=oeVkugH0WB')"
+        ]
+      },
+      {
+        "title": "Provably Safe Generative Sampling with Constricting Barrier Functions",
+        "authors": [
+          "Darshan Gadginmath",
+          "Ahmed Allibhoy",
+          "Fabio Pasqualetti"
+        ],
+        "openreview_id": "iZi471b4Pf",
+        "url": "https://openreview.net/forum?id=iZi471b4Pf",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=iZi471b4Pf')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=iZi471b4Pf')"
+        ]
+      },
+      {
+        "title": "Neural Diversity Regularizes Hallucinations in Language Models",
+        "authors": [
+          "Kushal Chakrabarti",
+          "Nirmal Balachundhar"
+        ],
+        "openreview_id": "5l9ZflyApA",
+        "url": "https://openreview.net/forum?id=5l9ZflyApA",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=5l9ZflyApA')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=5l9ZflyApA')"
+        ]
+      },
+      {
+        "title": "Task-Relevant Language-conditioned Segmentation for Robust Generalization in Reinforcement Learning",
+        "authors": [
+          "Vedant Dave",
+          "Christian Rauch",
+          "Elmar Rueckert"
+        ],
+        "openreview_id": "MRHXB6eooE",
+        "url": "https://openreview.net/forum?id=MRHXB6eooE",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=MRHXB6eooE')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=MRHXB6eooE')"
+        ]
+      },
+      {
+        "title": "Verify What Matters: Budgeted Verification for Tool-Using Agents under Counterfactual Downstream Harm",
+        "authors": [
+          "Yueh Tang",
+          "Justin Zhan"
+        ],
+        "openreview_id": "nv1jzr0FaZ",
+        "url": "https://openreview.net/forum?id=nv1jzr0FaZ",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=nv1jzr0FaZ')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=nv1jzr0FaZ')"
+        ]
+      },
+      {
+        "title": "Cross-Fitted Clipped Covariance Estimation with a Data-Driven Tail-Energy Criterion",
+        "authors": [
+          "Even He",
+          "Zaizai Yan"
+        ],
+        "openreview_id": "MyNXLdRFJ3",
+        "url": "https://openreview.net/forum?id=MyNXLdRFJ3",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=MyNXLdRFJ3')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=MyNXLdRFJ3')"
+        ]
+      },
+      {
+        "title": "ViP$^2$-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection",
+        "authors": [
+          "Ziteng Yang",
+          "Jingzehua Xu",
+          "Cong Liu",
+          "Yanshu Li",
+          "Zepeng Li",
+          "Yeqiang Wang",
+          "Xinghui Li"
+        ],
+        "openreview_id": "KCRRuiQSIm",
+        "url": "https://openreview.net/forum?id=KCRRuiQSIm",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=KCRRuiQSIm')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=KCRRuiQSIm')"
+        ]
+      },
+      {
+        "title": "RIGID: A Training-Free and Generator-Agnostic Framework for Robust AI-Generated Image Detection",
+        "authors": [
+          "RIGID: A Training-Free and Generator-Agnostic  Framework for Robust AI-Generated Image Detection Zhiyuan He",
+          "Pin-Yu Chen",
+          "Tsung-Yi Ho"
+        ],
+        "openreview_id": "NBkBI2Zjlm",
+        "url": "https://openreview.net/forum?id=NBkBI2Zjlm",
+        "publication_date": "2026-08-01",
+        "publication_date_precision": "MONTH",
+        "official_month_label": "August 2026",
+        "date_evidence": "JMLR TMLR official papers page visible in 2026-08-14 snapshot",
+        "api_errors": [
+          "HTTPError('403 Client Error: Forbidden for url: https://api.openreview.net/notes?id=NBkBI2Zjlm')",
+          "HTTPError('403 Client Error: Forbidden for url: https://api2.openreview.net/notes?id=NBkBI2Zjlm')"
+        ]
+      }
+    ],
+    "errors": [],
+    "candidate_count": 80,
+    "count": 80
+  },
+  "chemical_science": {
+    "source": "https://feeds.rsc.org/rss/sc",
+    "items": [],
+    "all_items": [],
+    "errors": [
+      "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='feeds.rsc.org', port=443): Max retries exceeded with url: /rss/sc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))\"))"
+    ],
+    "count": 0
+  },
+  "tacl": {
+    "source": "https://aclanthology.org/volumes/2026.tacl-1/",
+    "date_source": "Crossref individual DOI metadata; ACL Anthology supplies canonical membership",
+    "items": [],
+    "all_candidates": [
+      {
+        "title": "ActiveLLM: Large Language Model-Based Active Learning for Textual Few-Shot Scenarios",
+        "authors": [
+          "Bayer, Markus",
+          "Lutz, Justin",
+          "Reuter, Christian"
+        ],
+        "doi": "10.1162/tacl.a.63",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.1.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.1/",
+        "publication_date": "2026-01-05",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-07T18:48:27Z"
+      },
+      {
+        "title": "MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs",
+        "authors": [
+          "Jumelet, Jaap",
+          "Weissweiler, Leonie",
+          "Nivre, Joakim",
+          "Bisazza, Arianna"
+        ],
+        "doi": "10.1162/tacl.a.600",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.10.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.10/",
+        "publication_date": "2026-01-16",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-23T15:20:26Z"
+      },
+      {
+        "title": "PiKGL: Leveraging Pruned Knowledge Graphs for Explainable Stance Detection",
+        "authors": [
+          "Wang, Bingbing",
+          "Lin, Jingjie",
+          "Bai, Zhixin",
+          "Song, Xintong",
+          "Wang, Qianlong",
+          "Yang, Min",
+          "Zeng, Xi",
+          "Li, Jing",
+          "Xu, Ruifeng"
+        ],
+        "doi": "10.1162/tacl.a.612",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.11.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.11/",
+        "publication_date": "2026-03-05",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-03-11T19:37:11Z"
+      },
+      {
+        "title": "Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SciCap Challenge 2023",
+        "authors": [
+          "Hsu, Ting-Yao",
+          "Hsu, Yi-Li",
+          "Rohatgi, Shaurya",
+          "Huang, Chieh-Yang",
+          "Ng, Ho Yin Sam",
+          "Rossi, Ryan",
+          "Kim, Sungchul",
+          "Yu, Tong",
+          "Ku, Lun-Wei",
+          "Giles, Clyde Lee",
+          "Huang, Ting-Hao"
+        ],
+        "doi": "10.1162/tacl.a.653",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.12.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.12/",
+        "publication_date": "2026-03-05",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-03-11T19:37:10Z"
+      },
+      {
+        "title": "Accelerating Language Model Workflows with Prompt Choreography",
+        "authors": [
+          "Bai, TJ",
+          "Eisner, Jason"
+        ],
+        "doi": "10.1162/tacl.a.643",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.13.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.13/",
+        "publication_date": "2026-03-16",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-03-17T18:25:40Z"
+      },
+      {
+        "title": "Aligned Probing: Relating Toxic Behavior and Model Internals",
+        "authors": [
+          "Waldis, Andreas",
+          "Gautam, Vagrant",
+          "Lauscher, Anne",
+          "Klakow, Dietrich",
+          "Gurevych, Iryna"
+        ],
+        "doi": "10.1162/tacl.a.613",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.14.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.14/",
+        "publication_date": "2026-04-01",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-06T16:49:57Z"
+      },
+      {
+        "title": "Self-Consistency Falls Short! The Adverse Effects of Positional Bias on Long-Context Problems",
+        "authors": [
+          "Byerly, Adam",
+          "Khashabi, Daniel"
+        ],
+        "doi": "10.1162/tacl.a.625",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.15.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.15/",
+        "publication_date": "2026-04-01",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-06T16:49:59Z"
+      },
+      {
+        "title": "IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance",
+        "authors": [
+          "R{\\\"o}ttger, Paul",
+          "Hinck, Musashi",
+          "Hofmann, Valentin",
+          "Hackenburg, Kobi",
+          "Pyatkin, Valentina",
+          "Brahman, Faeze",
+          "Hovy, Dirk"
+        ],
+        "doi": "10.1162/tacl.a.626",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.16.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.16/",
+        "publication_date": "2026-04-01",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-08T13:13:15Z"
+      },
+      {
+        "title": "Fine-tuning Large Language Models with Limited Data: A Survey and Practical Guide",
+        "authors": [
+          "Szep, Marton",
+          "Rueckert, Daniel",
+          "von Eisenhart-Rothe, R{\\\"u}diger",
+          "Hinterwimmer, Florian"
+        ],
+        "doi": "10.1162/tacl.a.627",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.17.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.17/",
+        "publication_date": "2026-04-01",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-06T16:50:03Z"
+      },
+      {
+        "title": "VoiceBench: Benchmarking LLM-Based Voice Assistants",
+        "authors": [
+          "Chen, Yiming",
+          "Yue, Xianghu",
+          "Zhang, Chen",
+          "Gao, Xiaoxue",
+          "Tan, Robby T.",
+          "Li, Haizhou"
+        ],
+        "doi": "10.1162/tacl.a.628",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.18.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.18/",
+        "publication_date": "2026-04-01",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-08T13:13:12Z"
+      },
+      {
+        "title": "MERLIN: A Testbed for Multilingual Multimodal Entity Recognition and Linking",
+        "authors": [
+          "Ramamoorthy, Sathyanarayanan",
+          "Shah, Vishwa",
+          "Khanuja, Simran",
+          "Sheikh, Zaid",
+          "Jie, Shan",
+          "Chia, Ann",
+          "Chua, Shearman",
+          "Neubig, Graham"
+        ],
+        "doi": "10.1162/tacl.a.633",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.19.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.19/",
+        "publication_date": "2026-04-10",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T15:19:36Z"
+      },
+      {
+        "title": "MoNaCo: More Natural and Complex Questions for Reasoning Across Dozens of Documents",
+        "authors": [
+          "Wolfson, Tomer",
+          "Trivedi, Harsh",
+          "Geva, Mor",
+          "Goldberg, Yoav",
+          "Roth, Dan",
+          "Khot, Tushar",
+          "Sabharwal, Ashish",
+          "Tsarfaty, Reut"
+        ],
+        "doi": "10.1162/tacl.a.64",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.2.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.2/",
+        "publication_date": "2026-01-05",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-07T18:48:32Z"
+      },
+      {
+        "title": "🧑‍🍳 Cooking Up Creativity: Enhancing LLM Creativity through Structured Recombination",
+        "authors": [
+          "Mizrahi, Moran",
+          "Shani, Chen",
+          "Stanovsky, Gabriel",
+          "Jurafsky, Dan",
+          "Shahaf, Dafna"
+        ],
+        "doi": "10.1162/tacl.a.638",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.20.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.20/",
+        "publication_date": "2026-04-10",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T15:19:38Z"
+      },
+      {
+        "title": "Generating Visual Stories with Grounded and Coreferent Characters",
+        "authors": [
+          "Liu, Danyang",
+          "Lapata, Mirella",
+          "Keller, Frank"
+        ],
+        "doi": "10.1162/tacl.a.641",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.21.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.21/",
+        "publication_date": "2026-04-10",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T15:19:43Z"
+      },
+      {
+        "title": "Automatic Reviewers Fail to Detect Faulty Reasoning in Research Papers: A New Counterfactual Evaluation Framework",
+        "authors": [
+          "Dycke, Nils",
+          "Gurevych, Iryna"
+        ],
+        "doi": "10.1162/tacl.a.642",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.22.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.22/",
+        "publication_date": "2026-04-10",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T15:19:42Z"
+      },
+      {
+        "title": "Can LLMs Automate Fact-Checking Article Writing?",
+        "authors": [
+          "Sahnan, Dhruv",
+          "Corney, David",
+          "Larraz, Irene",
+          "Zagni, Giovanni",
+          "Miguez, Ruben",
+          "Xie, Zhuohan",
+          "Gurevych, Iryna",
+          "Churchill, Elizabeth",
+          "Chakraborty, Tanmoy",
+          "Nakov, Preslav"
+        ],
+        "doi": "10.1162/tacl.a.644",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.23.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.23/",
+        "publication_date": "2026-04-10",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T15:19:48Z"
+      },
+      {
+        "title": "PsyMem: Fine-grained Psychological Alignment and Explicit Memory Control for Advanced Role-Playing LLMs",
+        "authors": [
+          "Cheng, Xilong",
+          "Qin, Yunxiao",
+          "Tan, Yuting",
+          "Li, Zhengnan",
+          "Wang, Ye",
+          "Xiao, Hongjiang",
+          "Zhang, Yuan"
+        ],
+        "doi": "10.1162/tacl.a.645",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.24.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.24/",
+        "publication_date": "2026-04-10",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T15:19:48Z"
+      },
+      {
+        "title": "Ev2R: Evaluating Evidence Retrieval in Automated Fact-Checking",
+        "authors": [
+          "Akhtar, Mubashara",
+          "Schlichtkrull, Michael",
+          "Vlachos, Andreas"
+        ],
+        "doi": "10.1162/tacl.a.647",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.25.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.25/",
+        "publication_date": "2026-04-15",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T16:58:43Z"
+      },
+      {
+        "title": "A Context-aware Framework for Translation-mediated Conversations",
+        "authors": [
+          "Pombal, Jos{\\'e}",
+          "Agrawal, Sweta",
+          "Zaranis, Emmanouil",
+          "Fernandes, Patrick",
+          "Martins, Andr{\\'e} F. T."
+        ],
+        "doi": "10.1162/tacl.a.639",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.26.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.26/",
+        "publication_date": "2026-04-15",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T16:58:35Z"
+      },
+      {
+        "title": "Can Language Models Learn Typologically Implausible Languages?",
+        "authors": [
+          "Xu, Tianyang",
+          "Kuribayashi, Tatsuki",
+          "Oseki, Yohei",
+          "Cotterell, Ryan",
+          "Warstadt, Alex"
+        ],
+        "doi": "10.1162/tacl.a.640",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.27.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.27/",
+        "publication_date": "2026-04-15",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T16:58:41Z"
+      },
+      {
+        "title": "Can Large Language Models Generalize Analogy Solving Like Children Can?",
+        "authors": [
+          "Stevenson, Claire E.",
+          "Pafford, Alexandra",
+          "van der Maas, Han L. J.",
+          "Mitchell, Melanie"
+        ],
+        "doi": "10.1162/tacl.a.614",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.28.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.28/",
+        "publication_date": "2026-04-15",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-04-24T16:58:31Z"
+      },
+      {
+        "title": "Dissecting GraphRAG: A Modular Analysis of Knowledge Structuring for Factoid Question Answering",
+        "authors": [
+          "Nishida, Noriki",
+          "Munne, Rumana Ferdous",
+          "Liu, Shanshan",
+          "Tokunaga, Narumi",
+          "Yamagata, Yuki",
+          "Cheng, Fei",
+          "Kozaki, Kouji",
+          "Matsumoto, Yuji"
+        ],
+        "doi": "10.1162/tacl.a.615",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.29.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.29/",
+        "publication_date": "2026-05-04",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-05-06T18:00:58Z"
+      },
+      {
+        "title": "DeepTrans: Deep Reasoning Translation via Reinforcement Learning",
+        "authors": [
+          "Wang, Jiaan",
+          "Meng, Fandong",
+          "Zhou, Jie"
+        ],
+        "doi": "10.1162/tacl.a.65",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.3.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.3/",
+        "publication_date": "2026-01-05",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-07T18:48:31Z"
+      },
+      {
+        "title": "Cross-layer Attention Sharing for Pre-trained Large Language Models",
+        "authors": [
+          "Mu, Yongyu",
+          "Wu, Yuzhang",
+          "Fan, Yuchun",
+          "Wang, Chenglong",
+          "Li, Hengyu",
+          "Zeng, Jiali",
+          "He, Qiaozhi",
+          "Yang, Murun",
+          "Meng, Fandong",
+          "Zhou, Jie",
+          "Xiao, Tong",
+          "Zhu, Jingbo"
+        ],
+        "doi": "10.1162/tacl.a.616",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.30.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.30/",
+        "publication_date": "2026-05-04",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-05-06T18:00:55Z"
+      },
+      {
+        "title": "Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts",
+        "authors": [
+          "Hong, Hanhua",
+          "Xiao, Chenghao",
+          "Wang, Yang",
+          "Liu, Yiqi",
+          "Rong, Wenge",
+          "Lin, Chenghua"
+        ],
+        "doi": "10.1162/tacl.a.617",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.31.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.31/",
+        "publication_date": "2026-05-04",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-05-06T18:01:04Z"
+      },
+      {
+        "title": "Modelling Analogies and Analogical Reasoning: Connecting Cognitive Science Theory and NLP Research",
+        "authors": [
+          "Petersen, Molly R.",
+          "Stevenson, Claire E.",
+          "van der Plas, Lonneke"
+        ],
+        "doi": "10.1162/tacl.a.632",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.32.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.32/",
+        "publication_date": "2026-05-04",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-05-06T18:01:08Z"
+      },
+      {
+        "title": "Fine-Grained Reward Optimization for Machine Translation using Error Severity Mappings",
+        "authors": [
+          "Ramos, Miguel Moura",
+          "Almeida, Tom{\\'a}s",
+          "Vareta, Daniel",
+          "Azevedo, Filipe",
+          "Agrawal, Sweta",
+          "Fernandes, Patrick",
+          "Martins, Andr{\\'e} F. T."
+        ],
+        "doi": "10.1162/tacl.a.646",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.33.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.33/",
+        "publication_date": "2026-05-04",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-05-06T18:01:06Z"
+      },
+      {
+        "title": "A Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese",
+        "authors": [
+          "Liu, Yikang",
+          "Shen, Yeting",
+          "Zhu, Hongao",
+          "Xu, Lilong",
+          "Qian, Zhiheng",
+          "Song, Siyuan",
+          "Zhang, Kejia",
+          "Tang, Jialong",
+          "Zhang, Pei",
+          "Yang, Baosong",
+          "Wang, Rui",
+          "Hu, Hai"
+        ],
+        "doi": "10.1162/tacl.a.648",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.34.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.34/",
+        "publication_date": "2026-05-04",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-05-06T18:01:12Z"
+      },
+      {
+        "title": "CorefInst: Leveraging LLMs for Multilingual Coreference Resolution",
+        "authors": [
+          "Pamay Arslan, Tu{\\u{g}}ba",
+          "Erol, Emircan",
+          "Eryi{\\u{g}}it, G{\\\"u}l{\\c{s}}en"
+        ],
+        "doi": "10.1162/tacl.a.593",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.4.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.4/",
+        "publication_date": "2026-01-05",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-07T18:48:28Z"
+      },
+      {
+        "title": "Generative Induction of Dialogue Task Schemas with Streaming Refinement and Simulated Interactions",
+        "authors": [
+          "Finch, James D.",
+          "Josyula, Yasasvi",
+          "Choi, Jinho D."
+        ],
+        "doi": "10.1162/tacl.a.66",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.5.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.5/",
+        "publication_date": "2026-01-12",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-09T15:58:55Z"
+      },
+      {
+        "title": "Localizing Factual Inconsistencies in Attributable Text Generation",
+        "authors": [
+          "Cattan, Arie",
+          "Roit, Paul",
+          "Zhang, Shiyue",
+          "Wan, David",
+          "Aharoni, Roee",
+          "Szpektor, Idan",
+          "Bansal, Mohit",
+          "Dagan, Ido"
+        ],
+        "doi": "10.1162/tacl.a.598",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.6.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.6/",
+        "publication_date": "2026-01-12",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-09T15:58:49Z"
+      },
+      {
+        "title": "What Can String Probability Tell Us About Grammaticality?",
+        "authors": [
+          "Hu, Jennifer",
+          "Wilcox, Ethan Gotlieb",
+          "Song, Siyuan",
+          "Mahowald, Kyle",
+          "Levy, Roger P."
+        ],
+        "doi": "10.1162/tacl.a.611",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.7.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.7/",
+        "publication_date": "2026-01-12",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-09T15:58:46Z"
+      },
+      {
+        "title": "Simulating Hard Attention Using Soft Attention",
+        "authors": [
+          "Yang, Andy",
+          "Strobl, Lena",
+          "Chiang, David",
+          "Angluin, Dana"
+        ],
+        "doi": "10.1162/tacl.a.597",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.8.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.8/",
+        "publication_date": "2026-01-16",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-23T15:20:23Z"
+      },
+      {
+        "title": "On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning",
+        "authors": [
+          "Kurz, Simon",
+          "Chen, Jian-Jia",
+          "Flek, Lucie",
+          "Zhao, Zhixue"
+        ],
+        "doi": "10.1162/tacl.a.599",
+        "acl_bib_url": "https://aclanthology.org/2026.tacl-1.9.bib",
+        "url": "https://aclanthology.org/2026.tacl-1.9/",
+        "publication_date": "2026-01-16",
+        "publication_date_precision": "DAY",
+        "crossref_date_field": "published-online",
+        "crossref_created": "2026-01-23T15:20:22Z"
+      }
+    ],
+    "errors": [],
+    "candidate_count": 34,
+    "count": 0
+  }
+}
