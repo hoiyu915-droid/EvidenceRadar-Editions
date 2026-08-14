@@ -8,7 +8,7 @@ permissions:
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with: {fetch-depth: 0}
@@ -19,6 +19,8 @@ jobs:
       - name: Translate retained titles
         env:
           TOKENIZERS_PARALLELISM: 'false'
+          OMP_NUM_THREADS: '4'
+          MKL_NUM_THREADS: '4'
         run: |
           python - <<'PY'
           import json
@@ -27,6 +29,7 @@ jobs:
           from opencc import OpenCC
           from transformers import MarianMTModel, MarianTokenizer
 
+          torch.set_num_threads(4)
           manifest=json.loads(Path('translation-work/batch08/manifest.json').read_text())
           items=[]
           for p in sorted(Path('translation-work/batch08').glob('part-*.json')):
@@ -38,21 +41,20 @@ jobs:
           model.eval()
           cc=OpenCC('s2twp')
           out=[]
-          batch=32
+          batch=64
           with torch.inference_mode():
             for i in range(0,len(items),batch):
               chunk=items[i:i+batch]
               enc=tok([x['title_original'] for x in chunk],return_tensors='pt',padding=True,truncation=True,max_length=256)
-              gen=model.generate(**enc,max_new_tokens=256,num_beams=4,length_penalty=1.0)
+              gen=model.generate(**enc,max_new_tokens=192,num_beams=1,do_sample=False)
               zh=tok.batch_decode(gen,skip_special_tokens=True)
               for rec,text in zip(chunk,zh):
                 text=cc.convert(text.strip())
                 out.append({'canonical_id':rec['canonical_id'],'slug':rec['slug'],'title_original':rec['title_original'],'title_zh_tw':text})
               if i % 320 == 0: print('translated',min(i+batch,len(items)),'/',len(items),flush=True)
           assert len(out)==len(items)
-          payload={'engine':model_name,'postprocess':'OpenCC s2twp','item_count':len(out),'items':out}
+          payload={'engine':model_name,'decode':'greedy','postprocess':'OpenCC s2twp','item_count':len(out),'items':out}
           Path('translation-work/batch08/mt-ledger.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n')
-          # deterministic audit sample: first/middle/last plus every 137th
           sample=[]
           picks=sorted(set([0,len(out)//2,len(out)-1,*range(0,len(out),137)]))
           for i in picks: sample.append(out[i])
