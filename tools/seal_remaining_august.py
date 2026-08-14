@@ -27,7 +27,7 @@ PROBE = ROOT / "probe"
 WORK = ROOT / "translation-work" / "remaining"
 START = date(2026, 8, 1)
 END = date(2026, 8, 14)
-TMLR_SLUG = "transactions-on-machine-learning-research"
+TMLR_SLUG = "tmlr"
 TMLR_ISSN = "2835-8856"
 
 
