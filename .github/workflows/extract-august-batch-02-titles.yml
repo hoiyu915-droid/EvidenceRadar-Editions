@@ -17,14 +17,14 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
           fetch-depth: 0
-      - name: Build compact title ledger
+      - name: Build compact title ledger and date audit
         shell: bash
         run: |
           python - <<'PY'
           import json,re
           from pathlib import Path
           suspicious_re=re.compile(r'(?i)\b(editorial board|table of contents|contents|corrigendum|erratum|retraction|author index|issue information|front matter|masthead)\b')
-          rows=[]; suspicious=[]
+          rows=[]; suspicious=[]; date_issues=[]
           for d in sorted(Path('probe').iterdir()):
               if not d.is_dir(): continue
               files=[p for p in d.glob('*.json') if not p.name.endswith('.manifest.json') and 'translation-' not in p.name]
@@ -44,10 +44,16 @@ jobs:
                   rows.append(row)
                   if suspicious_re.search(str(row['title'] or '')):
                       suspicious.append(row)
+                  precision=str(row['date_precision'] or '').upper()
+                  raw=str(row['date'] or '')
+                  ok=(precision=='DAY' and '2026-08-01' <= raw <= '2026-08-14') or (precision=='MONTH' and raw.startswith('2026-08'))
+                  if not ok:
+                      date_issues.append({**row,'reason':'insufficient_or_out_of_window_date_precision'})
           with open('probe/titles.ndjson','w',encoding='utf-8') as f:
               for row in rows: f.write(json.dumps(row,ensure_ascii=False,separators=(',',':'))+'\n')
           Path('probe/suspicious.json').write_text(json.dumps({'count':len(suspicious),'items':suspicious},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-          print('titles',len(rows),'suspicious',len(suspicious))
+          Path('probe/date-audit.json').write_text(json.dumps({'count':len(date_issues),'items':date_issues},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('titles',len(rows),'suspicious',len(suspicious),'date_issues',len(date_issues))
           PY
       - name: Commit ledger
         shell: bash
@@ -55,7 +61,11 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- probe/titles.ndjson probe/suspicious.json
+          git add -- probe/titles.ndjson probe/suspicious.json probe/date-audit.json
           git diff --cached --check
-          git commit -m 'probe: add August batch 02 title ledger'
+          if git diff --cached --quiet; then
+            echo 'No ledger changes'
+            exit 0
+          fi
+          git commit -m 'probe: audit August batch 02 dates'
           git push origin HEAD:data/2026-08-batch-02-five-journals
