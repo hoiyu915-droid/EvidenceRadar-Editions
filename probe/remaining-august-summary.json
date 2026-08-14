@@ -1,0 +1,261 @@
+{
+  "period": "2026-08",
+  "through": "2026-08-14",
+  "registry_count": 58,
+  "published_slug_count": 50,
+  "remaining_count": 8,
+  "remaining": [
+    {
+      "name": "Chemical Science",
+      "slug": "chemical-science",
+      "status": "planned",
+      "issn": null,
+      "publisher": "Royal Society of Chemistry",
+      "oa": "fully_oa",
+      "sources": null,
+      "probe_mode": "crossref_discovery",
+      "crossref_total_results": 15327,
+      "exact_container_items": 0,
+      "issn_candidates": {}
+    },
+    {
+      "name": "Information Processing & Management",
+      "slug": "information-processing-and-management",
+      "status": "active",
+      "issn": "0306-4573",
+      "publisher": "Elsevier",
+      "oa": "verify_per_work",
+      "sources": [
+        "crossref"
+      ],
+      "probe_mode": "registry_exact",
+      "articles": 0,
+      "flag_count": 0,
+      "rough_keepable": 0,
+      "flags": [],
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "query": "container=Information Processing & Management; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "name": "Journal of Machine Learning Research",
+      "slug": "journal-of-machine-learning-research",
+      "status": "planned",
+      "issn": null,
+      "publisher": "JMLR",
+      "oa": "public_fulltext",
+      "sources": null,
+      "probe_mode": "crossref_discovery",
+      "probe_error": "HTTPError('429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.container-title=Journal+of+Machine+Learning+Research&filter=from-pub-date%3A2026-08-01%2Cuntil-pub-date%3A2026-08-14%2Ctype%3Ajournal-article&rows=1000&select=DOI%2Ctitle%2Ccontainer-title%2CISSN%2Cpublished%2Cpublished-online%2Cpublished-print%2Ctype')"
+    },
+    {
+      "name": "Journal of Sport and Health Science",
+      "slug": "journal-of-sport-and-health-science",
+      "status": "active",
+      "issn": "2095-2546",
+      "publisher": "Elsevier",
+      "oa": "verify_per_work",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "probe_mode": "registry_exact",
+      "articles": 0,
+      "flag_count": 0,
+      "rough_keepable": 0,
+      "flags": [],
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "query": "container=Journal of Sport and Health Science; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "pubmed",
+          "status": "NO_RESULTS",
+          "query": "(\"Journal of Sport and Health Science\"[Journal] OR \"2095-2546\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "query": "JOURNAL:\"Journal of Sport and Health Science\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "name": "Natural Language Processing Journal",
+      "slug": "natural-language-processing-journal",
+      "status": "active",
+      "issn": "2949-7191",
+      "publisher": "Elsevier",
+      "oa": "verify_per_work",
+      "sources": [
+        "crossref"
+      ],
+      "probe_mode": "registry_exact",
+      "articles": 0,
+      "flag_count": 0,
+      "rough_keepable": 0,
+      "flags": [],
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "query": "container=Natural Language Processing Journal; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "name": "Psychology of Sport and Exercise",
+      "slug": "psychology-of-sport-and-exercise",
+      "status": "active",
+      "issn": "1469-0292",
+      "publisher": "Elsevier",
+      "oa": "verify_per_work",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "probe_mode": "registry_exact",
+      "articles": 3,
+      "flag_count": 3,
+      "rough_keepable": 0,
+      "flags": [
+        {
+          "canonical_id": "doi:10.1016/j.psychsport.2026.103242",
+          "title": "Using the COM-B model to identify barriers and facilitators to implementing school-based yoga in UK secondary schools: A qualitative focus group study with recommendations.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        },
+        {
+          "canonical_id": "doi:10.1016/j.psychsport.2026.103240",
+          "title": "Understanding physical activity through physical fatigue, mental fatigue, and physical effort tendencies: a two-study investigation including the Italian Physical Effort Scale (PES) validation and a longitudinal study.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        },
+        {
+          "canonical_id": "doi:10.1016/j.psychsport.2026.103238",
+          "title": "Longitudinal changes in basic psychological needs and performance perceptions in specialized sport schools at the lower secondary level.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        }
+      ],
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "query": "container=Psychology of Sport and Exercise; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "query": "(\"Psychology of Sport and Exercise\"[Journal] OR \"1469-0292\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 3,
+          "accepted_count": 3,
+          "total_available": 3,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "europe_pmc",
+          "status": "SUCCESS",
+          "query": "JOURNAL:\"Psychology of Sport and Exercise\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 3,
+          "accepted_count": 0,
+          "total_available": 3,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "name": "Transactions of the Association for Computational Linguistics",
+      "slug": "tacl",
+      "status": "planned",
+      "issn": "2307-387X",
+      "publisher": "ACL / MIT Press",
+      "oa": "fully_oa",
+      "sources": [
+        "crossref"
+      ],
+      "probe_mode": "registry_exact",
+      "articles": 0,
+      "flag_count": 0,
+      "rough_keepable": 0,
+      "flags": [],
+      "run_status": "NO_MATCHING_ARTICLES",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "NO_RESULTS",
+          "query": "container=Transactions of the Association for Computational Linguistics; publication=2026-08-01..2026-08-14",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "name": "Transactions on Machine Learning Research",
+      "slug": "tmlr",
+      "status": "planned",
+      "issn": null,
+      "publisher": "TMLR / OpenReview",
+      "oa": "public_fulltext",
+      "sources": null,
+      "probe_mode": "crossref_discovery",
+      "probe_error": "HTTPError('429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.container-title=Transactions+on+Machine+Learning+Research&filter=from-pub-date%3A2026-08-01%2Cuntil-pub-date%3A2026-08-14%2Ctype%3Ajournal-article&rows=1000&select=DOI%2Ctitle%2Ccontainer-title%2CISSN%2Cpublished%2Cpublished-online%2Cpublished-print%2Ctype')"
+    }
+  ]
+}
