@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Any
 
 from .bundle import artifact_names
+from .pages_curation import enhance_revision_pages
 from .pages_v3 import build_pages_site as build_legacy_pages_site
 from .render import render_html
 from .serialization import json_text
@@ -74,8 +75,10 @@ def build_pages_site(
     """Build Pages from v3 canonical storage.
 
     `archive_root` is retained only for v0.2 compatibility. Production uses
-    `editions_root`; HTML is rendered into a temporary workspace and never
-    stored in the canonical Git tree.
+    `editions_root`; canonical HTML is rendered into a temporary workspace and
+    never stored in the canonical Git tree. The deployed revision index page is
+    then replaced by a Pages-only curated/paginated browser while the canonical
+    HTML remains available under its immutable artifact filename.
     """
 
     if editions_root is not None and archive_root is not None:
@@ -114,4 +117,10 @@ def build_pages_site(
                 registry = json.loads(registry_path.read_text(encoding="utf-8"))
                 catalog["journal_registry"] = registry
         catalog_path.write_text(json_text(catalog), encoding="utf-8")
+
+    curated_count = enhance_revision_pages(
+        output_dir=Path(output_dir),
+        publications=publications,
+    )
+    links["curated_revision_count"] = curated_count
     return links
