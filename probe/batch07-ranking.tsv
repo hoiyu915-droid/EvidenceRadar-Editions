@@ -1,0 +1,24 @@
+slug	status	articles	flags	keepable	run	truncated	derived_issns
+information-processing-and-management	active	0	0	0	NO_MATCHING_ARTICLES	False	
+journal-of-sport-and-health-science	active	0	0	0	NO_MATCHING_ARTICLES	False	
+natural-language-processing-journal	active	0	0	0	NO_MATCHING_ARTICLES	False	
+psychology-of-sport-and-exercise	active	3	3	0	COMPLETE	False	1878-5476
+communications-chemistry	active	13	0	13	PARTIAL_SOURCE_COVERAGE	True	2399-3669
+communications-physics	active	18	0	18	PARTIAL_SOURCE_COVERAGE	True	2399-3650
+the-lancet-regional-health-americas	active	36	6	30	COMPLETE	False	2667-193X
+knowledge-based-systems	active	107	1	106	COMPLETE	False	0950-7051
+expert-systems-with-applications	active	292	1	291	COMPLETE	False	0957-4174
+nature-communications	active	464	0	464	COMPLETE	False	2041-1723
+scientific-reports	active	1878	0	1878	PARTIAL_SOURCE_COVERAGE	True	2045-2322
+chemical-science	planned	0	0	0	PARTIAL_SOURCE_COVERAGE	True	
+journal-of-machine-learning-research	planned	0	0	0	PARTIAL_SOURCE_COVERAGE	True	
+tacl	planned	0	0	0	NO_MATCHING_ARTICLES	False	
+tmlr	planned	0	0	0	PARTIAL_SOURCE_COVERAGE	True	
+acs-central-science	planned	8	0	8	PARTIAL_SOURCE_COVERAGE	True	2374-7943,2374-7951
+plos-medicine	planned	11	0	11	PARTIAL_SOURCE_COVERAGE	True	1549-1676
+plos-biology	planned	16	0	16	PARTIAL_SOURCE_COVERAGE	True	1545-7885
+pnas-nexus	planned	17	0	17	COMPLETE	False	2752-6542
+national-science-review	planned	23	0	23	PARTIAL_SOURCE_COVERAGE	True	2053-714X,2095-5138
+physical-review-x	planned	30	0	30	PARTIAL_SOURCE_COVERAGE	True	2160-3308
+scientific-data	planned	114	0	114	PARTIAL_SOURCE_COVERAGE	True	2052-4463
+science-advances	planned	127	0	127	PARTIAL_SOURCE_COVERAGE	True	2375-2548
