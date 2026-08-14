@@ -1,0 +1,43 @@
+{
+  "article_count": 2,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T03:42:05Z",
+  "edition_id": "physical-therapy-in-sport__2026-08__r01",
+  "edition_key": "physical-therapy-in-sport__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 7444,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__physical-therapy-in-sport__2026-08__r01.json",
+      "sha256": "cbde4616262bf981b085db03757c68d6192630129a9e559f23fb57ba88a50e43"
+    },
+    "report_html": {
+      "bytes": 21617,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__physical-therapy-in-sport__2026-08__r01.html",
+      "sha256": "67d3d920b71f4b0247b4b0395a84b5eb7632639a04f5972edb7c5a9b157e4226"
+    }
+  },
+  "journal": "Physical Therapy in Sport",
+  "journal_slug": "physical-therapy-in-sport",
+  "manifest_name": "EvidenceRadar_Editions__physical-therapy-in-sport__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "physical-therapy-in-sport__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 2,
+  "translation_provenance": {
+    "request_binding_sha256": "205376c11af3e12e5722fdab26b504649688d3d47a2d6ed207c3bca9e8417d07",
+    "response_sha256": "72411c944569c931bef9265e78291c5ada732ed5d0134e1056e349ea0ba3e278",
+    "source_edition_sha256": "d85a92825aab57eaece04a919957b3f10a4795a438c32d955b0ca5b8266afbd2"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}
