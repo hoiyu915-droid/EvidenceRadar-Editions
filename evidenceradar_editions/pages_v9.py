@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-import shutil
 from pathlib import Path
 from typing import Any
 
@@ -10,6 +9,7 @@ from .prefetch_triage import build_prefetch_triage
 from .serialization import json_text
 from .store_v3 import discover_stored_publications
 from .triage_policy import TRIAGE_POLICY_FILENAME
+from .triage_policy_defaults import load_triage_policy
 from .triage_render import render_prefetch_triage_page
 
 
@@ -90,10 +90,15 @@ def build_pages_site(
         encoding="utf-8",
     )
 
-    policy_source = resolved_catalog_root / TRIAGE_POLICY_FILENAME
-    if not policy_source.is_file():
-        raise ValueError(f"prefetch triage policy is missing: {policy_source}")
-    shutil.copyfile(policy_source, output / TRIAGE_POLICY_FILENAME)
+    # Publish the exact policy object that was actually resolved. Lightweight
+    # temporary catalogs may omit the optional file and use the validated
+    # built-in default; their Pages output remains self-describing instead of
+    # failing or silently disabling triage.
+    resolved_triage_policy = load_triage_policy(resolved_catalog_root)
+    (output / TRIAGE_POLICY_FILENAME).write_text(
+        json_text(resolved_triage_policy),
+        encoding="utf-8",
+    )
 
     written_editions = 0
     for relative_path, artifact in edition_artifacts.items():
