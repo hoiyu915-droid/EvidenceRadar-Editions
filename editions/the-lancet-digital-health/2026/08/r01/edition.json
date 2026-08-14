@@ -1,0 +1,430 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ruben Hemelings",
+        "Damon W Wong",
+        "Jacqueline Chua",
+        "Jan Van Eijgen",
+        "João Barbosa-Breda",
+        "Adèle Ehongo",
+        "Nathalie Collignon",
+        "Stefan Kiekens",
+        "Simon C König",
+        "Bart Elen",
+        "Bingyao Tan",
+        "Gerhard Garhöfer",
+        "George Barbastathis",
+        "Hannele Uusitalo-Järvinen",
+        "Alexander K Schuster",
+        "Tin Aung",
+        "Anja Tuulonen",
+        "Ingeborg Stalmans",
+        "Leopold Schmetterer"
+      ],
+      "canonical_id": "doi:10.1016/j.landig.2026.101032",
+      "doi": "10.1016/j.landig.2026.101032",
+      "issns": [
+        "2589-7500"
+      ],
+      "journal": "The Lancet Digital Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.landig.2026.101032",
+          "url": "https://doi.org/10.1016/j.landig.2026.101032"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「使用深度學習從基線眼底攝影預測青光眼結構性惡化：多中心回溯性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Prediction of structural glaucoma progression from baseline fundus photographs using deep learning: a retrospective multicentre study",
+      "title_original": "Prediction of structural glaucoma progression from baseline fundus photographs using deep learning: a retrospective multicentre study",
+      "title_zh_tw": "使用深度學習從基線眼底攝影預測青光眼結構性惡化：多中心回溯性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.landig.2026.101032"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Siri L van der Meijden",
+        "Yuqing Wang",
+        "Madelena Y Ng",
+        "Sesmu M Arbous",
+        "Bart F Geerts",
+        "Ewout W Steyerberg",
+        "Tina Hernandez-Boussard"
+      ],
+      "canonical_id": "doi:10.1016/j.landig.2026.101035",
+      "doi": "10.1016/j.landig.2026.101035",
+      "issns": [
+        "2589-7500"
+      ],
+      "journal": "The Lancet Digital Health",
+      "pmcid": null,
+      "pmid": "42580934",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.landig.2026.101035",
+          "url": "https://doi.org/10.1016/j.landig.2026.101035"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580934",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580934/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人工智慧預測模型中的公平性：理論架構與實務應用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Navigating fairness in artificial intelligence-based prediction models: theoretical constructs and practical applications",
+      "title_original": "Navigating fairness in artificial intelligence-based prediction models: theoretical constructs and practical applications",
+      "title_zh_tw": "人工智慧預測模型中的公平性：理論架構與實務應用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.landig.2026.101035",
+        "https://pubmed.ncbi.nlm.nih.gov/42580934/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Usman Ayub Awan",
+        "Noreen Zafar",
+        "Suliman Khan"
+      ],
+      "canonical_id": "doi:10.1016/j.landig.2026.101079",
+      "doi": "10.1016/j.landig.2026.101079",
+      "issns": [
+        "2589-7500"
+      ],
+      "journal": "The Lancet Digital Health",
+      "pmcid": null,
+      "pmid": "42557164",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.landig.2026.101079",
+          "url": "https://doi.org/10.1016/j.landig.2026.101079"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42557164",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42557164/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「資訊疫情整備與子宮頸癌 90–70–90 目標」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Infodemic preparedness and the 90–70–90 cervical cancer targets",
+      "title_original": "Infodemic preparedness and the 90–70–90 cervical cancer targets",
+      "title_zh_tw": "資訊疫情整備與子宮頸癌 90–70–90 目標",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.landig.2026.101079",
+        "https://pubmed.ncbi.nlm.nih.gov/42557164/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rohit Malpani",
+        "Keymanthri Moodley",
+        "Maria Magdalena Guraiib",
+        "Antonella Lavelanet",
+        "Andreas Reis"
+      ],
+      "canonical_id": "doi:10.1016/j.landig.2026.101085",
+      "doi": "10.1016/j.landig.2026.101085",
+      "issns": [
+        "2589-7500"
+      ],
+      "journal": "The Lancet Digital Health",
+      "pmcid": null,
+      "pmid": "42586929",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.landig.2026.101085",
+          "url": "https://doi.org/10.1016/j.landig.2026.101085"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586929",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586929/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人工智慧時代的健康研究倫理監督應與時俱進」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Ethics oversight of health-related research should be contemporaneous in the age of artificial intelligence",
+      "title_original": "Ethics oversight of health-related research should be contemporaneous in the age of artificial intelligence",
+      "title_zh_tw": "人工智慧時代的健康研究倫理監督應與時俱進",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.landig.2026.101085",
+        "https://pubmed.ncbi.nlm.nih.gov/42586929/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tim K Mackey",
+        "Alec J Calac",
+        "Tiana McMann",
+        "Ken Miyachi",
+        "Samantha Hurst",
+        "Keolu Fox",
+        "Burt Dillabaugh",
+        "Kelle Dhein",
+        "Guthrie Ducheneaux",
+        "Joseph Yracheta"
+      ],
+      "canonical_id": "doi:10.1016/j.landig.2026.101070",
+      "doi": "10.1016/j.landig.2026.101070",
+      "issns": [
+        "2589-7500"
+      ],
+      "journal": "The Lancet Digital Health",
+      "pmcid": null,
+      "pmid": "42575796",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.landig.2026.101070",
+          "url": "https://doi.org/10.1016/j.landig.2026.101070"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42575796",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575796/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「將資料視為關係：原住民族資料主權區塊鏈平台的開發」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Data as a relation: development of a blockchain-based platform for Indigenous data sovereignty",
+      "title_original": "Data as a relation: development of a blockchain-based platform for Indigenous data sovereignty",
+      "title_zh_tw": "將資料視為關係：原住民族資料主權區塊鏈平台的開發",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.landig.2026.101070",
+        "https://pubmed.ncbi.nlm.nih.gov/42575796/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Francesco Branda",
+        "Massimo Ciccozzi"
+      ],
+      "canonical_id": "doi:10.1016/j.landig.2026.101048",
+      "doi": "10.1016/j.landig.2026.101048",
+      "issns": [
+        "2589-7500"
+      ],
+      "journal": "The Lancet Digital Health",
+      "pmcid": null,
+      "pmid": "42567756",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.landig.2026.101048",
+          "url": "https://doi.org/10.1016/j.landig.2026.101048"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42567756",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42567756/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「Bixonimania 與醫療人工智慧的知識論脆弱性：從虛構疾病得到的教訓」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Bixonimania and the epistemic fragility of artificial intelligence in medicine: lessons from a fabricated disease",
+      "title_original": "Bixonimania and the epistemic fragility of artificial intelligence in medicine: lessons from a fabricated disease",
+      "title_zh_tw": "Bixonimania 與醫療人工智慧的知識論脆弱性：從虛構疾病得到的教訓",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.landig.2026.101048",
+        "https://pubmed.ncbi.nlm.nih.gov/42567756/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anne E Rosser",
+        "Madeleine M Lowery"
+      ],
+      "canonical_id": "doi:10.1016/j.landig.2026.101083",
+      "doi": "10.1016/j.landig.2026.101083",
+      "issns": [
+        "2589-7500"
+      ],
+      "journal": "The Lancet Digital Health",
+      "pmcid": null,
+      "pmid": "42575794",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.landig.2026.101083",
+          "url": "https://doi.org/10.1016/j.landig.2026.101083"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42575794",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575794/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「亨丁頓舞蹈症的自動化語音測量：如何推動此領域向前？」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "An automated speech measure for Huntington’s disease: how can it take the field forward?",
+      "title_original": "An automated speech measure for Huntington’s disease: how can it take the field forward?",
+      "title_zh_tw": "亨丁頓舞蹈症的自動化語音測量：如何推動此領域向前？",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.landig.2026.101083",
+        "https://pubmed.ncbi.nlm.nih.gov/42575794/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 7,
+    "by_article_type": {
+      "journal-article": 7
+    },
+    "by_source": {
+      "crossref": 7,
+      "pubmed": 6
+    },
+    "translated_articles": 7
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "the-lancet-digital-health__2026-08__r01",
+  "edition_key": "the-lancet-digital-health__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "the-lancet-digital-health__2026-08__r01",
+  "publication_notes": {
+    "editorial_projection": {
+      "excluded_count": 0,
+      "excluded_records": [],
+      "policy": "Exclude temporary-removal/front-matter placeholders and records whose date precision is insufficient to assign them to the month.",
+      "published_article_count": 7,
+      "source_match_count": 7
+    }
+  },
+  "retrieved_at": "2026-08-14T01:50:32Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__the-lancet-digital-health__2026-08__r01",
+    "edition_key": "the-lancet-digital-health__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "2589-7500",
+    "journal": "The Lancet Digital Health",
+    "journal_slug": "the-lancet-digital-health",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "the-lancet-digital-health__2026-08__r01",
+    "revision": 1,
+    "slug": "the-lancet-digital-health",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 7,
+      "detail": null,
+      "query": "container=The Lancet Digital Health; publication=2026-08-01..2026-08-14",
+      "returned_count": 7,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 7,
+      "truncated": false
+    },
+    {
+      "accepted_count": 6,
+      "detail": null,
+      "query": "(\"The Lancet Digital Health\"[Journal] OR \"2589-7500\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 6,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 6,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"The Lancet Digital Health\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": "84159d4ba555ccb78e99febff9fff0c1ad3d1830207479767c99a0313d81d80a",
+    "response_generated_at": "2026-08-14T02:00:54Z",
+    "response_sha256": "6264b953c5dded90a24a25a35322680d8ea93f7a7a0295c858bb273ab94f213a",
+    "source_edition_sha256": "74a99426a72ba5f2a100b19b39932b76b7745cb82b0bca7d407357b554852e00",
+    "status": "COMPLETE",
+    "total_articles": 7,
+    "translated_articles": 7
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
