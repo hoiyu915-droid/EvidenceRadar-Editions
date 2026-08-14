@@ -1,0 +1,275 @@
+{
+  "item_count": 30,
+  "items": [
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133926",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "3D-SCube: Information-Preserving Spatial-Spectral Rearrangement for Hyperspectral Semantic Segmentation",
+      "title_zh_tw": "3D-SCube：用於高光譜語意分割的資訊保留空間光譜重排",
+      "engine": "pilot-cache",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.132234",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Finger-based 3D human-swarm interaction interface: Design and human-subject evaluation",
+      "title_zh_tw": "基於手指的 3D 人機互動介面：設計和人機評估",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1016/j.eswa.2026.133791",
+      "journal": "Expert Systems with Applications",
+      "slug": "expert-systems-with-applications",
+      "title_original": "Realizing pollution control of wastewater discharge through intelligent urban reclaimed water utilization system: dynamic strategy optimization in multi-circulation modes",
+      "title_zh_tw": "智慧城市中水利用系統實現廢水排放污染控制：多循環模式動態策略最佳化",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76812-w",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Assessing molecular, cellular and transcriptomic bases of laminar perfusion and cytoarchitecture coupling in the human cortex",
+      "title_zh_tw": "評估人類皮質層流灌注和細胞結構耦合的分子、細胞和轉錄組學基礎",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76489-1",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Evaluating technology upgrades as a complement to traditional bill assistance programs",
+      "title_zh_tw": "評估技術升級作為傳統帳單援助計劃的補充",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76341-6",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Neonatal inflammation disrupts a temporally restricted postnatal Numb-enriched microglial state in mice",
+      "title_zh_tw": "新生兒發炎破壞了小鼠出生後暫時受限的麻木富集小膠質細胞狀態",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76334-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Structure of human cytoplasmic Pol II complex explains global transcription repression by GDOWN1",
+      "title_zh_tw": "人類細胞質 Pol II 複合物的結構解釋了 GDOWN1 的全局轉錄抑制",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-76639-5",
+      "journal": "Nature Communications",
+      "slug": "nature-communications",
+      "title_original": "Topological Fermi arc interference on low-symmetry Weyl surfaces",
+      "title_zh_tw": "低對稱性Weyl面上的拓樸費米弧干涉",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aee2515",
+      "journal": "Science Advances",
+      "slug": "science-advances",
+      "title_original": "Direct visualization of RNA virus and evaluation of drug effect in living cells by catalytically transformable DNA cube",
+      "title_zh_tw": "透過催化轉化 DNA 立方體直接觀察 RNA 病毒並評估活細胞中的藥物效果",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41597-026-07795-y",
+      "journal": "Scientific Data",
+      "slug": "scientific-data",
+      "title_original": "A Global 3D Chlorophyll Concentration Dataset (1997–2024): 4 km Spatial Resolution, Monthly Scale, 0–220 m",
+      "title_zh_tw": "全球 3D 葉綠素濃度資料集（1997-2024）：4 km 空間分辨率，月尺度，0-220 m",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65456-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "A comparative evaluation of deep learning architectures, loss functions, and ensemble strategies for underwater fish species classification",
+      "title_zh_tw": "水下魚類分類的深度學習架構、損失函數和整合策略的比較評估",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64056-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Accurate tumor cell identification via AI analysis of white light scattering spectra in cytology",
+      "title_zh_tw": "透過細胞學白光散射光譜的 AI 分析準確識別腫瘤細胞",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65334-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Association between outdoor activity and peripapillary choroidal thickness in school-aged children: a 1-year observational study",
+      "title_zh_tw": "學齡兒童戶外活動與乳頭周圍脈絡膜厚度之間的關聯：一項為期一年的觀察研究",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64885-y",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Circulating plasma cells (polyclonal and monoclonal) as markers of an aggressive multiple myeloma phenotype",
+      "title_zh_tw": "循環漿細胞（多克隆和單克隆）作為侵襲性多發性骨髓瘤表型的標記物",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66263-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Correction: Optimizing augmented reality for visual communication design and user experience in public Art to support sustainable engagement",
+      "title_zh_tw": "修正：優化公共藝術中視覺傳達設計和使用者體驗的增強現實，以支持永續參與",
+      "engine": "pilot-cache",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64908-8",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "DASTNet-X: an explainable dual-attention based spatio-temporal network for arrhythmia classification",
+      "title_zh_tw": "DASTNet-X：一種可解釋的基於雙注意力的時空網絡，用於心律不整分類",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64448-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Dynamic contrast-enhanced MRI assessment of lumbar vertebral perfusion: A comparative pilot study in humans and pigs",
+      "title_zh_tw": "腰椎灌注的動態對比增強 MRI 評估：人類和豬的比較試驗研究",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66724-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Environmental health literacy and preventive behaviors related to PM2.5 Exposure among village health volunteers in Thai rural communities: a cross-sectional study",
+      "title_zh_tw": "泰國農村社區鄉村衛生志工與 PM2.5 暴露相關的環境健康素養和預防行為：橫斷面研究",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63732-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Four-port triple notched wide-band MIMO antenna and verification by theory of characteristics mode for multiple applications",
+      "title_zh_tw": "四埠三切口寬頻MIMO天線及多應用特性模式理論驗證",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-62421-6",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Identification and experimental validation of biomarkers associated with the Wnt signaling pathway in preeclampsia",
+      "title_zh_tw": "子癇前症中與 Wnt 訊號路徑相關的生物標記的鑑定和實驗驗證",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-63718-2",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Investigating a Devonian vertebrate assemblage with synchrotron microtomography of coprolites",
+      "title_zh_tw": "利用糞化石同步加速器顯微斷層掃描研究泥盆紀脊椎動物群",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65060-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Metabolic responses of diet–exercise combinations in women with obesity: a comparative lifestyle intervention study with different diet types",
+      "title_zh_tw": "肥胖女性飲食-運動組合的代謝反應：不同飲食類型的比較生活方式乾預研究",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-61303-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Mitochondrial electron transport chain is essential for acute inflammatory stress responses in mouse fibroblasts",
+      "title_zh_tw": "粒線體電子傳遞鏈對於小鼠纖維母細胞的急性發炎壓力反應至關重要",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-54760-1",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Non-mannitol-fermenting Staphylococcus aureus strains: a new perspective on diagnostic challenge",
+      "title_zh_tw": "非甘露醇發酵金黃色葡萄球菌菌株：診斷挑戰的新視角",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-66066-3",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "PIGU expression is associated with poor prognosis and estimated immune cell infiltration in breast invasive carcinoma",
+      "title_zh_tw": "PIGU 表現與乳腺浸潤性癌的不良預後和估計的免疫細胞浸潤有關",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64309-x",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Refining ammonia inventories through top-down inverse modelling in high-density swine farming regions",
+      "title_zh_tw": "透過自上而下的逆向模型精煉高密度養豬地區的氨庫存",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64998-4",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Site response analyses of a multi-layered liquefiable soil with 3D nonlinear numerical modeling",
+      "title_zh_tw": "利用 3D 非線性數值模型對多層可液化土進行現場響應分析",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-65751-7",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "The association between human development index and COVID-19 vaccination coverage",
+      "title_zh_tw": "人類發展指數與 COVID-19 疫苗接種覆蓋率之間的關聯",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64377-z",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "Undiagnosed hypertension and its determinants among adults in Rwanda in the 2021–2022 WHO STEPS survey",
+      "title_zh_tw": "2021-2022 年 WHO STEPS 調查中盧安達成年人未確診高血壓及其決定因素",
+      "engine": "google-zh-TW",
+      "quality_flags": []
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-026-64794-0",
+      "journal": "Scientific Reports",
+      "slug": "scientific-reports",
+      "title_original": "β-Propeller structure of the CJ1041C protein from Campylobacter jejuni and its interaction with Ca2+ ions",
+      "title_zh_tw": "空腸彎曲桿菌CJ1041C蛋白的β-螺旋槳結構及其與Ca2+離子的相互作用",
+      "engine": "pilot-cache",
+      "quality_flags": []
+    }
+  ]
+}
