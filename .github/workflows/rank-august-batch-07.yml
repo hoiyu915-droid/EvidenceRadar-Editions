@@ -1,0 +1,30 @@
+name: Rank August 2026 batch 07 candidates
+on:
+  push:
+    branches: [data/2026-08-batch-07-ten-journals]
+    paths: [.github/workflows/rank-august-batch-07.yml]
+permissions:
+  contents: write
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {fetch-depth: 0}
+      - name: Build compact ranking
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d=json.loads(Path('probe/batch07-universe.json').read_text())
+          out=['slug\tstatus\tarticles\tflags\tkeepable\trun\ttruncated\tderived_issns']
+          for r in d['candidates']:
+              trunc=any(c.get('truncated') for c in r.get('source_checks',[]))
+              out.append('\t'.join(map(str,[r['slug'],r.get('registry_status'),r.get('articles'),r.get('flag_count'),r.get('rough_keepable'),r.get('run_status'),trunc,','.join(r.get('derived_issns') or [])])))
+          Path('probe/batch07-ranking.tsv').write_text('\n'.join(out)+'\n')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add probe/batch07-ranking.tsv
+          git commit -m 'probe: rank batch 07 candidates'
+          git push
