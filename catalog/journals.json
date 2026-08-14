@@ -1,939 +1,959 @@
 {
-  "schema_version": "2.0",
   "artifact_type": "EvidenceRadar_Editions_JournalRegistry",
-  "semantics": "Local journal identity and direct acquisition defaults. Classification is metadata, not canonical URL identity.",
-  "upstream": {
-    "repository": "hoiyu915-droid/EvidenceRadar",
-    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
-    "config": "config/radar_master.json",
-    "config_blob_sha": "ea8e6dcd8246187e7e87e580087e62a02b9fb870",
-    "configured_sources": 83,
-    "active_sources": 59,
-    "planned_sources": 24
-  },
   "category_labels": {
+    "chemistry": "化學",
     "clinical_medicine": "臨床醫學",
-    "sport_science": "運動科學",
-    "sport_nutrition_fitness": "運動營養／體適能",
-    "llm_research": "AI／LLM",
     "human_ai": "Human-AI／HCI",
     "interdisciplinary": "跨領域",
+    "llm_research": "AI／LLM",
     "physics_astronomy": "物理／天文",
-    "chemistry": "化學"
+    "sport_nutrition_fitness": "運動營養／體適能",
+    "sport_science": "運動科學"
   },
   "journal_count": 58,
   "journals": [
     {
-      "name": "ACS Central Science",
-      "slug": "acs-central-science",
-      "publisher": "ACS",
       "categories": [
         "chemistry"
       ],
+      "issn": "2374-7943",
+      "name": "ACS Central Science",
       "oa": "fully_oa",
-      "status": "planned",
-      "enabled": false,
-      "source_id": "acs_central_science"
+      "publisher": "ACS",
+      "slug": "acs-central-science",
+      "source_id": "acs_central_science",
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
-      "name": "Artificial Intelligence",
-      "slug": "artificial-intelligence",
-      "publisher": "Elsevier",
       "categories": [
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0004-3702",
+      "name": "Artificial Intelligence",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "artificial-intelligence",
       "source_id": "elsevier_artificial_intelligence",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Artificial Intelligence in Medicine",
-      "slug": "artificial-intelligence-in-medicine",
-      "publisher": "Elsevier",
       "categories": [
         "clinical_medicine",
         "llm_research",
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0933-3657",
+      "name": "Artificial Intelligence in Medicine",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "artificial-intelligence-in-medicine",
       "source_id": "elsevier_artificial_intelligence_medicine",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Chemical Science",
-      "slug": "chemical-science",
-      "publisher": "Royal Society of Chemistry",
       "categories": [
         "chemistry"
       ],
-      "oa": "fully_oa",
-      "status": "planned",
       "enabled": false,
-      "source_id": "chemical_science"
+      "name": "Chemical Science",
+      "oa": "fully_oa",
+      "publisher": "Royal Society of Chemistry",
+      "slug": "chemical-science",
+      "source_id": "chemical_science",
+      "status": "planned"
     },
     {
-      "name": "Clinical Biomechanics",
-      "slug": "clinical-biomechanics",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science",
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0268-0033",
+      "name": "Clinical Biomechanics",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "clinical-biomechanics",
       "source_id": "elsevier_clinical_biomechanics",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Clinical Nutrition",
-      "slug": "clinical-nutrition",
-      "publisher": "Elsevier",
       "categories": [
         "sport_nutrition_fitness",
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0261-5614",
+      "name": "Clinical Nutrition",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "clinical-nutrition",
       "source_id": "elsevier_clinical_nutrition",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Clinical Nutrition ESPEN",
-      "slug": "clinical-nutrition-espen",
-      "publisher": "Elsevier",
       "categories": [
         "sport_nutrition_fitness",
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2405-4577",
+      "name": "Clinical Nutrition ESPEN",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "clinical-nutrition-espen",
       "source_id": "elsevier_clinical_nutrition_espen",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Clinical Nutrition Open Science",
-      "slug": "clinical-nutrition-open-science",
-      "publisher": "Elsevier",
       "categories": [
         "sport_nutrition_fitness",
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2667-2685",
+      "name": "Clinical Nutrition Open Science",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "clinical-nutrition-open-science",
       "source_id": "elsevier_clinical_nutrition_open_science",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Communications Chemistry",
-      "slug": "communications-chemistry",
-      "publisher": "Nature Portfolio",
       "categories": [
         "chemistry"
       ],
+      "issn": "2399-3669",
+      "name": "Communications Chemistry",
       "oa": "fully_oa",
-      "status": "active",
+      "publisher": "Nature Portfolio",
+      "slug": "communications-chemistry",
       "source_id": "communications_chemistry",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Communications Physics",
-      "slug": "communications-physics",
-      "publisher": "Nature Portfolio",
       "categories": [
         "physics_astronomy"
       ],
+      "issn": "2399-3650",
+      "name": "Communications Physics",
       "oa": "fully_oa",
-      "status": "active",
+      "publisher": "Nature Portfolio",
+      "slug": "communications-physics",
       "source_id": "communications_physics",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Computer Speech & Language",
-      "slug": "computer-speech-and-language",
-      "publisher": "Elsevier",
       "categories": [
         "llm_research",
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0885-2308",
+      "name": "Computer Speech & Language",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "computer-speech-and-language",
       "source_id": "elsevier_computer_speech_language",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Computers & Education: Artificial Intelligence",
-      "slug": "computers-and-education-artificial-intelligence",
-      "publisher": "Elsevier",
       "categories": [
         "human_ai",
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2666-920X",
+      "name": "Computers & Education: Artificial Intelligence",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "computers-and-education-artificial-intelligence",
       "source_id": "elsevier_computers_education_ai",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Computers in Human Behavior",
-      "slug": "computers-in-human-behavior",
-      "publisher": "Elsevier",
       "categories": [
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0747-5632",
+      "name": "Computers in Human Behavior",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "computers-in-human-behavior",
       "source_id": "elsevier_computers_human_behavior",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Computers in Human Behavior Reports",
-      "slug": "computers-in-human-behavior-reports",
-      "publisher": "Elsevier",
       "categories": [
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2451-9588",
+      "name": "Computers in Human Behavior Reports",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "computers-in-human-behavior-reports",
       "source_id": "elsevier_computers_human_behavior_reports",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Computers in Human Behavior: Artificial Humans",
-      "slug": "computers-in-human-behavior-artificial-humans",
-      "publisher": "Elsevier",
       "categories": [
         "human_ai",
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2949-8821",
+      "name": "Computers in Human Behavior: Artificial Humans",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "computers-in-human-behavior-artificial-humans",
       "source_id": "elsevier_computers_human_behavior_artificial_humans",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "eClinicalMedicine",
-      "slug": "eclinicalmedicine",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2589-5370",
+      "name": "eClinicalMedicine",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "eclinicalmedicine",
       "source_id": "eclinicalmedicine",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Expert Systems with Applications",
-      "slug": "expert-systems-with-applications",
-      "publisher": "Elsevier",
       "categories": [
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0957-4174",
+      "name": "Expert Systems with Applications",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "expert-systems-with-applications",
       "source_id": "elsevier_expert_systems_applications",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Gait & Posture",
-      "slug": "gait-and-posture",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0966-6362",
+      "name": "Gait & Posture",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "gait-and-posture",
       "source_id": "elsevier_gait_posture",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Human Movement Science",
-      "slug": "human-movement-science",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0167-9457",
+      "name": "Human Movement Science",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "human-movement-science",
       "source_id": "elsevier_human_movement_science",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "IEEE Transactions on Artificial Intelligence",
-      "slug": "ieee-transactions-on-artificial-intelligence",
-      "publisher": "IEEE",
       "categories": [
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2691-4581",
+      "name": "IEEE Transactions on Artificial Intelligence",
+      "oa": "verify_per_work",
+      "origin": "editions",
+      "publisher": "IEEE",
+      "slug": "ieee-transactions-on-artificial-intelligence",
       "sources": [
         "crossref"
       ],
-      "origin": "editions"
+      "status": "active"
     },
     {
-      "name": "Information Processing & Management",
-      "slug": "information-processing-and-management",
-      "publisher": "Elsevier",
       "categories": [
         "llm_research",
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0306-4573",
+      "name": "Information Processing & Management",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "information-processing-and-management",
       "source_id": "elsevier_information_processing_management",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "International Journal of Human-Computer Studies",
-      "slug": "international-journal-of-human-computer-studies",
-      "publisher": "Elsevier",
       "categories": [
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "1071-5819",
+      "name": "International Journal of Human-Computer Studies",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "international-journal-of-human-computer-studies",
       "source_id": "elsevier_international_journal_human_computer_studies",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "JAMA Network Open",
-      "slug": "jama-network-open",
-      "publisher": "JAMA Network",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "fully_oa",
-      "status": "active",
       "issn": "2574-3805",
+      "name": "JAMA Network Open",
+      "oa": "fully_oa",
+      "publisher": "JAMA Network",
+      "slug": "jama-network-open",
       "source_id": "jama_network_open",
       "sources": [
         "pubmed",
         "europe_pmc",
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Journal of Biomedical Informatics",
-      "slug": "journal-of-biomedical-informatics",
-      "publisher": "Elsevier",
       "categories": [
         "clinical_medicine",
         "llm_research",
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "1532-0464",
+      "name": "Journal of Biomedical Informatics",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "journal-of-biomedical-informatics",
       "source_id": "elsevier_journal_biomedical_informatics",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Journal of Clinical Epidemiology",
-      "slug": "journal-of-clinical-epidemiology",
-      "publisher": "Elsevier",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0895-4356",
+      "name": "Journal of Clinical Epidemiology",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "journal-of-clinical-epidemiology",
       "source_id": "elsevier_journal_clinical_epidemiology",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Journal of Exercise Science & Fitness",
-      "slug": "journal-of-exercise-science-and-fitness",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science",
         "sport_nutrition_fitness"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "1728-869X",
+      "name": "Journal of Exercise Science & Fitness",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "journal-of-exercise-science-and-fitness",
       "source_id": "elsevier_jesf",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Journal of Machine Learning Research",
-      "slug": "journal-of-machine-learning-research",
-      "publisher": "JMLR",
       "categories": [
         "llm_research"
       ],
-      "oa": "public_fulltext",
-      "status": "planned",
       "enabled": false,
-      "source_id": "jmlr_first_party"
+      "name": "Journal of Machine Learning Research",
+      "oa": "public_fulltext",
+      "publisher": "JMLR",
+      "slug": "journal-of-machine-learning-research",
+      "source_id": "jmlr_first_party",
+      "status": "planned"
     },
     {
-      "name": "Journal of Science and Medicine in Sport",
-      "slug": "journal-of-science-and-medicine-in-sport",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "1440-2440",
+      "name": "Journal of Science and Medicine in Sport",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "journal-of-science-and-medicine-in-sport",
       "source_id": "elsevier_jsams",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Journal of Sport and Health Science",
-      "slug": "journal-of-sport-and-health-science",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2095-2546",
+      "name": "Journal of Sport and Health Science",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "journal-of-sport-and-health-science",
       "source_id": "elsevier_jshs",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Knowledge-Based Systems",
-      "slug": "knowledge-based-systems",
-      "publisher": "Elsevier",
       "categories": [
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0950-7051",
+      "name": "Knowledge-Based Systems",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "knowledge-based-systems",
       "source_id": "elsevier_knowledge_based_systems",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Machine Learning",
-      "slug": "machine-learning",
-      "publisher": "Springer Nature",
       "categories": [
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0885-6125",
+      "name": "Machine Learning",
+      "oa": "verify_per_work",
+      "origin": "editions",
+      "publisher": "Springer Nature",
+      "slug": "machine-learning",
       "sources": [
         "crossref"
       ],
-      "origin": "editions"
+      "status": "active"
     },
     {
-      "name": "National Science Review",
-      "slug": "national-science-review",
-      "publisher": "Oxford University Press",
       "categories": [
         "interdisciplinary"
       ],
+      "issn": "2053-714X",
+      "name": "National Science Review",
       "oa": "fully_oa",
-      "status": "planned",
-      "enabled": false,
-      "source_id": "national_science_review"
+      "publisher": "Oxford University Press",
+      "slug": "national-science-review",
+      "source_id": "national_science_review",
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
-      "name": "Natural Language Processing Journal",
-      "slug": "natural-language-processing-journal",
-      "publisher": "Elsevier",
       "categories": [
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2949-7191",
+      "name": "Natural Language Processing Journal",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "natural-language-processing-journal",
       "source_id": "elsevier_natural_language_processing_journal",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Nature Communications",
-      "slug": "nature-communications",
-      "publisher": "Nature Portfolio",
       "categories": [
         "interdisciplinary"
       ],
-      "oa": "fully_oa",
-      "status": "active",
       "issn": "2041-1723",
+      "name": "Nature Communications",
+      "oa": "fully_oa",
+      "publisher": "Nature Portfolio",
+      "slug": "nature-communications",
       "source_id": "nature_communications",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Nature Machine Intelligence",
-      "slug": "nature-machine-intelligence",
-      "publisher": "Nature Portfolio",
       "categories": [
         "llm_research",
         "human_ai"
       ],
-      "oa": "mixed",
-      "status": "active",
       "issn": "2522-5839",
+      "name": "Nature Machine Intelligence",
+      "oa": "mixed",
+      "origin": "editions",
+      "publisher": "Nature Portfolio",
+      "slug": "nature-machine-intelligence",
       "sources": [
         "crossref"
       ],
-      "origin": "editions"
+      "status": "active"
     },
     {
-      "name": "Neural Networks",
-      "slug": "neural-networks",
-      "publisher": "Elsevier",
       "categories": [
         "llm_research"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0893-6080",
+      "name": "Neural Networks",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "neural-networks",
       "source_id": "elsevier_neural_networks",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Nutrition",
-      "slug": "nutrition",
-      "publisher": "Elsevier",
       "categories": [
         "sport_nutrition_fitness",
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0899-9007",
+      "name": "Nutrition",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "nutrition",
       "source_id": "elsevier_nutrition",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Nutrition Research",
-      "slug": "nutrition-research",
-      "publisher": "Elsevier",
       "categories": [
         "sport_nutrition_fitness"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0271-5317",
+      "name": "Nutrition Research",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "nutrition-research",
       "source_id": "elsevier_nutrition_research",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Physical Review X",
-      "slug": "physical-review-x",
-      "publisher": "American Physical Society",
       "categories": [
         "physics_astronomy"
       ],
+      "issn": "2160-3308",
+      "name": "Physical Review X",
       "oa": "fully_oa",
-      "status": "planned",
-      "enabled": false,
-      "source_id": "physical_review_x"
+      "publisher": "American Physical Society",
+      "slug": "physical-review-x",
+      "source_id": "physical_review_x",
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
-      "name": "Physical Therapy in Sport",
-      "slug": "physical-therapy-in-sport",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "1466-853X",
+      "name": "Physical Therapy in Sport",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "physical-therapy-in-sport",
       "source_id": "elsevier_physical_therapy_sport",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "PLOS Biology",
-      "slug": "plos-biology",
-      "publisher": "PLOS",
       "categories": [
         "interdisciplinary"
       ],
+      "issn": "1545-7885",
+      "name": "PLOS Biology",
       "oa": "fully_oa",
-      "status": "planned",
-      "enabled": false,
-      "source_id": "plos_biology"
+      "publisher": "PLOS",
+      "slug": "plos-biology",
+      "source_id": "plos_biology",
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
-      "name": "PLOS Medicine",
-      "slug": "plos-medicine",
-      "publisher": "PLOS",
       "categories": [
         "clinical_medicine"
       ],
+      "issn": "1549-1676",
+      "name": "PLOS Medicine",
       "oa": "fully_oa",
-      "status": "planned",
-      "enabled": false,
-      "source_id": "plos_medicine"
+      "publisher": "PLOS",
+      "slug": "plos-medicine",
+      "source_id": "plos_medicine",
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
-      "name": "PNAS Nexus",
-      "slug": "pnas-nexus",
-      "publisher": "PNAS / Oxford University Press",
       "categories": [
         "interdisciplinary"
       ],
+      "issn": "2752-6542",
+      "name": "PNAS Nexus",
       "oa": "fully_oa",
-      "status": "planned",
-      "enabled": false,
-      "source_id": "pnas_nexus"
+      "publisher": "PNAS / Oxford University Press",
+      "slug": "pnas-nexus",
+      "source_id": "pnas_nexus",
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
     },
     {
-      "name": "Psychology of Sport and Exercise",
-      "slug": "psychology-of-sport-and-exercise",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "1469-0292",
+      "name": "Psychology of Sport and Exercise",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "psychology-of-sport-and-exercise",
       "source_id": "elsevier_psychology_sport_exercise",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
+      "categories": [
+        "interdisciplinary"
+      ],
+      "enabled": false,
       "name": "Science Advances",
-      "slug": "science-advances",
+      "oa": "fully_oa",
       "publisher": "AAAS",
+      "slug": "science-advances",
+      "source_id": "science_advances",
+      "status": "planned"
+    },
+    {
       "categories": [
         "interdisciplinary"
       ],
-      "oa": "fully_oa",
-      "status": "planned",
       "enabled": false,
-      "source_id": "science_advances"
-    },
-    {
       "name": "Scientific Data",
-      "slug": "scientific-data",
-      "publisher": "Nature Portfolio",
-      "categories": [
-        "interdisciplinary"
-      ],
       "oa": "fully_oa",
-      "status": "planned",
-      "enabled": false,
-      "source_id": "scientific_data"
+      "publisher": "Nature Portfolio",
+      "slug": "scientific-data",
+      "source_id": "scientific_data",
+      "status": "planned"
     },
     {
-      "name": "Scientific Reports",
-      "slug": "scientific-reports",
-      "publisher": "Nature Portfolio",
       "categories": [
         "interdisciplinary"
       ],
+      "name": "Scientific Reports",
       "oa": "fully_oa",
-      "status": "active",
+      "publisher": "Nature Portfolio",
+      "slug": "scientific-reports",
       "source_id": "scientific_reports",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Sports Medicine and Health Science",
-      "slug": "sports-medicine-and-health-science",
-      "publisher": "Elsevier",
       "categories": [
         "sport_science"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2666-3376",
+      "name": "Sports Medicine and Health Science",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "sports-medicine-and-health-science",
       "source_id": "elsevier_smhs",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Journal of Nutritional Biochemistry",
-      "slug": "journal-of-nutritional-biochemistry",
-      "publisher": "Elsevier",
       "categories": [
         "sport_nutrition_fitness"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0955-2863",
+      "name": "The Journal of Nutritional Biochemistry",
+      "oa": "verify_per_work",
+      "publisher": "Elsevier",
+      "slug": "journal-of-nutritional-biochemistry",
       "source_id": "elsevier_journal_nutritional_biochemistry",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Lancet",
-      "slug": "the-lancet",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "0140-6736",
+      "name": "The Lancet",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "the-lancet",
       "source_id": "lancet",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Lancet Digital Health",
-      "slug": "the-lancet-digital-health",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine",
         "llm_research",
         "human_ai"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2589-7500",
+      "name": "The Lancet Digital Health",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "the-lancet-digital-health",
       "source_id": "lancet_digital_health",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Lancet Global Health",
-      "slug": "the-lancet-global-health",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2214-109X",
+      "name": "The Lancet Global Health",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "the-lancet-global-health",
       "source_id": "lancet_global_health",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Lancet Healthy Longevity",
-      "slug": "the-lancet-healthy-longevity",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine",
         "sport_nutrition_fitness"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2666-7568",
+      "name": "The Lancet Healthy Longevity",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "the-lancet-healthy-longevity",
       "source_id": "lancet_healthy_longevity",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Lancet Regional Health – Americas",
-      "slug": "the-lancet-regional-health-americas",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2667-193X",
+      "name": "The Lancet Regional Health – Americas",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "the-lancet-regional-health-americas",
       "source_id": "lancet_regional_health_americas",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Lancet Regional Health – Europe",
-      "slug": "the-lancet-regional-health-europe",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2666-7762",
+      "name": "The Lancet Regional Health – Europe",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "the-lancet-regional-health-europe",
       "source_id": "lancet_regional_health_europe",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "The Lancet Regional Health – Western Pacific",
-      "slug": "the-lancet-regional-health-western-pacific",
-      "publisher": "Lancet",
       "categories": [
         "clinical_medicine"
       ],
-      "oa": "verify_per_work",
-      "status": "active",
       "issn": "2666-6065",
+      "name": "The Lancet Regional Health – Western Pacific",
+      "oa": "verify_per_work",
+      "publisher": "Lancet",
+      "slug": "the-lancet-regional-health-western-pacific",
       "source_id": "lancet_regional_health_western_pacific",
       "sources": [
         "crossref",
         "pubmed",
         "europe_pmc"
-      ]
+      ],
+      "status": "active"
     },
     {
-      "name": "Transactions of the Association for Computational Linguistics",
-      "slug": "tacl",
-      "publisher": "ACL / MIT Press",
       "categories": [
         "llm_research",
         "human_ai"
       ],
-      "oa": "fully_oa",
-      "status": "planned",
-      "issn": "2307-387X",
       "enabled": false,
+      "issn": "2307-387X",
+      "name": "Transactions of the Association for Computational Linguistics",
+      "oa": "fully_oa",
+      "publisher": "ACL / MIT Press",
+      "slug": "tacl",
       "source_id": "tacl_acl_anthology",
       "sources": [
         "crossref"
-      ]
+      ],
+      "status": "planned"
     },
     {
-      "name": "Transactions on Machine Learning Research",
-      "slug": "tmlr",
-      "publisher": "TMLR / OpenReview",
       "categories": [
         "llm_research"
       ],
-      "oa": "public_fulltext",
-      "status": "planned",
       "enabled": false,
-      "source_id": "tmlr_first_party"
+      "name": "Transactions on Machine Learning Research",
+      "oa": "public_fulltext",
+      "publisher": "TMLR / OpenReview",
+      "slug": "tmlr",
+      "source_id": "tmlr_first_party",
+      "status": "planned"
     }
-  ]
+  ],
+  "schema_version": "2.0",
+  "semantics": "Local journal identity and direct acquisition defaults. Classification is metadata, not canonical URL identity.",
+  "upstream": {
+    "active_sources": 59,
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config": "config/radar_master.json",
+    "config_blob_sha": "ea8e6dcd8246187e7e87e580087e62a02b9fb870",
+    "configured_sources": 83,
+    "planned_sources": 24,
+    "repository": "hoiyu915-droid/EvidenceRadar"
+  }
 }

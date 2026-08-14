@@ -1,0 +1,43 @@
+{
+  "article_count": 17,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-14T07:32:01Z",
+  "edition_id": "pnas-nexus__2026-08__r01",
+  "edition_key": "pnas-nexus__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 26594,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.json",
+      "sha256": "95a3516e697700b5478b48d812e3518599038b43c7f03c39edac6a0800a5922b"
+    },
+    "report_html": {
+      "bytes": 52917,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.html",
+      "sha256": "7137c1e1ddcc3715d43249ab1a7dab7475737286350d7ad003548b804f95cfa8"
+    }
+  },
+  "journal": "PNAS Nexus",
+  "journal_slug": "pnas-nexus",
+  "manifest_name": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.manifest.json",
+  "period_end": "2026-08-14",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "pnas-nexus__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 17,
+  "translation_provenance": {
+    "request_binding_sha256": "632376b3b8dc38bf245a501af3b58d07c78744556e689d23fa6af4d1d40015a4",
+    "response_sha256": "fad5a39ff454755976fbc3fe799436895b5d02c0f48187100dd94fe67f9332b2",
+    "source_edition_sha256": "b2ec9d70dfbd4a5f050070e02624df2f1e9be11892d0d293c2eec3001756c9e2"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": null
+}
