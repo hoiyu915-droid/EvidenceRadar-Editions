@@ -17,12 +17,14 @@ jobs:
       - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.12"
-      - name: Snapshot and validate Chemical Science candidates
+      - name: Snapshot compact Chemical Science candidates
         run: |
           python -m pip install 'requests>=2.32,<3'
           python - <<'PY'
           import collections
+          import html
           import json
+          import re
           from pathlib import Path
           import requests
 
@@ -40,72 +42,57 @@ jobs:
           message = r.json()["message"]
           items = message.get("items") or []
 
-          def first(value):
-              return value[0] if isinstance(value, list) and value else value
+          def clean(value):
+              text = html.unescape(str(value or ""))
+              text = re.sub(r"<[^>]+>", "", text)
+              return re.sub(r"\s+", " ", text).strip()
 
-          cleaned = []
+          rows = []
           for raw in items:
               created_parts = ((raw.get("created") or {}).get("date-parts") or [[]])[0]
-              created = None
-              if len(created_parts) >= 3:
-                  created = f"{created_parts[0]:04d}-{created_parts[1]:02d}-{created_parts[2]:02d}"
-              cleaned.append({
-                  "DOI": raw.get("DOI"),
-                  "title": first(raw.get("title")),
-                  "container-title": first(raw.get("container-title")),
+              created = f"{created_parts[0]:04d}-{created_parts[1]:02d}-{created_parts[2]:02d}" if len(created_parts) >= 3 else None
+              title_raw = (raw.get("title") or [""])[0]
+              authors = []
+              for person in raw.get("author") or []:
+                  name = clean(" ".join(str(person.get(k) or "").strip() for k in ("given", "family")))
+                  if name:
+                      authors.append(name)
+              rows.append({
+                  "doi": str(raw.get("DOI") or "").lower(),
+                  "title": clean(title_raw),
                   "created": created,
-                  "URL": raw.get("URL"),
-                  "ISSN": raw.get("ISSN") or [],
-                  "author": raw.get("author") or [],
-                  "type": raw.get("type"),
-                  "publisher": raw.get("publisher"),
-                  "prefix": raw.get("prefix"),
+                  "url": raw.get("URL"),
+                  "issn": raw.get("ISSN") or [],
+                  "authors": authors,
+                  "container_title": clean((raw.get("container-title") or [""])[0]),
+                  "publisher": clean(raw.get("publisher")),
+                  "prefix": str(raw.get("prefix") or ""),
+                  "type": str(raw.get("type") or ""),
               })
-          cleaned.sort(key=lambda x: (x.get("created") or "", (x.get("DOI") or "").casefold()))
-
-          exact_journal = [x for x in cleaned if str(x.get("container-title") or "").casefold() == "chemical science"]
-          exact_issn = [x for x in cleaned if ISSN in (x.get("ISSN") or [])]
-          rsc_prefix = [x for x in cleaned if str(x.get("DOI") or "").lower().startswith("10.1039/")]
-          full_day = [x for x in cleaned if x.get("created")]
-          publishers = collections.Counter(str(x.get("publisher")) for x in cleaned)
-          types = collections.Counter(str(x.get("type")) for x in cleaned)
-          dates = collections.Counter(str(x.get("created")) for x in cleaned)
-          summary = {
-              "crossref_total_results": message.get("total-results"),
-              "returned": len(cleaned),
-              "exact_journal": len(exact_journal),
-              "exact_issn": len(exact_issn),
-              "rsc_doi_prefix": len(rsc_prefix),
-              "full_created_day": len(full_day),
-              "missing_title": sum(not x.get("title") for x in cleaned),
-              "publisher_counts": dict(sorted(publishers.items())),
-              "type_counts": dict(sorted(types.items())),
-              "created_date_counts": dict(sorted(dates.items())),
-          }
-          payload = {
-              "artifact_type": "ChemicalScienceCreatedDateCandidateSnapshot",
-              "window": {"start": "2026-08-01", "end": "2026-08-14"},
-              "journal": "Chemical Science",
-              "issn": ISSN,
-              "query_semantics": "Crossref created-date candidates only; not generic publication-date evidence",
-              "summary": summary,
-              "items": cleaned,
-          }
+          rows.sort(key=lambda x: (x["created"] or "", x["doi"]))
+          assert len(rows) == int(message.get("total-results")) == 83
+          assert all(x["container_title"].casefold() == "chemical science" for x in rows)
+          assert all(ISSN in x["issn"] for x in rows)
+          assert all(x["doi"].startswith("10.1039/") for x in rows)
+          assert all(x["publisher"] == "Royal Society of Chemistry (RSC)" for x in rows)
+          assert all(x["type"] == "journal-article" for x in rows)
+          assert all(x["created"] and x["title"] for x in rows)
           Path("probe").mkdir(exist_ok=True)
-          Path("probe/chemical-science-candidates.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-          print(json.dumps(summary, indent=2))
-          assert len(cleaned) == message.get("total-results")
-          assert len(exact_journal) == len(cleaned)
-          assert len(exact_issn) == len(cleaned)
-          assert len(rsc_prefix) == len(cleaned)
-          assert len(full_day) == len(cleaned)
-          assert not summary["missing_title"]
+          Path("probe/chemical-science-candidates-compact.jsonl").write_text(
+              "".join(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n" for row in rows),
+              encoding="utf-8",
+          )
+          print(json.dumps({
+              "count": len(rows),
+              "dates": dict(sorted(collections.Counter(x["created"] for x in rows).items())),
+              "all_exact_journal_issn_publisher_prefix_type": True,
+          }, indent=2))
           PY
-      - name: Commit snapshot to probe branch
+      - name: Commit compact snapshot
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add probe/chemical-science-candidates.json
+          git add -- probe/chemical-science-candidates-compact.jsonl
           git diff --cached --quiet && exit 0
-          git commit -m 'data: snapshot Chemical Science August candidates'
+          git commit -m 'data: add compact Chemical Science candidate snapshot'
           git push origin HEAD:fix/chemical-science-first-party
