@@ -23,7 +23,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 50
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -49,22 +49,23 @@ jobs:
             --catalog-root catalog \
             --repository "$GITHUB_REPOSITORY" \
             --base-url "${{ steps.pages.outputs.base_url }}" \
-            --output-dir _site
-      - name: Run abstract review and bounded full-text delivery
+            --output-dir _site \
+            --allow-untranslated
+      - name: Run default end-to-end Edition evidence lane
         run: |
           rm -rf \
-            "$RUNNER_TEMP/research-pipeline" \
+            "$RUNNER_TEMP/complete-edition" \
             "$RUNNER_TEMP/abstract-payloads" \
             "$RUNNER_TEMP/fulltext-payloads"
-          python -m evidenceradar_editions.review_fulltext_delivery \
+          python -m evidenceradar_editions.complete_edition_delivery \
             --site-dir _site \
-            --work-dir "$RUNNER_TEMP/research-pipeline" \
+            --work-dir "$RUNNER_TEMP/complete-edition" \
             --abstract-payload-dir "$RUNNER_TEMP/abstract-payloads" \
             --fulltext-payload-dir "$RUNNER_TEMP/fulltext-payloads" \
             --catalog-root catalog \
             --maximum-abstract-items 300 \
             --maximum-fulltext-items 120
-      - name: Validate safe research delivery
+      - name: Validate complete safe Edition delivery
         run: |
           test ! -e "$RUNNER_TEMP/abstract-payloads"
           test ! -e "$RUNNER_TEMP/fulltext-payloads"
@@ -77,11 +78,14 @@ jobs:
             fulltext-fetch-plan.json \
             fulltext-acquisition-receipts.json \
             evidence-review-plan.json \
+            evidence-evaluation-policy.json \
+            evidence-evaluation.json \
+            evaluated-edition.json \
             abstract-payload-disposition.json \
             fulltext-payload-disposition.json \
-            abstract-review-fulltext-manifest.json
+            complete-edition-manifest.json
           do
-            test -s "$RUNNER_TEMP/research-pipeline/$file"
+            test -s "$RUNNER_TEMP/complete-edition/$file"
           done
 
           for file in \
@@ -93,7 +97,12 @@ jobs:
             fulltext-fetch-plan.json \
             fulltext-acquisition.json \
             fulltext-acquisition.html \
-            evidence-review-plan.json
+            evidence-review-plan.json \
+            evidence-evaluation-policy.json \
+            evidence-evaluation.json \
+            evidence-evaluation.html \
+            evaluated-edition.json \
+            evaluated-edition.html
           do
             test -s "_site/$file"
           done
@@ -104,13 +113,15 @@ jobs:
           from pathlib import Path
 
           site = Path("_site")
-          work = Path(os.environ["RUNNER_TEMP"]) / "research-pipeline"
+          work = Path(os.environ["RUNNER_TEMP"]) / "complete-edition"
 
           acquisition = json.loads((site / "abstract-acquisition.json").read_text())
           review = json.loads((site / "abstract-review.json").read_text())
           fulltext_plan = json.loads((site / "fulltext-fetch-plan.json").read_text())
           fulltext = json.loads((site / "fulltext-acquisition.json").read_text())
-          evidence = json.loads((site / "evidence-review-plan.json").read_text())
+          evidence_plan = json.loads((site / "evidence-review-plan.json").read_text())
+          evaluation = json.loads((site / "evidence-evaluation.json").read_text())
+          editorial = json.loads((site / "evaluated-edition.json").read_text())
           abstract_disposition = json.loads((work / "abstract-payload-disposition.json").read_text())
           fulltext_disposition = json.loads((work / "fulltext-payload-disposition.json").read_text())
 
@@ -118,27 +129,18 @@ jobs:
           assert review["counts"]["abstract_acquired"] == acquisition["counts"]["abstract_acquired"]
           assert review["counts"]["fulltext_now_count"] == fulltext_plan["item_count"] <= 120
           assert fulltext["receipt_count"] == fulltext["plan_item_count"] == fulltext_plan["item_count"]
-          assert evidence["item_count"] == fulltext["counts"]["fulltext_acquired"]
+          assert evidence_plan["item_count"] == fulltext["counts"]["fulltext_acquired"]
+          assert evaluation["counts"]["fulltext_acquired"] == fulltext["counts"]["fulltext_acquired"]
+          assert evaluation["counts"]["evidence_evaluated"] + evaluation["counts"]["limited_no_machine_text"] == fulltext["counts"]["fulltext_acquired"]
+          assert editorial["counts"]["evidence_evaluated"] == evaluation["counts"]["evidence_evaluated"]
+          assert editorial["counts"]["featured"] <= 36
+          assert all(item["evidence_evaluated"] is True for item in editorial["items"] if item["editorial_route"] == "FEATURED")
+          assert all(item["risk_of_bias_evaluated"] is False for item in evaluation["items"])
           assert sum(fulltext["counts"]["by_status"].values()) == fulltext["receipt_count"]
-          assert all(item["evidence_evaluated"] is False for item in fulltext["items"])
-          assert all(item["evidence_evaluated"] is False for item in evidence["items"])
-          assert all(
-              item["abstract_reviewed"] is True
-              for item in review["items"]
-              if item["fulltext_route"] in {"FULLTEXT_NOW", "FULLTEXT_RESERVE"}
-          )
 
           forbidden_fields = {
-              "abstract",
-              "abstract_text",
-              "abstractText",
-              "payload_text",
-              "raw_response",
-              "fulltext",
-              "full_text",
-              "fulltext_text",
-              "full_text_text",
-              "raw_fulltext",
+              "abstract", "abstract_text", "abstractText", "payload_text", "raw_response",
+              "fulltext", "full_text", "fulltext_text", "full_text_text", "raw_fulltext",
           }
           def assert_sanitized(value):
               if isinstance(value, dict):
@@ -150,14 +152,14 @@ jobs:
                   for child in value:
                       assert_sanitized(child)
 
-          for artifact in (acquisition, review, fulltext, evidence):
+          for artifact in (acquisition, review, fulltext, evidence_plan, evaluation, editorial):
               assert_sanitized(artifact)
 
           assert abstract_disposition["disposition"] == "DELETED_BEFORE_ARTIFACT_UPLOAD"
           assert abstract_disposition["abstract_text_published"] is False
           assert fulltext_disposition["disposition"] == "DELETED_BEFORE_ARTIFACT_UPLOAD"
           assert fulltext_disposition["fulltext_published"] is False
-          assert fulltext_disposition["evidence_evaluated"] is False
+          assert fulltext_disposition["evidence_evaluated_count"] == evaluation["counts"]["evidence_evaluated"]
 
           print(json.dumps({
               "abstract_planned": acquisition["plan_item_count"],
@@ -165,15 +167,16 @@ jobs:
               "abstract_reviewed": review["counts"]["abstract_acquired"],
               "fulltext_planned": fulltext_plan["item_count"],
               "fulltext_acquired": fulltext["counts"]["fulltext_acquired"],
+              "evidence_evaluated": evaluation["counts"]["evidence_evaluated"],
+              "limited_no_machine_text": evaluation["counts"]["limited_no_machine_text"],
+              "featured": editorial["counts"]["featured"],
+              "evidence_reserve": editorial["counts"]["evidence_reserve"],
               "fulltext_route_not_found": fulltext["counts"]["route_not_found"],
-              "fulltext_access_denied": fulltext["counts"]["access_denied"],
-              "fulltext_not_found": fulltext["counts"]["not_found"],
               "fulltext_inconclusive": fulltext["counts"]["acquisition_inconclusive"],
-              "evidence_review_ready": evidence["item_count"],
-              "fulltext_receipt_binding_sha256": fulltext["receipt_binding_sha256"],
+              "evaluated_edition_binding_sha256": editorial["evaluated_edition_binding_sha256"],
           }, sort_keys=True))
           PY
-      - name: Write research pipeline summary
+      - name: Write complete Edition summary
         run: |
           python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
           import json
@@ -182,28 +185,28 @@ jobs:
           a = json.loads(Path("_site/abstract-acquisition.json").read_text())
           r = json.loads(Path("_site/abstract-review.json").read_text())
           f = json.loads(Path("_site/fulltext-acquisition.json").read_text())
-          e = json.loads(Path("_site/evidence-review-plan.json").read_text())
+          e = json.loads(Path("_site/evidence-evaluation.json").read_text())
+          c = json.loads(Path("_site/evaluated-edition.json").read_text())
 
-          print("## Abstract review → full-text delivery")
+          print("## Default end-to-end Edition lane")
           print()
           print(f"- abstract planned: `{a['plan_item_count']}`")
           print(f"- abstract acquired: `{a['counts']['abstract_acquired']}`")
           print(f"- abstract structurally reviewed: `{r['counts']['abstract_acquired']}`")
           print(f"- full-text planned: `{r['counts']['fulltext_now_count']}`")
           print(f"- full-text acquired: `{f['counts']['fulltext_acquired']}`")
-          print(f"- no safe full-text route: `{f['counts']['route_not_found']}`")
-          print(f"- full-text access denied: `{f['counts']['access_denied']}`")
-          print(f"- full-text acquisition inconclusive: `{f['counts']['acquisition_inconclusive']}`")
-          print(f"- evidence-review-ready: `{e['item_count']}`")
-          print("- evidence evaluated: `0`")
-          print("- abstract payloads: `deleted before artifact upload`")
-          print("- full-text payloads: `deleted before artifact upload`")
+          print(f"- evidence-reporting audits completed: `{e['counts']['evidence_evaluated']}`")
+          print(f"- limited machine-text review: `{e['counts']['limited_no_machine_text']}`")
+          print(f"- FEATURED: `{c['counts']['featured']}`")
+          print(f"- evidence reserve: `{c['counts']['evidence_reserve']}`")
+          print("- formal risk-of-bias grades: `not claimed`")
+          print("- abstract/full-text payloads: `deleted before artifact upload`")
           PY
-      - name: Upload safe review and full-text receipts
+      - name: Upload safe complete Edition receipts
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
-          name: EvidenceRadar-Editions__abstract-review-fulltext
-          path: ${{ runner.temp }}/research-pipeline/
+          name: EvidenceRadar-Editions__complete-edition
+          path: ${{ runner.temp }}/complete-edition/
           if-no-files-found: error
           retention-days: 30
       - name: Upload Pages artifact
