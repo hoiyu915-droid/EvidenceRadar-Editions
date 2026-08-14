@@ -1,0 +1,45 @@
+{
+  "count": 4,
+  "items": [
+    {
+      "slug": "computers-in-human-behavior",
+      "canonical_id": "doi:10.1016/s0747-5632(26)00110-x",
+      "title": "Editorial Board",
+      "date": "2026-08-01",
+      "date_precision": "MONTH",
+      "article_type": "journal-article",
+      "doi": "10.1016/s0747-5632(26)00110-x",
+      "pmid": null
+    },
+    {
+      "slug": "computers-in-human-behavior",
+      "canonical_id": "doi:10.1016/j.chb.2026.109003",
+      "title": "Corrigendum to “The influence of cyber descriptive norms on immoral online behavior: The moderating role of moral conviction” [Computers in Human Behavior, 181 (2026) 108991]",
+      "date": "2026-08-01",
+      "date_precision": "MONTH",
+      "article_type": "journal-article",
+      "doi": "10.1016/j.chb.2026.109003",
+      "pmid": null
+    },
+    {
+      "slug": "journal-of-science-and-medicine-in-sport",
+      "canonical_id": "doi:10.1016/s1440-2440(26)00295-1",
+      "title": "Editorial Board",
+      "date": "2026-08-01",
+      "date_precision": "MONTH",
+      "article_type": "journal-article",
+      "doi": "10.1016/s1440-2440(26)00295-1",
+      "pmid": null
+    },
+    {
+      "slug": "neural-networks",
+      "canonical_id": "doi:10.1016/s0893-6080(26)00581-2",
+      "title": "Editorial Board",
+      "date": "2026-08-01",
+      "date_precision": "MONTH",
+      "article_type": "journal-article",
+      "doi": "10.1016/s0893-6080(26)00581-2",
+      "pmid": null
+    }
+  ]
+}
