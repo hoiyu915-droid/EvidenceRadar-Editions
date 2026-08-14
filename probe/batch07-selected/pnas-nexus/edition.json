@@ -1,0 +1,731 @@
+{
+  "schema_version": "2.0",
+  "artifact_type": "EvidenceRadar_Edition",
+  "edition_id": "pnas-nexus__2026-08__r01",
+  "edition_key": "pnas-nexus__2026-08",
+  "publication_id": "pnas-nexus__2026-08__r01",
+  "retrieved_at": "2026-08-14T07:20:12Z",
+  "run_status": "COMPLETE",
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "scope": {
+    "journal": "PNAS Nexus",
+    "issn": "2752-6542",
+    "slug": "pnas-nexus",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-14",
+    "sources": [
+      "crossref"
+    ],
+    "max_records": 5000,
+    "period_kind_requested": "month",
+    "revision": 1,
+    "language": "zh-TW",
+    "journal_slug": "pnas-nexus",
+    "period_kind": "month",
+    "period_key": "2026-08",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "period_complete": false,
+    "edition_key": "pnas-nexus__2026-08",
+    "publication_id": "pnas-nexus__2026-08__r01",
+    "artifact_stem": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01"
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "preserve_original_title": true,
+    "interactive_filters": true,
+    "translation_required_for_publication": true
+  },
+  "translation": {
+    "language": "zh-TW",
+    "status": "NOT_REQUESTED",
+    "translated_articles": 0,
+    "total_articles": 17,
+    "source_edition_sha256": null,
+    "request_binding_sha256": null,
+    "response_sha256": null
+  },
+  "artifacts": {
+    "stem": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01",
+    "edition_json": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.json",
+    "report_html": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.html",
+    "manifest_json": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.manifest.json",
+    "translation_request_json": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__pnas-nexus__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "upstream_radar": {
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "commit": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "config_sha256": null,
+    "uses_radar_output_artifacts": false
+  },
+  "source_checks": [
+    {
+      "source": "crossref",
+      "status": "SUCCESS",
+      "query": "container=PNAS Nexus; publication=2026-08-01..2026-08-14",
+      "returned_count": 17,
+      "accepted_count": 17,
+      "total_available": 17,
+      "truncated": false,
+      "detail": null
+    }
+  ],
+  "counts": {
+    "articles": 17,
+    "translated_articles": 0,
+    "by_source": {
+      "crossref": 17
+    },
+    "by_article_type": {
+      "journal-article": 17
+    }
+  },
+  "articles": [
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag272",
+      "title": "Diffusive buckling fronts in lattice-based metamaterials",
+      "title_original": "Diffusive buckling fronts in lattice-based metamaterials",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag272",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Jochem G Meijer",
+        "Faadil H Shaik",
+        "Victoria V McDermott",
+        "Heinrich M Jaeger"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag272"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag272",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag272"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag257",
+      "title": "Painful neuromas exhibit axonal phenotypic shift via nociceptive and mechanosensitive marker up-regulation",
+      "title_original": "Painful neuromas exhibit axonal phenotypic shift via nociceptive and mechanosensitive marker up-regulation",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag257",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Vlad Tereshenko",
+        "Floris V Raasveld",
+        "Charles D Hwang",
+        "Madison R Hussey",
+        "Benjamin Johnston",
+        "Ian L Valerio",
+        "William G Austen",
+        "Brian J Wainger",
+        "William Renthal",
+        "Kyle R Eberlin"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag257"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag257",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag257"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag255",
+      "title": "Gender gaps in patience, risk-taking, trust, and prosociality are smaller among younger cohorts",
+      "title_original": "Gender gaps in patience, risk-taking, trust, and prosociality are smaller among younger cohorts",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag255",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Rainer Kotschy",
+        "Uwe Sunde"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag255"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag255",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag255"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag246",
+      "title": "Fragile preferences: A deep dive into order effects in large language models",
+      "title_original": "Fragile preferences: A deep dive into order effects in large language models",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag246",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Haonan Yin",
+        "Shai Vardi",
+        "Vidyanand Choudhary"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag246"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag246",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag246"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag273",
+      "title": "Addressing antimicrobial resistance: Current challenges, emerging strategies, and an AI-powered, community-driven approach",
+      "title_original": "Addressing antimicrobial resistance: Current challenges, emerging strategies, and an AI-powered, community-driven approach",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag273",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Peter Wang",
+        "Alton Hsiung",
+        "Christiana Fraise",
+        "Gyula Seres",
+        "Li Ming Chong",
+        "Kui You",
+        "Angelina Moh",
+        "Chengxun Su",
+        "Yoann Sapanel",
+        "Isaiah Zhuang",
+        "Lissa Hooi",
+        "Oon Tek Ng",
+        "Shawn Vasoo",
+        "Dean Ho"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag273"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag273",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag273"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag270",
+      "title": "Measuring narrative polarization in online discourse",
+      "title_original": "Measuring narrative polarization in online discourse",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag270",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Jan Elfes",
+        "Marco Bastos",
+        "Luca Maria Aiello"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag270"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag270",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag270"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag271",
+      "title": "A depositional taphonomy model for sedaDNA based on biotic profiles of contrasting sedimentation regimes",
+      "title_original": "A depositional taphonomy model for sedaDNA based on biotic profiles of contrasting sedimentation regimes",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag271",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Teri A Hansford",
+        "Vivian Higgs",
+        "Vincent Gaffney",
+        "Logan Kistler",
+        "Robin G Allaby"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag271"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag271",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag271"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag266",
+      "title": "Computational fluid dynamics enables predictable scale-up of perfusion bioreactors for microvessel production",
+      "title_original": "Computational fluid dynamics enables predictable scale-up of perfusion bioreactors for microvessel production",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag266",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Pouyan Vatani",
+        "Kasinan Suthiwanich",
+        "Zidong Han",
+        "David A Romero",
+        "Sara S Nunes",
+        "Cristina H Amon"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag266"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag266",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag266"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag263",
+      "title": "Brief speech samples reveal emotional states in daily life",
+      "title_original": "Brief speech samples reveal emotional states in daily life",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag263",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Timo K Koch",
+        "Gabriella M Harari",
+        "Samuel D Gosling",
+        "Zachariah Marrero",
+        "Ramona Schoedel",
+        "Markus Bühner",
+        "Clemens Stachl"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag263"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag263",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag263"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag267",
+      "title": "One rule does not fit all: Deviations from universality in human mobility modeling",
+      "title_original": "One rule does not fit all: Deviations from universality in human mobility modeling",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag267",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Ludovico Napoli",
+        "Márton Karsai",
+        "Esteban Moro"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag267"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag267",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag267"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag265",
+      "title": "The pivotal role of the food service industry in alleviating urban segregation and boosting city vitality",
+      "title_original": "The pivotal role of the food service industry in alleviating urban segregation and boosting city vitality",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag265",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Mingxing Chen",
+        "Yue Xian",
+        "Junfan Lin",
+        "Yuanxuan Yang",
+        "Alexis Comber",
+        "Liangkan Chen",
+        "Wenming Song"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag265"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag265",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag265"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag237",
+      "title": "Mitigating artificial light at night: effectiveness of policies and implications for plant phenology",
+      "title_original": "Mitigating artificial light at night: effectiveness of policies and implications for plant phenology",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag237",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Brandt Geist",
+        "Lin Meng",
+        "Travis Longcore",
+        "Zhuosen Wang",
+        "Franz Hölker",
+        "Huidong Li",
+        "Hao Yin",
+        "Mahir Tajwar"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag237"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag237",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag237"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag232",
+      "title": "Genomic signatures of native (Japanese) and introduced (Oceanian) populations of the Asian longhorned tick Haemaphysalis longicornis",
+      "title_original": "Genomic signatures of native (Japanese) and introduced (Oceanian) populations of the Asian longhorned tick Haemaphysalis longicornis",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag232",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Yuma Ohari",
+        "Kodai Kusakisako",
+        "Mackenzie L Kwak",
+        "Rika Umemiya-Shirafuji",
+        "Wessam Mohamed Ahmed Mohamed",
+        "Mohamed Abdallah Mohamed Moustafa",
+        "Elisha Chatanga",
+        "Samuel Kelava",
+        "Ketan Christi",
+        "Dinesh Kumar",
+        "Nariaki Nonaka",
+        "Yasuko Orba",
+        "Keita Matsuno",
+        "Ryo Nakao"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag232"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag232",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag232"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag233",
+      "title": "Evolution and determinants of firm-level systemic risk in local production networks",
+      "title_original": "Evolution and determinants of firm-level systemic risk in local production networks",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag233",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Anna Mancini",
+        "Balázs Lengyel",
+        "Riccardo Di Clemente",
+        "Giulio Cimini"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag233"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag233",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag233"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag252",
+      "title": "Correction to: Evolution and determinants of firm-level systemic risk in local production networks",
+      "title_original": "Correction to: Evolution and determinants of firm-level systemic risk in local production networks",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag252",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag252"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag252",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag252"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag248",
+      "title": "Surface chiral Abelian topological order on multilayer cluster Mott insulators",
+      "title_original": "Surface chiral Abelian topological order on multilayer cluster Mott insulators",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag248",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Xu-Ping Yao",
+        "Chao-Kai Li",
+        "Gang v Chen"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag248"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag248",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag248"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/pnasnexus/pgag264",
+      "title": "Perceptions of migration and integration in Germany: The role of regional context and migrants' origin",
+      "title_original": "Perceptions of migration and integration in Germany: The role of regional context and migrants' origin",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "PNAS Nexus",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "doi": "10.1093/pnasnexus/pgag264",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2752-6542"
+      ],
+      "authors": [
+        "Paul Berbée",
+        "Marvin Brinkmann",
+        "Katia Gallegos Torres",
+        "Martin Lange",
+        "Elias Naumann",
+        "Katrin Sommerfeld"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1093/pnasnexus/pgag264"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1093/pnasnexus/pgag264",
+          "url": "https://doi.org/10.1093/pnasnexus/pgag264"
+        }
+      ]
+    }
+  ]
+}

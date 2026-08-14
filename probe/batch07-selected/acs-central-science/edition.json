@@ -1,0 +1,449 @@
+{
+  "schema_version": "2.0",
+  "artifact_type": "EvidenceRadar_Edition",
+  "edition_id": "acs-central-science__2026-08__r01",
+  "edition_key": "acs-central-science__2026-08",
+  "publication_id": "acs-central-science__2026-08__r01",
+  "retrieved_at": "2026-08-14T07:19:53Z",
+  "run_status": "COMPLETE",
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "scope": {
+    "journal": "ACS Central Science",
+    "issn": "2374-7943",
+    "slug": "acs-central-science",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-14",
+    "sources": [
+      "crossref"
+    ],
+    "max_records": 5000,
+    "period_kind_requested": "month",
+    "revision": 1,
+    "language": "zh-TW",
+    "journal_slug": "acs-central-science",
+    "period_kind": "month",
+    "period_key": "2026-08",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "period_complete": false,
+    "edition_key": "acs-central-science__2026-08",
+    "publication_id": "acs-central-science__2026-08__r01",
+    "artifact_stem": "EvidenceRadar_Editions__acs-central-science__2026-08__r01"
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "preserve_original_title": true,
+    "interactive_filters": true,
+    "translation_required_for_publication": true
+  },
+  "translation": {
+    "language": "zh-TW",
+    "status": "NOT_REQUESTED",
+    "translated_articles": 0,
+    "total_articles": 8,
+    "source_edition_sha256": null,
+    "request_binding_sha256": null,
+    "response_sha256": null
+  },
+  "artifacts": {
+    "stem": "EvidenceRadar_Editions__acs-central-science__2026-08__r01",
+    "edition_json": "EvidenceRadar_Editions__acs-central-science__2026-08__r01.json",
+    "report_html": "EvidenceRadar_Editions__acs-central-science__2026-08__r01.html",
+    "manifest_json": "EvidenceRadar_Editions__acs-central-science__2026-08__r01.manifest.json",
+    "translation_request_json": "EvidenceRadar_Editions__acs-central-science__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__acs-central-science__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "upstream_radar": {
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "commit": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "config_sha256": null,
+    "uses_radar_output_artifacts": false
+  },
+  "source_checks": [
+    {
+      "source": "crossref",
+      "status": "SUCCESS",
+      "query": "container=ACS Central Science; publication=2026-08-01..2026-08-14",
+      "returned_count": 8,
+      "accepted_count": 8,
+      "total_available": 8,
+      "truncated": false,
+      "detail": null
+    }
+  ],
+  "counts": {
+    "articles": 8,
+    "translated_articles": 0,
+    "by_source": {
+      "crossref": 8
+    },
+    "by_article_type": {
+      "journal-article": 8
+    }
+  },
+  "articles": [
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c01291",
+      "title": "Correction to “Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression”",
+      "title_original": "Correction to “Allosteric Antagonist Modulation of TRPV2 by Piperlongumine Impairs Glioblastoma Progression”",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c01291",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "João Conde",
+        "Ruth A. Pumroy",
+        "Charlotte Baker",
+        "Tiago Rodrigues",
+        "Ana Guerreiro",
+        "Bárbara B. Sousa",
+        "Marta C. Marques",
+        "Bernardo P. de Almeida",
+        "Sohyon Lee",
+        "Elvira P. Leites",
+        "Daniel Picard",
+        "Amrita Samanta",
+        "Sandra H. Vaz",
+        "Florian Sieglitz",
+        "Maike Langini",
+        "Marc Remke",
+        "Rafael Roque",
+        "Tobias Weiss",
+        "Michael Weller",
+        "Yuhang Liu",
+        "Seungil Han",
+        "Francisco Corzana",
+        "Vanessa A. Morais",
+        "Cláudia C. Faria",
+        "Tânia Carvalho",
+        "Panagis Filippakopoulos",
+        "Berend Snijder",
+        "Nuno L. Barbosa-Morais",
+        "Vera Y. Moiseenkova-Bell",
+        "Gonçalo J. L. Bernardes"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c01291"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c01291",
+          "url": "https://doi.org/10.1021/acscentsci.6c01291"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c00645",
+      "title": "Programmed S → N Remote Cyano Migration: A Thiocyanate-Based Entry to Cyanamides and Selective Ferroptosis Inducers",
+      "title_original": "Programmed S → N Remote Cyano Migration: A Thiocyanate-Based Entry to Cyanamides and Selective Ferroptosis Inducers",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c00645",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "Xiyan Duan",
+        "Wanjing Feng",
+        "Fengjiao Du",
+        "Can Liu",
+        "Ning Liu",
+        "Yihao Zhao",
+        "Kun Liu",
+        "Pu Liu",
+        "Yixuan Zhang",
+        "Jingze Li",
+        "Yahui Ding",
+        "Quan Zhang"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c00645"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c00645",
+          "url": "https://doi.org/10.1021/acscentsci.6c00645"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c01284",
+      "title": "His Start-up Wants to Mimic Human Breast Milk Using Plants",
+      "title_original": "His Start-up Wants to Mimic Human Breast Milk Using Plants",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c01284",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "Kristel Tjandra"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c01284"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c01284",
+          "url": "https://doi.org/10.1021/acscentsci.6c01284"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c00344",
+      "title": "A Tumor-Microenvironment-Responsive Chemically Masked IL-2 Prodrug Potentiates PD-1 Checkpoint Blockade and Elicits Robust Antitumor Efficacy",
+      "title_original": "A Tumor-Microenvironment-Responsive Chemically Masked IL-2 Prodrug Potentiates PD-1 Checkpoint Blockade and Elicits Robust Antitumor Efficacy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c00344",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "Linzhi Tan",
+        "Yunwen Yang",
+        "Kerui Zhao",
+        "Jingjing Zhou",
+        "Xin Wang",
+        "Xingyu Zhao",
+        "Qiang Lu",
+        "Junyu Lin",
+        "Yijie Zhao",
+        "Yushun Tian",
+        "Yong Wang",
+        "Chao Zhong",
+        "Tao Liu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c00344"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c00344",
+          "url": "https://doi.org/10.1021/acscentsci.6c00344"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c00586",
+      "title": "Design Rules for Tuning Thermal Lifetimes of Arylazopyrazole Photoswitches",
+      "title_original": "Design Rules for Tuning Thermal Lifetimes of Arylazopyrazole Photoswitches",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c00586",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "Maximilian X. Tiefenbacher",
+        "Johannes C. B. Dietschreit",
+        "Simon Axelrod",
+        "Rafael Gómez-Bombarelli",
+        "Leticia González"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c00586"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c00586",
+          "url": "https://doi.org/10.1021/acscentsci.6c00586"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c01043",
+      "title": "Correction to “Detecting Bacteria in Their Mammalian Hosts Using Metabolism-Targeted [13C]CO2 Breath Testing”",
+      "title_original": "Correction to “Detecting Bacteria in Their Mammalian Hosts Using Metabolism-Targeted [13C]CO2 Breath Testing”",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c01043",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "Marina López-Álvarez",
+        "Sang Hee Lee",
+        "Anju Wadhwa",
+        "Mohammad Yaqoob Bhat",
+        "Tyler S. Simmons",
+        "Jung Min Kim",
+        "Anil Bidkar",
+        "Spenser R. Simpson",
+        "Shari Dhaene",
+        "Jeffrey D. Steinberg",
+        "Joseph Blecha",
+        "Wenxing Zou",
+        "Robert R. Flavell",
+        "Marshall D. McCue",
+        "Amanda M. Green",
+        "Renuka Sriram",
+        "Tom Desmet",
+        "Joanne Engel",
+        "Jason W. Rosch",
+        "Michael A. Ohliger",
+        "Kiel D. Neumann",
+        "David M. Wilson"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c01043"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c01043",
+          "url": "https://doi.org/10.1021/acscentsci.6c01043"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c00774",
+      "title": "Advancing Drug Discovery through Academia–Industry Collaborations: Lessons from Merck Discovery Chemistry Partnerships",
+      "title_original": "Advancing Drug Discovery through Academia–Industry Collaborations: Lessons from Merck Discovery Chemistry Partnerships",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c00774",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "Beryl X. Li",
+        "Dipannita Kalyani"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c00774"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c00774",
+          "url": "https://doi.org/10.1021/acscentsci.6c00774"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1021/acscentsci.6c00662",
+      "title": "A Dimeric Protein-RNA Glue Promotes Multivalent eIF4A-RNA Assembly",
+      "title_original": "A Dimeric Protein-RNA Glue Promotes Multivalent eIF4A-RNA Assembly",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "ACS Central Science",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "doi": "10.1021/acscentsci.6c00662",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2374-7943",
+        "2374-7951"
+      ],
+      "authors": [
+        "Jie Liu",
+        "Megan K. Moore",
+        "Kevin Lou",
+        "Douglas R. Wassarman",
+        "Abolfazl Arab",
+        "Samuel Ojeda",
+        "Barbara Karakyriakou",
+        "Ann-Sophie Koglin",
+        "Christopher J. Ott",
+        "Luke A. Gilbert",
+        "Kevan M. Shokat"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1021/acscentsci.6c00662"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1021/acscentsci.6c00662",
+          "url": "https://doi.org/10.1021/acscentsci.6c00662"
+        }
+      ]
+    }
+  ]
+}

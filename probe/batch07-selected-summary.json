@@ -1,0 +1,345 @@
+{
+  "period": "2026-08",
+  "through": "2026-08-14",
+  "journals": [
+    {
+      "journal": "ACS Central Science",
+      "slug": "acs-central-science",
+      "issn": "2374-7943",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 8,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 8,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=ACS Central Science; publication=2026-08-01..2026-08-14",
+          "returned_count": 8,
+          "accepted_count": 8,
+          "total_available": 8,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "Communications Chemistry",
+      "slug": "communications-chemistry",
+      "issn": "2399-3669",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 13,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 13,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=Communications Chemistry; publication=2026-08-01..2026-08-14",
+          "returned_count": 13,
+          "accepted_count": 13,
+          "total_available": 13,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "Communications Physics",
+      "slug": "communications-physics",
+      "issn": "2399-3650",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 18,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 18,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=Communications Physics; publication=2026-08-01..2026-08-14",
+          "returned_count": 18,
+          "accepted_count": 18,
+          "total_available": 18,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "Knowledge-Based Systems",
+      "slug": "knowledge-based-systems",
+      "issn": "0950-7051",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 107,
+      "flags": [
+        {
+          "canonical_id": "doi:10.1016/s0950-7051(26)01348-1",
+          "title": "Editorial Board",
+          "date": "2026-08-01",
+          "precision": "MONTH",
+          "reason": [
+            "FRONT_MATTER"
+          ]
+        }
+      ],
+      "flag_count": 1,
+      "rough_keepable": 106,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=Knowledge-Based Systems; publication=2026-08-01..2026-08-14",
+          "returned_count": 107,
+          "accepted_count": 107,
+          "total_available": 107,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "National Science Review",
+      "slug": "national-science-review",
+      "issn": "2053-714X",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 23,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 23,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=National Science Review; publication=2026-08-01..2026-08-14",
+          "returned_count": 23,
+          "accepted_count": 23,
+          "total_available": 23,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "Physical Review X",
+      "slug": "physical-review-x",
+      "issn": "2160-3308",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 30,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 30,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=Physical Review X; publication=2026-08-01..2026-08-14",
+          "returned_count": 30,
+          "accepted_count": 30,
+          "total_available": 30,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "PLOS Biology",
+      "slug": "plos-biology",
+      "issn": "1545-7885",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 16,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 16,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=PLOS Biology; publication=2026-08-01..2026-08-14",
+          "returned_count": 16,
+          "accepted_count": 16,
+          "total_available": 16,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "PLOS Medicine",
+      "slug": "plos-medicine",
+      "issn": "1549-1676",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 11,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 11,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=PLOS Medicine; publication=2026-08-01..2026-08-14",
+          "returned_count": 11,
+          "accepted_count": 11,
+          "total_available": 11,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "PNAS Nexus",
+      "slug": "pnas-nexus",
+      "issn": "2752-6542",
+      "sources": [
+        "crossref"
+      ],
+      "articles": 17,
+      "flags": [],
+      "flag_count": 0,
+      "rough_keepable": 17,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=PNAS Nexus; publication=2026-08-01..2026-08-14",
+          "returned_count": 17,
+          "accepted_count": 17,
+          "total_available": 17,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    },
+    {
+      "journal": "The Lancet Regional Health – Americas",
+      "slug": "the-lancet-regional-health-americas",
+      "issn": "2667-193X",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "articles": 36,
+      "flags": [
+        {
+          "canonical_id": "doi:10.1016/j.lana.2026.101587",
+          "title": "Synthetic opioid contamination in Brazil's illicit drug market: an emerging and underdetected risk.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        },
+        {
+          "canonical_id": "doi:10.1016/j.lana.2026.101592",
+          "title": "Shaping the neurological health agenda in the Americas: from mortality to chronic disability.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        },
+        {
+          "canonical_id": "doi:10.1016/j.lana.2026.101590",
+          "title": "Pre-existing financial circumstance, job loss, and probable depression among U.S. adults: a prospective population-based cohort study.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        },
+        {
+          "canonical_id": "doi:10.1016/j.lana.2026.101593",
+          "title": "Not as information, but as a trigger: recurrent climate trauma after the 2024 Rio Grande do Sul floods.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        },
+        {
+          "canonical_id": "doi:10.1016/j.lana.2026.101594",
+          "title": "Corrigendum to \"Mobile intervention for emerging adults with regular cannabis use: a micro-randomized trial\" [The Lancet Regional Health-Americas 2026; Volume 61: 101524; DOI: 10.1016/j.lana.2026.101524].",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        },
+        {
+          "canonical_id": "doi:10.1016/j.lana.2026.101595",
+          "title": "Climate change and health system preparedness: A scoping review of adaptation plans in Central America and the Caribbean.",
+          "date": "2026-01-01",
+          "precision": "YEAR",
+          "reason": [
+            "YEAR"
+          ]
+        }
+      ],
+      "flag_count": 6,
+      "rough_keepable": 30,
+      "run_status": "COMPLETE",
+      "source_checks": [
+        {
+          "source": "crossref",
+          "status": "SUCCESS",
+          "query": "container=The Lancet Regional Health – Americas; publication=2026-08-01..2026-08-14",
+          "returned_count": 30,
+          "accepted_count": 30,
+          "total_available": 30,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "pubmed",
+          "status": "SUCCESS",
+          "query": "(\"The Lancet Regional Health – Americas\"[Journal] OR \"2667-193X\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+          "returned_count": 34,
+          "accepted_count": 34,
+          "total_available": 34,
+          "truncated": false,
+          "detail": null
+        },
+        {
+          "source": "europe_pmc",
+          "status": "NO_RESULTS",
+          "query": "JOURNAL:\"The Lancet Regional Health – Americas\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+          "returned_count": 0,
+          "accepted_count": 0,
+          "total_available": 0,
+          "truncated": false,
+          "detail": null
+        }
+      ]
+    }
+  ],
+  "raw_total": 279,
+  "rough_keepable_total": 272
+}

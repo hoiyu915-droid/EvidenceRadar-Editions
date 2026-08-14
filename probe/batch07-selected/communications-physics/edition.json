@@ -1,0 +1,838 @@
+{
+  "schema_version": "2.0",
+  "artifact_type": "EvidenceRadar_Edition",
+  "edition_id": "communications-physics__2026-08__r01",
+  "edition_key": "communications-physics__2026-08",
+  "publication_id": "communications-physics__2026-08__r01",
+  "retrieved_at": "2026-08-14T07:19:57Z",
+  "run_status": "COMPLETE",
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "scope": {
+    "journal": "Communications Physics",
+    "issn": "2399-3650",
+    "slug": "communications-physics",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-14",
+    "sources": [
+      "crossref"
+    ],
+    "max_records": 5000,
+    "period_kind_requested": "month",
+    "revision": 1,
+    "language": "zh-TW",
+    "journal_slug": "communications-physics",
+    "period_kind": "month",
+    "period_key": "2026-08",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "period_complete": false,
+    "edition_key": "communications-physics__2026-08",
+    "publication_id": "communications-physics__2026-08__r01",
+    "artifact_stem": "EvidenceRadar_Editions__communications-physics__2026-08__r01"
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "preserve_original_title": true,
+    "interactive_filters": true,
+    "translation_required_for_publication": true
+  },
+  "translation": {
+    "language": "zh-TW",
+    "status": "NOT_REQUESTED",
+    "translated_articles": 0,
+    "total_articles": 18,
+    "source_edition_sha256": null,
+    "request_binding_sha256": null,
+    "response_sha256": null
+  },
+  "artifacts": {
+    "stem": "EvidenceRadar_Editions__communications-physics__2026-08__r01",
+    "edition_json": "EvidenceRadar_Editions__communications-physics__2026-08__r01.json",
+    "report_html": "EvidenceRadar_Editions__communications-physics__2026-08__r01.html",
+    "manifest_json": "EvidenceRadar_Editions__communications-physics__2026-08__r01.manifest.json",
+    "translation_request_json": "EvidenceRadar_Editions__communications-physics__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__communications-physics__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "upstream_radar": {
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "commit": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "config_sha256": null,
+    "uses_radar_output_artifacts": false
+  },
+  "source_checks": [
+    {
+      "source": "crossref",
+      "status": "SUCCESS",
+      "query": "container=Communications Physics; publication=2026-08-01..2026-08-14",
+      "returned_count": 18,
+      "accepted_count": 18,
+      "total_available": 18,
+      "truncated": false,
+      "detail": null
+    }
+  ],
+  "counts": {
+    "articles": 18,
+    "translated_articles": 0,
+    "by_source": {
+      "crossref": 18
+    },
+    "by_article_type": {
+      "journal-article": 18
+    }
+  },
+  "articles": [
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02807-0",
+      "title": "Spintronics in cluster-assembled one-dimensional materials with a screw dislocation",
+      "title_original": "Spintronics in cluster-assembled one-dimensional materials with a screw dislocation",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02807-0",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Yu Guo",
+        "Lixin Zhou",
+        "Ying Zhao",
+        "Fan Zhang",
+        "Yan Su",
+        "Si Zhou",
+        "Jijun Zhao"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02807-0"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02807-0",
+          "url": "https://doi.org/10.1038/s42005-026-02807-0"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02802-5",
+      "title": "Anisotropic electron gas in a hyperbolic van der Waals material",
+      "title_original": "Anisotropic electron gas in a hyperbolic van der Waals material",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02802-5",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Nicola Melchioni",
+        "Andrea Mancini",
+        "Antonio Ambrosio"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02802-5"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02802-5",
+          "url": "https://doi.org/10.1038/s42005-026-02802-5"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02806-1",
+      "title": "A universal Fano type scattering model and its experimental tests",
+      "title_original": "A universal Fano type scattering model and its experimental tests",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02806-1",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "S. N. Wang",
+        "S. R. He",
+        "P. H. Ouyang",
+        "Y. L. Zhang",
+        "X. N. Feng",
+        "L. F. Wei"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02806-1"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02806-1",
+          "url": "https://doi.org/10.1038/s42005-026-02806-1"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02793-3",
+      "title": "A unified framework for non-Hermitian localization with boundary-insensitive modes and electric-magnetic analogy",
+      "title_original": "A unified framework for non-Hermitian localization with boundary-insensitive modes and electric-magnetic analogy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02793-3",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Zheng Wei",
+        "Ji-Yao Fan",
+        "Kui Cao",
+        "Xin-Ran Ma",
+        "Cui-Xian Guo",
+        "Xue-Ping Ren",
+        "Su-Peng Kou"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02793-3"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02793-3",
+          "url": "https://doi.org/10.1038/s42005-026-02793-3"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02791-5",
+      "title": "Narrowband and wavelength-tuneable bright EUV–soft-X-ray harmonics for resonant imaging and spectroscopy",
+      "title_original": "Narrowband and wavelength-tuneable bright EUV–soft-X-ray harmonics for resonant imaging and spectroscopy",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02791-5",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Dimitar Popmintchev",
+        "Aref Imani",
+        "Joris Roman",
+        "Siyang Wang",
+        "Jieyu Yan",
+        "Sirius Song",
+        "Ryan Clairmont",
+        "Zhihan Wu",
+        "Elizaveta Gangrskaia",
+        "Edgar Kaksis",
+        "Alessandra Bellissimo",
+        "Tobias Flöry",
+        "Bruno E. Schmidt",
+        "Audrius Pugžlys",
+        "Andrius Baltuška",
+        "Paolo A. Carpeggiani",
+        "Tenio Popmintchev"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02791-5"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02791-5",
+          "url": "https://doi.org/10.1038/s42005-026-02791-5"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02785-3",
+      "title": "Field-induced condensation of π to 2π soliton lattices in chiral magnets",
+      "title_original": "Field-induced condensation of π to 2π soliton lattices in chiral magnets",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02785-3",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "M. Winter",
+        "A. Pignedoli",
+        "M. C. Rahn",
+        "A. S. Sukhanov",
+        "B. Achinuq",
+        "J. R. Bollard",
+        "M. Azhar",
+        "K. Everschor-Sitte",
+        "D. Pohl",
+        "S. Schneider",
+        "A. Tahn",
+        "V. Ukleev",
+        "M. Valvidares",
+        "A. Thomas",
+        "D. Wolf",
+        "P. Vir",
+        "T. Helm",
+        "G. van der Laan",
+        "T. Hesjedal",
+        "J. Geck",
+        "C. Felser",
+        "B. Rellinghaus"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02785-3"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02785-3",
+          "url": "https://doi.org/10.1038/s42005-026-02785-3"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02800-7",
+      "title": "Optical signatures and quantum geometry in proximity-induced topological superconductors",
+      "title_original": "Optical signatures and quantum geometry in proximity-induced topological superconductors",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02800-7",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Myungjun Kang",
+        "Yogeshwar Prasad",
+        "Nikhil Danny Babu",
+        "Rasoul Ghadimi",
+        "Jae Hoon Kim",
+        "Sangmo Cheon"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02800-7"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02800-7",
+          "url": "https://doi.org/10.1038/s42005-026-02800-7"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02804-3",
+      "title": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating",
+      "title_original": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02804-3",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "M. D. Moldavskaya",
+        "L. E. Golub",
+        "Chang Niu",
+        "Peide D. Ye",
+        "S. D. Ganichev"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02804-3"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02804-3",
+          "url": "https://doi.org/10.1038/s42005-026-02804-3"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02782-6",
+      "title": "Advancing PET through direct imaging of three-photon decay using pure positron emitters",
+      "title_original": "Advancing PET through direct imaging of three-photon decay using pure positron emitters",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02782-6",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Macoto Fujimoto",
+        "Riku Sato",
+        "Moh Hamdan",
+        "Mizuki Uenomachi",
+        "Peter Caradonna",
+        "Laura Stephenson",
+        "Archie Montgomery",
+        "Julien Bordes",
+        "James R. Brown",
+        "Daniel P. Watts",
+        "Kenji Shimazoe"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02782-6"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02782-6",
+          "url": "https://doi.org/10.1038/s42005-026-02782-6"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02757-7",
+      "title": "Structural and Electronic Evolution of Bilayer Nickelates Under Biaxial Strain",
+      "title_original": "Structural and Electronic Evolution of Bilayer Nickelates Under Biaxial Strain",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02757-7",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "H. C. Regan B. Bhatta",
+        "Xiaoliang Zhang",
+        "Shuyi Li",
+        "Yong Zhong",
+        "Chunjing Jia"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02757-7"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02757-7",
+          "url": "https://doi.org/10.1038/s42005-026-02757-7"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02803-4",
+      "title": "Pressure-robust cluster Mott states in the layered compound Nb3Cl8",
+      "title_original": "Pressure-robust cluster Mott states in the layered compound Nb3Cl8",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02803-4",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Hongbin Qu",
+        "Xiaoqun Wang",
+        "Hai-Qing Lin",
+        "Gang Li"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02803-4"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02803-4",
+          "url": "https://doi.org/10.1038/s42005-026-02803-4"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02781-7",
+      "title": "Discretized spin interactions enhance higher-order analog Ising machines",
+      "title_original": "Discretized spin interactions enhance higher-order analog Ising machines",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02781-7",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Robbe De Prins",
+        "Guy Van der Sande",
+        "Peter Bienstman",
+        "Thomas Van Vaerenbergh"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02781-7"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02781-7",
+          "url": "https://doi.org/10.1038/s42005-026-02781-7"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02794-2",
+      "title": "Uncovering entanglement entropy near Gross-Neveu criticality by a high-efficiency fermionic quantum Monte Carlo scanning",
+      "title_original": "Uncovering entanglement entropy near Gross-Neveu criticality by a high-efficiency fermionic quantum Monte Carlo scanning",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02794-2",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Weilun Jiang",
+        "Gaopei Pan",
+        "Zhe Wang",
+        "Bin-Bin Mao",
+        "Heng Shen",
+        "Zheng Yan"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02794-2"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02794-2",
+          "url": "https://doi.org/10.1038/s42005-026-02794-2"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02775-5",
+      "title": "Majorization theory for quasiprobabilities",
+      "title_original": "Majorization theory for quasiprobabilities",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02775-5",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Twesh Upadhyaya",
+        "Zacharie Van Herstraeten",
+        "Jack Davis",
+        "Oliver Hahn",
+        "Nikolaos Koukoulekidis",
+        "Ulysse Chabaud"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02775-5"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02775-5",
+          "url": "https://doi.org/10.1038/s42005-026-02775-5"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02780-8",
+      "title": "A 1-bit quantum filter for particle trajectory reconstruction",
+      "title_original": "A 1-bit quantum filter for particle trajectory reconstruction",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02780-8",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Xenofon Chiotopoulos",
+        "Davide Nicotra",
+        "George Scriven",
+        "Kurt Driessens",
+        "Marcel Merk",
+        "Jochen Schütz",
+        "Jacco de Vries",
+        "Mark H. M. Winands"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02780-8"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02780-8",
+          "url": "https://doi.org/10.1038/s42005-026-02780-8"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02799-x",
+      "title": "Sign-engineered interactions enable dynamic frustration and topology in a passive elastic lattice",
+      "title_original": "Sign-engineered interactions enable dynamic frustration and topology in a passive elastic lattice",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02799-x",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Taehwa Lee",
+        "Ziqi Yu",
+        "Xiaoshi Su",
+        "Hyung-Suk Kwon",
+        "Chiara Daraio"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02799-x"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02799-x",
+          "url": "https://doi.org/10.1038/s42005-026-02799-x"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02762-w",
+      "title": "Dynamic vaccine prioritization via non-Markovian final-state optimization",
+      "title_original": "Dynamic vaccine prioritization via non-Markovian final-state optimization",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02762-w",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "Mi Feng",
+        "Liang Tian",
+        "Changsong Zhou"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02762-w"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02762-w",
+          "url": "https://doi.org/10.1038/s42005-026-02762-w"
+        }
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42005-026-02749-7",
+      "title": "Bow-wake acceleration of ions toward a relativistic regime",
+      "title_original": "Bow-wake acceleration of ions toward a relativistic regime",
+      "title_zh_tw": null,
+      "summary_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "journal": "Communications Physics",
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "doi": "10.1038/s42005-026-02749-7",
+      "pmid": null,
+      "pmcid": null,
+      "issns": [
+        "2399-3650"
+      ],
+      "authors": [
+        "S. Isayama",
+        "K. Nakahara",
+        "T. Morita",
+        "M. Hoshino",
+        "Y. Abe",
+        "T. Taguchi",
+        "F. Nikaido",
+        "K. Kuramoto",
+        "T. Yasui",
+        "N. Tamaki",
+        "Y. Esaki",
+        "Y. Naito",
+        "K. Ida",
+        "H. Kusano",
+        "R. Kitamura",
+        "K. Iwasa",
+        "S. Kurochi",
+        "Y. Arakawa",
+        "T. Takami",
+        "M. Nagao",
+        "N. Hayashi",
+        "R. Yamamoto",
+        "Y. Nakamura",
+        "K. Yamanaka",
+        "T. Pikuz",
+        "T. Minami",
+        "K. Sakai",
+        "M. Ota",
+        "S.-H. Chen",
+        "C. M. Chu",
+        "Y. L. Liu",
+        "S. Gohara",
+        "Y. Ichigotani",
+        "K. Kawakami",
+        "R. Tanaka",
+        "M. Kanasaki",
+        "S. J. Tanaka",
+        "S. Kodaira",
+        "A. Tokiyasu",
+        "H. Kohri",
+        "Y. Kaneyasu",
+        "K. Yamanoi",
+        "A. Kon",
+        "Y. Miyasaka",
+        "K. Kondo",
+        "H. Kiriyama",
+        "Y. Fukuda",
+        "Y. Kuramitsu"
+      ],
+      "article_type": "journal-article",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02749-7"
+      ],
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02749-7",
+          "url": "https://doi.org/10.1038/s42005-026-02749-7"
+        }
+      ]
+    }
+  ]
+}
