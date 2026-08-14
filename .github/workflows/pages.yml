@@ -23,7 +23,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 35
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -50,6 +50,72 @@ jobs:
             --repository "$GITHUB_REPOSITORY" \
             --base-url "${{ steps.pages.outputs.base_url }}" \
             --output-dir _site
+      - name: Execute bounded abstract acquisition
+        run: |
+          rm -rf "$RUNNER_TEMP/abstract-acquisition" "$RUNNER_TEMP/abstract-payloads"
+          python -m evidenceradar_editions.abstract_acquisition_delivery \
+            --site-dir _site \
+            --work-dir "$RUNNER_TEMP/abstract-acquisition" \
+            --payload-dir "$RUNNER_TEMP/abstract-payloads" \
+            --maximum-items 300
+      - name: Validate safe acquisition delivery
+        run: |
+          test ! -e "$RUNNER_TEMP/abstract-payloads"
+          test -s "$RUNNER_TEMP/abstract-acquisition/abstract-fetch-plan.json"
+          test -s "$RUNNER_TEMP/abstract-acquisition/abstract-acquisition-receipts.json"
+          test -s "$RUNNER_TEMP/abstract-acquisition/abstract-acquisition-manifest.json"
+          test -s "$RUNNER_TEMP/abstract-acquisition/abstract-payload-disposition.json"
+          test -s "_site/abstract-acquisition.json"
+          test -s "_site/abstract-acquisition.html"
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          site = Path("_site")
+          receipts = json.loads((site / "abstract-acquisition.json").read_text())
+          plan = json.loads((site / "abstract-fetch-plan.json").read_text())
+          assert receipts["artifact_type"] == "EvidenceRadar_Editions_AbstractAcquisitionReceipts"
+          assert receipts["plan_binding_sha256"] == plan["plan_binding_sha256"]
+          assert receipts["receipt_count"] == receipts["plan_item_count"] == plan["item_count"]
+          assert receipts["receipt_count"] <= 300
+          assert sum(receipts["counts"]["by_status"].values()) == receipts["receipt_count"]
+          assert all(item["abstract_reviewed"] is False for item in receipts["items"])
+          assert all(item["full_text_fetched"] is False for item in receipts["items"])
+          assert all(item["evidence_evaluated"] is False for item in receipts["items"])
+          forbidden = ("abstract_text", '"abstractText"', "payload_text", "raw_response")
+          serialized = json.dumps(receipts, ensure_ascii=False)
+          assert not any(token in serialized for token in forbidden)
+          disposition = json.loads((Path(os.environ["RUNNER_TEMP"]) / "abstract-acquisition" / "abstract-payload-disposition.json").read_text())
+          assert disposition["disposition"] == "DELETED_BEFORE_ARTIFACT_UPLOAD"
+          assert disposition["abstract_text_published"] is False
+          print(json.dumps({"planned": receipts["plan_item_count"], "acquired": receipts["counts"]["abstract_acquired"], "no_abstract": receipts["counts"]["abstract_not_present"], "not_found": receipts["counts"]["record_not_found"], "inconclusive": receipts["counts"]["acquisition_inconclusive"], "receipt_binding_sha256": receipts["receipt_binding_sha256"]}, sort_keys=True))
+          PY
+      - name: Write acquisition summary
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+          r = json.loads(Path("_site/abstract-acquisition.json").read_text())
+          c = r["counts"]
+          print("## Abstract acquisition")
+          print()
+          print(f"- planned: `{r['plan_item_count']}`")
+          print(f"- abstract acquired: `{c['abstract_acquired']}`")
+          print(f"- exact record, no abstract: `{c['abstract_not_present']}`")
+          print(f"- record not found: `{c['record_not_found']}`")
+          print(f"- acquisition inconclusive: `{c['acquisition_inconclusive']}`")
+          print("- abstract reviewed: `0`")
+          print("- full text fetched: `0`")
+          print("- evidence evaluated: `0`")
+          print("- payload disposition: `deleted before artifact upload`")
+          PY
+      - name: Upload safe acquisition receipts
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: EvidenceRadar-Editions__abstract-acquisition
+          path: ${{ runner.temp }}/abstract-acquisition/
+          if-no-files-found: error
+          retention-days: 30
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:

@@ -76,15 +76,18 @@
       "EUROPE_PMC_PMCID",
       "PUBMED_PMID",
       "EUROPE_PMC_PMID",
-      "EUROPE_PMC_DOI"
+      "EUROPE_PMC_DOI",
+      "CROSSREF_DOI"
     ],
     "pmid": [
       "PUBMED_PMID",
       "EUROPE_PMC_PMID",
-      "EUROPE_PMC_DOI"
+      "EUROPE_PMC_DOI",
+      "CROSSREF_DOI"
     ],
     "doi": [
-      "EUROPE_PMC_DOI"
+      "EUROPE_PMC_DOI",
+      "CROSSREF_DOI"
     ]
   },
   "category_order": [
