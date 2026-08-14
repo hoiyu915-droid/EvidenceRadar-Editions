@@ -1,0 +1,20 @@
+{
+  "artifact_type": "EvidenceRadar_Editions_CanonicalStoreEntry",
+  "journal_slug": "journal-of-nutritional-biochemistry",
+  "period_key": "2026-08",
+  "publication_id": "journal-of-nutritional-biochemistry__2026-08__r01",
+  "revision": 1,
+  "schema_version": "3.0",
+  "source_bundle": {
+    "edition_json": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r01.html"
+  },
+  "storage_policy": {
+    "canonical_json_in_git": true,
+    "html_in_git": false,
+    "html_rendered_by_pages": true,
+    "manifest_in_git": true
+  },
+  "stored_at": "2026-08-14T05:07:59Z"
+}

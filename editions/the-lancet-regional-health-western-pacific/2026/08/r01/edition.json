@@ -1,0 +1,902 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mei Ling Yap",
+        "Gabriel Gabriel",
+        "Joseph Descallar",
+        "Susan Anderson",
+        "Geoff P. Delaney",
+        "Viet Do",
+        "Rebecca Murray",
+        "Karen Wong",
+        "Henry H. Woo",
+        "Kalinda Griffiths",
+        "Keziah Bennett-Brook",
+        "Julieann Coombes"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101931",
+      "doi": "10.1016/j.lanwpc.2026.101931",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101931",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101931"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「澳洲被診斷攝護腺癌的原住民族與托雷斯海峽島民之治療利用：人口型研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Treatment utilisation for Aboriginal and Torres Strait Islander people diagnosed with prostate cancer in Australia: a population-based study",
+      "title_original": "Treatment utilisation for Aboriginal and Torres Strait Islander people diagnosed with prostate cancer in Australia: a population-based study",
+      "title_zh_tw": "澳洲被診斷攝護腺癌的原住民族與托雷斯海峽島民之治療利用：人口型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101931"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Will Conabere",
+        "Pip Buckingham",
+        "Sarah Martin",
+        "Ken C. Pang",
+        "Michelle A. Tollit"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101933",
+      "doi": "10.1016/j.lanwpc.2026.101933",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101933",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101933"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「澳洲維多利亞州跨性別兒童與青少年社會轉換軌跡：縱向描述性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Trajectories of social transition among trans children and adolescents in Victoria, Australia: a longitudinal descriptive study",
+      "title_original": "Trajectories of social transition among trans children and adolescents in Victoria, Australia: a longitudinal descriptive study",
+      "title_zh_tw": "澳洲維多利亞州跨性別兒童與青少年社會轉換軌跡：縱向描述性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101933"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jayanta Roy",
+        "Ritwick Mondal",
+        "Shramana Deb",
+        "Julián Benito-León"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101954",
+      "doi": "10.1016/j.lanwpc.2026.101954",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101954",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101954"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「RNF213 相關血管病變：超越線性「煙霧病前期」模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "RNF213-related vasculopathy: beyond a linear “pre-moyamoya” model",
+      "title_original": "RNF213-related vasculopathy: beyond a linear “pre-moyamoya” model",
+      "title_zh_tw": "RNF213 相關血管病變：超越線性「煙霧病前期」模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101954"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Takeshi Yoshimoto",
+        "Yorito Hattori",
+        "Masafumi Ihara"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101953",
+      "doi": "10.1016/j.lanwpc.2026.101953",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101953",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101953"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「RNF213 相關血管病變超越線性煙霧病前期模型：作者回覆」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "RNF213-related vasculopathy beyond a linear pre-moyamoya model: authors’ reply",
+      "title_original": "RNF213-related vasculopathy beyond a linear pre-moyamoya model: authors’ reply",
+      "title_zh_tw": "RNF213 相關血管病變超越線性煙霧病前期模型：作者回覆",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101953"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jessica R Webb",
+        "Eby Sim",
+        "Kristy Horan",
+        "Caitlin Selway",
+        "Patiyan Andersson",
+        "Susan Moss",
+        "Stanley Pang",
+        "Arnold Bainomugisa",
+        "Alireza Zahedi",
+        "Justin T Denholm",
+        "Elena Martinez",
+        "Sushil Pandey",
+        "Maria Globan",
+        "Taryn Crighton",
+        "Ella M Meumann",
+        "Dimitrios Menouhos",
+        "Robert W Baird",
+        "Norelle L Sherry",
+        "Karina Kennedy",
+        "Louise Cooley",
+        "Lex Leong",
+        "Clare Slogget",
+        "Torsten Seemann",
+        "Christopher Coulter",
+        "Amy V Jennison",
+        "Vitali Sintchenko",
+        "Benjamin P Howden",
+        "Australian Pathogen Genomics program"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101928",
+      "doi": "10.1016/j.lanwpc.2026.101928",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": "PMC13427501",
+      "pmid": "42541282",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101928",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101928"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42541282",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42541282/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「2015–2023 年澳洲結核分枝桿菌抗藥性與跨司法轄區群聚的全國基因體調查」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "National genomic survey of drug-resistance and multi-jurisdictional clusters of Mycobacterium tuberculosis in Australia 2015–2023",
+      "title_original": "National genomic survey of drug-resistance and multi-jurisdictional clusters of Mycobacterium tuberculosis in Australia 2015–2023",
+      "title_zh_tw": "2015–2023 年澳洲結核分枝桿菌抗藥性與跨司法轄區群聚的全國基因體調查",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101928",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427501/",
+        "https://pubmed.ncbi.nlm.nih.gov/42541282/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yanlong Li",
+        "Xuequan Zhu",
+        "Lili Shang",
+        "Bin Zou",
+        "Ling Zhang",
+        "Peipei Xu",
+        "Lijun Wang",
+        "Maigeng Zhou",
+        "Damian Santomauro",
+        "Peng Yin",
+        "Gang Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101936",
+      "doi": "10.1016/j.lanwpc.2026.101936",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": "PMC13445524",
+      "pmid": "42564808",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101936",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101936"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564808",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564808/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「1990–2023 年中國精神疾病的國家與次國家負擔：2023 全球疾病負擔研究的系統性分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "National and subnational burden of mental disorders in China, 1990–2023: a systematic analysis of the Global Burden of Disease Study 2023",
+      "title_original": "National and subnational burden of mental disorders in China, 1990–2023: a systematic analysis of the Global Burden of Disease Study 2023",
+      "title_zh_tw": "1990–2023 年中國精神疾病的國家與次國家負擔：2023 全球疾病負擔研究的系統性分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101936",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13445524/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564808/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gautam J. Rao",
+        "Russell C. Dale",
+        "Rebecca Burrell",
+        "Luis Furuya-Kanamori",
+        "Katherine Phan",
+        "Christopher C. Blyth",
+        "Jim P. Buttery",
+        "Julia E. Clark",
+        "Nigel W. Crawford",
+        "Helen S. Marshall",
+        "Robert Booy",
+        "Cheryl A. Jones",
+        "Philip N. Britton",
+        "Emma Carey",
+        "Alissa McMinn",
+        "Kate Dohle",
+        "Anna Wylie",
+        "Karen Bellamy",
+        "Guillian Hunter",
+        "Madison Bellamy",
+        "Christine Heath",
+        "Natascha D’Angelo",
+        "Carolyn Finucane",
+        "Laura Francis",
+        "Sonia Dougherty",
+        "Natasha Doran",
+        "Sara Cook",
+        "Nicole Kerly",
+        "Elizabeth Foat",
+        "Sophie Kasz",
+        "Jocelynne McRae",
+        "Nicole Dinsmore",
+        "Kathryn Meredith",
+        "Laura Rost",
+        "Shirley Wong",
+        "Joshua Francis",
+        "Jeremy Carr",
+        "Peter Richmond",
+        "Kristine Macartney",
+        "Nicholas Wood",
+        "Anne Kynaston"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101951",
+      "doi": "10.1016/j.lanwpc.2026.101951",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101951",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101951"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「澳洲兒童腦炎的長期結果：澳洲兒童腦炎（ACE）前瞻性多中心世代研究的負擔與預測因子」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Long-term outcomes of childhood encephalitis in Australia: burden and predictors from the Australian childhood encephalitis (ACE) prospective multicentre cohort",
+      "title_original": "Long-term outcomes of childhood encephalitis in Australia: burden and predictors from the Australian childhood encephalitis (ACE) prospective multicentre cohort",
+      "title_zh_tw": "澳洲兒童腦炎的長期結果：澳洲兒童腦炎（ACE）前瞻性多中心世代研究的負擔與預測因子",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101951"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ushma Wadia",
+        "Peter C. Richmond",
+        "Philip N. Britton",
+        "Jeremy Carr",
+        "Julia E. Clark",
+        "Nigel W. Crawford",
+        "Te-Yu Hung",
+        "Helen S. Marshall",
+        "Kristine K. Macartney",
+        "Nicholas J. Wood",
+        "Brendan J. McMullan",
+        "Hannah C. Moore",
+        "Paul V. Effler",
+        "Allen C. Cheng",
+        "Christopher C. Blyth",
+        "Tom Kotsimbos",
+        "Paul M. Kelly",
+        "Mark Holmes",
+        "Louis Irving",
+        "Stephen Vincent",
+        "Sanjaya Senenayake",
+        "Tony Korman",
+        "Caroline Bartolo",
+        "Louise Cooley",
+        "Peter Wark",
+        "Simon Bowler",
+        "Jen Kok",
+        "Naomi Runnegar",
+        "Daniel M. Fatovich",
+        "Grant Waterer",
+        "Adam W. Bartlett",
+        "Anne Kynaston",
+        "Joshua R. Francis"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101938",
+      "doi": "10.1016/j.lanwpc.2026.101938",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": "PMC13450454",
+      "pmid": "42569662",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101938",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101938"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42569662",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42569662/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「澳洲 2025 年混合式 RSV 免疫接種計畫的影響與成效：PAEDS-FluCAN Network 結果」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Impact and effectiveness of Australia's 2025 hybrid RSV immunisation program: results from the PAEDS-FluCAN Network",
+      "title_original": "Impact and effectiveness of Australia's 2025 hybrid RSV immunisation program: results from the PAEDS-FluCAN Network",
+      "title_zh_tw": "澳洲 2025 年混合式 RSV 免疫接種計畫的影響與成效：PAEDS-FluCAN Network 結果",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101938",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13450454/",
+        "https://pubmed.ncbi.nlm.nih.gov/42569662/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tiange Chen",
+        "Peng Zhan",
+        "Hongqiao Fu"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101949",
+      "doi": "10.1016/j.lanwpc.2026.101949",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101949",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101949"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「中國衛生籌資公平性：2013–2023 年全國籌資與受益歸屬分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Equity in health financing in China: a national financing and benefit incidence analysis, 2013–2023",
+      "title_original": "Equity in health financing in China: a national financing and benefit incidence analysis, 2013–2023",
+      "title_zh_tw": "中國衛生籌資公平性：2013–2023 年全國籌資與受益歸屬分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101949"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jisong Yan",
+        "Yinqi Ding",
+        "Minghui Shi",
+        "Xingyao Tang",
+        "Wei Li",
+        "Xu Chu",
+        "Tingting Huang",
+        "Yanan Cui",
+        "Zhoude Zheng",
+        "Yaodie Peng",
+        "Rui Su",
+        "Zehua Yang",
+        "Yong Li",
+        "Chunyu Zhang",
+        "Cunbo Jia",
+        "Zhengming Chen",
+        "Canqing Yu",
+        "Ke Huang",
+        "Ting Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101950",
+      "doi": "10.1016/j.lanwpc.2026.101950",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101950",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101950"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「推導並驗證支氣管擴張劑使用前 FEV1/FVC 閾值，用於基層照護 COPD 即時診斷分流：多世代人口型研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Derivation and validation of a pre-bronchodilator FEV1/FVC threshold for point-of-care diagnosis triage of COPD in primary care: a multi-cohort population-based study",
+      "title_original": "Derivation and validation of a pre-bronchodilator FEV1/FVC threshold for point-of-care diagnosis triage of COPD in primary care: a multi-cohort population-based study",
+      "title_zh_tw": "推導並驗證支氣管擴張劑使用前 FEV1/FVC 閾值，用於基層照護 COPD 即時診斷分流：多世代人口型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101950"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yohei Mikami",
+        "Hajime Yamazaki",
+        "Tadakazu Hisamatsu",
+        "Masakazu Nagahori",
+        "Taku Kobayashi",
+        "Maria Yonezawa",
+        "Shinichiro Shinzaki",
+        "Toshimitsu Fujii",
+        "Masayuki Saruta",
+        "Satoshi Motoya",
+        "Takayuki Yamamoto",
+        "Minoru Matsuura",
+        "Teppei Omori",
+        "Shunichi Fukuhara",
+        "Katsuyoshi Matsuoka"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101932",
+      "doi": "10.1016/j.lanwpc.2026.101932",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": "PMC13427516",
+      "pmid": "42541170",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101932",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101932"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42541170",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42541170/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「資料驅動亞表型分析揭示日本復發高風險潰瘍性結腸炎亞型：前瞻性多中心世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Data-driven subphenotyping uncovers ulcerative colitis subtype with high risk for relapse in Japan: a prospective multicenter cohort study",
+      "title_original": "Data-driven subphenotyping uncovers ulcerative colitis subtype with high risk for relapse in Japan: a prospective multicenter cohort study",
+      "title_zh_tw": "資料驅動亞表型分析揭示日本復發高風險潰瘍性結腸炎亞型：前瞻性多中心世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101932",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427516/",
+        "https://pubmed.ncbi.nlm.nih.gov/42541170/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Meina Quan",
+        "Xuechu Wang",
+        "Min Gong",
+        "Qi Wang",
+        "Yan Li",
+        "Jianping Jia"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101961",
+      "doi": "10.1016/j.lanwpc.2026.101961",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101961",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101961"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「更正：〈COVID 後認知功能障礙：高風險族群的現況與研究建議〉[The Lancet Regional Health – Western Pacific，第 38 卷，2023 年 9 月，100836]」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Corrigendum to “Post-COVID cognitive dysfunction: current status and research recommendations for high risk population” [The Lancet Regional Health – Western Pacific, Volume 38, September 2023, 100836]",
+      "title_original": "Corrigendum to “Post-COVID cognitive dysfunction: current status and research recommendations for high risk population” [The Lancet Regional Health – Western Pacific, Volume 38, September 2023, 100836]",
+      "title_zh_tw": "更正：〈COVID 後認知功能障礙：高風險族群的現況與研究建議〉[The Lancet Regional Health – Western Pacific，第 38 卷，2023 年 9 月，100836]",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101961"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lélia Abad",
+        "Feng Chen",
+        "Lulu Gong",
+        "Yali Li"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101939",
+      "doi": "10.1016/j.lanwpc.2026.101939",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": "PMC13453596",
+      "pmid": "42577083",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101939",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101939"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42577083",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42577083/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「對 Hu 等人 2026 年〈替代血液培養系統偵測致病菌之評估：多中心觀察性前瞻研究〉的疑慮」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Concerns about “Evaluation of alternative blood culture systems in detecting pathogenic bacteria: a multi-site, observational prospective study” by Hu et al., 2026",
+      "title_original": "Concerns about “Evaluation of alternative blood culture systems in detecting pathogenic bacteria: a multi-site, observational prospective study” by Hu et al., 2026",
+      "title_zh_tw": "對 Hu 等人 2026 年〈替代血液培養系統偵測致病菌之評估：多中心觀察性前瞻研究〉的疑慮",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101939",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453596/",
+        "https://pubmed.ncbi.nlm.nih.gov/42577083/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Leqi Wang",
+        "Chunping Wang",
+        "Yingying Zheng",
+        "Peijin Li",
+        "Kai Huang",
+        "Xuejun Jiang",
+        "Haonan Li",
+        "Zeqi Zheng",
+        "Wei Li",
+        "Fang Qin",
+        "Lian Wang",
+        "Chongyou Lee",
+        "Yanli Long",
+        "Junnan Tang",
+        "Lianjun Xu",
+        "Carolyn S.P. Lam",
+        "Sheng Han",
+        "Lei Song"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101943",
+      "doi": "10.1016/j.lanwpc.2026.101943",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101943",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101943"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「中國住院心肌病患者的臨床特徵、治療模式與成本：跨多家三級醫院的多中心回溯性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Clinical characteristics, treatment patterns, and costs among hospitalised patients with cardiomyopathy: a multicentre retrospective tertiary-hospital study across China",
+      "title_original": "Clinical characteristics, treatment patterns, and costs among hospitalised patients with cardiomyopathy: a multicentre retrospective tertiary-hospital study across China",
+      "title_zh_tw": "中國住院心肌病患者的臨床特徵、治療模式與成本：跨多家三級醫院的多中心回溯性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101943"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hanxu Shi",
+        "Teng Wang",
+        "Chaobo Bai",
+        "Peng Wang",
+        "Fiona Kwok",
+        "Weiwen Li",
+        "Lu Jing",
+        "Qijiong Zhu",
+        "Rizhen Wang",
+        "Jing Chen",
+        "Huining Yang",
+        "Jingtao Ding",
+        "Murray Ramanason",
+        "Shyam Biswal",
+        "Haojun Fan",
+        "Yujun Shen",
+        "Minghui Ren",
+        "Bin Wang",
+        "Junliang Yuan",
+        "Zhenyu Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101930",
+      "doi": "10.1016/j.lanwpc.2026.101930",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": "PMC13396753",
+      "pmid": "42499336",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101930",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101930"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42499336",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42499336/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「中國氣候災害與心理健康住院：社經差異、人口驅動因素與適應——全國人口型研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Climate hazards and mental health hospitalizations in China: socioeconomic disparities, demographic drivers, and adaptation – a nationwide population-based study",
+      "title_original": "Climate hazards and mental health hospitalizations in China: socioeconomic disparities, demographic drivers, and adaptation – a nationwide population-based study",
+      "title_zh_tw": "中國氣候災害與心理健康住院：社經差異、人口驅動因素與適應——全國人口型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101930",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13396753/",
+        "https://pubmed.ncbi.nlm.nih.gov/42499336/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jonathan W.S. Ong",
+        "Melissa E. Middeldorp",
+        "Hanis Hanum Zulkifly",
+        "Norlizawati Moktar",
+        "Gregory Y.H. Lip",
+        "Chi Keong Ching"
+      ],
+      "canonical_id": "doi:10.1016/j.lanwpc.2026.101941",
+      "doi": "10.1016/j.lanwpc.2026.101941",
+      "issns": [
+        "2666-6065"
+      ],
+      "journal": "The Lancet Regional Health - Western Pacific",
+      "pmcid": "PMC13450617",
+      "pmid": "42569575",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.lanwpc.2026.101941",
+          "url": "https://doi.org/10.1016/j.lanwpc.2026.101941"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42569575",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42569575/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「澳洲、紐西蘭、馬來西亞與新加坡的心房顫動：未滿足需求與未來優先事項」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Atrial fibrillation in Australia, New Zealand, Malaysia, and Singapore: unmet needs and future priorities",
+      "title_original": "Atrial fibrillation in Australia, New Zealand, Malaysia, and Singapore: unmet needs and future priorities",
+      "title_zh_tw": "澳洲、紐西蘭、馬來西亞與新加坡的心房顫動：未滿足需求與未來優先事項",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.lanwpc.2026.101941",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13450617/",
+        "https://pubmed.ncbi.nlm.nih.gov/42569575/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__the-lancet-regional-health-western-pacific__2026-08__r01.json",
+    "manifest_json": "EvidenceRadar_Editions__the-lancet-regional-health-western-pacific__2026-08__r01.manifest.json",
+    "report_html": "EvidenceRadar_Editions__the-lancet-regional-health-western-pacific__2026-08__r01.html",
+    "stem": "EvidenceRadar_Editions__the-lancet-regional-health-western-pacific__2026-08__r01",
+    "translation_request_json": "EvidenceRadar_Editions__the-lancet-regional-health-western-pacific__2026-08__r01.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__the-lancet-regional-health-western-pacific__2026-08__r01.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 16,
+    "by_article_type": {
+      "journal-article": 16
+    },
+    "by_source": {
+      "crossref": 16,
+      "pubmed": 7
+    },
+    "translated_articles": 16
+  },
+  "data_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "edition_id": "the-lancet-regional-health-western-pacific__2026-08__r01",
+  "edition_key": "the-lancet-regional-health-western-pacific__2026-08",
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "publication_id": "the-lancet-regional-health-western-pacific__2026-08__r01",
+  "retrieved_at": "2026-08-14T05:03:12Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__the-lancet-regional-health-western-pacific__2026-08__r01",
+    "edition_key": "the-lancet-regional-health-western-pacific__2026-08",
+    "end_date": "2026-08-14",
+    "issn": "2666-6065",
+    "journal": "The Lancet Regional Health – Western Pacific",
+    "journal_slug": "the-lancet-regional-health-western-pacific",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 14 日）",
+    "period_status": "MTD",
+    "publication_id": "the-lancet-regional-health-western-pacific__2026-08__r01",
+    "revision": 1,
+    "slug": "the-lancet-regional-health-western-pacific",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 16,
+      "detail": null,
+      "query": "container=The Lancet Regional Health – Western Pacific; publication=2026-08-01..2026-08-14",
+      "returned_count": 16,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 16,
+      "truncated": false
+    },
+    {
+      "accepted_count": 7,
+      "detail": null,
+      "query": "(\"The Lancet Regional Health – Western Pacific\"[Journal] OR \"2666-6065\"[ISSN]) AND (\"2026/08/01\"[Date - Publication] : \"2026/08/14\"[Date - Publication])",
+      "returned_count": 7,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 7,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"The Lancet Regional Health – Western Pacific\" AND FIRST_PDATE:[2026-08-01 TO 2026-08-14]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "language": "zh-TW",
+    "request_binding_sha256": "8a617d8f02899519bc24bb7f1960194075caa02d3dc4fbcf67ea35b531279026",
+    "response_generated_at": "2026-08-14T05:07:59Z",
+    "response_sha256": "5ed310036f7d39d96d40be2e9e4fe14e70e8371a7d31486b8d0aa6729b0b9b56",
+    "source_edition_sha256": "a7fa01a4cbee295b222f892aa43936728cefccfa701b4c5fa12d47c72751af41",
+    "status": "COMPLETE",
+    "total_articles": 16,
+    "translated_articles": 16
+  },
+  "upstream_radar": {
+    "commit": null,
+    "config_sha256": null,
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
