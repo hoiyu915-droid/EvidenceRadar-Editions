@@ -1,0 +1,61 @@
+name: Extract August batch 02 title ledger
+
+on:
+  push:
+    branches:
+      - data/2026-08-batch-02-five-journals
+    paths:
+      - ".github/workflows/extract-august-batch-02-titles.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+      - name: Build compact title ledger
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json,re
+          from pathlib import Path
+          suspicious_re=re.compile(r'(?i)\b(editorial board|table of contents|contents|corrigendum|erratum|retraction|author index|issue information|front matter|masthead)\b')
+          rows=[]; suspicious=[]
+          for d in sorted(Path('probe').iterdir()):
+              if not d.is_dir(): continue
+              files=[p for p in d.glob('*.json') if not p.name.endswith('.manifest.json') and 'translation-' not in p.name]
+              if len(files)!=1: continue
+              run=json.loads(files[0].read_text(encoding='utf-8'))
+              for a in run.get('articles') or []:
+                  row={
+                    'slug':d.name,
+                    'canonical_id':a.get('canonical_id'),
+                    'title':a.get('title_original') or a.get('title'),
+                    'date':a.get('publication_date'),
+                    'date_precision':a.get('publication_date_precision'),
+                    'article_type':a.get('article_type'),
+                    'doi':a.get('doi'),
+                    'pmid':a.get('pmid'),
+                  }
+                  rows.append(row)
+                  if suspicious_re.search(str(row['title'] or '')):
+                      suspicious.append(row)
+          with open('probe/titles.ndjson','w',encoding='utf-8') as f:
+              for row in rows: f.write(json.dumps(row,ensure_ascii=False,separators=(',',':'))+'\n')
+          Path('probe/suspicious.json').write_text(json.dumps({'count':len(suspicious),'items':suspicious},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('titles',len(rows),'suspicious',len(suspicious))
+          PY
+      - name: Commit ledger
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- probe/titles.ndjson probe/suspicious.json
+          git diff --cached --check
+          git commit -m 'probe: add August batch 02 title ledger'
+          git push origin HEAD:data/2026-08-batch-02-five-journals
