@@ -14,7 +14,7 @@ concurrency:
   group: seal-august-2026-batch-02
   cancel-in-progress: false
 
-# Retry 2: person-name translations now satisfy the zh-TW CJK contract.
+# Retry 3: count canonical targets regardless of Git rename detection.
 jobs:
   seal:
     runs-on: ubuntu-latest
@@ -59,9 +59,9 @@ jobs:
           fi
 
           git diff --cached --check
-          added=$(git diff --cached --name-only --diff-filter=A | wc -l | tr -d ' ')
-          if [ "$added" != "15" ]; then
-            echo "::error::expected exactly 15 canonical added files, got $added"
+          canonical=$(git diff --cached --name-only --diff-filter=ACMR | grep -E '^editions/(clinical-nutrition|computers-in-human-behavior|journal-of-science-and-medicine-in-sport|neural-networks|the-lancet)/2026/08/r01/(edition|manifest|storage)\.json$' | wc -l | tr -d ' ')
+          if [ "$canonical" != "15" ]; then
+            echo "::error::expected exactly 15 canonical target files, got $canonical"
             git status --short
             exit 1
           fi
