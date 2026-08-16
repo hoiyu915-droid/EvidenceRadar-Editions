@@ -32,6 +32,14 @@ EvidenceRadar source/config hints       PubMed / Europe PMC / Crossref
                      GitHub Pages portal
 ```
 
+## 2026 年 8 月 production status
+
+Authoritative August registry coverage 已完成至 **2026-08-14 UTC**：58/58 本都有 terminal outcome，包含 52 本 `PUBLISHED`（4,389 筆 records）、4 本 `NO_MATCHING_ARTICLES`、2 本 `OUTSIDE_WINDOW`，以及 0 個 unresolved date-evidence gap。
+
+Exact production corpus 在 SHA `6b09654c4e171128f1e52f430cb26c725b7caf79` 上包含 61 個 journal slugs、63 periods、64 revisions 與 4,415 筆 canonical records；abstract/full-text/evidence funnel、六個 no-edition outcomes、Chemical Science repair、跨刊 synthesis 與 workflow/artifact digests 見 [`docs/AUGUST_2026_COMPLETION.md`](docs/AUGUST_2026_COMPLETION.md)。
+
+這是 **August MTD**，不是 `FINAL`。完整 8 月只能在 2026-08-31 結束後以新 revision 重建；不為追求日期更新而把已完成的 58 本無差別重跑成 r02。
+
 ## Storage v0.3
 
 Git tree 不再永久保存每一期 HTML 與重複 aliases。正式 publication store 是：
