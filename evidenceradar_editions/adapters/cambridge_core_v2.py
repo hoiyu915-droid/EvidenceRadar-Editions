@@ -20,6 +20,10 @@ from .cambridge_core import (
 _RESULTS_HEADING_RE = re.compile(r"\b(\d+)\s+results?\b", re.I)
 _UNPARSED_ARTICLE_RECORDS_RE = re.compile(r"\bunparsed article records=(\d+)\b")
 _SOURCE_RECORDS_SCANNED_RE = re.compile(r"\bsource records scanned=\d+\b")
+_ARTICLE_LISTING_FILTERS = {
+    "aggs[productTypes][filters]": "JOURNAL_ARTICLE",
+    "sort": "canonical.date:desc",
+}
 
 
 class _ScopedJournalListingParser(HTMLParser):
@@ -113,8 +117,40 @@ class _ScopedJournalListingParser(HTMLParser):
         return int(match.group(2)) if match else None
 
 
+class _JournalContentListingClient:
+    """Rewrite legacy per-journal OA requests to Cambridge's content listing.
+
+    ``/open-access`` is not a uniform chronological article feed across
+    Cambridge journals. The per-journal ``/listing`` surface is the first-party
+    content listing and exposes article titles plus published-online dates. The
+    selected journal is already verified as fully OA before acquisition, so a
+    JOURNAL_ARTICLE listing remains within the requested OA journal scope.
+    """
+
+    def __init__(self, delegate: Any) -> None:
+        self.delegate = delegate
+
+    def get_bytes(
+        self,
+        url: str,
+        *,
+        params: dict[str, Any] | None = None,
+        limit: int | None = None,
+    ) -> bytes:
+        target = url
+        effective_params = dict(params or {})
+        if url.endswith("/open-access"):
+            target = url[: -len("/open-access")] + "/listing"
+            effective_params = {**_ARTICLE_LISTING_FILTERS, **effective_params}
+        return self.delegate.get_bytes(
+            target,
+            params=effective_params or None,
+            limit=limit,
+        )
+
+
 class CambridgeCoreAdapter(_LegacyCambridgeCoreAdapter):
-    """Cambridge adapter with fail-closed publisher-catalog reconciliation."""
+    """Cambridge adapter with fail-closed catalog and article acquisition."""
 
     def list_journals(self) -> list[dict[str, Any]]:
         journals: dict[str, dict[str, Any]] = {}
@@ -173,16 +209,15 @@ class CambridgeCoreAdapter(_LegacyCambridgeCoreAdapter):
         return sorted(journals.values(), key=lambda item: str(item["name"]).casefold())
 
     def fetch(self, spec: EditionSpec) -> AdapterResult:
-        """Preserve observed-but-unparsed article cards as PARTIAL coverage.
+        """Acquire the selected journal through its first-party content listing.
 
-        The legacy parser reports article cards whose title/date context could
-        not be parsed in ``detail``. Those cards are still source records that
-        were observed, so they must count toward ``returned_count`` and must
-        prevent a false ``NO_RESULTS`` claim. The validator uses
-        ``truncated=true`` as the generic incomplete-source marker for PARTIAL.
+        Any article cards observed but not parseable remain explicit PARTIAL
+        coverage. They count as returned source records and can never collapse
+        into a false NO_RESULTS claim.
         """
 
-        result = super().fetch(spec)
+        legacy = _LegacyCambridgeCoreAdapter(_JournalContentListingClient(self.client))
+        result = legacy.fetch(spec)
         check = result.check
         detail = str(check.detail or "")
         match = _UNPARSED_ARTICLE_RECORDS_RE.search(detail)

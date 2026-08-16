@@ -66,7 +66,7 @@ class FakeClient:
             return AI_EDAM_HOME
         if url.endswith("/core/journals/nutrition-research-reviews"):
             return HYBRID_HOME
-        if url.endswith("/core/journals/ai-edam/open-access"):
+        if url.endswith("/core/journals/ai-edam/listing"):
             return ARTICLE_PAGE
         raise AssertionError(f"unexpected URL: {url}")
 
@@ -106,7 +106,7 @@ class CambridgeCoreTests(unittest.TestCase):
         with self.assertRaises(KeyError):
             adapter.resolve_journal("nutrition-research-reviews")
 
-    def test_fetch_traverses_only_selected_journal(self):
+    def test_fetch_traverses_only_selected_journal_content_listing(self):
         client = FakeClient()
         spec = EditionSpec(
             "AI EDAM",
@@ -124,17 +124,28 @@ class CambridgeCoreTests(unittest.TestCase):
         self.assertEqual(result.articles[0].publication_date, date(2026, 8, 15))
         self.assertEqual(result.articles[0].publication_date_precision, "DAY")
         self.assertEqual(result.articles[0].source_records[0].source, "cambridge_core")
-        article_calls = [url for url, _ in client.calls if url.endswith("/open-access")]
+        listing_calls = [
+            (url, params)
+            for url, params in client.calls
+            if url.endswith("/core/journals/ai-edam/listing")
+        ]
+        self.assertEqual(len(listing_calls), 1)
         self.assertEqual(
-            article_calls,
-            ["https://www.cambridge.org/core/journals/ai-edam/open-access"],
+            listing_calls[0][0],
+            "https://www.cambridge.org/core/journals/ai-edam/listing",
         )
-        self.assertFalse(any("acta-neuropsychiatrica/open-access" in url for url, _ in client.calls))
+        self.assertEqual(
+            listing_calls[0][1].get("aggs[productTypes][filters]"),
+            "JOURNAL_ARTICLE",
+        )
+        self.assertEqual(listing_calls[0][1].get("sort"), "canonical.date:desc")
+        self.assertFalse(any(url.endswith("/open-access") for url, _ in client.calls))
+        self.assertFalse(any("acta-neuropsychiatrica/listing" in url for url, _ in client.calls))
 
     def test_unparsed_article_card_is_counted_and_fails_closed_as_partial(self):
         class UnparsedClient(FakeClient):
             def get_bytes(self, url, *, params=None, limit=None):
-                if url.endswith("/core/journals/ai-edam/open-access"):
+                if url.endswith("/core/journals/ai-edam/listing"):
                     self.calls.append((url, params))
                     return UNPARSED_ARTICLE_PAGE
                 return super().get_bytes(url, params=params, limit=limit)
