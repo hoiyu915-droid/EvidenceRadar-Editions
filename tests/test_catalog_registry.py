@@ -103,8 +103,10 @@ class JournalRegistryTests(unittest.TestCase):
             self.assertIn('id="journal-publisher"', home)
             self.assertIn('id="journal-month"', home)
             self.assertIn('data-letter="N"', home)
-            self.assertIn("Journal Registry JSON", home)
+            self.assertIn("Core Registry JSON", home)
+            self.assertIn("期刊入口", home)
             self.assertTrue((site / "journals.json").is_file())
+            self.assertTrue((site / "portal-journals.json").is_file())
             self.assertTrue(
                 (site / "journals/nature-machine-intelligence/index.html").is_file()
             )
