@@ -1,6 +1,9 @@
+from __future__ import annotations
+
 import json
 import tempfile
 import unittest
+from collections import Counter
 from pathlib import Path
 
 from evidenceradar_editions.bundle import write_bundle
@@ -9,6 +12,10 @@ from evidenceradar_editions.store_v3 import store_bundle
 from evidenceradar_editions.translation import apply_translation_response
 from test_delivery import translation_response
 from test_store_v3 import month_run
+
+
+ROOT = Path(__file__).resolve().parents[1]
+COVERAGE_ROOT = ROOT / "catalog" / "coverage"
 
 
 class PeriodCoverageTests(unittest.TestCase):
@@ -75,6 +82,42 @@ class PeriodCoverageTests(unittest.TestCase):
             self.assertEqual(links["processed_journal_count"], 1)
             index = json.loads((site / "index.json").read_text())
             self.assertEqual(index["period_coverage_summary"]["processed_journal_count"], 1)
+
+    def test_committed_coverage_aggregates_match_journal_rows(self):
+        coverage_files = sorted(COVERAGE_ROOT.glob("*.json"))
+        self.assertTrue(coverage_files, "expected at least one period coverage file")
+
+        for path in coverage_files:
+            with self.subTest(path=path.name):
+                payload = json.loads(path.read_text(encoding="utf-8"))
+                journals = payload["journals"]
+                observed = Counter(row["coverage_status"] for row in journals)
+                declared = {
+                    str(status): int(count)
+                    for status, count in payload["status_counts"].items()
+                }
+
+                self.assertEqual(payload["registry_count"], len(journals))
+                self.assertEqual(payload["processed_journal_count"], len(journals))
+                self.assertEqual(sum(declared.values()), len(journals))
+
+                for status, count in observed.items():
+                    self.assertIn(status, declared)
+                    self.assertEqual(declared[status], count)
+                for status, count in declared.items():
+                    self.assertEqual(count, observed.get(status, 0))
+
+                published = observed.get("PUBLISHED", 0)
+                self.assertEqual(payload["published_journal_count"], published)
+                self.assertEqual(payload["no_edition_count"], len(journals) - published)
+
+                slugs = [row["slug"] for row in journals]
+                self.assertEqual(len(slugs), len(set(slugs)))
+                for row in journals:
+                    self.assertIsInstance(row["article_count"], int)
+                    self.assertGreaterEqual(row["article_count"], 0)
+                    if row["coverage_status"] != "PUBLISHED":
+                        self.assertEqual(row["article_count"], 0)
 
 
 if __name__ == "__main__":
