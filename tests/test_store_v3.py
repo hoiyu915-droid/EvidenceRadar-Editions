@@ -1,3 +1,4 @@
+import json
 import tempfile
 import unittest
 from datetime import date
@@ -94,15 +95,28 @@ class CanonicalStoreV3Tests(unittest.TestCase):
             write_bundle(enriched, bundle)
             store_bundle(bundle, editions)
 
-            build_pages_site(
+            links = build_pages_site(
                 editions_root=editions,
                 output_dir=site,
                 repository="hoiyu915-droid/EvidenceRadar-Editions",
             )
-            report = site / "journals/jama-network-open/2026-08/r01/index.html"
+            revision = site / "journals/jama-network-open/2026-08/r01"
+            report = revision / "index.html"
             self.assertTrue(report.is_file())
-            self.assertIn("範例研究", report.read_text(encoding="utf-8"))
-            self.assertTrue((site / "journals/jama-network-open/2026-08/r01/edition.json").is_file())
+            page = report.read_text(encoding="utf-8")
+            self.assertIn("範例研究", page)
+            self.assertIn("原文 ↗", page)
+            self.assertNotIn("無標準識別碼", page)
+
+            browse = json.loads((revision / "browse.json").read_text(encoding="utf-8"))
+            self.assertEqual(browse["schema_version"], "1.1")
+            self.assertEqual(
+                browse["articles"][0]["primary_url"],
+                "https://pubmed.ncbi.nlm.nih.gov/123/",
+            )
+            self.assertEqual(browse["articles"][0]["external_links"][0]["label"], "PubMed")
+            self.assertEqual(links["curated_revision_renderer"], "pages_curation_v2")
+            self.assertTrue((revision / "edition.json").is_file())
             self.assertTrue((site / "index.json").is_file())
 
     def test_store_is_idempotent_but_revision_bytes_are_immutable(self):
