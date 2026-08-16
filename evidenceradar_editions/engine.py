@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from .adapters import (
+    CambridgeCoreAdapter,
     CrossrefAdapter,
     EuropePmcAdapter,
     PubMedAdapter,
@@ -44,6 +45,7 @@ def build_run(
         "crossref": CrossrefAdapter(client),
         "radar_rss": RadarRssAdapter(client, hints),
         "rsc_chemical_science": RscChemicalScienceAdapter(client),
+        "cambridge_core": CambridgeCoreAdapter(client),
     }
     accepted = []
     checks = []

@@ -35,6 +35,34 @@ python -m evidenceradar_editions run \
 
 A journal in `SUSPENDED` mode fails before source acquisition. `--override-processing-policy` is an explicit, provenance-recorded escape hatch for exceptional operator work.
 
+## Publisher providers
+
+Publisher providers expose a selectable journal catalog without vendoring the publisher's whole journal universe into `catalog/journals.json`.
+
+Cambridge Core fully open-access journals are available through the `cambridge` provider:
+
+```bash
+python -m evidenceradar_editions journals --provider cambridge
+```
+
+The provider catalog is lightweight journal metadata. To build an edition, select one journal by its Cambridge Core slug:
+
+```bash
+python -m evidenceradar_editions run \
+  --provider cambridge \
+  --journal-slug ai-edam \
+  --start 2026-08-01 \
+  --end 2026-08-31 \
+  --period-kind month \
+  --output-dir work/ai-edam-2026-08
+```
+
+A slug-selected run resolves that journal directly and traverses only that journal's Cambridge Core open-access article listing. It does not scan article pages for sibling Cambridge journals. The provider fails closed when the selected journal page is hybrid (`Contains open access`) rather than a fully open-access journal.
+
+An exact `--journal` title may be used instead of `--journal-slug`; that convenience path first searches the lightweight provider catalog, so the slug form is preferred for direct selection.
+
+Provider journals use the normal Editions processing-policy defaults unless they also have a local registry/policy entry. Provider identity and acquisition remain separate from the generated `editions/` publication store.
+
 ## Pages information architecture
 
 The public portal treats classification as a view, not as URL identity.

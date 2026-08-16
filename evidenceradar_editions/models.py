@@ -7,6 +7,7 @@ from typing import Any
 
 from .naming import ALLOWED_PERIOD_KINDS
 
+# Legacy generic-source defaults are intentionally kept provider-neutral.
 ALLOWED_SOURCES = (
     "pubmed",
     "europe_pmc",
@@ -14,6 +15,8 @@ ALLOWED_SOURCES = (
     "radar_rss",
     "rsc_chemical_science",
 )
+PROVIDER_SOURCES = ("cambridge_core",)
+SUPPORTED_SOURCES = ALLOWED_SOURCES + PROVIDER_SOURCES
 ALLOWED_SOURCE_STATUSES = ("SUCCESS", "NO_RESULTS", "PARTIAL", "FAILED", "NOT_ATTEMPTED")
 
 
@@ -49,7 +52,7 @@ class EditionSpec:
             raise ValueError("revision must be between 1 and 9999")
         if self.language != "zh-TW":
             raise ValueError("v0.2 publication language must be zh-TW")
-        unknown = [source for source in self.sources if source not in ALLOWED_SOURCES]
+        unknown = [source for source in self.sources if source not in SUPPORTED_SOURCES]
         if unknown:
             raise ValueError(f"unsupported sources: {', '.join(unknown)}")
 
