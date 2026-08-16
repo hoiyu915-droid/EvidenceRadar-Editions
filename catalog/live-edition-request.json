@@ -1,9 +1,9 @@
 {
   "schema_version": "1.1",
   "artifact_type": "EvidenceRadar_Editions_LiveEditionRequest",
-  "request_id": "cambridge-ai-law-governance-2026-08-mtd-r01",
+  "request_id": "cambridge-data-policy-2026-08-mtd-r01",
   "provider": "cambridge",
-  "journal_slug": "cambridge-forum-on-ai-law-and-governance",
+  "journal_slug": "data-and-policy",
   "start": "2026-08-01",
   "end": "2026-08-16",
   "period_kind": "month",
