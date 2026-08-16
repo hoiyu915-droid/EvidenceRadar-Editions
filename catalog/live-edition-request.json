@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "artifact_type": "EvidenceRadar_Editions_LiveEditionRequest",
-  "request_id": "cambridge-data-policy-2026-08-mtd-r01",
+  "request_id": "cambridge-data-policy-2026-08-mtd-r01-retry1",
   "provider": "cambridge",
   "journal_slug": "data-and-policy",
   "start": "2026-08-01",
