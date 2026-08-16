@@ -5,6 +5,7 @@ from html.parser import HTMLParser
 from typing import Any
 from urllib.parse import urljoin, urlsplit
 
+from ..models import AdapterResult, EditionSpec
 from ..utils import clean_text
 from .cambridge_core import (
     BASE_URL,
@@ -17,6 +18,8 @@ from .cambridge_core import (
 )
 
 _RESULTS_HEADING_RE = re.compile(r"\b(\d+)\s+results?\b", re.I)
+_UNPARSED_ARTICLE_RECORDS_RE = re.compile(r"\bunparsed article records=(\d+)\b")
+_SOURCE_RECORDS_SCANNED_RE = re.compile(r"\bsource records scanned=\d+\b")
 
 
 class _ScopedJournalListingParser(HTMLParser):
@@ -168,6 +171,38 @@ class CambridgeCoreAdapter(_LegacyCambridgeCoreAdapter):
                 f"declared={declared_result_count}; primary_results={len(journals)}"
             )
         return sorted(journals.values(), key=lambda item: str(item["name"]).casefold())
+
+    def fetch(self, spec: EditionSpec) -> AdapterResult:
+        """Preserve observed-but-unparsed article cards as PARTIAL coverage.
+
+        The legacy parser reports article cards whose title/date context could
+        not be parsed in ``detail``. Those cards are still source records that
+        were observed, so they must count toward ``returned_count`` and must
+        prevent a false ``NO_RESULTS`` claim. The validator uses
+        ``truncated=true`` as the generic incomplete-source marker for PARTIAL.
+        """
+
+        result = super().fetch(spec)
+        check = result.check
+        detail = str(check.detail or "")
+        match = _UNPARSED_ARTICLE_RECORDS_RE.search(detail)
+        if match is None:
+            return result
+
+        unparsed = int(match.group(1))
+        if unparsed <= 0:
+            return result
+
+        check.returned_count += unparsed
+        check.status = "PARTIAL"
+        check.truncated = True
+        scanned = f"source records scanned={check.returned_count}"
+        if _SOURCE_RECORDS_SCANNED_RE.search(detail):
+            detail = _SOURCE_RECORDS_SCANNED_RE.sub(scanned, detail, count=1)
+        else:
+            detail = f"{detail}; {scanned}" if detail else scanned
+        check.detail = detail
+        return result
 
 
 __all__ = ["CambridgeCoreAdapter"]
