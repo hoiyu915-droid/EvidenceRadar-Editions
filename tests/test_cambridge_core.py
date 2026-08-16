@@ -9,17 +9,17 @@ CATALOG_PAGE_1 = b"""
 <html><body>
 <h2>3 results in Open Access</h2>
 <div>Page 1 of 2</div>
-<a href="/core/journals/acta-neuropsychiatrica">Acta Neuropsychiatrica</a>
-<a href="/core/journals/ai-edam">AI EDAM</a>
-<a href="/core/journals/shared-navigation-journal">Navigation journal link</a>
+<a class="part-link" href="/core/journals/acta-neuropsychiatrica">Acta Neuropsychiatrica</a>
+<a class="part-link" href="/core/journals/ai-edam">AI EDAM</a>
+<a href="https://www.cambridge.org/core/journals/related-supplement" target="_blank">Supplementary Volumes</a>
 </body></html>
 """
 CATALOG_PAGE_2 = b"""
 <html><body>
 <h2>3 results in Open Access</h2>
 <div>Page 2 of 2</div>
-<a href="/core/journals/animal-welfare">Animal Welfare</a>
-<a href="/core/journals/shared-navigation-journal">Navigation journal link</a>
+<a class="part-link" href="/core/journals/animal-welfare">Animal Welfare</a>
+<a href="https://www.cambridge.org/core/journals/related-journal" target="_blank">Related Journal</a>
 </body></html>
 """
 AI_EDAM_HOME = b"""
@@ -65,17 +65,16 @@ class FakeClient:
 
 
 class CambridgeCoreTests(unittest.TestCase):
-    def test_catalog_reconciles_declared_results_and_cross_page_navigation(self):
+    def test_catalog_accepts_only_primary_part_links_and_excludes_related_journals(self):
         client = FakeClient()
         journals = CambridgeCoreAdapter(client).list_journals()
         self.assertEqual(
             [item["slug"] for item in journals],
             ["acta-neuropsychiatrica", "ai-edam", "animal-welfare"],
         )
-        self.assertNotIn(
-            "shared-navigation-journal",
-            {item["slug"] for item in journals},
-        )
+        observed = {item["slug"] for item in journals}
+        self.assertNotIn("related-supplement", observed)
+        self.assertNotIn("related-journal", observed)
         self.assertEqual(len(client.calls), 2)
         self.assertTrue(
             all("/publications/open-access/listing" in call[0] for call in client.calls)
