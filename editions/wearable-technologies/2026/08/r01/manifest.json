@@ -1,0 +1,43 @@
+{
+  "article_count": 1,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-16T08:59:25Z",
+  "edition_id": "wearable-technologies__2026-08__r01",
+  "edition_key": "wearable-technologies__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 6291,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__wearable-technologies__2026-08__r01.json",
+      "sha256": "f00782b45d1b63c2fdb9a314aabd7f23934b705e18f7d4990706d2896ce7a245"
+    },
+    "report_html": {
+      "bytes": 17631,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__wearable-technologies__2026-08__r01.html",
+      "sha256": "e4da98ca10828c9e6f638204cb9260133c03762feea6c2286a8ce159386a0283"
+    }
+  },
+  "journal": "Wearable Technologies",
+  "journal_slug": "wearable-technologies",
+  "manifest_name": "EvidenceRadar_Editions__wearable-technologies__2026-08__r01.manifest.json",
+  "period_end": "2026-08-16",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "wearable-technologies__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
