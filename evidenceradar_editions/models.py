@@ -13,6 +13,7 @@ ALLOWED_SOURCES = (
     "crossref",
     "radar_rss",
     "rsc_chemical_science",
+    "cambridge_core",
 )
 ALLOWED_SOURCE_STATUSES = ("SUCCESS", "NO_RESULTS", "PARTIAL", "FAILED", "NOT_ATTEMPTED")
 
