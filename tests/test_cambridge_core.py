@@ -7,19 +7,19 @@ from evidenceradar_editions.models import EditionSpec
 
 CATALOG_PAGE_1 = b"""
 <html><body>
-<a href="/core/journals/not-a-result">Navigation journal link</a>
 <h2>3 results in Open Access</h2>
 <div>Page 1 of 2</div>
 <a href="/core/journals/acta-neuropsychiatrica">Acta Neuropsychiatrica</a>
 <a href="/core/journals/ai-edam">AI EDAM</a>
+<a href="/core/journals/shared-navigation-journal">Navigation journal link</a>
 </body></html>
 """
 CATALOG_PAGE_2 = b"""
 <html><body>
-<a href="/core/journals/also-not-a-result">Footer-like journal link</a>
 <h2>3 results in Open Access</h2>
 <div>Page 2 of 2</div>
 <a href="/core/journals/animal-welfare">Animal Welfare</a>
+<a href="/core/journals/shared-navigation-journal">Navigation journal link</a>
 </body></html>
 """
 AI_EDAM_HOME = b"""
@@ -65,19 +65,30 @@ class FakeClient:
 
 
 class CambridgeCoreTests(unittest.TestCase):
-    def test_catalog_is_result_scoped_lightweight_and_paginated(self):
+    def test_catalog_reconciles_declared_results_and_cross_page_navigation(self):
         client = FakeClient()
         journals = CambridgeCoreAdapter(client).list_journals()
         self.assertEqual(
             [item["slug"] for item in journals],
             ["acta-neuropsychiatrica", "ai-edam", "animal-welfare"],
         )
-        self.assertNotIn("not-a-result", {item["slug"] for item in journals})
-        self.assertNotIn("also-not-a-result", {item["slug"] for item in journals})
+        self.assertNotIn(
+            "shared-navigation-journal",
+            {item["slug"] for item in journals},
+        )
         self.assertEqual(len(client.calls), 2)
         self.assertTrue(
             all("/publications/open-access/listing" in call[0] for call in client.calls)
         )
+
+    def test_catalog_fails_closed_when_declared_count_does_not_reconcile(self):
+        class BadCountClient(FakeClient):
+            def get_bytes(self, url, *, params=None, limit=None):
+                payload = super().get_bytes(url, params=params, limit=limit)
+                return payload.replace(b"3 results in Open Access", b"4 results in Open Access")
+
+        with self.assertRaisesRegex(ValueError, "reconciliation mismatch"):
+            CambridgeCoreAdapter(BadCountClient()).list_journals()
 
     def test_resolve_selected_journal_is_direct_and_rejects_hybrid(self):
         client = FakeClient()
