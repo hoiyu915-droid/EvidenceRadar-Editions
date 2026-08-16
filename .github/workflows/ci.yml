@@ -26,13 +26,10 @@ jobs:
         if: matrix.python-version == '3.12'
         run: |
           python - <<'PY'
-          import base64
           import json
           import re
-          from datetime import datetime, timezone
           from html.parser import HTMLParser
           from urllib.parse import urlsplit
-          from evidenceradar_editions.adapters import CambridgeCoreAdapter
           from evidenceradar_editions.adapters.cambridge_core import OA_JOURNAL_LISTING, OA_JOURNAL_LISTING_PARAMS
           from evidenceradar_editions.http import HttpClient
 
@@ -61,36 +58,27 @@ jobs:
                       self.current = None
 
           client = HttpClient()
-          params = dict(OA_JOURNAL_LISTING_PARAMS)
-          params['pageNum'] = 1
-          first_page = client.get_bytes(OA_JOURNAL_LISTING, params=params)
-          inspector = AnchorInspector()
-          inspector.feed(first_page.decode('utf-8', errors='replace'))
-          inspector.close()
-          print('CAMBRIDGE_JOURNAL_ANCHORS_PAGE1_BEGIN')
-          print(json.dumps(inspector.items, ensure_ascii=False, indent=2))
-          print('CAMBRIDGE_JOURNAL_ANCHORS_PAGE1_END')
-
-          journals = CambridgeCoreAdapter(client).list_journals()
-          payload = {
-              "artifact_type": "EvidenceRadar_Editions_ProviderCatalog",
-              "schema_version": "1.0",
-              "provider": "cambridge",
-              "publisher": "Cambridge University Press",
-              "scope": "fully_open_access_journals",
-              "source_url": OA_JOURNAL_LISTING,
-              "observed_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z'),
-              "journal_count": len(journals),
-              "journals": journals,
-          }
-          if len(journals) != 200:
-              raise SystemExit(f"expected current Cambridge OA catalog count 200, got {len(journals)}")
-          raw = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
-          encoded = base64.b64encode(raw).decode("ascii")
-          print("CAMBRIDGE_PROVIDER_SNAPSHOT_B64_BEGIN")
-          for offset in range(0, len(encoded), 4000):
-              print(encoded[offset:offset + 4000])
-          print("CAMBRIDGE_PROVIDER_SNAPSHOT_B64_END")
+          all_items = []
+          print('CAMBRIDGE_PAGE_ANCHOR_COUNTS_BEGIN')
+          for page in range(1, 11):
+              params = dict(OA_JOURNAL_LISTING_PARAMS)
+              params['pageNum'] = page
+              raw = client.get_bytes(OA_JOURNAL_LISTING, params=params)
+              parser = AnchorInspector()
+              parser.feed(raw.decode('utf-8', errors='replace'))
+              parser.close()
+              print(f'PAGE {page}: {len(parser.items)}')
+              all_items.extend((page, item) for item in parser.items)
+              if len(parser.items) != 20:
+                  print(f'CAMBRIDGE_ANOMALOUS_PAGE_{page}_BEGIN')
+                  print(json.dumps(parser.items, ensure_ascii=False, indent=2))
+                  print(f'CAMBRIDGE_ANOMALOUS_PAGE_{page}_END')
+          print('CAMBRIDGE_PAGE_ANCHOR_COUNTS_END')
+          print('CAMBRIDGE_DISTINCT_CLASSES_BEGIN')
+          classes = sorted({str(item['attrs'].get('class') or '') for _, item in all_items})
+          print(json.dumps(classes, ensure_ascii=False))
+          print('CAMBRIDGE_DISTINCT_CLASSES_END')
+          raise SystemExit('diagnostic complete')
           PY
       - name: Compile
         run: python -m compileall -q evidenceradar_editions tests
