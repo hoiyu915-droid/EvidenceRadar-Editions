@@ -3,8 +3,12 @@ name: Build and publish a live scoped edition
 on:
   workflow_dispatch:
     inputs:
+      provider:
+        description: Optional publisher provider; blank uses catalog/journals.json
+        required: false
+        default: ""
       journal_slug:
-        description: Registered journal slug from catalog/journals.json
+        description: Registered or provider journal slug
         required: true
         default: jama-network-open
       start:
@@ -26,7 +30,7 @@ on:
         required: false
         default: ""
       sources:
-        description: Optional comma-separated source lanes; blank uses registry defaults
+        description: Optional comma-separated source lanes; blank uses selected journal defaults
         required: false
         default: ""
       allow_planned:
@@ -67,6 +71,7 @@ jobs:
         id: request
         env:
           EVENT_NAME: ${{ github.event_name }}
+          INPUT_PROVIDER: ${{ inputs.provider }}
           INPUT_JOURNAL_SLUG: ${{ inputs.journal_slug }}
           INPUT_START: ${{ inputs.start }}
           INPUT_END: ${{ inputs.end }}
@@ -92,6 +97,7 @@ jobs:
           if os.environ["EVENT_NAME"] == "workflow_dispatch":
               req = {
                   "request_id": f"workflow-dispatch-{os.environ.get('GITHUB_RUN_ID', '')}",
+                  "provider": text(os.environ.get("INPUT_PROVIDER")),
                   "journal_slug": text(os.environ.get("INPUT_JOURNAL_SLUG")),
                   "start": text(os.environ.get("INPUT_START")),
                   "end": text(os.environ.get("INPUT_END")),
@@ -111,6 +117,9 @@ jobs:
           for key in ("journal_slug", "start", "end"):
               if not text(req.get(key)):
                   raise SystemExit(f"missing live-edition request field: {key}")
+          provider = text(req.get("provider")).casefold()
+          if provider not in {"", "cambridge"}:
+              raise SystemExit(f"unsupported live-edition provider: {provider}")
           start = date.fromisoformat(text(req["start"]))
           end = date.fromisoformat(text(req["end"]))
           if start > end:
@@ -126,6 +135,7 @@ jobs:
               raise SystemExit("max_records must be positive when set")
           values = {
               "request_id": text(req.get("request_id")) or f"request-{os.environ.get('GITHUB_RUN_ID', '')}",
+              "provider": provider,
               "journal_slug": text(req["journal_slug"]),
               "start": start.isoformat(),
               "end": end.isoformat(),
@@ -166,6 +176,7 @@ jobs:
       - name: Build policy-aware edition and optional translation handoff
         id: build
         env:
+          EDITION_PROVIDER: ${{ steps.request.outputs.provider }}
           EDITION_JOURNAL_SLUG: ${{ steps.request.outputs.journal_slug }}
           EDITION_START: ${{ steps.request.outputs.start }}
           EDITION_END: ${{ steps.request.outputs.end }}
@@ -234,7 +245,7 @@ jobs:
           branch="automation/live-edition-${safe_slug}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           git switch -c "$branch"
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add -- "$TARGET"
           staged="$(git diff --cached --name-only)"
           test -n "$staged"
@@ -358,6 +369,7 @@ jobs:
       - name: Write end-to-end publication summary
         env:
           REQUEST_ID: ${{ steps.request.outputs.request_id }}
+          PROVIDER: ${{ steps.request.outputs.provider }}
           MODE_CONFIGURED: ${{ steps.build.outputs.processing_mode_configured }}
           MODE_EFFECTIVE: ${{ steps.build.outputs.processing_mode_effective }}
           ARTICLE_COUNT: ${{ steps.build.outputs.article_count }}
@@ -377,6 +389,7 @@ jobs:
             echo "## EvidenceRadar Editions end-to-end publication"
             echo
             echo "- request id: \`${REQUEST_ID}\`"
+            echo "- provider: \`${PROVIDER:-local-registry}\`"
             echo "- configured mode: \`${MODE_CONFIGURED}\`"
             echo "- effective mode: \`${MODE_EFFECTIVE}\`"
             echo "- canonical metadata records: \`${ARTICLE_COUNT}\`"
