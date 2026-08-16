@@ -28,12 +28,50 @@ jobs:
           python - <<'PY'
           import base64
           import json
+          import re
           from datetime import datetime, timezone
+          from html.parser import HTMLParser
+          from urllib.parse import urlsplit
           from evidenceradar_editions.adapters import CambridgeCoreAdapter
-          from evidenceradar_editions.adapters.cambridge_core import OA_JOURNAL_LISTING
+          from evidenceradar_editions.adapters.cambridge_core import OA_JOURNAL_LISTING, OA_JOURNAL_LISTING_PARAMS
           from evidenceradar_editions.http import HttpClient
 
-          journals = CambridgeCoreAdapter(HttpClient()).list_journals()
+          class AnchorInspector(HTMLParser):
+              def __init__(self):
+                  super().__init__(convert_charrefs=True)
+                  self.current = None
+                  self.items = []
+              def handle_starttag(self, tag, attrs):
+                  if tag.casefold() != 'a':
+                      return
+                  values = dict(attrs)
+                  href = values.get('href') or ''
+                  if re.fullmatch(r'/core/journals/[a-z0-9-]+/?', urlsplit(href).path, re.I):
+                      self.current = [href, values, []]
+              def handle_data(self, data):
+                  if self.current is not None and data.strip():
+                      self.current[2].append(data.strip())
+              def handle_endtag(self, tag):
+                  if tag.casefold() == 'a' and self.current is not None:
+                      self.items.append({
+                          'href': self.current[0],
+                          'attrs': self.current[1],
+                          'text': ' '.join(self.current[2]),
+                      })
+                      self.current = None
+
+          client = HttpClient()
+          params = dict(OA_JOURNAL_LISTING_PARAMS)
+          params['pageNum'] = 1
+          first_page = client.get_bytes(OA_JOURNAL_LISTING, params=params)
+          inspector = AnchorInspector()
+          inspector.feed(first_page.decode('utf-8', errors='replace'))
+          inspector.close()
+          print('CAMBRIDGE_JOURNAL_ANCHORS_PAGE1_BEGIN')
+          print(json.dumps(inspector.items, ensure_ascii=False, indent=2))
+          print('CAMBRIDGE_JOURNAL_ANCHORS_PAGE1_END')
+
+          journals = CambridgeCoreAdapter(client).list_journals()
           payload = {
               "artifact_type": "EvidenceRadar_Editions_ProviderCatalog",
               "schema_version": "1.0",
