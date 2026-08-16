@@ -73,7 +73,7 @@ For Cambridge, refresh the snapshot from the first-party adapter with:
 python scripts/refresh_cambridge_provider_catalog.py
 ```
 
-The Cambridge catalog adapter reconciles candidate journal links across all publisher result pages and requires the final catalog size to match Cambridge's own declared result count. A mismatch fails closed instead of publishing a silently incomplete or inflated provider catalog.
+The Cambridge catalog adapter accepts only the first-party primary result-title anchors that Cambridge marks with `class="part-link"`; related journals and supplementary-volume links are not catalog identities. After all result pages are read, the adapter requires the final unique journal count to equal Cambridge's own declared result count. Any mismatch fails closed instead of publishing a silently incomplete or inflated provider catalog.
 
 Pages publishes the provider discovery surface separately from canonical journal URLs:
 
