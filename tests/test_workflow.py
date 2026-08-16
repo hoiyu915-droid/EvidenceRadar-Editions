@@ -8,6 +8,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from evidenceradar_editions import workflow
+from evidenceradar_editions import workflow_v2
 
 
 class WorkflowTests(unittest.TestCase):
@@ -48,6 +49,41 @@ class WorkflowTests(unittest.TestCase):
             payload = json.loads(stdout.getvalue())
             self.assertEqual(payload["bundle_dir"], output.as_posix())
             self.assertIsInstance(payload["bundle_dir"], str)
+
+    def test_live_workflow_resolves_cambridge_provider_journal(self):
+        environment = {
+            "EDITION_PROVIDER": "cambridge",
+            "EDITION_JOURNAL_SLUG": "cambridge-forum-on-ai-culture-and-society",
+            "EDITION_START": "2026-08-01",
+            "EDITION_END": "2026-08-16",
+            "EDITION_PERIOD_KIND": "month",
+            "EDITION_REVISION": "1",
+            "EDITION_CATALOG_ROOT": "catalog",
+        }
+        provider_record = {
+            "name": "Cambridge Forum on AI: Culture and Society",
+            "slug": "cambridge-forum-on-ai-culture-and-society",
+            "issn": "",
+            "sources": ["cambridge_core"],
+            "url": "https://www.cambridge.org/core/journals/cambridge-forum-on-ai-culture-and-society",
+        }
+        with patch.dict(os.environ, environment, clear=True), patch.object(
+            workflow_v2, "CambridgeCoreAdapter"
+        ) as adapter_class, patch.object(workflow_v2, "HttpClient"):
+            adapter_class.return_value.resolve_journal.return_value = provider_record
+            spec, _policy, override, provider_context = workflow_v2._resolve_spec_and_policy()
+
+        adapter_class.return_value.resolve_journal.assert_called_once_with(
+            "cambridge-forum-on-ai-culture-and-society"
+        )
+        self.assertEqual(spec.journal, "Cambridge Forum on AI: Culture and Society")
+        self.assertEqual(spec.slug, "cambridge-forum-on-ai-culture-and-society")
+        self.assertEqual(spec.sources, ("cambridge_core",))
+        self.assertEqual(spec.start_date.isoformat(), "2026-08-01")
+        self.assertEqual(spec.end_date.isoformat(), "2026-08-16")
+        self.assertFalse(override)
+        self.assertEqual(provider_context["provider"], "cambridge")
+        self.assertEqual(provider_context["provider_journal_url"], provider_record["url"])
 
 
 if __name__ == "__main__":
