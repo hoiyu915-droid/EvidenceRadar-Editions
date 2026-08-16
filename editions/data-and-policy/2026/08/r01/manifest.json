@@ -1,0 +1,43 @@
+{
+  "article_count": 0,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-16T05:05:40Z",
+  "edition_id": "data-and-policy__2026-08__r01",
+  "edition_key": "data-and-policy__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 4572,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__data-and-policy__2026-08__r01.json",
+      "sha256": "4abbb7fbf9d60def628b5a173b7d3feef9ffb2dc89abbc04a3561ee162521a61"
+    },
+    "report_html": {
+      "bytes": 15387,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__data-and-policy__2026-08__r01.html",
+      "sha256": "4253b38ad3fab4d82852697a3def0e151d38fa69f46051322d3681fceb490510"
+    }
+  },
+  "journal": "Data & Policy",
+  "journal_slug": "data-and-policy",
+  "manifest_name": "EvidenceRadar_Editions__data-and-policy__2026-08__r01.manifest.json",
+  "period_end": "2026-08-16",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "data-and-policy__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "PARTIAL_SOURCE_COVERAGE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUIRED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
