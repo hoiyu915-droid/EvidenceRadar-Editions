@@ -1,0 +1,2412 @@
+{
+  "artifact_type": "EvidenceRadar_Editions_ProviderCatalog",
+  "schema_version": "1.0",
+  "provider": "cambridge",
+  "publisher": "Cambridge University Press",
+  "scope": "fully_open_access_journals",
+  "source_url": "https://www.cambridge.org/core/publications/open-access/listing",
+  "observed_at": "2026-08-16T03:58:16Z",
+  "journal_count": 200,
+  "journals": [
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Acta Neuropsychiatrica",
+      "slug": "acta-neuropsychiatrica",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/acta-neuropsychiatrica"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Acta Numerica",
+      "slug": "acta-numerica",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/acta-numerica"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Advances in Archaeological Practice",
+      "slug": "advances-in-archaeological-practice",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/advances-in-archaeological-practice"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Agricultural and Resource Economics Review",
+      "slug": "agricultural-and-resource-economics-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/agricultural-and-resource-economics-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "AI EDAM",
+      "slug": "ai-edam",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/ai-edam"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "AJIL Unbound",
+      "slug": "american-journal-of-international-law",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/american-journal-of-international-law"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Animal Health Research Reviews",
+      "slug": "animal-health-research-reviews",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/animal-health-research-reviews"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Animal Nutriomics",
+      "slug": "animal-nutriomics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/animal-nutriomics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Animal Welfare",
+      "slug": "animal-welfare",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/animal-welfare"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Annals of Actuarial Science",
+      "slug": "annals-of-actuarial-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/annals-of-actuarial-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Annals of Glaciology",
+      "slug": "annals-of-glaciology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/annals-of-glaciology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Antarctic Science",
+      "slug": "antarctic-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/antarctic-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Antichthon",
+      "slug": "antichthon",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/antichthon"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Antimicrobial Stewardship & Healthcare Epidemiology",
+      "slug": "antimicrobial-stewardship-and-healthcare-epidemiology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/antimicrobial-stewardship-and-healthcare-epidemiology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Applied Psycholinguistics",
+      "slug": "applied-psycholinguistics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/applied-psycholinguistics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Archaeological Dialogues",
+      "slug": "archaeological-dialogues",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/archaeological-dialogues"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Asia-Pacific Journal",
+      "slug": "asia-pacific-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/asia-pacific-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Asian Journal of Comparative Law",
+      "slug": "asian-journal-of-comparative-law",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/asian-journal-of-comparative-law"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Asian Journal of Law and Society",
+      "slug": "asian-journal-of-law-and-society",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/asian-journal-of-law-and-society"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Australasian Journal of Special and Inclusive Education",
+      "slug": "australasian-journal-of-special-and-inclusive-education",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/australasian-journal-of-special-and-inclusive-education"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Australian Journal of Environmental Education",
+      "slug": "australian-journal-of-environmental-education",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/australian-journal-of-environmental-education"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Behavioural and Cognitive Psychotherapy",
+      "slug": "behavioural-and-cognitive-psychotherapy",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Behavioural Public Policy",
+      "slug": "behavioural-public-policy",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/behavioural-public-policy"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Bilingualism: Language and Cognition",
+      "slug": "bilingualism-language-and-cognition",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Biotechnology Design",
+      "slug": "biotechnology-design",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/biotechnology-design"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "BJHS Themes",
+      "slug": "bjhs-themes",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/bjhs-themes"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "BJPsych Bulletin",
+      "slug": "bjpsych-bulletin",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/bjpsych-bulletin"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "BJPsych International",
+      "slug": "bjpsych-international",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/bjpsych-international"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "BJPsych Open",
+      "slug": "bjpsych-open",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/bjpsych-open"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "British Actuarial Journal",
+      "slug": "british-actuarial-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/british-actuarial-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "British Journal of Political Science",
+      "slug": "british-journal-of-political-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/british-journal-of-political-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Business and Politics",
+      "slug": "business-and-politics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/business-and-politics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Archaeological Journal",
+      "slug": "cambridge-archaeological-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Forum on AI: Culture and Society",
+      "slug": "cambridge-forum-on-ai-culture-and-society",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-forum-on-ai-culture-and-society"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Forum on AI: Law and Governance",
+      "slug": "cambridge-forum-on-ai-law-and-governance",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Forum on Corporate Climate Governance",
+      "slug": "cambridge-forum-on-corporate-climate-governance",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-forum-on-corporate-climate-governance"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Forum on Technology and Global Affairs",
+      "slug": "cambridge-forum-on-technology-and-global-affairs",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-forum-on-technology-and-global-affairs"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Materials: Circularity",
+      "slug": "cambridge-materials-circularity",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-materials-circularity"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Materials: Energy",
+      "slug": "cambridge-materials-energy",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-materials-energy"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Materials: Health",
+      "slug": "cambridge-materials-health",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-materials-health"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Materials: Water",
+      "slug": "cambridge-materials-water",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-materials-water"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Opera Journal",
+      "slug": "cambridge-opera-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-opera-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Antimicrobial Resistance",
+      "slug": "cambridge-prisms-antimicrobial-resistance",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-antimicrobial-resistance"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Carbon Technologies",
+      "slug": "cambridge-prisms-carbon-technologies",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-carbon-technologies"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Coastal Futures",
+      "slug": "cambridge-prisms-coastal-futures",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Drylands",
+      "slug": "cambridge-prisms-drylands",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-drylands"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Energy Transitions",
+      "slug": "cambridge-prisms-energy-transitions",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-energy-transitions"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Extinction",
+      "slug": "cambridge-prisms-extinction",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-extinction"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Global Mental Health",
+      "slug": "global-mental-health",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/global-mental-health"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Plastics",
+      "slug": "cambridge-prisms-plastics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-plastics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Prisms: Water",
+      "slug": "cambridge-prisms-water",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-water"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Cambridge Yearbook of European Legal Studies",
+      "slug": "cambridge-yearbook-of-european-legal-studies",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-yearbook-of-european-legal-studies"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Canadian Journal of Law & Jurisprudence",
+      "slug": "canadian-journal-of-law-and-jurisprudence",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/canadian-journal-of-law-and-jurisprudence"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Canadian Journal of Law & Society / La Revue Canadienne Droit et Société",
+      "slug": "canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Canadian Journal of Philosophy",
+      "slug": "canadian-journal-of-philosophy",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/canadian-journal-of-philosophy"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Canadian Mathematical Communications",
+      "slug": "canadian-mathematical-communications",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/canadian-mathematical-communications"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "CNS Spectrums",
+      "slug": "cns-spectrums",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cns-spectrums"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Comparative Studies in Society and History",
+      "slug": "comparative-studies-in-society-and-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Computational Humanities Research",
+      "slug": "computational-humanities-research",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/computational-humanities-research"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Contemporary European History",
+      "slug": "contemporary-european-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/contemporary-european-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Critical Pakistan Studies",
+      "slug": "critical-pakistan-studies",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/critical-pakistan-studies"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Data & Policy",
+      "slug": "data-and-policy",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/data-and-policy"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Data-Centric Engineering",
+      "slug": "data-centric-engineering",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/data-centric-engineering"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Democratic Theory",
+      "slug": "democratic-theory",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/democratic-theory"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Design Science",
+      "slug": "design-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/design-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Development and Psychopathology",
+      "slug": "development-and-psychopathology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/development-and-psychopathology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Early Medieval England and its Neighbours",
+      "slug": "early-medieval-england-and-its-n",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/early-medieval-england-and-its-n"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Environmental Data Science",
+      "slug": "environmental-data-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/environmental-data-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Epidemiology & Infection",
+      "slug": "epidemiology-and-infection",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/epidemiology-and-infection"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Epidemiology and Psychiatric Sciences",
+      "slug": "epidemiology-and-psychiatric-sciences",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Episteme",
+      "slug": "episteme",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/episteme"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Constitutional Law Review",
+      "slug": "european-constitutional-law-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-constitutional-law-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Journal of Applied Mathematics",
+      "slug": "european-journal-of-applied-mathematics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Journal of International Security",
+      "slug": "european-journal-of-international-security",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-journal-of-international-security"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Journal of Political Research",
+      "slug": "european-journal-of-political-research",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-journal-of-political-research"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Journal of Risk Regulation",
+      "slug": "european-journal-of-risk-regulation",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-journal-of-risk-regulation"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Law Open",
+      "slug": "european-law-open",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-law-open"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Political Science",
+      "slug": "european-political-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-political-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Political Science Review",
+      "slug": "european-political-science-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-political-science-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Psychiatry",
+      "slug": "european-psychiatry",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-psychiatry"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "European Review",
+      "slug": "european-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/european-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Evolutionary Human Sciences",
+      "slug": "evolutionary-human-sciences",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/evolutionary-human-sciences"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Experimental Agriculture",
+      "slug": "experimental-agriculture",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/experimental-agriculture"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Experimental Economics",
+      "slug": "experimental-economics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/experimental-economics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Expert Reviews in Molecular Medicine",
+      "slug": "expert-reviews-in-molecular-medicine",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/expert-reviews-in-molecular-medicine"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Federal Law Review",
+      "slug": "federal-law-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/federal-law-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Finance and Society",
+      "slug": "finance-and-society",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/finance-and-society"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Financial History Review",
+      "slug": "financial-history-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/financial-history-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Flow: Applications of Fluid Mechanics",
+      "slug": "flow",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/flow"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Forum of Mathematics, Pi",
+      "slug": "forum-of-mathematics-pi",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/forum-of-mathematics-pi"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Forum of Mathematics, Sigma",
+      "slug": "forum-of-mathematics-sigma",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/forum-of-mathematics-sigma"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Geo-Bio Interfaces",
+      "slug": "geo-bio-interfaces",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/geo-bio-interfaces"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Geological Magazine",
+      "slug": "geological-magazine",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/geological-magazine"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "German Law Journal",
+      "slug": "german-law-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/german-law-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Global Constitutionalism",
+      "slug": "global-constitutionalism",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/global-constitutionalism"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Global Sustainability",
+      "slug": "global-sustainability",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/global-sustainability"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Government and Opposition",
+      "slug": "government-and-opposition",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/government-and-opposition"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Gut Microbiome",
+      "slug": "gut-microbiome",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/gut-microbiome"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Health Economics, Policy and Law",
+      "slug": "health-economics-policy-and-law",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/health-economics-policy-and-law"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "High Power Laser Science and Engineering",
+      "slug": "high-power-laser-science-and-engineering",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "International Journal of Astrobiology",
+      "slug": "international-journal-of-astrobiology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "International Journal of Cultural Property",
+      "slug": "international-journal-of-cultural-property",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-cultural-property"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "International Journal of Technology Assessment in Health Care",
+      "slug": "international-journal-of-technology-assessment-in-health-care",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-technology-assessment-in-health-care"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "International Labor and Working-Class History",
+      "slug": "international-labor-and-working-class-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/international-labor-and-working-class-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "International Review of the Red Cross",
+      "slug": "international-review-of-the-red-cross",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/international-review-of-the-red-cross"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "International Theory",
+      "slug": "international-theory",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/international-theory"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Invasive Plant Science and Management",
+      "slug": "invasive-plant-science-and-management",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/invasive-plant-science-and-management"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "IRAQ",
+      "slug": "iraq",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/iraq"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Israel Law Review",
+      "slug": "israel-law-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/israel-law-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Italian Political Science Review / Rivista Italiana di Scienza Politica",
+      "slug": "italian-political-science-review-rivista-italiana-di-scienza-politica",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Itinerario",
+      "slug": "itinerario",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/itinerario"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Japanese Journal of Political Science",
+      "slug": "japanese-journal-of-political-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/japanese-journal-of-political-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of African Law",
+      "slug": "journal-of-african-law",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-african-law"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Agricultural and Applied Economics",
+      "slug": "journal-of-agricultural-and-applied-economics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-agricultural-and-applied-economics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Benefit-Cost Analysis",
+      "slug": "journal-of-benefit-cost-analysis",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-benefit-cost-analysis"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Biosocial Science",
+      "slug": "journal-of-biosocial-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-biosocial-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Child Language",
+      "slug": "journal-of-child-language",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-child-language"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Classics Teaching",
+      "slug": "journal-of-classics-teaching",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-classics-teaching"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Clinical and Translational Science",
+      "slug": "journal-of-clinical-and-translational-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Demographic Economics",
+      "slug": "journal-of-demographic-economics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-demographic-economics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of East Asian Studies",
+      "slug": "journal-of-east-asian-studies",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-east-asian-studies"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Experimental Political Science",
+      "slug": "journal-of-experimental-political-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-experimental-political-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Financial Literacy and Wellbeing",
+      "slug": "journal-of-financial-literacy-and-wellbeing",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-financial-literacy-and-wellbeing"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Germanic Linguistics",
+      "slug": "journal-of-germanic-linguistics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-germanic-linguistics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Glaciology",
+      "slug": "journal-of-glaciology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-glaciology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Global History",
+      "slug": "journal-of-global-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-global-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Institutional Economics",
+      "slug": "journal-of-institutional-economics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-institutional-economics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of International and Comparative Social Policy",
+      "slug": "journal-of-international-and-comparative-social-policy",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-international-and-comparative-social-policy"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Linguistic Geography",
+      "slug": "journal-of-linguistic-geography",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-linguistic-geography"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Management & Organization",
+      "slug": "journal-of-management-and-organization",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-management-and-organization"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Nonlinear Waves",
+      "slug": "journal-of-nonlinear-waves",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-nonlinear-waves"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Nutritional Science",
+      "slug": "journal-of-nutritional-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-nutritional-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Pension Economics & Finance",
+      "slug": "journal-of-pension-economics-and-finance",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Plasma Physics",
+      "slug": "journal-of-plasma-physics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Public Policy",
+      "slug": "journal-of-public-policy",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-public-policy"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Radiotherapy in Practice",
+      "slug": "journal-of-radiotherapy-in-practice",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-radiotherapy-in-practice"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of the American Philosophical Association",
+      "slug": "journal-of-the-american-philosophical-association",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of the Economic Science Association",
+      "slug": "journal-of-the-economic-science-association",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-the-economic-science-association"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of the International Phonetic Association",
+      "slug": "journal-of-the-international-phonetic-association",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Journal of Wine Economics",
+      "slug": "journal-of-wine-economics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/journal-of-wine-economics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Judgment and Decision Making",
+      "slug": "judgment-and-decision-making",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/judgment-and-decision-making"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Language",
+      "slug": "language",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/language"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Language and Cognition",
+      "slug": "language-and-cognition",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/language-and-cognition"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Language Variation and Change",
+      "slug": "language-variation-and-change",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/language-variation-and-change"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Latin American Research Review",
+      "slug": "latin-american-research-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/latin-american-research-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Legal Studies",
+      "slug": "legal-studies",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/legal-studies"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Legal Theory",
+      "slug": "legal-theory",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/legal-theory"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Leiden Journal of International Law",
+      "slug": "leiden-journal-of-international-law",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Memory, Mind & Media",
+      "slug": "memory-mind-and-media",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/memory-mind-and-media"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Modern American History",
+      "slug": "modern-american-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/modern-american-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Modern Intellectual History",
+      "slug": "modern-intellectual-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/modern-intellectual-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Moduli",
+      "slug": "moduli",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/moduli"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Nagoya Mathematical Journal",
+      "slug": "nagoya-mathematical-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/nagoya-mathematical-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Natural Language Processing",
+      "slug": "natural-language-processing",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/natural-language-processing"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Network Science",
+      "slug": "network-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/network-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Nordic Journal of Linguistics",
+      "slug": "nordic-journal-of-linguistics",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/nordic-journal-of-linguistics"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Oceanography and Marine Biology - An Annual Review",
+      "slug": "oceanography-and-marine-biology-an-annual-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/oceanography-and-marine-biology-an-annual-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Oryx",
+      "slug": "oryx",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/oryx"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Paleobiology",
+      "slug": "paleobiology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/paleobiology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Palliative & Supportive Care",
+      "slug": "palliative-and-supportive-care",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/palliative-and-supportive-care"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Parasitology",
+      "slug": "parasitology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/parasitology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Personality Neuroscience",
+      "slug": "personality-neuroscience",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/personality-neuroscience"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Phonological Data and Analysis",
+      "slug": "phonological-data-and-analysis",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/phonological-data-and-analysis"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Political Data Yearbook",
+      "slug": "political-data-yearbook",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/political-data-yearbook"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Political Science Research and Methods",
+      "slug": "political-science-research-and-methods",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/political-science-research-and-methods"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Politics and Religion",
+      "slug": "politics-and-religion",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/politics-and-religion"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Politics and the Life Sciences",
+      "slug": "politics-and-the-life-sciences",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/politics-and-the-life-sciences"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Primary Health Care Research & Development",
+      "slug": "primary-health-care-research-and-development",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/primary-health-care-research-and-development"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Probability in the Engineering and Informational Sciences",
+      "slug": "probability-in-the-engineering-and-informational-sciences",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Proceedings of the Design Society",
+      "slug": "proceedings-of-the-design-society",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/proceedings-of-the-design-society"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Psychological Medicine",
+      "slug": "psychological-medicine",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/psychological-medicine"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Psychometrika",
+      "slug": "psychometrika",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/psychometrika"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Public Health Nutrition",
+      "slug": "public-health-nutrition",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/public-health-nutrition"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Public Humanities",
+      "slug": "public-humanities",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/public-humanities"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Publications of the Astronomical Society of Australia",
+      "slug": "publications-of-the-astronomical-society-of-australia",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "QRB Discovery",
+      "slug": "qrb-discovery",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/qrb-discovery"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Quantitative Plant Biology",
+      "slug": "quantitative-plant-biology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/quantitative-plant-biology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "ReCALL",
+      "slug": "recall",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/recall"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Renewable Agriculture and Food Systems",
+      "slug": "renewable-agriculture-and-food-systems",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/renewable-agriculture-and-food-systems"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Research Synthesis Methods",
+      "slug": "research-synthesis-methods",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/research-synthesis-methods"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Review of Middle East Studies",
+      "slug": "review-of-middle-east-studies",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/review-of-middle-east-studies"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Rural History",
+      "slug": "rural-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/rural-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Science in Context",
+      "slug": "science-in-context",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/science-in-context"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Seed Science Research",
+      "slug": "seed-science-research",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/seed-science-research"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Signs and Society",
+      "slug": "signs-and-society",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/signs-and-society"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Studies in American Political Development",
+      "slug": "studies-in-american-political-development",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/studies-in-american-political-development"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Studies in Church History",
+      "slug": "studies-in-church-history",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/studies-in-church-history"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Studies in Second Language Acquisition",
+      "slug": "studies-in-second-language-acquisition",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "The Cambridge Classical Journal",
+      "slug": "cambridge-classical-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/cambridge-classical-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "The Cognitive Behaviour Therapist",
+      "slug": "the-cognitive-behaviour-therapist",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "The Economic and Labour Relations Review",
+      "slug": "the-economic-and-labour-relations-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/the-economic-and-labour-relations-review"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "The Historical Journal",
+      "slug": "historical-journal",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/historical-journal"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "The Spanish Journal of Psychology",
+      "slug": "spanish-journal-of-psychology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Theory and Practice of Logic Programming",
+      "slug": "theory-and-practice-of-logic-programming",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Transactions of the Royal Historical Society",
+      "slug": "transactions-of-the-royal-historical-society",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/transactions-of-the-royal-historical-society"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Voluntas: International Journal of Voluntary and Nonprofit Organizations",
+      "slug": "voluntas",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/voluntas"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Wearable Technologies",
+      "slug": "wearable-technologies",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/wearable-technologies"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Weed Science",
+      "slug": "weed-science",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/weed-science"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "Weed Technology",
+      "slug": "weed-technology",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/weed-technology"
+    },
+    {
+      "provider": "cambridge",
+      "publisher": "Cambridge University Press",
+      "name": "World Trade Review",
+      "slug": "world-trade-review",
+      "oa": "fully_oa",
+      "status": "active",
+      "sources": [
+        "cambridge_core"
+      ],
+      "url": "https://www.cambridge.org/core/journals/world-trade-review"
+    }
+  ]
+}

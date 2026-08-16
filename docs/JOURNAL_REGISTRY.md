@@ -63,6 +63,29 @@ An exact `--journal` title may be used instead of `--journal-slug`; that conveni
 
 Provider journals use the normal Editions processing-policy defaults unless they also have a local registry/policy entry. Provider identity and acquisition remain separate from the generated `editions/` publication store.
 
+### Provider snapshots for the public portal
+
+`catalog/providers/<provider>.json` is a publication-time discovery snapshot for the static Pages portal. It is deliberately separate from `catalog/journals.json`: appearing in a provider snapshot means “this publisher adapter exposes this journal for selection”, not “this journal has been registered locally or already has an Edition”.
+
+For Cambridge, refresh the snapshot from the first-party adapter with:
+
+```bash
+python scripts/refresh_cambridge_provider_catalog.py
+```
+
+The Cambridge catalog adapter accepts only the first-party primary result-title anchors that Cambridge marks with `class="part-link"`; related journals and supplementary-volume links are not catalog identities. After all result pages are read, the adapter requires the final unique journal count to equal Cambridge's own declared result count. Any mismatch fails closed instead of publishing a silently incomplete or inflated provider catalog.
+
+Pages publishes the provider discovery surface separately from canonical journal URLs:
+
+```text
+/providers/
+/providers.json
+/providers/cambridge/
+/providers/cambridge.json
+```
+
+The human-facing Cambridge page is searchable and gives a copyable single-journal `--provider cambridge --journal-slug ...` command for every provider journal. Runtime acquisition still resolves the selected journal live; the static snapshot is for discovery/navigation, not an authority that bypasses the provider adapter.
+
 ## Pages information architecture
 
 The public portal treats classification as a view, not as URL identity.
@@ -87,7 +110,7 @@ Canonical URLs remain stable:
 
 A registered journal without a published edition receives a lightweight placeholder journal page. When its first edition is published, the generated journal page replaces that placeholder without changing the journal URL.
 
-The Pages build also publishes `/journals.json` as the machine-readable identity registry and `/processing-policies.json` as the workload control plane. `index.json` remains the publication catalog and `search-index.json` remains the article-level search index.
+The Pages build also publishes `/journals.json` as the machine-readable identity registry and `/processing-policies.json` as the workload control plane. `index.json` remains the publication catalog and `search-index.json` remains the article-level search index. Provider discovery is projected separately under `/providers/` and summarized in `index.json` without changing journal identity or publication storage.
 
 For high-volume editions, revision-level `browse.json` is a bounded Pages projection rather than a duplicate of every canonical article object. The page states the canonical, projected and omitted counts. Omitted records remain in the complete canonical `edition.json`; the projection does not claim quality or relevance ranking.
 

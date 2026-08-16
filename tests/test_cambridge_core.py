@@ -1,21 +1,25 @@
 import unittest
 from datetime import date
 
-from evidenceradar_editions.adapters.cambridge_core import CambridgeCoreAdapter
+from evidenceradar_editions.adapters import CambridgeCoreAdapter
 from evidenceradar_editions.models import EditionSpec
 
 
 CATALOG_PAGE_1 = b"""
 <html><body>
+<h2>3 results in Open Access</h2>
 <div>Page 1 of 2</div>
-<a href="/core/journals/acta-neuropsychiatrica">Acta Neuropsychiatrica</a>
-<a href="/core/journals/ai-edam">AI EDAM</a>
+<a class="part-link" href="/core/journals/acta-neuropsychiatrica">Acta Neuropsychiatrica</a>
+<a class="part-link" href="/core/journals/ai-edam">AI EDAM</a>
+<a href="https://www.cambridge.org/core/journals/related-supplement" target="_blank">Supplementary Volumes</a>
 </body></html>
 """
 CATALOG_PAGE_2 = b"""
 <html><body>
+<h2>3 results in Open Access</h2>
 <div>Page 2 of 2</div>
-<a href="/core/journals/animal-welfare">Animal Welfare</a>
+<a class="part-link" href="/core/journals/animal-welfare">Animal Welfare</a>
+<a href="https://www.cambridge.org/core/journals/related-journal" target="_blank">Related Journal</a>
 </body></html>
 """
 AI_EDAM_HOME = b"""
@@ -61,17 +65,29 @@ class FakeClient:
 
 
 class CambridgeCoreTests(unittest.TestCase):
-    def test_catalog_is_lightweight_and_paginated(self):
+    def test_catalog_accepts_only_primary_part_links_and_excludes_related_journals(self):
         client = FakeClient()
         journals = CambridgeCoreAdapter(client).list_journals()
         self.assertEqual(
             [item["slug"] for item in journals],
             ["acta-neuropsychiatrica", "ai-edam", "animal-welfare"],
         )
+        observed = {item["slug"] for item in journals}
+        self.assertNotIn("related-supplement", observed)
+        self.assertNotIn("related-journal", observed)
         self.assertEqual(len(client.calls), 2)
         self.assertTrue(
             all("/publications/open-access/listing" in call[0] for call in client.calls)
         )
+
+    def test_catalog_fails_closed_when_declared_count_does_not_reconcile(self):
+        class BadCountClient(FakeClient):
+            def get_bytes(self, url, *, params=None, limit=None):
+                payload = super().get_bytes(url, params=params, limit=limit)
+                return payload.replace(b"3 results in Open Access", b"4 results in Open Access")
+
+        with self.assertRaisesRegex(ValueError, "reconciliation mismatch"):
+            CambridgeCoreAdapter(BadCountClient()).list_journals()
 
     def test_resolve_selected_journal_is_direct_and_rejects_hybrid(self):
         client = FakeClient()

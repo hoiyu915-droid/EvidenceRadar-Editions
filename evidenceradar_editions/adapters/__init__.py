@@ -1,4 +1,4 @@
-from .cambridge_core import CambridgeCoreAdapter
+from .cambridge_core_v2 import CambridgeCoreAdapter
 from .crossref import CrossrefAdapter
 from .europe_pmc import EuropePmcAdapter
 from .pubmed import PubMedAdapter
