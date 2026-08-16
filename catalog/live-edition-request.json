@@ -1,9 +1,9 @@
 {
   "schema_version": "1.1",
   "artifact_type": "EvidenceRadar_Editions_LiveEditionRequest",
-  "request_id": "cambridge-ai-edam-2026-08-mtd-r01",
+  "request_id": "cambridge-natural-language-processing-2026-08-mtd-r01",
   "provider": "cambridge",
-  "journal_slug": "ai-edam",
+  "journal_slug": "natural-language-processing",
   "start": "2026-08-01",
   "end": "2026-08-16",
   "period_kind": "month",
