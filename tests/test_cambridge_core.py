@@ -1,12 +1,14 @@
 import unittest
 from datetime import date
 
-from evidenceradar_editions.adapters.cambridge_core import CambridgeCoreAdapter
+from evidenceradar_editions.adapters import CambridgeCoreAdapter
 from evidenceradar_editions.models import EditionSpec
 
 
 CATALOG_PAGE_1 = b"""
 <html><body>
+<a href="/core/journals/not-a-result">Navigation journal link</a>
+<h2>3 results in Open Access</h2>
 <div>Page 1 of 2</div>
 <a href="/core/journals/acta-neuropsychiatrica">Acta Neuropsychiatrica</a>
 <a href="/core/journals/ai-edam">AI EDAM</a>
@@ -14,6 +16,8 @@ CATALOG_PAGE_1 = b"""
 """
 CATALOG_PAGE_2 = b"""
 <html><body>
+<a href="/core/journals/also-not-a-result">Footer-like journal link</a>
+<h2>3 results in Open Access</h2>
 <div>Page 2 of 2</div>
 <a href="/core/journals/animal-welfare">Animal Welfare</a>
 </body></html>
@@ -61,13 +65,15 @@ class FakeClient:
 
 
 class CambridgeCoreTests(unittest.TestCase):
-    def test_catalog_is_lightweight_and_paginated(self):
+    def test_catalog_is_result_scoped_lightweight_and_paginated(self):
         client = FakeClient()
         journals = CambridgeCoreAdapter(client).list_journals()
         self.assertEqual(
             [item["slug"] for item in journals],
             ["acta-neuropsychiatrica", "ai-edam", "animal-welfare"],
         )
+        self.assertNotIn("not-a-result", {item["slug"] for item in journals})
+        self.assertNotIn("also-not-a-result", {item["slug"] for item in journals})
         self.assertEqual(len(client.calls), 2)
         self.assertTrue(
             all("/publications/open-access/listing" in call[0] for call in client.calls)
