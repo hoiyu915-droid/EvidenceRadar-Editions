@@ -29,7 +29,8 @@ jobs:
           import base64
           import json
           from datetime import datetime, timezone
-          from evidenceradar_editions.adapters.cambridge_core import CambridgeCoreAdapter, OA_JOURNAL_LISTING
+          from evidenceradar_editions.adapters import CambridgeCoreAdapter
+          from evidenceradar_editions.adapters.cambridge_core import OA_JOURNAL_LISTING
           from evidenceradar_editions.http import HttpClient
 
           journals = CambridgeCoreAdapter(HttpClient()).list_journals()
@@ -47,8 +48,10 @@ jobs:
           if len(journals) != 200:
               raise SystemExit(f"expected current Cambridge OA catalog count 200, got {len(journals)}")
           raw = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+          encoded = base64.b64encode(raw).decode("ascii")
           print("CAMBRIDGE_PROVIDER_SNAPSHOT_B64_BEGIN")
-          print(base64.b64encode(raw).decode("ascii"))
+          for offset in range(0, len(encoded), 4000):
+              print(encoded[offset:offset + 4000])
           print("CAMBRIDGE_PROVIDER_SNAPSHOT_B64_END")
           PY
       - name: Compile
