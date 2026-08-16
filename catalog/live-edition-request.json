@@ -1,9 +1,9 @@
 {
   "schema_version": "1.1",
   "artifact_type": "EvidenceRadar_Editions_LiveEditionRequest",
-  "request_id": "journal-of-clinical-and-translational-science-2026-08-mtd-r01",
+  "request_id": "antimicrobial-stewardship-and-healthcare-epidemiology-2026-08-mtd-r01",
   "provider": "cambridge",
-  "journal_slug": "journal-of-clinical-and-translational-science",
+  "journal_slug": "antimicrobial-stewardship-and-healthcare-epidemiology",
   "start": "2026-08-01",
   "end": "2026-08-16",
   "period_kind": "month",
