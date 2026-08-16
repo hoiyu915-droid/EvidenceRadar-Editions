@@ -7,14 +7,14 @@ from typing import Any
 
 from .naming import ALLOWED_PERIOD_KINDS
 
-ALLOWED_SOURCES = (
+DEFAULT_SOURCES = (
     "pubmed",
     "europe_pmc",
     "crossref",
     "radar_rss",
     "rsc_chemical_science",
-    "cambridge_core",
 )
+ALLOWED_SOURCES = DEFAULT_SOURCES + ("cambridge_core",)
 ALLOWED_SOURCE_STATUSES = ("SUCCESS", "NO_RESULTS", "PARTIAL", "FAILED", "NOT_ATTEMPTED")
 
 
@@ -25,7 +25,7 @@ class EditionSpec:
     end_date: date
     slug: str
     issn: str | None = None
-    sources: tuple[str, ...] = ALLOWED_SOURCES
+    sources: tuple[str, ...] = DEFAULT_SOURCES
     max_records: int = 500
     period_kind: str = "auto"
     revision: int = 1
