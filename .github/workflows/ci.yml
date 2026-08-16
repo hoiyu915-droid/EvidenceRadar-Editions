@@ -22,26 +22,6 @@ jobs:
           python-version: ${{ matrix.python-version }}
       - name: Install
         run: python -m pip install -e .
-      - name: Cambridge provider snapshot bootstrap
-        if: matrix.python-version == '3.12'
-        run: |
-          python scripts/refresh_cambridge_provider_catalog.py --output "$RUNNER_TEMP/cambridge.json"
-          python - <<'PY'
-          import base64
-          import json
-          import os
-          from pathlib import Path
-
-          path = Path(os.environ['RUNNER_TEMP']) / 'cambridge.json'
-          payload = json.loads(path.read_text(encoding='utf-8'))
-          if payload.get('journal_count') != 200 or len(payload.get('journals') or []) != 200:
-              raise SystemExit(f"expected reconciled Cambridge OA catalog count 200, got {payload.get('journal_count')}")
-          encoded = base64.b64encode(path.read_bytes()).decode('ascii')
-          print('CAMBRIDGE_PROVIDER_SNAPSHOT_B64_BEGIN')
-          for offset in range(0, len(encoded), 4000):
-              print(encoded[offset:offset + 4000])
-          print('CAMBRIDGE_PROVIDER_SNAPSHOT_B64_END')
-          PY
       - name: Compile
         run: python -m compileall -q evidenceradar_editions tests
       - name: Unit tests
