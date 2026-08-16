@@ -132,16 +132,20 @@ def _render_clean_homepage(
         "registered journal catalog + published immutable editions",
         "journal portal + published immutable editions",
     )
+    # Downstream acquisition/review/evaluation stages publish dedicated pages.
+    # Their legacy homepage injectors key on the exact old main tag; keep the
+    # reader portal outside that injection surface so the landing page does not
+    # grow into an internal pipeline status board.
+    page = page.replace(
+        '<main class="shell">',
+        '<main class="shell" data-reader-portal>',
+        1,
+    )
     (output / "index.html").write_text(page, encoding="utf-8")
 
 
 def restore_clean_homepage(site_dir: Path) -> bool:
-    """Restore the reader-facing portal after downstream delivery stages.
-
-    Delivery stages may publish their own dedicated HTML/JSON artifacts, but the
-    landing page remains a journal/article browser rather than an accumulating
-    pipeline status board.
-    """
+    """Restore the reader-facing portal after downstream delivery stages."""
 
     output = Path(site_dir)
     projection_path = output / PORTAL_JOURNALS_FILENAME
