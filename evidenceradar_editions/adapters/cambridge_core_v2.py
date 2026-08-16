@@ -20,13 +20,14 @@ _RESULTS_HEADING_RE = re.compile(r"\b(\d+)\s+results?\b", re.I)
 
 
 class _ScopedJournalListingParser(HTMLParser):
-    """Parse journal-like anchors after Cambridge's result-count heading.
+    """Parse only Cambridge's primary result-title journal links.
 
-    The first-party listing also emits navigation/sidebar links whose paths look
-    like journal paths. The adapter therefore treats this parser output as
-    *candidates*. ``list_journals`` reconciles candidates across pages, removes
-    links repeated across result pages, and then requires the final unique count
-    to match Cambridge's own declared result count before returning a catalog.
+    Cambridge open-access result cards use ``class="part-link"`` on the
+    primary journal-title anchor. The same cards can also contain related
+    journal/supplement links whose URLs look like journal roots but which are
+    not results; those links do not carry ``part-link``. Catalog identity is
+    therefore bound to the first-party result-title marker, then reconciled
+    against Cambridge's declared result count before being returned.
     """
 
     def __init__(self) -> None:
@@ -48,8 +49,14 @@ class _ScopedJournalListingParser(HTMLParser):
             return
         if normalized != "a" or not self._in_results:
             return
-        href = next((value for key, value in attrs if key.casefold() == "href"), None)
-        if not href:
+        values = {key.casefold(): value for key, value in attrs}
+        href = str(values.get("href") or "").strip()
+        classes = {
+            token.casefold()
+            for token in str(values.get("class") or "").split()
+            if token.strip()
+        }
+        if "part-link" not in classes or not href.startswith("/core/journals/"):
             return
         match = _JOURNAL_PATH_RE.fullmatch(urlsplit(href).path)
         if match:
@@ -107,8 +114,7 @@ class CambridgeCoreAdapter(_LegacyCambridgeCoreAdapter):
     """Cambridge adapter with fail-closed publisher-catalog reconciliation."""
 
     def list_journals(self) -> list[dict[str, Any]]:
-        candidates: dict[str, dict[str, Any]] = {}
-        candidate_pages: dict[str, set[int]] = {}
+        journals: dict[str, dict[str, Any]] = {}
         page = 1
         page_count: int | None = None
         declared_result_count: int | None = None
@@ -122,7 +128,7 @@ class CambridgeCoreAdapter(_LegacyCambridgeCoreAdapter):
             parser.close()
             if page == 1 and not parser.journals:
                 raise ValueError(
-                    "Cambridge OA journal catalog returned no result-set journal candidates"
+                    "Cambridge OA journal catalog returned no primary result-title links"
                 )
             if parser.declared_result_count is None:
                 raise ValueError(
@@ -136,9 +142,7 @@ class CambridgeCoreAdapter(_LegacyCambridgeCoreAdapter):
                 )
 
             for journal in parser.journals:
-                slug = str(journal["slug"])
-                candidates.setdefault(slug, journal)
-                candidate_pages.setdefault(slug, set()).add(page)
+                journals.setdefault(str(journal["slug"]), journal)
 
             if page_count is None:
                 page_count = parser.page_count
@@ -149,29 +153,21 @@ class CambridgeCoreAdapter(_LegacyCambridgeCoreAdapter):
             if page_count is not None and page >= page_count:
                 break
             if not parser.journals:
-                break
+                raise ValueError(
+                    f"Cambridge OA journal catalog page {page} contains no primary result-title links"
+                )
             page += 1
 
         if page > MAX_CATALOG_PAGES:
             raise ValueError("Cambridge OA journal catalog exceeded page safety limit")
         if declared_result_count is None:
             raise ValueError("Cambridge OA journal catalog lacks a result count")
-
-        repeated_navigation = {
-            slug for slug, pages in candidate_pages.items() if len(pages) > 1
-        }
-        journals = [
-            journal
-            for slug, journal in candidates.items()
-            if slug not in repeated_navigation
-        ]
         if len(journals) != declared_result_count:
             raise ValueError(
                 "Cambridge OA journal catalog reconciliation mismatch: "
-                f"declared={declared_result_count}; candidates={len(candidates)}; "
-                f"cross-page repeated={len(repeated_navigation)}; reconciled={len(journals)}"
+                f"declared={declared_result_count}; primary_results={len(journals)}"
             )
-        return sorted(journals, key=lambda item: str(item["name"]).casefold())
+        return sorted(journals.values(), key=lambda item: str(item["name"]).casefold())
 
 
 __all__ = ["CambridgeCoreAdapter"]
