@@ -5,6 +5,8 @@ import os
 from pathlib import Path
 from typing import Any, Callable
 
+from .adapters import CambridgeCoreAdapter
+from .http import HttpClient
 from .journal_catalog_v2 import get_journal, spec_defaults
 from .models import ALLOWED_SOURCES, EditionSpec
 from .processing_policy import policy_for_slug
@@ -33,14 +35,36 @@ def _source_tuple(raw: Any) -> tuple[str, ...]:
     return tuple(str(value).strip() for value in raw or () if str(value).strip())
 
 
-def _resolve_spec_and_policy() -> tuple[EditionSpec, Any, bool]:
+def _resolve_provider_journal(provider: str, slug: str) -> dict[str, Any]:
+    if provider != "cambridge":
+        raise ValueError(f"unsupported Edition provider: {provider}")
+    if not slug:
+        raise ValueError("provider live Edition requires EDITION_JOURNAL_SLUG")
+    return CambridgeCoreAdapter(HttpClient()).resolve_journal(slug)
+
+
+def _resolve_spec_and_policy() -> tuple[EditionSpec, Any, bool, dict[str, Any]]:
     catalog_root = Path(os.environ.get("EDITION_CATALOG_ROOT", "catalog"))
     registry_slug = str(os.environ.get("EDITION_JOURNAL_SLUG") or "").strip()
     legacy_slug = str(os.environ.get("EDITION_SLUG") or "").strip()
+    provider = str(os.environ.get("EDITION_PROVIDER") or "").strip().casefold()
     allow_planned = _truthy(os.environ.get("EDITION_ALLOW_PLANNED"))
 
     registry_defaults: dict[str, Any] = {}
-    if registry_slug:
+    provider_context: dict[str, Any] = {}
+    if provider:
+        journal_record = _resolve_provider_journal(provider, registry_slug)
+        registry_defaults = {
+            "journal": journal_record.get("name"),
+            "slug": journal_record.get("slug"),
+            "issn": journal_record.get("issn"),
+            "sources": journal_record.get("sources"),
+        }
+        provider_context = {
+            "provider": provider,
+            "provider_journal_url": journal_record.get("url"),
+        }
+    elif registry_slug:
         journal_record = get_journal(
             registry_slug,
             catalog_root=catalog_root,
@@ -73,6 +97,8 @@ def _resolve_spec_and_policy() -> tuple[EditionSpec, Any, bool]:
         if sources_raw
         else _source_tuple(registry_defaults.get("sources") or ALLOWED_SOURCES)
     )
+    if provider == "cambridge" and "cambridge_core" not in sources:
+        raise ValueError("Cambridge provider live Editions must include cambridge_core")
 
     spec = EditionSpec(
         journal=str(journal),
@@ -89,7 +115,12 @@ def _resolve_spec_and_policy() -> tuple[EditionSpec, Any, bool]:
         period_kind=os.environ.get("EDITION_PERIOD_KIND", "auto"),
         revision=int(os.environ.get("EDITION_REVISION", "1")),
     )
-    return spec, policy, _truthy(os.environ.get("EDITION_POLICY_OVERRIDE"))
+    return (
+        spec,
+        policy,
+        _truthy(os.environ.get("EDITION_POLICY_OVERRIDE")),
+        provider_context,
+    )
 
 
 def run_workflow(
@@ -99,7 +130,7 @@ def run_workflow(
     write_translation_request: Callable[..., dict[str, Any]],
     validate_bundle: Callable[..., list[str]],
 ) -> int:
-    spec, policy, allow_override = _resolve_spec_and_policy()
+    spec, policy, allow_override, provider_context = _resolve_spec_and_policy()
     output = Path(os.environ.get("EDITION_OUTPUT_DIR", "dist/edition"))
     radar_root_value = os.environ.get("EDITION_RADAR_ROOT", "_upstream/EvidenceRadar")
     radar_root = Path(radar_root_value) if radar_root_value else None
@@ -112,6 +143,8 @@ def run_workflow(
         catalog_root=Path(os.environ.get("EDITION_CATALOG_ROOT", "catalog")),
         allow_policy_override=allow_override,
     )
+    if provider_context:
+        run.setdefault("scope", {}).update(provider_context)
     manifest = write_bundle(run, output)
 
     processing = run.get("processing") or {}
@@ -152,6 +185,7 @@ def run_workflow(
         "pages_record_limit": processing.get("pages_record_limit", ""),
         "translation_mode": translation_mode,
         "policy_override_used": processing.get("policy_override_used", False),
+        "provider": provider_context.get("provider", ""),
     }
     _github_output(values)
     print(json.dumps(values, ensure_ascii=False, sort_keys=True))
