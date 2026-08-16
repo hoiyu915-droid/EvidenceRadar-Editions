@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Any
 
 from . import cli_v5 as legacy
-from .adapters.cambridge_core import CambridgeCoreAdapter
+from .adapters import CambridgeCoreAdapter
 from .bundle import write_bundle
 from .engine_v2 import build_run
 from .http import HttpClient
