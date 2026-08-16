@@ -45,6 +45,13 @@ ARTICLE_PAGE = b"""
 <div>Published online by Cambridge University Press: 01 July 2026</div>
 </body></html>
 """
+UNPARSED_ARTICLE_PAGE = b"""
+<html><body>
+<div>Page 1 of 1</div>
+<a href="/core/journals/ai-edam/article/missing-date/xyz">Visible article without parseable date</a>
+<div>First published online: August 2026</div>
+</body></html>
+"""
 
 
 class FakeClient:
@@ -123,6 +130,32 @@ class CambridgeCoreTests(unittest.TestCase):
             ["https://www.cambridge.org/core/journals/ai-edam/open-access"],
         )
         self.assertFalse(any("acta-neuropsychiatrica/open-access" in url for url, _ in client.calls))
+
+    def test_unparsed_article_card_is_counted_and_fails_closed_as_partial(self):
+        class UnparsedClient(FakeClient):
+            def get_bytes(self, url, *, params=None, limit=None):
+                if url.endswith("/core/journals/ai-edam/open-access"):
+                    self.calls.append((url, params))
+                    return UNPARSED_ARTICLE_PAGE
+                return super().get_bytes(url, params=params, limit=limit)
+
+        client = UnparsedClient()
+        spec = EditionSpec(
+            "AI EDAM",
+            date(2026, 8, 1),
+            date(2026, 8, 16),
+            "ai-edam",
+            issn="1469-1760",
+            sources=("cambridge_core",),
+            period_kind="month",
+        )
+        result = CambridgeCoreAdapter(client).fetch(spec)
+        self.assertEqual(result.articles, [])
+        self.assertEqual(result.check.status, "PARTIAL")
+        self.assertTrue(result.check.truncated)
+        self.assertEqual(result.check.returned_count, 1)
+        self.assertIn("source records scanned=1", result.check.detail or "")
+        self.assertIn("unparsed article records=1", result.check.detail or "")
 
 
 if __name__ == "__main__":
