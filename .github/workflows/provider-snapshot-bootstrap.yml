@@ -21,31 +21,14 @@ jobs:
       - run: python -m pip install -e .
       - name: Fetch Cambridge provider catalog
         run: |
-          mkdir -p catalog/providers
+          python scripts/refresh_cambridge_provider_catalog.py
           python - <<'PY'
           import json
-          from datetime import datetime, timezone
           from pathlib import Path
-          from evidenceradar_editions.adapters.cambridge_core import CambridgeCoreAdapter, OA_JOURNAL_LISTING
-          from evidenceradar_editions.http import HttpClient
-
-          journals = CambridgeCoreAdapter(HttpClient()).list_journals()
-          payload = {
-              "artifact_type": "EvidenceRadar_Editions_ProviderCatalog",
-              "schema_version": "1.0",
-              "provider": "cambridge",
-              "publisher": "Cambridge University Press",
-              "scope": "fully_open_access_journals",
-              "source_url": OA_JOURNAL_LISTING,
-              "observed_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z'),
-              "journal_count": len(journals),
-              "journals": journals,
-          }
-          if len(journals) != 200:
-              raise SystemExit(f"expected current Cambridge OA catalog count 200, got {len(journals)}")
-          Path("catalog/providers/cambridge.json").write_text(
-              json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-          )
+          path = Path('catalog/providers/cambridge.json')
+          payload = json.loads(path.read_text(encoding='utf-8'))
+          if payload.get('journal_count') != 200 or len(payload.get('journals') or []) != 200:
+              raise SystemExit(f"expected reconciled Cambridge OA catalog count 200, got {payload.get('journal_count')}")
           PY
       - name: Commit snapshot
         run: |
