@@ -1,0 +1,57 @@
+name: Cambridge provider snapshot bootstrap
+
+on:
+  push:
+    branches: [feat/cambridge-provider-pages]
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: feat/cambridge-provider-pages
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -e .
+      - name: Fetch Cambridge provider catalog
+        run: |
+          mkdir -p catalog/providers
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+          from evidenceradar_editions.adapters.cambridge_core import CambridgeCoreAdapter, OA_JOURNAL_LISTING
+          from evidenceradar_editions.http import HttpClient
+
+          journals = CambridgeCoreAdapter(HttpClient()).list_journals()
+          payload = {
+              "artifact_type": "EvidenceRadar_Editions_ProviderCatalog",
+              "schema_version": "1.0",
+              "provider": "cambridge",
+              "publisher": "Cambridge University Press",
+              "scope": "fully_open_access_journals",
+              "source_url": OA_JOURNAL_LISTING,
+              "observed_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z'),
+              "journal_count": len(journals),
+              "journals": journals,
+          }
+          if len(journals) != 200:
+              raise SystemExit(f"expected current Cambridge OA catalog count 200, got {len(journals)}")
+          Path("catalog/providers/cambridge.json").write_text(
+              json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+          )
+          PY
+      - name: Commit snapshot
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -- catalog/providers/cambridge.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh Cambridge provider catalog"
+          git push origin HEAD:feat/cambridge-provider-pages
