@@ -1,0 +1,1395 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alexandre R.M. Pelegrinelli",
+        "Danilo S. Catelli",
+        "Erik Kowalski",
+        "Nicholas Ryan",
+        "Mario Lamontagne",
+        "Felipe A. Moura"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106916",
+      "doi": "10.1016/j.clinbiomech.2026.106916",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42418854",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106916",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106916"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42418854",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42418854/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「膝骨關節炎患者坐下與起立動作中的脛股接觸力與肌肉需求」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Tibiofemoral contact forces and muscle demands in knee osteoarthritis patients during the stand-to-sit and sit-to-stand tasks",
+      "title_original": "Tibiofemoral contact forces and muscle demands in knee osteoarthritis patients during the stand-to-sit and sit-to-stand tasks",
+      "title_zh_tw": "膝骨關節炎患者坐下與起立動作中的脛股接觸力與肌肉需求",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106916",
+        "https://pubmed.ncbi.nlm.nih.gov/42418854/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Paphawee Prupetkaew",
+        "Steven Morrison",
+        "Alex A. Grunsfeld",
+        "Daniel M. Russell"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106945",
+      "doi": "10.1016/j.clinbiomech.2026.106945",
+      "issns": [
+        "0268-0033"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106945",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106945"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「帕金森氏症患者與高齡者的跌倒風險、步行速度與頭軀幹控制之關係」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Relationships between falls risk, gait speed, and head-trunk control in people with Parkinson's disease and elderly",
+      "title_original": "Relationships between falls risk, gait speed, and head-trunk control in people with Parkinson's disease and elderly",
+      "title_zh_tw": "帕金森氏症患者與高齡者的跌倒風險、步行速度與頭軀幹控制之關係",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106945"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lisa T. Hoglund",
+        "Amy H. Amabile",
+        "Thomas A. Hulcher",
+        "Victoria K. Polansky",
+        "Erin L. Dopke"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106902",
+      "doi": "10.1016/j.clinbiomech.2026.106902",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42364262",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106902",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106902"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42364262",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42364262/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「髕股疼痛男性與無痛男性單腳深蹲時的下肢肌力下降、肌肉活化改變及動力學未變：橫斷面分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reduced lower extremity strength, altered muscle activation, and unchanged kinetics during single-leg squatting in males with patellofemoral pain versus pain-free males: A cross-sectional analysis",
+      "title_original": "Reduced lower extremity strength, altered muscle activation, and unchanged kinetics during single-leg squatting in males with patellofemoral pain versus pain-free males: A cross-sectional analysis",
+      "title_zh_tw": "髕股疼痛男性與無痛男性單腳深蹲時的下肢肌力下降、肌肉活化改變及動力學未變：橫斷面分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106902",
+        "https://pubmed.ncbi.nlm.nih.gov/42364262/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tom Leppens",
+        "Pieter Severijns",
+        "Lotte Janssens",
+        "Sebastiaan Schelfaut",
+        "Lennart Scheys",
+        "Lieven Moke"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106915",
+      "doi": "10.1016/j.clinbiomech.2026.106915",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42418855",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106915",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106915"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42418855",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42418855/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「成人脊柱畸形手術矯正後持續的活動限制與跌倒恐懼」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Persistent activity limitations and fear of falling after surgical correction of adult spinal deformity",
+      "title_original": "Persistent activity limitations and fear of falling after surgical correction of adult spinal deformity",
+      "title_zh_tw": "成人脊柱畸形手術矯正後持續的活動限制與跌倒恐懼",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106915",
+        "https://pubmed.ncbi.nlm.nih.gov/42418855/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hiroyuki Tokuyasu",
+        "Eiki Tsushima",
+        "Mitsuru Takemoto",
+        "Claudio Vergari",
+        "Ayaka Nishimura",
+        "Hiroshi Kanoe",
+        "Youngwoo Kim"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106909",
+      "doi": "10.1016/j.clinbiomech.2026.106909",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42413350",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106909",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106909"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42413350",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42413350/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「使用柔性曲線尺非侵入性測量全髖關節置換患者的腰椎活動度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Non-invasive measurement of lumbar mobility using a flexible curve ruler in patients with total hip arthroplasty",
+      "title_original": "Non-invasive measurement of lumbar mobility using a flexible curve ruler in patients with total hip arthroplasty",
+      "title_zh_tw": "使用柔性曲線尺非侵入性測量全髖關節置換患者的腰椎活動度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106909",
+        "https://pubmed.ncbi.nlm.nih.gov/42413350/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ransi S.S. Subasinghe Arachchige",
+        "Pei-Chun Huang",
+        "Po-Tsun Chen",
+        "Chao-Ying Chen",
+        "Chia-Ling Chen",
+        "Chih-Hsiu Cheng",
+        "Roy T.H. Cheung"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106911",
+      "doi": "10.1016/j.clinbiomech.2026.106911",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42379098",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106911",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106911"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379098",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379098/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「自閉症譜系障礙兒童與一般兒童跳躍動作的運動差異」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Motor differences in jumping among children with and without autism spectrum disorder",
+      "title_original": "Motor differences in jumping among children with and without autism spectrum disorder",
+      "title_zh_tw": "自閉症譜系障礙兒童與一般兒童跳躍動作的運動差異",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106911",
+        "https://pubmed.ncbi.nlm.nih.gov/42379098/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shraddha Shah",
+        "Nikou Nikoumanesh",
+        "Lindsay Slater Hannigan"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106882",
+      "doi": "10.1016/j.clinbiomech.2026.106882",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42263422",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106882",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106882"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263422",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263422/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「缺血預處理改變膝骨關節炎高齡者的步態力學」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Ischemic preconditioning alters gait mechanics in older adults with knee osteoarthritis",
+      "title_original": "Ischemic preconditioning alters gait mechanics in older adults with knee osteoarthritis",
+      "title_zh_tw": "缺血預處理改變膝骨關節炎高齡者的步態力學",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106882",
+        "https://pubmed.ncbi.nlm.nih.gov/42263422/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Adi Mithani",
+        "Emeric Bernier",
+        "Ahmed Aoude",
+        "Mark Driscoll"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106904",
+      "doi": "10.1016/j.clinbiomech.2026.106904",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42320175",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106904",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106904"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42320175",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42320175/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「控制前屈時椎旁軟組織僵硬度與脊柱幾何形態的關聯：橫斷面病例對照研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Investigating the association between paraspinal soft tissue stiffness and spinal geometry during controlled forward flexion: A cross-sectional case-controlled investigation",
+      "title_original": "Investigating the association between paraspinal soft tissue stiffness and spinal geometry during controlled forward flexion: A cross-sectional case-controlled investigation",
+      "title_zh_tw": "控制前屈時椎旁軟組織僵硬度與脊柱幾何形態的關聯：橫斷面病例對照研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106904",
+        "https://pubmed.ncbi.nlm.nih.gov/42320175/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ye Wei",
+        "Datao Xu",
+        "Zhifeng Zhou",
+        "Huiyu Zhou",
+        "Zanni Zhang",
+        "Qincheng Ge",
+        "Meizi Wang",
+        "Danica Janicijevic",
+        "Yi Yuan",
+        "Yaodong Gu"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106907",
+      "doi": "10.1016/j.clinbiomech.2026.106907",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42379100",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106907",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106907"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379100",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379100/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「前十字韌帶重建後下樓梯時雙下肢膝關節負荷與應力分布差異」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Interlimb differences in knee joint loading and stress distribution following anterior cruciate ligament reconstruction during stair descent",
+      "title_original": "Interlimb differences in knee joint loading and stress distribution following anterior cruciate ligament reconstruction during stair descent",
+      "title_zh_tw": "前十字韌帶重建後下樓梯時雙下肢膝關節負荷與應力分布差異",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106907",
+        "https://pubmed.ncbi.nlm.nih.gov/42379100/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Koyu Horibata",
+        "Shinichi Kawamoto",
+        "Daiki Nohara",
+        "Hiroki Shimizu",
+        "Momoko Nagai-Tanima",
+        "Tomoki Aoyama"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106913",
+      "doi": "10.1016/j.clinbiomech.2026.106913",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42424749",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106913",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106913"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42424749",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42424749/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以肩部動作品質辨識旋轉肌袖疾病：使用單一慣性測量單元的探索性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Identifying rotator cuff disorders through shoulder movement quality: An exploratory study using a single inertial measurement unit",
+      "title_original": "Identifying rotator cuff disorders through shoulder movement quality: An exploratory study using a single inertial measurement unit",
+      "title_zh_tw": "以肩部動作品質辨識旋轉肌袖疾病：使用單一慣性測量單元的探索性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106913",
+        "https://pubmed.ncbi.nlm.nih.gov/42424749/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Babette M. Mooijekind",
+        "Gaia van den Heuvel",
+        "Marjolein M. van der Krogt",
+        "Melinda M.E.H. Witbreuk",
+        "Wouter Schallig",
+        "Richard T. Jaspers",
+        "Guido Weide",
+        "Lynn Bar-On",
+        "Annemieke I. Buizer"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106941",
+      "doi": "10.1016/j.clinbiomech.2026.106941",
+      "issns": [
+        "0268-0033"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106941",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106941"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「腦性麻痺青少年接受 Vulpius 腓腸肌－比目魚肌延長術一年後內側腓腸肌的形態與功能」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Gastrocnemius medialis muscle morphology and function one year after Vulpius gastrocsoleus lengthening surgery in adolescents with cerebral palsy",
+      "title_original": "Gastrocnemius medialis muscle morphology and function one year after Vulpius gastrocsoleus lengthening surgery in adolescents with cerebral palsy",
+      "title_zh_tw": "腦性麻痺青少年接受 Vulpius 腓腸肌－比目魚肌延長術一年後內側腓腸肌的形態與功能",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106941"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuetong Wu",
+        "Xiangrui Wang",
+        "Todd M. Manini",
+        "Boyi Hu"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106891",
+      "doi": "10.1016/j.clinbiomech.2026.106891",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42284654",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106891",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106891"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42284654",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42284654/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「功能分層揭示超越實際年齡且不受步速影響的步態障礙」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Functional stratification reveals speed-independent gait impairments beyond chronological age",
+      "title_original": "Functional stratification reveals speed-independent gait impairments beyond chronological age",
+      "title_zh_tw": "功能分層揭示超越實際年齡且不受步速影響的步態障礙",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106891",
+        "https://pubmed.ncbi.nlm.nih.gov/42284654/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maha Ead",
+        "Tao Liu",
+        "Nadr Jomha",
+        "Kajsa Duke",
+        "Lindsey Westover"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106895",
+      "doi": "10.1016/j.clinbiomech.2026.106895",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42302371",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106895",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106895"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42302371",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42302371/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「距骨植入物用聚碳酸酯－聚氨酯塗層的有限元素分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Finite element analysis of polycarbonate-urethane coatings for talus implant applications",
+      "title_original": "Finite element analysis of polycarbonate-urethane coatings for talus implant applications",
+      "title_zh_tw": "距骨植入物用聚碳酸酯－聚氨酯塗層的有限元素分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106895",
+        "https://pubmed.ncbi.nlm.nih.gov/42302371/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Frederick A. McClintock",
+        "Andrew J. Callaway",
+        "Carol J. Clark",
+        "Elena Muñoz-Gómez",
+        "Raee S. Alqhtani",
+        "Jonathan M. Williams"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106908",
+      "doi": "10.1016/j.clinbiomech.2026.106908",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42379099",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106908",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106908"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379099",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379099/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「真實世界腰椎姿勢行為：下背痛者與健康對照者的全天比較」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring real-world lumbar posture behaviour. A whole day comparison of individuals with low back pain and healthy controls",
+      "title_original": "Exploring real-world lumbar posture behaviour. A whole day comparison of individuals with low back pain and healthy controls",
+      "title_zh_tw": "真實世界腰椎姿勢行為：下背痛者與健康對照者的全天比較",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106908",
+        "https://pubmed.ncbi.nlm.nih.gov/42379099/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yusuke Matsuura",
+        "Takahiro Yamazaki",
+        "Aya Kanazuka",
+        "Seiji Ohtori",
+        "Takane Suzuki"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106905",
+      "doi": "10.1016/j.clinbiomech.2026.106905",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42361411",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106905",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106905"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42361411",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42361411/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「確保骨對骨接觸可降低前臂骨幹鋼板固定的骨折片間應變：有限元素研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Ensuring bone-to-bone contact reduces interfragmentary strain in forearm shaft plating: A finite element study",
+      "title_original": "Ensuring bone-to-bone contact reduces interfragmentary strain in forearm shaft plating: A finite element study",
+      "title_zh_tw": "確保骨對骨接觸可降低前臂骨幹鋼板固定的骨折片間應變：有限元素研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106905",
+        "https://pubmed.ncbi.nlm.nih.gov/42361411/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiuqing Zhao",
+        "Wenke Liu",
+        "Peng Wu",
+        "Jialong Ren",
+        "Jie Yang",
+        "Kun Xiao",
+        "Jun Zhou",
+        "Jiong Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106903",
+      "doi": "10.1016/j.clinbiomech.2026.106903",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42349064",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106903",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106903"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42349064",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42349064/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「前十字韌帶缺損與重建對髕股關節接觸特性的動態生物力學影響：體外研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dynamic biomechanical effects of anterior cruciate ligament deficiency and reconstruction on patellofemoral joint contact characteristics: An in vitro study",
+      "title_original": "Dynamic biomechanical effects of anterior cruciate ligament deficiency and reconstruction on patellofemoral joint contact characteristics: An in vitro study",
+      "title_zh_tw": "前十字韌帶缺損與重建對髕股關節接觸特性的動態生物力學影響：體外研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106903",
+        "https://pubmed.ncbi.nlm.nih.gov/42349064/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andrés Felipe Villaquiran-Hurtado",
+        "Cristina Jimenez-Avila",
+        "Daniel Jerez-Mayorga"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106893",
+      "doi": "10.1016/j.clinbiomech.2026.106893",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42296821",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106893",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106893"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42296821",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42296821/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「關節置換術後踝部肌力的變化：系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Changes in ankle muscle strength following arthroplasty: A systematic review",
+      "title_original": "Changes in ankle muscle strength following arthroplasty: A systematic review",
+      "title_zh_tw": "關節置換術後踝部肌力的變化：系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106893",
+        "https://pubmed.ncbi.nlm.nih.gov/42296821/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shuaiqi Si",
+        "Xiang Li",
+        "Ling Li",
+        "Jihong Shen",
+        "Tingqiang Yao"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106900",
+      "doi": "10.1016/j.clinbiomech.2026.106900",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42330577",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106900",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106900"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42330577",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42330577/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「病理性骨盆底的生物力學：骨盆器官脫垂骨盆底的有限元素比較分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Biomechanics of pathological pelvic floor: Finite element comparative analysis of the prolapsed pelvic floor",
+      "title_original": "Biomechanics of pathological pelvic floor: Finite element comparative analysis of the prolapsed pelvic floor",
+      "title_zh_tw": "病理性骨盆底的生物力學：骨盆器官脫垂骨盆底的有限元素比較分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106900",
+        "https://pubmed.ncbi.nlm.nih.gov/42330577/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Honghu Lin",
+        "Guoshuai Liu",
+        "Jianjia Huang",
+        "Peishuai Zhao",
+        "Zhangke Xiong",
+        "Junjie Jiang",
+        "Meimei Wang",
+        "Chaoyong Bei"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106912",
+      "doi": "10.1016/j.clinbiomech.2026.106912",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42401062",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106912",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106912"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42401062",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42401062/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合 3D 列印與數位設計的脛骨平台骨折生物力學研究：有限元素分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Biomechanical study of Tibial plateau fractures using 3D printing and digital design: A finite element analysis",
+      "title_original": "Biomechanical study of Tibial plateau fractures using 3D printing and digital design: A finite element analysis",
+      "title_zh_tw": "結合 3D 列印與數位設計的脛骨平台骨折生物力學研究：有限元素分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106912",
+        "https://pubmed.ncbi.nlm.nih.gov/42401062/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sudharshan Tripathi",
+        "Prasannaah Hadagali",
+        "Amey Kelkar",
+        "Manoj Kodigudla",
+        "Hossein Elgafy"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106890",
+      "doi": "10.1016/j.clinbiomech.2026.106890",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42269363",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106890",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106890"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42269363",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42269363/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「過渡連接棒與椎板下鉤預防近端交界性後凸的生物力學評估：有限元素研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Biomechanical evaluation of transition rods and sublaminar hooks for proximal junctional kyphosis prevention: A finite element study",
+      "title_original": "Biomechanical evaluation of transition rods and sublaminar hooks for proximal junctional kyphosis prevention: A finite element study",
+      "title_zh_tw": "過渡連接棒與椎板下鉤預防近端交界性後凸的生物力學評估：有限元素研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106890",
+        "https://pubmed.ncbi.nlm.nih.gov/42269363/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Clay A. Spitler",
+        "David P. Beason",
+        "Jonathan S. Slowik",
+        "Logan A. Reed",
+        "Glenn S. Fleisig"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106946",
+      "doi": "10.1016/j.clinbiomech.2026.106946",
+      "issns": [
+        "0268-0033"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106946",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106946"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「高位脛骨截骨術固定中碳纖維增強聚醚醚酮與鈦板的生物力學評估」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Biomechanical evaluation of carbon fiber-reinforced polyether ether ketone versus titanium plates for fixation of high tibial osteotomy",
+      "title_original": "Biomechanical evaluation of carbon fiber-reinforced polyether ether ketone versus titanium plates for fixation of high tibial osteotomy",
+      "title_zh_tw": "高位脛骨截骨術固定中碳纖維增強聚醚醚酮與鈦板的生物力學評估",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106946"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Younghwan Kwag",
+        "Jaesun Shim",
+        "Donghwan Park"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106910",
+      "doi": "10.1016/j.clinbiomech.2026.106910",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42401061",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106910",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106910"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42401061",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42401061/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「慢性中風患者 Kinesio 與 Mulligan 踝部貼紮對平衡與踝功能的生物力學影響：隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Biomechanical effects of Kinesio versus Mulligan ankle taping on balance and ankle function in chronic STROKE: A randomized controlled trial",
+      "title_original": "Biomechanical effects of Kinesio versus Mulligan ankle taping on balance and ankle function in chronic STROKE: A randomized controlled trial",
+      "title_zh_tw": "慢性中風患者 Kinesio 與 Mulligan 踝部貼紮對平衡與踝功能的生物力學影響：隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106910",
+        "https://pubmed.ncbi.nlm.nih.gov/42401061/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sayaka Okada",
+        "Masashi Taniguchi",
+        "Masahide Yagi",
+        "Shogo Okada",
+        "Kaede Nakazato",
+        "Yoshiki Motomura",
+        "Masashi Kobayashi",
+        "Kyoseki Kanemitsu",
+        "Hiroshige Tateuchi",
+        "Noriaki Ichihashi"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106901",
+      "doi": "10.1016/j.clinbiomech.2026.106901",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42341633",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106901",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106901"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42341633",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42341633/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「膝骨關節炎女性的髕下脂肪墊僵硬度與步態相關力學特徵之關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Association between infrapatellar fat pad stiffness and gait-related mechanical characteristics in women with knee osteoarthritis",
+      "title_original": "Association between infrapatellar fat pad stiffness and gait-related mechanical characteristics in women with knee osteoarthritis",
+      "title_zh_tw": "膝骨關節炎女性的髕下脂肪墊僵硬度與步態相關力學特徵之關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106901",
+        "https://pubmed.ncbi.nlm.nih.gov/42341633/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Junil So",
+        "Seohee Park",
+        "Yongwun Cho",
+        "Chang Han Lee",
+        "Min-Kyun Oh",
+        "Hayoung Byun"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106892",
+      "doi": "10.1016/j.clinbiomech.2026.106892",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42269362",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106892",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106892"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42269362",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42269362/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「髖部骨折早期住院復健期間患側髖屈曲恢復與步速提升的關聯：先導性前瞻生物力學分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Affected-side hip flexion recovery is associated with gait-speed gain during early inpatient rehabilitation after hip fracture: A pilot prospective biomechanical analysis",
+      "title_original": "Affected-side hip flexion recovery is associated with gait-speed gain during early inpatient rehabilitation after hip fracture: A pilot prospective biomechanical analysis",
+      "title_zh_tw": "髖部骨折早期住院復健期間患側髖屈曲恢復與步速提升的關聯：先導性前瞻生物力學分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106892",
+        "https://pubmed.ncbi.nlm.nih.gov/42269362/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Stanislav Dimitri Siegel",
+        "Steffen Geisendorff",
+        "Peter Huppke",
+        "Mareike Sproll",
+        "Astrid Zech"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106906",
+      "doi": "10.1016/j.clinbiomech.2026.106906",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42361410",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106906",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106906"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42361410",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42361410/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「赤足與穿鞋條件造成腦性麻痺兒童步態生物力學的急性變化：探索性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Acute changes in gait biomechanics in children with cerebral palsy due to barefoot vs. footwear condition – An exploratory study",
+      "title_original": "Acute changes in gait biomechanics in children with cerebral palsy due to barefoot vs. footwear condition – An exploratory study",
+      "title_zh_tw": "赤足與穿鞋條件造成腦性麻痺兒童步態生物力學的急性變化：探索性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106906",
+        "https://pubmed.ncbi.nlm.nih.gov/42361410/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maria Sukanen",
+        "Ra'ad M. Khair",
+        "Iida Laatikainen-Raussi",
+        "Ville Ponkilainen",
+        "Aleksi Reito",
+        "Arto J. Hautala",
+        "Taija Finni"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106894",
+      "doi": "10.1016/j.clinbiomech.2026.106894",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42263423",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106894",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106894"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263423",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263423/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「阿基里斯腱斷裂後以加速度計測得的身體活動：前瞻性世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Accelerometry-derived physical activity following Achilles tendon rupture: A prospective cohort study",
+      "title_original": "Accelerometry-derived physical activity following Achilles tendon rupture: A prospective cohort study",
+      "title_zh_tw": "阿基里斯腱斷裂後以加速度計測得的身體活動：前瞻性世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106894",
+        "https://pubmed.ncbi.nlm.nih.gov/42263423/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hadil Khalifa",
+        "Fabrice Morestin",
+        "Benyebka Bou-Said",
+        "Francesco Marchetti"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106880",
+      "doi": "10.1016/j.clinbiomech.2026.106880",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical Biomechanics",
+      "pmcid": null,
+      "pmid": "42275975",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clinbiomech.2026.106880",
+          "url": "https://doi.org/10.1016/j.clinbiomech.2026.106880"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42275975",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42275975/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合解剖資訊 Cooper 韌帶網路的個人化乳房計算模型框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A computational framework for patient-specific breast modelling with anatomically informed Cooper’s ligament networks",
+      "title_original": "A computational framework for patient-specific breast modelling with anatomically informed Cooper’s ligament networks",
+      "title_zh_tw": "結合解剖資訊 Cooper 韌帶網路的個人化乳房計算模型框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106880",
+        "https://pubmed.ncbi.nlm.nih.gov/42275975/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Paige Paulus",
+        "Tom Gale",
+        "Rishabh Shetty",
+        "Yulia Yatsenko",
+        "Justin Elder",
+        "Kelly Mroz",
+        "Gina McKernan",
+        "Drew Buffat",
+        "Goeran Fiedler",
+        "William Anderst"
+      ],
+      "canonical_id": "doi:10.1016/j.clinbiomech.2026.106947",
+      "doi": "10.1016/j.clinbiomech.2026.106947",
+      "issns": [
+        "0268-0033",
+        "1879-1271"
+      ],
+      "journal": "Clinical biomechanics (Bristol, Avon)",
+      "pmcid": null,
+      "pmid": "42612312",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42612312",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42612312/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Residual femur motion during the stance phase of gait is associated with dynamic stability in individuals with transfemoral amputations.",
+      "title_original": "Residual femur motion during the stance phase of gait is associated with dynamic stability in individuals with transfemoral amputations.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.clinbiomech.2026.106947",
+        "https://pubmed.ncbi.nlm.nih.gov/42612312/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 28,
+    "by_article_type": {
+      "Journal Article": 1,
+      "journal-article": 27
+    },
+    "by_source": {
+      "crossref": 27,
+      "pubmed": 25
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 28,
+    "translated_articles": 27
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "clinical-biomechanics__2026-08__r02",
+  "edition_key": "clinical-biomechanics__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-19",
+    "acquisition_start": "2026-08-15",
+    "added_article_count": 1,
+    "base_article_count": 27,
+    "base_edition_sha256": "9459d72a674783a70a41f4dc794ba2643b03b657cd1735b7c62409de866154c9",
+    "base_manifest_publication_id": "clinical-biomechanics__2026-08__r01",
+    "base_period_end": "2026-08-14",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "clinical-biomechanics__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 1,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 28
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-19",
+    "incremental_acquisition_start": "2026-08-15",
+    "journal_slug": "clinical-biomechanics",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 28,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 1,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "clinical-biomechanics__2026-08__r02",
+  "retrieved_at": "2026-08-19T09:16:16Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02",
+    "edition_key": "clinical-biomechanics__2026-08",
+    "end_date": "2026-08-19",
+    "issn": "0268-0033",
+    "journal": "Clinical Biomechanics",
+    "journal_slug": "clinical-biomechanics",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 19 日）",
+    "period_status": "MTD",
+    "publication_id": "clinical-biomechanics__2026-08__r02",
+    "revision": 2,
+    "slug": "clinical-biomechanics",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Clinical Biomechanics; publication=2026-08-15..2026-08-19",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 1,
+      "detail": null,
+      "query": "(\"Clinical Biomechanics\"[Journal] OR \"0268-0033\"[ISSN]) AND (\"2026/08/15\"[Date - Publication] : \"2026/08/19\"[Date - Publication])",
+      "returned_count": 1,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 1,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Clinical Biomechanics\" AND FIRST_PDATE:[2026-08-15 TO 2026-08-19]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "clinical-biomechanics__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": "73a6f470de2792ed5445999a5ab6ad9d54e6da937b50ae5464339cdd35a21c5c",
+    "response_generated_at": "2026-08-14T04:06:17Z",
+    "response_sha256": "5b22fef4c75aa29b0837e5ff331d1a8ea8770e2a410c863d160ef670200d2004",
+    "source_edition_sha256": "69ed9501c8f1c27c933eda20d25938d90284e4cdacdf80593c3bd63ca8e682bd",
+    "status": "PARTIAL",
+    "total_articles": 28,
+    "translated_articles": 27
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_clinical_biomechanics"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

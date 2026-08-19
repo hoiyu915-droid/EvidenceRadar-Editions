@@ -1,0 +1,43 @@
+{
+  "article_count": 28,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-19T09:16:16Z",
+  "edition_id": "clinical-biomechanics__2026-08__r02",
+  "edition_key": "clinical-biomechanics__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 58258,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.json",
+      "sha256": "39d94e285a54e3c9ae36ec46c3170a9ac57d4fd38eebf03beffacd7c91c5ce7d"
+    },
+    "report_html": {
+      "bytes": 98815,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.html",
+      "sha256": "8ed7692f6eef2b0ed43bd65a540b9e148b5c0b309a8dcc3f0283ada6f53ab954"
+    }
+  },
+  "journal": "Clinical Biomechanics",
+  "journal_slug": "clinical-biomechanics",
+  "manifest_name": "EvidenceRadar_Editions__clinical-biomechanics__2026-08__r02.manifest.json",
+  "period_end": "2026-08-19",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "clinical-biomechanics__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 27,
+  "translation_provenance": {
+    "request_binding_sha256": "73a6f470de2792ed5445999a5ab6ad9d54e6da937b50ae5464339cdd35a21c5c",
+    "response_sha256": "5b22fef4c75aa29b0837e5ff331d1a8ea8770e2a410c863d160ef670200d2004",
+    "source_edition_sha256": "69ed9501c8f1c27c933eda20d25938d90284e4cdacdf80593c3bd63ca8e682bd"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
