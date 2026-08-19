@@ -14,6 +14,7 @@ from .journal_catalog_v2 import get_journal, spec_defaults
 from .models import EditionSpec
 from .naming import build_identity
 from .processing_policy import policy_for_slug
+from .provider_catalog import load_provider_catalog
 from .store_v3 import validate_stored_publication
 from .utils import parse_iso_date, sha256_file
 
@@ -27,6 +28,43 @@ class BackfillResult:
     base_directory: Path
     acquisition_start: date
     acquisition_end: date
+
+
+def _resolve_incremental_journal(
+    journal_slug: str,
+    *,
+    catalog_root: Path,
+    provider: str | None,
+    require_enabled: bool,
+) -> dict[str, Any]:
+    provider_key = str(provider or "").strip().casefold()
+    if not provider_key:
+        return get_journal(
+            journal_slug,
+            catalog_root=catalog_root,
+            require_enabled=require_enabled,
+        )
+    if provider_key != "cambridge":
+        raise ValueError(f"unsupported incremental Edition provider: {provider_key}")
+
+    catalog = load_provider_catalog(
+        Path(catalog_root) / "providers" / f"{provider_key}.json"
+    )
+    matches = [
+        item
+        for item in catalog["journals"]
+        if str(item.get("slug") or "") == journal_slug
+    ]
+    if not matches:
+        raise KeyError(
+            f"journal is not registered in provider catalog {provider_key}: {journal_slug}"
+        )
+    journal = matches[0]
+    if require_enabled and str(journal.get("status") or "active") != "active":
+        raise ValueError(
+            f"provider journal is not active in {provider_key}: {journal_slug}"
+        )
+    return journal
 
 
 def _latest_month_directory(
@@ -292,6 +330,7 @@ def build_incremental_month_backfill(
     radar_commit: str | None = None,
     max_records: int | None = None,
     sources: tuple[str, ...] | None = None,
+    provider: str | None = None,
     allow_planned: bool = False,
     allow_policy_override: bool = False,
 ) -> BackfillResult:
@@ -311,9 +350,19 @@ def build_incremental_month_backfill(
     if acquisition_end < start:
         raise ValueError("backfill acquisition end precedes the missing-date window")
 
-    journal = get_journal(
+    base_provider = (
+        str((base.get("scope") or {}).get("provider") or "").strip().casefold()
+    )
+    requested_provider = str(provider or "").strip().casefold()
+    if requested_provider and base_provider and requested_provider != base_provider:
+        raise ValueError(
+            "incremental request provider differs from the immutable base provider"
+        )
+    resolved_provider = requested_provider or base_provider or None
+    journal = _resolve_incremental_journal(
         journal_slug,
         catalog_root=catalog_root,
+        provider=resolved_provider,
         require_enabled=not allow_planned,
     )
     defaults = spec_defaults(journal)
