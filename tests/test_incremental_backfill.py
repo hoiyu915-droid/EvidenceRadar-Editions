@@ -150,6 +150,14 @@ class IncrementalBackfillTests(unittest.TestCase):
             self.assertEqual(manifest["period_end"], "2026-08-14")
             self.assertEqual(manifest["revision"], 1)
 
+    def test_workflow_has_guarded_fast_forward_when_action_prs_are_disabled(self):
+        workflow = Path(".github/workflows/incremental-backfill.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("DIRECT_FAST_FORWARD_FALLBACK", workflow)
+        self.assertIn('test "$(git rev-parse origin/main)" = "$BASE_SHA"', workflow)
+        self.assertIn('git push origin "$HEAD_SHA:refs/heads/main"', workflow)
+
 
 if __name__ == "__main__":
     unittest.main()
