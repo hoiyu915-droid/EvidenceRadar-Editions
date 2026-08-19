@@ -43,6 +43,12 @@ def load_batch_request(path: Path) -> dict[str, Any]:
     for journal in journals:
         if not journal or not all(character.islower() or character.isdigit() or character == "-" for character in journal):
             raise ValueError(f"unsafe journal slug in backfill request: {journal!r}")
+    provider = str(request.get("provider") or "").strip().casefold()
+    if provider and not all(
+        character.islower() or character.isdigit() or character == "-"
+        for character in provider
+    ):
+        raise ValueError(f"unsafe provider in backfill request: {provider!r}")
     raw_limits = request.get("max_records_by_journal") or {}
     if not isinstance(raw_limits, dict):
         raise ValueError("backfill max_records_by_journal must be an object")
@@ -79,6 +85,7 @@ def load_batch_request(path: Path) -> dict[str, Any]:
     normalized["acquisition_end"] = end.isoformat()
     normalized["revision"] = revision
     normalized["journals"] = journals
+    normalized["provider"] = provider or None
     normalized["max_records_by_journal"] = limits
     normalized["policy_override_journals"] = policy_overrides
     return normalized
@@ -174,6 +181,7 @@ def run_batch(
             radar_root=radar_root,
             radar_commit=radar_commit,
             max_records=max_records_by_journal.get(journal_slug),
+            provider=request.get("provider"),
             allow_policy_override=journal_slug in policy_override_journals,
         )
         bundle_dir = Path(work_dir) / journal_slug
