@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from typing import Any
+from urllib.parse import urlparse
 
 from ..http import HttpClient
 from ..models import AdapterResult, Article, EditionSpec, SourceCheck, SourceRecord
@@ -13,6 +14,23 @@ from ..utils import (
 )
 
 ENDPOINT = "https://api.crossref.org/works"
+
+
+def _publisher_url(raw: dict[str, Any]) -> str:
+    resource = raw.get("resource") or {}
+    primary = resource.get("primary") if isinstance(resource, dict) else {}
+    value = primary.get("URL") if isinstance(primary, dict) else ""
+    url = safe_http_metadata_url(str(value or ""))
+    if not url:
+        return ""
+
+    parsed = urlparse(url)
+    prefix = "/retrieve/pii/"
+    if parsed.netloc.lower() == "linkinghub.elsevier.com" and parsed.path.startswith(prefix):
+        pii = parsed.path.removeprefix(prefix).strip("/")
+        if pii and pii.replace("-", "").isalnum():
+            return f"https://www.sciencedirect.com/science/article/pii/{pii}"
+    return url
 
 
 class CrossrefAdapter:
@@ -68,7 +86,9 @@ class CrossrefAdapter:
             )
             if name:
                 authors.append(name)
-        url_value = safe_http_metadata_url(str(raw.get("URL") or ""))
+        url_value = _publisher_url(raw)
+        if not url_value:
+            url_value = safe_http_metadata_url(str(raw.get("URL") or ""))
         if not url_value and doi:
             url_value = f"https://doi.org/{doi}"
         return Article(
@@ -98,7 +118,7 @@ class CrossrefAdapter:
             "query.container-title": spec.journal,
             "select": (
                 "DOI,title,container-title,published-online,published-print,"
-                "published,issued,ISSN,author,URL,type"
+                "published,issued,ISSN,author,URL,type,resource"
             ),
         }
         try:
