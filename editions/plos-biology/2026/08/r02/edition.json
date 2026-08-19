@@ -1,0 +1,1003 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dominik Herek",
+        "Juan C. Muñoz-Sánchez",
+        "Ana Villena-Giménez",
+        "Victoria G. Castiglioni",
+        "Santiago F. Elena"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003965",
+      "doi": "10.1371/journal.pbio.3003965",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003965",
+          "url": "https://doi.org/10.1371/journal.pbio.3003965"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Species-specific barriers restrict virus spillover potential across the Caenorhabditis genus",
+      "title_original": "Species-specific barriers restrict virus spillover potential across the Caenorhabditis genus",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003965"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Roko Gvozdenica Šipić",
+        "Haiyan Zhang",
+        "Andrii Kharin",
+        "Jerneja Koren",
+        "Viviana D’Otolo",
+        "Yuko Nariai",
+        "Takeshi Urano",
+        "Pawel Pelczar",
+        "Klemens Fröhlich",
+        "Alexander Schmidt",
+        "Urszula Brykczynska Kunzmann",
+        "Tohnyui Ndinyanka Fabrice",
+        "Alexey Baldin",
+        "Jean Pieters"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003904",
+      "doi": "10.1371/journal.pbio.3003904",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003904",
+          "url": "https://doi.org/10.1371/journal.pbio.3003904"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Reassessment of the roles of coronin proteins as actin effectors and in signaling",
+      "title_original": "Reassessment of the roles of coronin proteins as actin effectors and in signaling",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003904"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elena Pérez-Montoyo",
+        "José María Caramés",
+        "Raquel Garcia-Hernandez",
+        "Mónica Peralta-Cañadas",
+        "Santiago Canals",
+        "Encarni Marcos"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003956",
+      "doi": "10.1371/journal.pbio.3003956",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003956",
+          "url": "https://doi.org/10.1371/journal.pbio.3003956"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Inhibitory tone in the dentate gyrus dynamically prioritizes memory flexibility or stability by tuning a sensitivity-consistency continuum",
+      "title_original": "Inhibitory tone in the dentate gyrus dynamically prioritizes memory flexibility or stability by tuning a sensitivity-consistency continuum",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003956"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Natalia Gaarslev",
+        "Ying Xu",
+        "Eléonore Lizé",
+        "Irene Julca",
+        "Natasha Glover",
+        "Sebastian Soyk"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003946",
+      "doi": "10.1371/journal.pbio.3003946",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003946",
+          "url": "https://doi.org/10.1371/journal.pbio.3003946"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Incomplete functional divergence drives MADS-box gene synergy during floral development in tomato",
+      "title_original": "Incomplete functional divergence drives MADS-box gene synergy during floral development in tomato",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003946"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Justin Crocker"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003941",
+      "doi": "10.1371/journal.pbio.3003941",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003941",
+          "url": "https://doi.org/10.1371/journal.pbio.3003941"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Ecological dark matter: Insect decline and the planetary monitoring gap",
+      "title_original": "Ecological dark matter: Insect decline and the planetary monitoring gap",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003941"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Amandine Le Corf",
+        "Sarah Maesen",
+        "Amandine Chantharath",
+        "Clara Loyer",
+        "Juan Manuel Vazquez",
+        "M. Elise Lauterbur",
+        "Veronika Krchlikova",
+        "Lucas Sareoua",
+        "Genavieve Gray-Sandoval",
+        "Andrea Cimarelli",
+        "Carine Rey",
+        "Peter H. Sudmant",
+        "David Enard",
+        "Lucie Etienne"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003963",
+      "doi": "10.1371/journal.pbio.3003963",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003963",
+          "url": "https://doi.org/10.1371/journal.pbio.3003963"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Correction: Genomic and functional adaptations in the guanylate-binding protein GBP5 highlight specificities of bat antiviral innate immunity",
+      "title_original": "Correction: Genomic and functional adaptations in the guanylate-binding protein GBP5 highlight specificities of bat antiviral innate immunity",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003963"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Julia B. Cordero"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003921",
+      "doi": "10.1371/journal.pbio.3003921",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003921",
+          "url": "https://doi.org/10.1371/journal.pbio.3003921"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「腸道掌控一切：腸內分泌對發育生長的調控」。",
+      "title": "The gut takes it all: Enteroendocrine control of developmental growth",
+      "title_original": "The gut takes it all: Enteroendocrine control of developmental growth",
+      "title_zh_tw": "腸道掌控一切：腸內分泌對發育生長的調控",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003921"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Douglas R. Call",
+        "Mary Sanchez-Lanier",
+        "Ananth Kalyanaraman",
+        "Sascha H. Duttke"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003917",
+      "doi": "10.1371/journal.pbio.3003917",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003917",
+          "url": "https://doi.org/10.1371/journal.pbio.3003917"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「邁向研究復興：透過導師指導下的 AI 使用賦能早期職涯研究者」。",
+      "title": "Towards a research renaissance: Empowering early career researchers through mentored AI use",
+      "title_original": "Towards a research renaissance: Empowering early career researchers through mentored AI use",
+      "title_zh_tw": "邁向研究復興：透過導師指導下的 AI 使用賦能早期職涯研究者",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003917"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1371/journal.pbio.3003943",
+      "doi": "10.1371/journal.pbio.3003943",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003943",
+          "url": "https://doi.org/10.1371/journal.pbio.3003943"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「更正：編輯說明：性染色體如何陷入非重組狀態」。",
+      "title": "Correction: Editorial Note: How sex chromosomes get trapped into nonrecombination",
+      "title_original": "Correction: Editorial Note: How sex chromosomes get trapped into nonrecombination",
+      "title_zh_tw": "更正：編輯說明：性染色體如何陷入非重組狀態",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003943"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Longwei Bai",
+        "Jacques Montagne",
+        "Cathy Isaura Ramos",
+        "François Leulier"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003911",
+      "doi": "10.1371/journal.pbio.3003911",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003911",
+          "url": "https://doi.org/10.1371/journal.pbio.3003911"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「營養敏感型腸源激素透過器官間訊號協調發育可塑性」。",
+      "title": "A nutrient-sensitive enterokine coordinates developmental plasticity through inter-organ signaling",
+      "title_original": "A nutrient-sensitive enterokine coordinates developmental plasticity through inter-organ signaling",
+      "title_zh_tw": "營養敏感型腸源激素透過器官間訊號協調發育可塑性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003911"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Laura Tiemann",
+        "Felix S. Bott",
+        "Elisabeth S. May",
+        "Moritz M. Nickel",
+        "Vanessa D. Hohn",
+        "Cristina Gil Ávila",
+        "Nicolò Bruna",
+        "Paul Theo Zebhauser",
+        "Markus Ploner"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003948",
+      "doi": "10.1371/journal.pbio.3003948",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003948",
+          "url": "https://doi.org/10.1371/journal.pbio.3003948"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「疼痛的神經編碼在個體內穩健，但在個體之間不穩定」。",
+      "title": "Neural encoding of pain is robust within but unstable between individuals",
+      "title_original": "Neural encoding of pain is robust within but unstable between individuals",
+      "title_zh_tw": "疼痛的神經編碼在個體內穩健，但在個體之間不穩定",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003948"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Manuel Varlet",
+        "Tomas Lenc",
+        "Sylvie Nozaradan",
+        "David Poeppel",
+        "Peter E. Keller"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003935",
+      "doi": "10.1371/journal.pbio.3003935",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003935",
+          "url": "https://doi.org/10.1371/journal.pbio.3003935"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「側化神經機制促進人類雙人互動中的聽覺自我–他人區辨與協調」。",
+      "title": "Lateralised neural mechanisms facilitate auditory self-other distinction and coordination in human dyads",
+      "title_original": "Lateralised neural mechanisms facilitate auditory self-other distinction and coordination in human dyads",
+      "title_zh_tw": "側化神經機制促進人類雙人互動中的聽覺自我–他人區辨與協調",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003935"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carolina Cunha",
+        "Daniel Inácio",
+        "Paula Vargas Romero",
+        "Ana Teresa Pais",
+        "Catarina Pelicano",
+        "Marina Costa",
+        "Sofia Mensurado",
+        "Natacha Gonçalves-Sousa",
+        "Pedro H. Papotto",
+        "Daniel Neves",
+        "Daniel Sobral",
+        "Francisco Enguita",
+        "Bruno Silva-Santos",
+        "Anita Q. Gomes"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003271",
+      "doi": "10.1371/journal.pbio.3003271",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003271",
+          "url": "https://doi.org/10.1371/journal.pbio.3003271"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「實驗性自體免疫腦脊髓炎中 CD4+ T 細胞亞群的 microRNA 圖譜揭示疾病致病機制的調控因子」。",
+      "title": "A microRNA atlas of CD4+ T cell subsets in experimental autoimmune encephalomyelitis identifies regulators of disease pathogenesis",
+      "title_original": "A microRNA atlas of CD4+ T cell subsets in experimental autoimmune encephalomyelitis identifies regulators of disease pathogenesis",
+      "title_zh_tw": "實驗性自體免疫腦脊髓炎中 CD4+ T 細胞亞群的 microRNA 圖譜揭示疾病致病機制的調控因子",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003271"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ezra E. Amiri",
+        "Muzi Li",
+        "Ayse Tenger-Trolander",
+        "Maxwell Devine",
+        "Alexander T. Julian",
+        "Koray Kasan",
+        "Sheri A. Sanders",
+        "Shelby A. Blythe",
+        "Urs Schmidt-Ott"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003896",
+      "doi": "10.1371/journal.pbio.3003896",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003896",
+          "url": "https://doi.org/10.1371/journal.pbio.3003896"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「不對稱染色質可及性構成蛾蚋胚胎前後軸指定的基礎」。",
+      "title": "Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos",
+      "title_original": "Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos",
+      "title_zh_tw": "不對稱染色質可及性構成蛾蚋胚胎前後軸指定的基礎",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003896"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Canan Doganli",
+        "Oskar Kaaber Thomsen",
+        "Daniel A. Baird",
+        "Yeasmeen Ali",
+        "Menachem V. K. Sarusie",
+        "Enrique Audain",
+        "Line Jeanett Jessen",
+        "Pauline Munck Truelsen",
+        "Johanne Bay Mogensen",
+        "Maria Schrøder Holm",
+        "Kateřina Apolínová",
+        "Lorenzo Buttò",
+        "Maria Diamanti",
+        "Jindřiška Leischner Fialová",
+        "Emma M. Wade",
+        "Stephen P. Robertson",
+        "Lotte Bang Pedersen",
+        "Laurent Argiro",
+        "Fabienne Lescroart",
+        "Marc-Phillip Hitz",
+        "Søren Tvorup Christensen",
+        "Lars Allan Larsen"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003902",
+      "doi": "10.1371/journal.pbio.3003902",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003902",
+          "url": "https://doi.org/10.1371/journal.pbio.3003902"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「TAK1 在初級纖毛上參與非典型 TGFB/BMP 訊號傳遞以控制心臟發育」。",
+      "title": "TAK1 operates at the primary cilium in non-canonical TGFB/BMP signaling to control heart development",
+      "title_original": "TAK1 operates at the primary cilium in non-canonical TGFB/BMP signaling to control heart development",
+      "title_zh_tw": "TAK1 在初級纖毛上參與非典型 TGFB/BMP 訊號傳遞以控制心臟發育",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003902"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lukasz Chrobok",
+        "Charlotte Muir",
+        "Tanya Chonkria Kaur",
+        "Emily Birt",
+        "Iliana Veneri",
+        "Jingyi Kathy Li",
+        "Timna Hitrec",
+        "Michael Ambler",
+        "Anthony Edward Pickering",
+        "Hugh David Piggins"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003936",
+      "doi": "10.1371/journal.pbio.3003936",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003936",
+          "url": "https://doi.org/10.1371/journal.pbio.3003936"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「進食時間可同步腦幹飽足中樞背側迷走神經複合體的晝夜節律」。",
+      "title": "Meal timing entrains circadian rhythms in the dorsal vagal complex, a brainstem satiety centre",
+      "title_original": "Meal timing entrains circadian rhythms in the dorsal vagal complex, a brainstem satiety centre",
+      "title_zh_tw": "進食時間可同步腦幹飽足中樞背側迷走神經複合體的晝夜節律",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003936"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jana Brunner",
+        "Anca Neagu",
+        "Dimos Gaidatzis",
+        "Lucas J. Morales Moya",
+        "Helge Großhans"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003892",
+      "doi": "10.1371/journal.pbio.3003892",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003892",
+          "url": "https://doi.org/10.1371/journal.pbio.3003892"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「let-7 miRNA 與 lin-46 mRNA 是 LIN28 RNA 結合蛋白調控秀麗隱桿線蟲發育時序的關鍵標的」。",
+      "title": "let-7 miRNA and lin-46 mRNA are essential targets of the LIN28 RNA-binding protein in Caenorhabditis elegans developmental timing regulation",
+      "title_original": "let-7 miRNA and lin-46 mRNA are essential targets of the LIN28 RNA-binding protein in Caenorhabditis elegans developmental timing regulation",
+      "title_zh_tw": "let-7 miRNA 與 lin-46 mRNA 是 LIN28 RNA 結合蛋白調控秀麗隱桿線蟲發育時序的關鍵標的",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003892"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "John S. Tregoning"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003912",
+      "doi": "10.1371/journal.pbio.3003912",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003912",
+          "url": "https://doi.org/10.1371/journal.pbio.3003912"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「科學論文仍是一場騙局嗎？」。",
+      "title": "Is the scientific paper still a fraud?",
+      "title_original": "Is the scientific paper still a fraud?",
+      "title_zh_tw": "科學論文仍是一場騙局嗎？",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003912"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ya-Wei Ji",
+        "Xiang-Ying Xu",
+        "Qiang-Qiang Zhou",
+        "Yin-Nan Cao",
+        "Xing-Jie Zhao",
+        "Kai-Ran Zhang",
+        "Yu Han",
+        "Su Liu",
+        "Yong Niu",
+        "Chun Yang",
+        "Chunyi Zhou",
+        "Cheng Xiao"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003923",
+      "doi": "10.1371/journal.pbio.3003923",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003923",
+          "url": "https://doi.org/10.1371/journal.pbio.3003923"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「靶向膽鹼能迴路的丘腦下核–腹側蒼白球投射調節慢性疼痛」。",
+      "title": "The subthalamic nucleus-ventral pallidum projection targeting cholinergic circuits modulates chronic pain",
+      "title_original": "The subthalamic nucleus-ventral pallidum projection targeting cholinergic circuits modulates chronic pain",
+      "title_zh_tw": "靶向膽鹼能迴路的丘腦下核–腹側蒼白球投射調節慢性疼痛",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003923"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Avinash R. Shenoy"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003909",
+      "doi": "10.1371/journal.pbio.3003909",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003909",
+          "url": "https://doi.org/10.1371/journal.pbio.3003909"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「grafify online：用於繪圖與統計分析的網頁應用程式」。",
+      "title": "grafify online: A web app for graphing and statistical analysis",
+      "title_original": "grafify online: A web app for graphing and statistical analysis",
+      "title_zh_tw": "grafify online：用於繪圖與統計分析的網頁應用程式",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003909"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1371/journal.pbio.3003875",
+      "doi": "10.1371/journal.pbio.3003875",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003875",
+          "url": "https://doi.org/10.1371/journal.pbio.3003875"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「編輯說明：干擾素調控因子 4 介導多發性骨髓瘤細胞對 IRE1 的非酵素性依賴」。",
+      "title": "Editorial Note: Interferon regulatory factor 4 mediates nonenzymatic IRE1 dependency in multiple myeloma cells",
+      "title_original": "Editorial Note: Interferon regulatory factor 4 mediates nonenzymatic IRE1 dependency in multiple myeloma cells",
+      "title_zh_tw": "編輯說明：干擾素調控因子 4 介導多發性骨髓瘤細胞對 IRE1 的非酵素性依賴",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003875"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Johannes Schöneich",
+        "Aline Dupont",
+        "Stefan Schlößer",
+        "Mingbo Cheng",
+        "Matthias A. Schmitz",
+        "Isabel Richter",
+        "Narasimha Murthy Keshava Prasad Gubbi",
+        "Kaiyi Zhang",
+        "Tiago Maié",
+        "Asmae Laouina",
+        "Sofia Jäverfelt",
+        "Fabian Imdahl",
+        "Christophe Toussaint",
+        "Antoine-Emmanuel Saliba",
+        "Christoph Kuppe",
+        "Oliver Pabst",
+        "Thaher Pelaseyed",
+        "Ivan G. Costa",
+        "Mathias W. Hornef"
+      ],
+      "canonical_id": "doi:10.1371/journal.pbio.3003212",
+      "doi": "10.1371/journal.pbio.3003212",
+      "issns": [
+        "1545-7885"
+      ],
+      "journal": "PLOS Biology",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pbio.3003212",
+          "url": "https://doi.org/10.1371/journal.pbio.3003212"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「發育因素驅動出生後早期小腸上皮分區且不連續的成熟過程」。",
+      "title": "Developmental factors drive the compartmentalized and discontinuous maturation of the small intestinal epithelium during the early postnatal period",
+      "title_original": "Developmental factors drive the compartmentalized and discontinuous maturation of the small intestinal epithelium during the early postnatal period",
+      "title_zh_tw": "發育因素驅動出生後早期小腸上皮分區且不連續的成熟過程",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.3003212"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__plos-biology__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__plos-biology__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__plos-biology__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__plos-biology__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__plos-biology__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__plos-biology__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 22,
+    "by_article_type": {
+      "journal-article": 22
+    },
+    "by_source": {
+      "crossref": 22
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 22,
+    "translated_articles": 16
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "plos-biology__2026-08__r02",
+  "edition_key": "plos-biology__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-19",
+    "acquisition_start": "2026-08-15",
+    "added_article_count": 6,
+    "base_article_count": 16,
+    "base_edition_sha256": "3b6ad8a66d11687a124691a70fd4aec66bcdb712a673119f6acfa61cd0f2f0ce",
+    "base_manifest_publication_id": "plos-biology__2026-08__r01",
+    "base_period_end": "2026-08-14",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "plos-biology__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 6,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 22
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-19",
+    "incremental_acquisition_start": "2026-08-15",
+    "journal_slug": "plos-biology",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 22,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 6,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "plos-biology__2026-08__r02",
+  "retrieved_at": "2026-08-19T11:48:01Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__plos-biology__2026-08__r02",
+    "edition_key": "plos-biology__2026-08",
+    "end_date": "2026-08-19",
+    "issn": "1545-7885",
+    "journal": "PLOS Biology",
+    "journal_slug": "plos-biology",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 19 日）",
+    "period_status": "MTD",
+    "publication_id": "plos-biology__2026-08__r02",
+    "revision": 2,
+    "slug": "plos-biology",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 6,
+      "detail": null,
+      "query": "container=PLOS Biology; publication=2026-08-15..2026-08-19",
+      "returned_count": 6,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 6,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "plos-biology__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": "c27552188463944600c2870073862cedd730c4c2469b3da571311be4f98edd86",
+    "response_generated_at": "2026-08-14T07:32:01Z",
+    "response_sha256": "7f3914689ce19876d7d82a27c1069d13dfd3417c39d9554495fa9452e00dfd98",
+    "source_edition_sha256": "215500be8d672a76d340e6ee4b96c3f11fdb16b087b2afc35f98663ee1d1466e",
+    "status": "PARTIAL",
+    "total_articles": 22,
+    "translated_articles": 16
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "plos_biology"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

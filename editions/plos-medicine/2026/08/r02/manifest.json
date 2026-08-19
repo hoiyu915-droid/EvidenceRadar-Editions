@@ -1,0 +1,43 @@
+{
+  "article_count": 14,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-19T11:48:03Z",
+  "edition_id": "plos-medicine__2026-08__r02",
+  "edition_key": "plos-medicine__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 27640,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__plos-medicine__2026-08__r02.json",
+      "sha256": "4c708a11f104225b17e888057d9e0809362ddd9c49be6729d8b29c941f2046e3"
+    },
+    "report_html": {
+      "bytes": 51603,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__plos-medicine__2026-08__r02.html",
+      "sha256": "79b8b78e6112a70ed4b20407e0329d479eb480cdeca7525136a31e8814edd405"
+    }
+  },
+  "journal": "PLOS Medicine",
+  "journal_slug": "plos-medicine",
+  "manifest_name": "EvidenceRadar_Editions__plos-medicine__2026-08__r02.manifest.json",
+  "period_end": "2026-08-19",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "plos-medicine__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 11,
+  "translation_provenance": {
+    "request_binding_sha256": "ac336d7ec1f8d7fbb7c0db9626e212586a7ad3b4337b0c893e0312df9a87913a",
+    "response_sha256": "2a2cda131a31cf0c048df6a4aada57f17de311bb60fe2a1f51db82c17e0e293f",
+    "source_edition_sha256": "a77a1e60117403aa820908877bb394bf8048c839c882f51174ee7b1e3dd9dcef"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
