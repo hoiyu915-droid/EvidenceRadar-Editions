@@ -1,0 +1,34 @@
+{
+  "acquisition_end": "2026-08-19",
+  "acquisition_start": "2026-08-17",
+  "artifact_type": "EvidenceRadar_Editions_BackfillReceipt",
+  "generated_at": "2026-08-19T13:17:25Z",
+  "journal_count": 1,
+  "journals": [
+    {
+      "acquisition_end": "2026-08-19",
+      "acquisition_start": "2026-08-17",
+      "added_article_count": 0,
+      "base_article_count": 2,
+      "base_edition_sha256": "8733a06fc884fa39e22adbd0f6bb0d568591d9d422abc7d9a401f92c19e969c2",
+      "base_manifest_publication_id": "data-and-policy__2026-08__r02",
+      "base_period_end": "2026-08-16",
+      "base_period_start": "2026-08-01",
+      "base_publication_id": "data-and-policy__2026-08__r02",
+      "base_revision": 2,
+      "deduplicated_article_count": 0,
+      "delta_acquired_article_count": 0,
+      "journal_slug": "data-and-policy",
+      "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+      "publication_id": "data-and-policy__2026-08__r03",
+      "result_article_count": 2,
+      "status": "PUBLISHED",
+      "target": "editions/data-and-policy/2026/08/r03"
+    }
+  ],
+  "period_key": "2026-08",
+  "request_id": "2026-08-cambridge-data-and-policy-through-19",
+  "revision": 3,
+  "schema_version": "1.0",
+  "semantics": "Only the missing date suffix was acquired live. Each result is a new full monthly snapshot revision composed with an immutable validated base."
+}
