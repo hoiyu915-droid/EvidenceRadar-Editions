@@ -4,6 +4,7 @@ from collections import Counter
 from html import escape
 from pathlib import Path
 from typing import Any, Iterable
+from urllib.parse import quote
 
 from . import pages_curation as base
 from .serialization import json_text
@@ -15,6 +16,7 @@ SOURCE_LABELS = {
     "europe_pmc": "Europe PMC",
     "rsc": "RSC",
     "radar_rss": "Radar 期刊來源提示",
+    "sciencedirect": "ScienceDirect",
 }
 TYPE_LABELS = {
     "journal-article": "期刊論文",
@@ -44,9 +46,29 @@ def _source_values(article: dict[str, Any]) -> list[str]:
     )
 
 
+def _doi_url(doi: str) -> str:
+    return f"https://doi.org/{doi}" if doi else ""
+
+
+def _is_doi_resolver(url: str, doi: str) -> bool:
+    return bool(doi and url.rstrip("/").lower() == _doi_url(doi).lower())
+
+
+def _publisher_search_link(doi: str) -> dict[str, str] | None:
+    if not doi.lower().startswith("10.1016/"):
+        return None
+    return {
+        "kind": "source",
+        "source": "sciencedirect",
+        "label": "ScienceDirect",
+        "url": f"https://www.sciencedirect.com/search?qs={quote(doi, safe='')}",
+    }
+
+
 def _external_links(article: dict[str, Any]) -> list[dict[str, str]]:
     links: list[dict[str, str]] = []
     seen: set[str] = set()
+    doi = str(article.get("doi") or "").strip()
 
     for record in article.get("source_records") or []:
         if not isinstance(record, dict):
@@ -55,6 +77,8 @@ def _external_links(article: dict[str, Any]) -> list[dict[str, str]]:
         if not url or url in seen:
             continue
         source = str(record.get("source") or "")
+        if source == "crossref" and _is_doi_resolver(url, doi):
+            continue
         links.append(
             {
                 "kind": "source",
@@ -67,16 +91,21 @@ def _external_links(article: dict[str, Any]) -> list[dict[str, str]]:
 
     for value in article.get("urls") or []:
         url = _safe_url(value)
-        if not url or url in seen:
+        if not url or url in seen or _is_doi_resolver(url, doi):
             continue
         links.append({"kind": "source", "source": "", "label": "原文", "url": url})
         seen.add(url)
 
-    doi = str(article.get("doi") or "").strip()
+    if not any(item.get("kind") == "source" for item in links):
+        publisher_link = _publisher_search_link(doi)
+        if publisher_link:
+            links.append(publisher_link)
+            seen.add(publisher_link["url"])
+
     pmid = str(article.get("pmid") or "").strip()
     pmcid = str(article.get("pmcid") or "").strip()
     standards = [
-        ("doi", "DOI", f"https://doi.org/{doi}" if doi else ""),
+        ("doi", "DOI", _doi_url(doi)),
         ("pmid", "PubMed", f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else ""),
         ("pmcid", "PMC", f"https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/" if pmcid else ""),
     ]

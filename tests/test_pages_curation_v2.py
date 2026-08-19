@@ -98,6 +98,51 @@ class PagesCurationV2Tests(unittest.TestCase):
             self.assertIn("原文 ↗", page)
             self.assertNotIn("無標準識別碼", page)
 
+    def test_elsevier_crossref_doi_uses_sciencedirect_fallback(self):
+        item = publication()
+        article = item.edition["articles"][0]
+        doi = "10.1016/j.chbah.2026.100338"
+        article.update(
+            {
+                "canonical_id": f"doi:{doi}",
+                "doi": doi,
+                "source_records": [
+                    {"source": "crossref", "url": f"https://doi.org/{doi}"}
+                ],
+                "urls": [f"https://doi.org/{doi}"],
+            }
+        )
+
+        projected = build_browse_index(item)["articles"][0]
+
+        self.assertEqual(
+            projected["primary_url"],
+            "https://www.sciencedirect.com/search?qs=10.1016%2Fj.chbah.2026.100338",
+        )
+        self.assertEqual(projected["external_links"][0]["label"], "ScienceDirect")
+        self.assertEqual(projected["external_links"][1]["kind"], "doi")
+
+    def test_non_elsevier_crossref_doi_keeps_doi_link(self):
+        item = publication()
+        article = item.edition["articles"][0]
+        doi = "10.1000/example"
+        article.update(
+            {
+                "canonical_id": f"doi:{doi}",
+                "doi": doi,
+                "source_records": [
+                    {"source": "crossref", "url": f"https://doi.org/{doi}"}
+                ],
+                "urls": [f"https://doi.org/{doi}"],
+            }
+        )
+
+        projected = build_browse_index(item)["articles"][0]
+
+        self.assertEqual(projected["primary_url"], f"https://doi.org/{doi}")
+        self.assertEqual(len(projected["external_links"]), 1)
+        self.assertEqual(projected["external_links"][0]["kind"], "doi")
+
 
 if __name__ == "__main__":
     unittest.main()
