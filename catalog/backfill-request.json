@@ -1,17 +1,16 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-cambridge-data-and-policy-through-19",
-  "acquisition_start": "2026-08-17",
+  "request_id": "2026-08-final-core-two-through-19",
+  "acquisition_start": "2026-08-15",
   "acquisition_end": "2026-08-19",
-  "revision": 3,
-  "provider": "cambridge",
-  "selection_provider": "cambridge",
-  "selection_count": 1,
-  "selection_base_revision": 2,
-  "selection_base_period_end": "2026-08-16",
+  "revision": 2,
+  "selection_count": 2,
+  "selection_base_revision": 1,
+  "selection_base_period_end": "2026-08-14",
   "journals": [
-    "data-and-policy"
+    "chemical-science",
+    "tmlr"
   ],
-  "selection_semantics": "Data & Policy is isolated because its latest immutable August base is r02 ending 2026-08-16; it therefore targets r03 while the other Cambridge editions target r02."
+  "selection_semantics": "Final two existing August editions outside the Cambridge provider batch; both have immutable r01 bases ending 2026-08-14 and therefore target r02."
 }
