@@ -1,0 +1,271 @@
+name: Incrementally backfill monthly Editions
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "catalog/backfill-request.json"
+      - ".github/workflows/incremental-backfill.yml"
+      - "evidenceradar_editions/incremental_backfill.py"
+      - "evidenceradar_editions/incremental_batch.py"
+      - "evidenceradar_editions/cli_v7.py"
+      - "evidenceradar_editions/cli.py"
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: evidenceradar-editions-incremental-backfill
+  cancel-in-progress: false
+
+jobs:
+  acquire-publish-deliver:
+    runs-on: ubuntu-latest
+    timeout-minutes: 100
+    steps:
+      - name: Checkout Editions
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: Checkout pinned EvidenceRadar source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: hoiyu915-droid/EvidenceRadar
+          ref: 6da659df845e4b76072dae016120ca76ed9c27c4
+          path: _upstream/EvidenceRadar
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+
+      - name: Install and validate repository
+        run: |
+          python -m pip install -e .
+          python -m compileall -q evidenceradar_editions tests
+          python -m unittest discover -s tests -v
+
+      - name: Resolve request identity
+        id: request
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          request = json.loads(Path("catalog/backfill-request.json").read_text(encoding="utf-8"))
+          request_id = str(request.get("request_id") or "")
+          if not request_id or not all(character.isalnum() or character in "-_" for character in request_id):
+              raise SystemExit("unsafe or missing backfill request_id")
+          receipt = f"catalog/coverage/backfills/{request_id}.json"
+          with Path(os.environ["GITHUB_OUTPUT"]).open("a", encoding="utf-8") as handle:
+              handle.write(f"request_id={request_id}\n")
+              handle.write(f"receipt={receipt}\n")
+          PY
+
+      - name: Acquire only the missing dates and compose new monthly revisions
+        env:
+          RECEIPT: ${{ steps.request.outputs.receipt }}
+        run: |
+          upstream_commit="$(sed -n 's/^commit=//p' UPSTREAM_RADAR_PIN)"
+          python -m evidenceradar_editions.incremental_batch \
+            --request catalog/backfill-request.json \
+            --editions-root editions \
+            --catalog-root catalog \
+            --radar-root _upstream/EvidenceRadar \
+            --radar-commit "$upstream_commit" \
+            --work-dir "$RUNNER_TEMP/backfill-bundles" \
+            --receipt-output "$RECEIPT"
+
+      - name: Verify generated scope and canonical publications
+        env:
+          RECEIPT: ${{ steps.request.outputs.receipt }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import subprocess
+          from pathlib import Path
+
+          from evidenceradar_editions.store_v3 import validate_stored_publication
+
+          receipt_path = Path(os.environ["RECEIPT"])
+          receipt = json.loads(receipt_path.read_text(encoding="utf-8"))
+          targets = [Path(item["target"]) for item in receipt["journals"]]
+          for target in targets:
+              errors = validate_stored_publication(target, require_zh_tw=False)
+              if errors:
+                  raise SystemExit("\n".join(errors))
+
+          allowed_exact = {receipt_path.as_posix()}
+          allowed_prefixes = tuple(f"{target.as_posix()}/" for target in targets)
+          status = subprocess.check_output(
+              ["git", "status", "--porcelain", "--untracked-files=all"],
+              text=True,
+          )
+          for line in status.splitlines():
+              path = line[3:]
+              if " -> " in path:
+                  path = path.split(" -> ", 1)[1]
+              if path in allowed_exact or path.startswith(allowed_prefixes):
+                  continue
+              raise SystemExit(f"refusing unrelated generated path: {path}")
+          PY
+
+      - name: Commit canonical batch publication branch
+        id: commit
+        env:
+          RECEIPT: ${{ steps.request.outputs.receipt }}
+          REQUEST_ID: ${{ steps.request.outputs.request_id }}
+        run: |
+          set -euo pipefail
+          original_main="$(git rev-parse HEAD)"
+          git fetch origin main
+          current_main="$(git rev-parse origin/main)"
+          if [ "$original_main" != "$current_main" ]; then
+            echo "main moved during incremental acquisition; refusing stale publication" >&2
+            exit 1
+          fi
+
+          if [ -z "$(git status --porcelain -- editions "$RECEIPT")" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "base_sha=$original_main" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          branch="automation/incremental-backfill-${REQUEST_ID}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git switch -c "$branch"
+          git config user.name "github-actions[bot]"
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          python - <<'PY' > "$RUNNER_TEMP/backfill-targets.txt"
+          import json
+          import os
+          from pathlib import Path
+          receipt = json.loads(Path(os.environ["RECEIPT"]).read_text(encoding="utf-8"))
+          for item in receipt["journals"]:
+              print(item["target"])
+          print(os.environ["RECEIPT"])
+          PY
+          while IFS= read -r path; do
+            git add -- "$path"
+          done < "$RUNNER_TEMP/backfill-targets.txt"
+          test -n "$(git diff --cached --name-only)"
+          git commit -m "Backfill ${REQUEST_ID}"
+          head_sha="$(git rev-parse HEAD)"
+          git push origin "HEAD:refs/heads/$branch"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          echo "head_sha=$head_sha" >> "$GITHUB_OUTPUT"
+          echo "base_sha=$original_main" >> "$GITHUB_OUTPUT"
+
+      - name: Publish through guarded PR
+        id: merge
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.commit.outputs.branch }}
+          HEAD_SHA: ${{ steps.commit.outputs.head_sha }}
+          REQUEST_ID: ${{ steps.request.outputs.request_id }}
+        run: |
+          set -euo pipefail
+          pr_url="$(gh pr create \
+            --repo "$GITHUB_REPOSITORY" \
+            --base main \
+            --head "$BRANCH" \
+            --title "Backfill ${REQUEST_ID}" \
+            --body "Automated incremental date-window acquisition. Only missing dates were queried; validated immutable monthly base revisions were composed into new full snapshot revisions. Repository tests, canonical-store validation and stale-main protection completed before publication.")"
+          pr_number="$(gh pr view "$pr_url" --repo "$GITHUB_REPOSITORY" --json number --jq .number)"
+          merge_json="$(gh api \
+            --method PUT \
+            -H 'Accept: application/vnd.github+json' \
+            "repos/$GITHUB_REPOSITORY/pulls/$pr_number/merge" \
+            -f merge_method=squash \
+            -f sha="$HEAD_SHA" \
+            -f commit_title="Backfill ${REQUEST_ID}")"
+          merged="$(python -c 'import json,sys; print(str(json.load(sys.stdin).get("merged", False)).lower())' <<<"$merge_json")"
+          merge_sha="$(python -c 'import json,sys; print(json.load(sys.stdin).get("sha", ""))' <<<"$merge_json")"
+          if [ "$merged" != "true" ] || [ -z "$merge_sha" ]; then
+            echo "$merge_json" >&2
+            exit 1
+          fi
+          git push origin --delete "$BRANCH" || true
+          echo "pr_url=$pr_url" >> "$GITHUB_OUTPUT"
+          echo "merge_sha=$merge_sha" >> "$GITHUB_OUTPUT"
+
+      - name: Resolve main for idempotent request
+        id: unchanged
+        if: steps.commit.outputs.changed != 'true'
+        run: |
+          git fetch origin main
+          echo "merge_sha=$(git rev-parse origin/main)" >> "$GITHUB_OUTPUT"
+          echo "pr_url=idempotent-no-new-pr" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch and verify Pages snapshot
+        id: pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MERGE_SHA: ${{ steps.merge.outputs.merge_sha || steps.unchanged.outputs.merge_sha }}
+        run: |
+          set -euo pipefail
+          gh api \
+            --method POST \
+            -H 'Accept: application/vnd.github+json' \
+            "repos/$GITHUB_REPOSITORY/actions/workflows/pages.yml/dispatches" \
+            -f ref=main
+
+          run_id=""
+          for _ in $(seq 1 60); do
+            run_id="$(gh run list \
+              --repo "$GITHUB_REPOSITORY" \
+              --workflow pages.yml \
+              --branch main \
+              --event workflow_dispatch \
+              --limit 20 \
+              --json databaseId,headSha \
+              --jq ".[] | select(.headSha == \"$MERGE_SHA\") | .databaseId" \
+              | head -n 1)"
+            if [ -n "$run_id" ]; then
+              break
+            fi
+            sleep 5
+          done
+          if [ -z "$run_id" ]; then
+            echo "Could not resolve Pages run for $MERGE_SHA" >&2
+            exit 1
+          fi
+          gh run watch "$run_id" --repo "$GITHUB_REPOSITORY" --exit-status
+          echo "run_id=$run_id" >> "$GITHUB_OUTPUT"
+
+      - name: Write publication summary
+        env:
+          RECEIPT: ${{ steps.request.outputs.receipt }}
+          PR_URL: ${{ steps.merge.outputs.pr_url || steps.unchanged.outputs.pr_url }}
+          MERGE_SHA: ${{ steps.merge.outputs.merge_sha || steps.unchanged.outputs.merge_sha }}
+          PAGES_RUN_ID: ${{ steps.pages.outputs.run_id }}
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          import os
+          from pathlib import Path
+
+          receipt = json.loads(Path(os.environ["RECEIPT"]).read_text(encoding="utf-8"))
+          print("## Incremental Editions backfill")
+          print()
+          print(f"- window: `{receipt['acquisition_start']}..{receipt['acquisition_end']}`")
+          print(f"- journals: `{receipt['journal_count']}`")
+          print(f"- revision: `r{receipt['revision']:02d}`")
+          print(f"- publication PR: {os.environ['PR_URL']}")
+          print(f"- canonical main SHA: `{os.environ['MERGE_SHA']}`")
+          print(f"- Pages run: `{os.environ['PAGES_RUN_ID']}`")
+          print()
+          for item in receipt["journals"]:
+              print(
+                  f"- {item['journal_slug']}: base `{item['base_article_count']}`, "
+                  f"delta `{item['delta_acquired_article_count']}`, added "
+                  f"`{item['added_article_count']}`, result `{item['result_article_count']}`"
+              )
+          PY
