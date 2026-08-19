@@ -171,7 +171,21 @@ def compose_incremental_month_revision(
     if base_scope.get("journal_slug") != delta_scope.get("journal_slug"):
         raise ValueError("incremental base and delta journal identities differ")
     if delta.get("run_status") in {"SOURCE_ACCESS_GAP", "PARTIAL_SOURCE_COVERAGE"}:
-        raise ValueError(f"incremental acquisition is not complete: {delta.get('run_status')}")
+        journal_slug = str(
+            delta_scope.get("journal_slug") or base_scope.get("journal_slug") or "unknown"
+        )
+        source_summaries = []
+        for check in delta.get("source_checks") or []:
+            summary = f"{check.get('source') or 'unknown'}={check.get('status') or 'UNKNOWN'}"
+            detail = str(check.get("detail") or "").strip()
+            if detail:
+                summary += f" ({detail})"
+            source_summaries.append(summary)
+        sources = "; ".join(source_summaries) or "none"
+        raise ValueError(
+            "incremental acquisition is not complete for "
+            f"{journal_slug}: {delta.get('run_status')}; source_checks: {sources}"
+        )
 
     base_articles = [value for value in base.get("articles") or [] if isinstance(value, dict)]
     delta_articles = [value for value in delta.get("articles") or [] if isinstance(value, dict)]

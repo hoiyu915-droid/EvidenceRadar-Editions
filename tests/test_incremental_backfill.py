@@ -111,6 +111,24 @@ class IncrementalBackfillTests(unittest.TestCase):
                 revision=2,
             )
 
+    def test_partial_acquisition_error_names_journal_and_source_failure(self):
+        delta = self.delta()
+        delta["run_status"] = "PARTIAL_SOURCE_COVERAGE"
+        delta["source_checks"][0]["status"] = "FAILED"
+        delta["source_checks"][0]["detail"] = "HTTP 503"
+        with self.assertRaisesRegex(
+            ValueError,
+            "acs-central-science: PARTIAL_SOURCE_COVERAGE; source_checks: "
+            "crossref=FAILED \\(HTTP 503\\)",
+        ):
+            compose_incremental_month_revision(
+                base=self.base,
+                base_manifest=self.manifest,
+                base_edition_sha256=sha256_file(self.base_dir / "edition.json"),
+                delta=delta,
+                revision=2,
+            )
+
     def test_batch_request_is_explicit_and_unique(self):
         with tempfile.TemporaryDirectory() as temporary:
             path = Path(temporary) / "request.json"
