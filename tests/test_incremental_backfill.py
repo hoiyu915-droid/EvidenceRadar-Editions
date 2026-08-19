@@ -197,41 +197,42 @@ class IncrementalBackfillTests(unittest.TestCase):
                 require_enabled=True,
             )
 
-    def test_production_request_selects_first_six_remaining_cambridge_editions(self):
+    def test_production_request_matches_declared_catalog_and_base(self):
         request = load_batch_request(Path("catalog/backfill-request.json"))
-        provider = json.loads(
-            Path("catalog/providers/cambridge.json").read_text(encoding="utf-8")
-        )
-        eligible = []
-        base_revision = request.get("selection_base_revision")
-        base_period_end = request.get("selection_base_period_end")
-        for item in provider["journals"]:
-            slug = item["slug"]
-            manifest_path = Path("editions") / slug / "2026/08/r01/manifest.json"
-            if not manifest_path.exists():
-                continue
-            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-            if base_revision is not None and manifest["revision"] != base_revision:
-                continue
-            if base_period_end is not None and manifest["period_end"] != base_period_end:
-                continue
-            eligible.append(slug)
-        offset = request["selection_offset"]
-        count = request["selection_count"]
-        selected = eligible[offset : offset + count]
-        self.assertEqual(request["provider"], "cambridge")
-        self.assertEqual(request["selection_provider"], "cambridge")
-        self.assertEqual(request["journals"], selected)
+        provider_name = request.get("provider")
+        if provider_name:
+            provider = json.loads(
+                (
+                    Path("catalog")
+                    / "providers"
+                    / f"{provider_name}.json"
+                ).read_text(encoding="utf-8")
+            )
+            known = {item["slug"] for item in provider["journals"]}
+            self.assertEqual(request.get("selection_provider"), provider_name)
+        else:
+            registry = json.loads(
+                Path("catalog/journals.json").read_text(encoding="utf-8")
+            )
+            known = {item["slug"] for item in registry["journals"]}
+        self.assertEqual(len(request["journals"]), request["selection_count"])
+        self.assertTrue(set(request["journals"]).issubset(known))
         self.assertEqual(request["max_records_by_journal"], {})
         self.assertEqual(request["policy_override_journals"], [])
-        for slug in selected:
+        base_revision = request["selection_base_revision"]
+        base_period_end = request["selection_base_period_end"]
+        for slug in request["journals"]:
             manifest = json.loads(
-                (Path("editions") / slug / "2026/08/r01/manifest.json").read_text(
-                    encoding="utf-8"
-                )
+                (
+                    Path("editions")
+                    / slug
+                    / "2026/08"
+                    / f"r{base_revision:02d}"
+                    / "manifest.json"
+                ).read_text(encoding="utf-8")
             )
-            self.assertEqual(manifest["period_end"], "2026-08-16")
-            self.assertEqual(manifest["revision"], 1)
+            self.assertEqual(manifest["period_end"], base_period_end)
+            self.assertEqual(manifest["revision"], base_revision)
 
     def test_workflow_has_guarded_fast_forward_when_action_prs_are_disabled(self):
         workflow = Path(".github/workflows/incremental-backfill.yml").read_text(

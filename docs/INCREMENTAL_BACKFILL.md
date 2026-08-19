@@ -67,3 +67,10 @@ so an `r02` becomes the current August view while `r01` remains browsable.
 The production workflow writes
 `catalog/coverage/backfills/<request-id>.json`, publishes all generated targets
 in one guarded PR, dispatches Pages once, and waits for the exact merged SHA.
+
+## Cambridge provider editions
+
+Cambridge journals use a provider catalog separate from the core journal
+registry. Follow the dedicated
+[Cambridge incremental backfill operator note](CAMBRIDGE_INCREMENTAL_BACKFILL.md)
+before preparing or diagnosing a Cambridge batch.
