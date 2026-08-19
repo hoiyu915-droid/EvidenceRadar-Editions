@@ -366,7 +366,15 @@ def build_incremental_month_backfill(
         require_enabled=not allow_planned,
     )
     defaults = spec_defaults(journal)
-    source_values = sources or tuple(str(value) for value in defaults["sources"])
+    default_sources = tuple(str(value) for value in defaults["sources"])
+    base_sources = tuple(
+        str(value) for value in ((base.get("scope") or {}).get("sources") or [])
+    )
+    source_values = sources or default_sources or base_sources
+    if not source_values:
+        raise ValueError(
+            f"incremental journal has no declared or immutable-base sources: {journal_slug}"
+        )
     next_revision = int((base.get("scope") or {}).get("revision") or 0) + 1
     requested_revision = revision or next_revision
     delta_spec = EditionSpec(

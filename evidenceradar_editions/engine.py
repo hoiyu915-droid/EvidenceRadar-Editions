@@ -11,6 +11,7 @@ from .adapters import (
     PubMedAdapter,
     RadarRssAdapter,
     RscChemicalScienceAdapter,
+    TmlrOfficialSnapshotAdapter,
 )
 from .dedup_v2 import counts_by_source, deduplicate_articles, journal_matches
 from .http import HttpClient
@@ -46,6 +47,7 @@ def build_run(
         "radar_rss": RadarRssAdapter(client, hints),
         "rsc_chemical_science": RscChemicalScienceAdapter(client),
         "cambridge_core": CambridgeCoreAdapter(client),
+        "tmlr_official_snapshot": TmlrOfficialSnapshotAdapter(client),
     }
     accepted = []
     checks = []
