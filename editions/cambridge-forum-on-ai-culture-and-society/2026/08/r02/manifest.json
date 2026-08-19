@@ -1,0 +1,43 @@
+{
+  "article_count": 0,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-19T12:24:01Z",
+  "edition_id": "cambridge-forum-on-ai-culture-and-society__2026-08__r02",
+  "edition_key": "cambridge-forum-on-ai-culture-and-society__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 5946,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__cambridge-forum-on-ai-culture-and-society__2026-08__r02.json",
+      "sha256": "d171dde259c9a854351ee498ff5b486e0e73fb47298b115855f9597c6dd20457"
+    },
+    "report_html": {
+      "bytes": 15621,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__cambridge-forum-on-ai-culture-and-society__2026-08__r02.html",
+      "sha256": "3256bc21888b97c1ea43970d9c89ece556aaf96651791865838ebdebce98c245"
+    }
+  },
+  "journal": "Cambridge Forum on AI: Culture and Society",
+  "journal_slug": "cambridge-forum-on-ai-culture-and-society",
+  "manifest_name": "EvidenceRadar_Editions__cambridge-forum-on-ai-culture-and-society__2026-08__r02.manifest.json",
+  "period_end": "2026-08-19",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "cambridge-forum-on-ai-culture-and-society__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "NO_MATCHING_ARTICLES",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUIRED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
