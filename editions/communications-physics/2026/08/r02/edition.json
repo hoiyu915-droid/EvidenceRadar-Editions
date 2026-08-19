@@ -1,0 +1,1183 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhuo Yang",
+        "Jinbo Wang",
+        "Yuto Ishii",
+        "Duncan K. Maude",
+        "Atsuhiko Miyata",
+        "Yasuhiro H. Matsuda"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02816-z",
+      "doi": "10.1038/s42005-026-02816-z",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02816-z",
+          "url": "https://doi.org/10.1038/s42005-026-02816-z"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Investigating the yellow exciton series of Cu2O at ultrahigh magnetic fields",
+      "title_original": "Investigating the yellow exciton series of Cu2O at ultrahigh magnetic fields",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02816-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Patrick Ufer",
+        "Alastair Nutter",
+        "Susanne Schoebel",
+        "Thomas Heinemann",
+        "Brant Bowers",
+        "Finn-Ole Carstens",
+        "Yen-Yu Chang",
+        "Sébastien Corde",
+        "Jurjen Pieter Couperus Cabadağ",
+        "Alexander Debus",
+        "Andreas Döpp",
+        "F. Moritz Foerster",
+        "Max F. Gilljohann",
+        "Ahmad Fahim Habib",
+        "Stefan Karsch",
+        "Alexander Knetsch",
+        "Olena Kononenko",
+        "Maxwell LaBerge",
+        "Alberto Martinez de la Ossa",
+        "Richard Pausch",
+        "Ross Rudzinsky",
+        "Andrew Sutherland",
+        "Thomas Wilson",
+        "Arie Irman",
+        "Ulrich Schramm",
+        "Bernhard Hidding"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02814-1",
+      "doi": "10.1038/s42005-026-02814-1",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02814-1",
+          "url": "https://doi.org/10.1038/s42005-026-02814-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Ultra-compact plasma photocathode in a hybrid wakefield accelerator",
+      "title_original": "Ultra-compact plasma photocathode in a hybrid wakefield accelerator",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02814-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hardik Rajpal",
+        "Paul Expert",
+        "Vaiva Vasiliauskaitė"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02820-3",
+      "doi": "10.1038/s42005-026-02820-3",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02820-3",
+          "url": "https://doi.org/10.1038/s42005-026-02820-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Directed Cycles as Higher-Order Units of Information Processing in Complex Networks",
+      "title_original": "Directed Cycles as Higher-Order Units of Information Processing in Complex Networks",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02820-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hui Zeng",
+        "Ming-Fei Li",
+        "Zhi-Yue Yu",
+        "Bing-Zhan Shi",
+        "Xiao-Jing Wu",
+        "Jie Feng",
+        "Jin-Guang Wang",
+        "Yi-Fei Li",
+        "Ling-An Wu",
+        "Jian-Hong Shi",
+        "Li-Ming Chen"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02801-6",
+      "doi": "10.1038/s42005-026-02801-6",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-15",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02801-6",
+          "url": "https://doi.org/10.1038/s42005-026-02801-6"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Tabletop X-ray ghost imaging of a moving object using a fast-spinning coding disk",
+      "title_original": "Tabletop X-ray ghost imaging of a moving object using a fast-spinning coding disk",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02801-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marwa Mannaï",
+        "Yaoyao Shu",
+        "Sonia Haddad",
+        "Mina Ren",
+        "Hong Chen",
+        "Yong Sun",
+        "Hisham Sati"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02809-y",
+      "doi": "10.1038/s42005-026-02809-y",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-15",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02809-y",
+          "url": "https://doi.org/10.1038/s42005-026-02809-y"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Realization of unconventional staircase topological Anderson phase transitions",
+      "title_original": "Realization of unconventional staircase topological Anderson phase transitions",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02809-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bin-Bin Wang",
+        "Dong Yan",
+        "Jin-Hui Wu"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02826-x",
+      "doi": "10.1038/s42005-026-02826-x",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-15",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02826-x",
+          "url": "https://doi.org/10.1038/s42005-026-02826-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Machine learning enhanced microwave electrometry in many-body Rydberg atoms",
+      "title_original": "Machine learning enhanced microwave electrometry in many-body Rydberg atoms",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02826-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yu Yuan",
+        "Feilong Song",
+        "Chenjiang Qian",
+        "Longlong Yang",
+        "Jingnan Yang",
+        "Shushu Shi",
+        "Sai Yan",
+        "Qinggang Zhang",
+        "Zhanchun Zuo",
+        "Qinghua Zhang",
+        "Can Wang",
+        "Liang Li",
+        "Kuijuan Jin",
+        "Qihuang Gong",
+        "Xiulai Xu"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02821-2",
+      "doi": "10.1038/s42005-026-02821-2",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-15",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02821-2",
+          "url": "https://doi.org/10.1038/s42005-026-02821-2"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Encapsulated CsPbBr3 quantum dots with asymmetric chiral magneto-optoelectronic responses",
+      "title_original": "Encapsulated CsPbBr3 quantum dots with asymmetric chiral magneto-optoelectronic responses",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02821-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yu Guo",
+        "Lixin Zhou",
+        "Ying Zhao",
+        "Fan Zhang",
+        "Yan Su",
+        "Si Zhou",
+        "Jijun Zhao"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02807-0",
+      "doi": "10.1038/s42005-026-02807-0",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02807-0",
+          "url": "https://doi.org/10.1038/s42005-026-02807-0"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「具螺旋差排的團簇組裝一維材料中的自旋電子學」。",
+      "title": "Spintronics in cluster-assembled one-dimensional materials with a screw dislocation",
+      "title_original": "Spintronics in cluster-assembled one-dimensional materials with a screw dislocation",
+      "title_zh_tw": "具螺旋差排的團簇組裝一維材料中的自旋電子學",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02807-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nicola Melchioni",
+        "Andrea Mancini",
+        "Antonio Ambrosio"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02802-5",
+      "doi": "10.1038/s42005-026-02802-5",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02802-5",
+          "url": "https://doi.org/10.1038/s42005-026-02802-5"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「雙曲型凡得瓦材料中的各向異性電子氣」。",
+      "title": "Anisotropic electron gas in a hyperbolic van der Waals material",
+      "title_original": "Anisotropic electron gas in a hyperbolic van der Waals material",
+      "title_zh_tw": "雙曲型凡得瓦材料中的各向異性電子氣",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02802-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "S. N. Wang",
+        "S. R. He",
+        "P. H. Ouyang",
+        "Y. L. Zhang",
+        "X. N. Feng",
+        "L. F. Wei"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02806-1",
+      "doi": "10.1038/s42005-026-02806-1",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02806-1",
+          "url": "https://doi.org/10.1038/s42005-026-02806-1"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「通用 Fano 型散射模型及其實驗驗證」。",
+      "title": "A universal Fano type scattering model and its experimental tests",
+      "title_original": "A universal Fano type scattering model and its experimental tests",
+      "title_zh_tw": "通用 Fano 型散射模型及其實驗驗證",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02806-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zheng Wei",
+        "Ji-Yao Fan",
+        "Kui Cao",
+        "Xin-Ran Ma",
+        "Cui-Xian Guo",
+        "Xue-Ping Ren",
+        "Su-Peng Kou"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02793-3",
+      "doi": "10.1038/s42005-026-02793-3",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02793-3",
+          "url": "https://doi.org/10.1038/s42005-026-02793-3"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「具邊界不敏感模態與電磁類比的非厄米局域化統一框架」。",
+      "title": "A unified framework for non-Hermitian localization with boundary-insensitive modes and electric-magnetic analogy",
+      "title_original": "A unified framework for non-Hermitian localization with boundary-insensitive modes and electric-magnetic analogy",
+      "title_zh_tw": "具邊界不敏感模態與電磁類比的非厄米局域化統一框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02793-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dimitar Popmintchev",
+        "Aref Imani",
+        "Joris Roman",
+        "Siyang Wang",
+        "Jieyu Yan",
+        "Sirius Song",
+        "Ryan Clairmont",
+        "Zhihan Wu",
+        "Elizaveta Gangrskaia",
+        "Edgar Kaksis",
+        "Alessandra Bellissimo",
+        "Tobias Flöry",
+        "Bruno E. Schmidt",
+        "Audrius Pugžlys",
+        "Andrius Baltuška",
+        "Paolo A. Carpeggiani",
+        "Tenio Popmintchev"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02791-5",
+      "doi": "10.1038/s42005-026-02791-5",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02791-5",
+          "url": "https://doi.org/10.1038/s42005-026-02791-5"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於共振成像與光譜的窄頻、波長可調高亮度極紫外–軟 X 光諧波」。",
+      "title": "Narrowband and wavelength-tuneable bright EUV–soft-X-ray harmonics for resonant imaging and spectroscopy",
+      "title_original": "Narrowband and wavelength-tuneable bright EUV–soft-X-ray harmonics for resonant imaging and spectroscopy",
+      "title_zh_tw": "用於共振成像與光譜的窄頻、波長可調高亮度極紫外–軟 X 光諧波",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02791-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "M. Winter",
+        "A. Pignedoli",
+        "M. C. Rahn",
+        "A. S. Sukhanov",
+        "B. Achinuq",
+        "J. R. Bollard",
+        "M. Azhar",
+        "K. Everschor-Sitte",
+        "D. Pohl",
+        "S. Schneider",
+        "A. Tahn",
+        "V. Ukleev",
+        "M. Valvidares",
+        "A. Thomas",
+        "D. Wolf",
+        "P. Vir",
+        "T. Helm",
+        "G. van der Laan",
+        "T. Hesjedal",
+        "J. Geck",
+        "C. Felser",
+        "B. Rellinghaus"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02785-3",
+      "doi": "10.1038/s42005-026-02785-3",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02785-3",
+          "url": "https://doi.org/10.1038/s42005-026-02785-3"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「手性磁體中由外場誘導的 π 至 2π 孤子晶格凝聚」。",
+      "title": "Field-induced condensation of π to 2π soliton lattices in chiral magnets",
+      "title_original": "Field-induced condensation of π to 2π soliton lattices in chiral magnets",
+      "title_zh_tw": "手性磁體中由外場誘導的 π 至 2π 孤子晶格凝聚",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02785-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Myungjun Kang",
+        "Yogeshwar Prasad",
+        "Nikhil Danny Babu",
+        "Rasoul Ghadimi",
+        "Jae Hoon Kim",
+        "Sangmo Cheon"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02800-7",
+      "doi": "10.1038/s42005-026-02800-7",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02800-7",
+          "url": "https://doi.org/10.1038/s42005-026-02800-7"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「鄰近效應誘導拓撲超導體中的光學特徵與量子幾何」。",
+      "title": "Optical signatures and quantum geometry in proximity-induced topological superconductors",
+      "title_original": "Optical signatures and quantum geometry in proximity-induced topological superconductors",
+      "title_zh_tw": "鄰近效應誘導拓撲超導體中的光學特徵與量子幾何",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02800-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "M. D. Moldavskaya",
+        "L. E. Golub",
+        "Chang Niu",
+        "Peide D. Ye",
+        "S. D. Ganichev"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02804-3",
+      "doi": "10.1038/s42005-026-02804-3",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02804-3",
+          "url": "https://doi.org/10.1038/s42005-026-02804-3"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「具不對稱光柵的二維碲烯中的圓形棘輪電流」。",
+      "title": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating",
+      "title_original": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating",
+      "title_zh_tw": "具不對稱光柵的二維碲烯中的圓形棘輪電流",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02804-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Macoto Fujimoto",
+        "Riku Sato",
+        "Moh Hamdan",
+        "Mizuki Uenomachi",
+        "Peter Caradonna",
+        "Laura Stephenson",
+        "Archie Montgomery",
+        "Julien Bordes",
+        "James R. Brown",
+        "Daniel P. Watts",
+        "Kenji Shimazoe"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02782-6",
+      "doi": "10.1038/s42005-026-02782-6",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02782-6",
+          "url": "https://doi.org/10.1038/s42005-026-02782-6"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「利用純正電子發射體直接成像三光子衰變以推進 PET 技術」。",
+      "title": "Advancing PET through direct imaging of three-photon decay using pure positron emitters",
+      "title_original": "Advancing PET through direct imaging of three-photon decay using pure positron emitters",
+      "title_zh_tw": "利用純正電子發射體直接成像三光子衰變以推進 PET 技術",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02782-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "H. C. Regan B. Bhatta",
+        "Xiaoliang Zhang",
+        "Shuyi Li",
+        "Yong Zhong",
+        "Chunjing Jia"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02757-7",
+      "doi": "10.1038/s42005-026-02757-7",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02757-7",
+          "url": "https://doi.org/10.1038/s42005-026-02757-7"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「雙軸應變下雙層鎳酸鹽的結構與電子態演化」。",
+      "title": "Structural and Electronic Evolution of Bilayer Nickelates Under Biaxial Strain",
+      "title_original": "Structural and Electronic Evolution of Bilayer Nickelates Under Biaxial Strain",
+      "title_zh_tw": "雙軸應變下雙層鎳酸鹽的結構與電子態演化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02757-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hongbin Qu",
+        "Xiaoqun Wang",
+        "Hai-Qing Lin",
+        "Gang Li"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02803-4",
+      "doi": "10.1038/s42005-026-02803-4",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02803-4",
+          "url": "https://doi.org/10.1038/s42005-026-02803-4"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「層狀化合物 Nb3Cl8 中對壓力具穩健性的團簇 Mott 態」。",
+      "title": "Pressure-robust cluster Mott states in the layered compound Nb3Cl8",
+      "title_original": "Pressure-robust cluster Mott states in the layered compound Nb3Cl8",
+      "title_zh_tw": "層狀化合物 Nb3Cl8 中對壓力具穩健性的團簇 Mott 態",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02803-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Robbe De Prins",
+        "Guy Van der Sande",
+        "Peter Bienstman",
+        "Thomas Van Vaerenbergh"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02781-7",
+      "doi": "10.1038/s42005-026-02781-7",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02781-7",
+          "url": "https://doi.org/10.1038/s42005-026-02781-7"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「離散化自旋交互作用可增強高階類比 Ising 機器」。",
+      "title": "Discretized spin interactions enhance higher-order analog Ising machines",
+      "title_original": "Discretized spin interactions enhance higher-order analog Ising machines",
+      "title_zh_tw": "離散化自旋交互作用可增強高階類比 Ising 機器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02781-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Weilun Jiang",
+        "Gaopei Pan",
+        "Zhe Wang",
+        "Bin-Bin Mao",
+        "Heng Shen",
+        "Zheng Yan"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02794-2",
+      "doi": "10.1038/s42005-026-02794-2",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02794-2",
+          "url": "https://doi.org/10.1038/s42005-026-02794-2"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以高效率費米子量子蒙地卡羅掃描揭示 Gross–Neveu 臨界點附近的糾纏熵」。",
+      "title": "Uncovering entanglement entropy near Gross-Neveu criticality by a high-efficiency fermionic quantum Monte Carlo scanning",
+      "title_original": "Uncovering entanglement entropy near Gross-Neveu criticality by a high-efficiency fermionic quantum Monte Carlo scanning",
+      "title_zh_tw": "以高效率費米子量子蒙地卡羅掃描揭示 Gross–Neveu 臨界點附近的糾纏熵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02794-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Twesh Upadhyaya",
+        "Zacharie Van Herstraeten",
+        "Jack Davis",
+        "Oliver Hahn",
+        "Nikolaos Koukoulekidis",
+        "Ulysse Chabaud"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02775-5",
+      "doi": "10.1038/s42005-026-02775-5",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02775-5",
+          "url": "https://doi.org/10.1038/s42005-026-02775-5"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「準機率的主序理論」。",
+      "title": "Majorization theory for quasiprobabilities",
+      "title_original": "Majorization theory for quasiprobabilities",
+      "title_zh_tw": "準機率的主序理論",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02775-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xenofon Chiotopoulos",
+        "Davide Nicotra",
+        "George Scriven",
+        "Kurt Driessens",
+        "Marcel Merk",
+        "Jochen Schütz",
+        "Jacco de Vries",
+        "Mark H. M. Winands"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02780-8",
+      "doi": "10.1038/s42005-026-02780-8",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02780-8",
+          "url": "https://doi.org/10.1038/s42005-026-02780-8"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於粒子軌跡重建的 1 位元量子濾波器」。",
+      "title": "A 1-bit quantum filter for particle trajectory reconstruction",
+      "title_original": "A 1-bit quantum filter for particle trajectory reconstruction",
+      "title_zh_tw": "用於粒子軌跡重建的 1 位元量子濾波器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02780-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Taehwa Lee",
+        "Ziqi Yu",
+        "Xiaoshi Su",
+        "Hyung-Suk Kwon",
+        "Chiara Daraio"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02799-x",
+      "doi": "10.1038/s42005-026-02799-x",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02799-x",
+          "url": "https://doi.org/10.1038/s42005-026-02799-x"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「符號工程化交互作用使被動彈性晶格呈現動態挫折與拓撲特性」。",
+      "title": "Sign-engineered interactions enable dynamic frustration and topology in a passive elastic lattice",
+      "title_original": "Sign-engineered interactions enable dynamic frustration and topology in a passive elastic lattice",
+      "title_zh_tw": "符號工程化交互作用使被動彈性晶格呈現動態挫折與拓撲特性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02799-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mi Feng",
+        "Liang Tian",
+        "Changsong Zhou"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02762-w",
+      "doi": "10.1038/s42005-026-02762-w",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02762-w",
+          "url": "https://doi.org/10.1038/s42005-026-02762-w"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過非馬可夫式終態最佳化進行動態疫苗優先排序」。",
+      "title": "Dynamic vaccine prioritization via non-Markovian final-state optimization",
+      "title_original": "Dynamic vaccine prioritization via non-Markovian final-state optimization",
+      "title_zh_tw": "透過非馬可夫式終態最佳化進行動態疫苗優先排序",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02762-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "S. Isayama",
+        "K. Nakahara",
+        "T. Morita",
+        "M. Hoshino",
+        "Y. Abe",
+        "T. Taguchi",
+        "F. Nikaido",
+        "K. Kuramoto",
+        "T. Yasui",
+        "N. Tamaki",
+        "Y. Esaki",
+        "Y. Naito",
+        "K. Ida",
+        "H. Kusano",
+        "R. Kitamura",
+        "K. Iwasa",
+        "S. Kurochi",
+        "Y. Arakawa",
+        "T. Takami",
+        "M. Nagao",
+        "N. Hayashi",
+        "R. Yamamoto",
+        "Y. Nakamura",
+        "K. Yamanaka",
+        "T. Pikuz",
+        "T. Minami",
+        "K. Sakai",
+        "M. Ota",
+        "S.-H. Chen",
+        "C. M. Chu",
+        "Y. L. Liu",
+        "S. Gohara",
+        "Y. Ichigotani",
+        "K. Kawakami",
+        "R. Tanaka",
+        "M. Kanasaki",
+        "S. J. Tanaka",
+        "S. Kodaira",
+        "A. Tokiyasu",
+        "H. Kohri",
+        "Y. Kaneyasu",
+        "K. Yamanoi",
+        "A. Kon",
+        "Y. Miyasaka",
+        "K. Kondo",
+        "H. Kiriyama",
+        "Y. Fukuda",
+        "Y. Kuramitsu"
+      ],
+      "canonical_id": "doi:10.1038/s42005-026-02749-7",
+      "doi": "10.1038/s42005-026-02749-7",
+      "issns": [
+        "2399-3650"
+      ],
+      "journal": "Communications Physics",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42005-026-02749-7",
+          "url": "https://doi.org/10.1038/s42005-026-02749-7"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「弓形尾流加速使離子進入相對論性區域」。",
+      "title": "Bow-wake acceleration of ions toward a relativistic regime",
+      "title_original": "Bow-wake acceleration of ions toward a relativistic regime",
+      "title_zh_tw": "弓形尾流加速使離子進入相對論性區域",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42005-026-02749-7"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__communications-physics__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__communications-physics__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__communications-physics__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__communications-physics__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__communications-physics__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__communications-physics__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 25,
+    "by_article_type": {
+      "journal-article": 25
+    },
+    "by_source": {
+      "crossref": 25
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 25,
+    "translated_articles": 18
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "communications-physics__2026-08__r02",
+  "edition_key": "communications-physics__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-19",
+    "acquisition_start": "2026-08-15",
+    "added_article_count": 7,
+    "base_article_count": 18,
+    "base_edition_sha256": "e4a2441e65e49c1ef6a2453b0cc7c83b1eea048d3dce555e1b4895ee7e4f7f65",
+    "base_manifest_publication_id": "communications-physics__2026-08__r01",
+    "base_period_end": "2026-08-14",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "communications-physics__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 7,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 25
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-19",
+    "incremental_acquisition_start": "2026-08-15",
+    "journal_slug": "communications-physics",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 25,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 7,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "communications-physics__2026-08__r02",
+  "retrieved_at": "2026-08-19T09:33:19Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__communications-physics__2026-08__r02",
+    "edition_key": "communications-physics__2026-08",
+    "end_date": "2026-08-19",
+    "issn": "2399-3650",
+    "journal": "Communications Physics",
+    "journal_slug": "communications-physics",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 19 日）",
+    "period_status": "MTD",
+    "publication_id": "communications-physics__2026-08__r02",
+    "revision": 2,
+    "slug": "communications-physics",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 7,
+      "detail": null,
+      "query": "container=Communications Physics; publication=2026-08-15..2026-08-19",
+      "returned_count": 7,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 7,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "communications-physics__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": "20893625653770961eb82975ec84d5cd7e34ea8cce0d90ebfc6020700e9989be",
+    "response_generated_at": "2026-08-14T07:32:01Z",
+    "response_sha256": "c1270e59083ebbf61bb165ff72457a79da93a97ecb113c86969032f22b25d11c",
+    "source_edition_sha256": "5fcd4faa74deb640a6050c3ee7b2678693704f89be5c7a0927824c308ceec9d1",
+    "status": "PARTIAL",
+    "total_articles": 25,
+    "translated_articles": 18
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "communications_physics"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

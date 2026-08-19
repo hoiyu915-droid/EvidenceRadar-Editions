@@ -1,0 +1,43 @@
+{
+  "article_count": 31,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-19T09:33:23Z",
+  "edition_id": "computers-in-human-behavior-artificial-humans__2026-08__r02",
+  "edition_key": "computers-in-human-behavior-artificial-humans__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 55990,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.json",
+      "sha256": "28949a2d45ae1b796656524aa6226149f6de117a422a9380c825d878f1f4c597"
+    },
+    "report_html": {
+      "bytes": 98059,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.html",
+      "sha256": "e555d954407b6d6fcf0f1a7aada19d21f41da161c4c911d4dcb65077dcbc01d1"
+    }
+  },
+  "journal": "Computers in Human Behavior: Artificial Humans",
+  "journal_slug": "computers-in-human-behavior-artificial-humans",
+  "manifest_name": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.manifest.json",
+  "period_end": "2026-08-19",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "computers-in-human-behavior-artificial-humans__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 31,
+  "translation_provenance": {
+    "request_binding_sha256": "25d200cab31dd0065a6f46e5fb1cf1e056f5df3ba5012f2748d10168ba2a490e",
+    "response_sha256": "2faa9a556a1aaa94aa57dd8650579a125a7111bb1670083c7ced394820516004",
+    "source_edition_sha256": "a41980507a2621cddb816ef36bc17c16a45086597daeb75d95d2c6548cdf0d32"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

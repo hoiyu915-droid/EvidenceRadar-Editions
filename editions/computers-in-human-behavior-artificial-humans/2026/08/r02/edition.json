@@ -1,0 +1,1243 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ruiqing Han",
+        "Hao Cui",
+        "Taha Yasseri"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100338",
+      "doi": "10.1016/j.chbah.2026.100338",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100338",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100338"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「視覺擬人化會改變人們對具性別特徵 AI 管理者的評價」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Visual anthropomorphism shifts evaluations of gendered AI managers",
+      "title_original": "Visual anthropomorphism shifts evaluations of gendered AI managers",
+      "title_zh_tw": "視覺擬人化會改變人們對具性別特徵 AI 管理者的評價",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100338"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinyi Zhao"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100366",
+      "doi": "10.1016/j.chbah.2026.100366",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100366",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100366"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「虛擬連結、真實幸福感：從認知—情感觀點解析知覺擬人化、擬社會關係與主觀幸福感的連結機制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Virtual bonds, real well-being: A cognitive–affective perspective on the mechanisms linking perceived anthropomorphism, parasocial relationship, and subjective well-being",
+      "title_original": "Virtual bonds, real well-being: A cognitive–affective perspective on the mechanisms linking perceived anthropomorphism, parasocial relationship, and subjective well-being",
+      "title_zh_tw": "虛擬連結、真實幸福感：從認知—情感觀點解析知覺擬人化、擬社會關係與主觀幸福感的連結機制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100366"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shauna Heron",
+        "Meng Cheng Lau"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100358",
+      "doi": "10.1016/j.chbah.2026.100358",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100358",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100358"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「自主式人機協作中的信任：回應式互動策略的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Trust in autonomous human–robot collaboration: Effects of responsive interaction policies",
+      "title_original": "Trust in autonomous human–robot collaboration: Effects of responsive interaction policies",
+      "title_zh_tw": "自主式人機協作中的信任：回應式互動策略的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100358"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zohar Elyoseph",
+        "Alexandra Klein-Rafaeli",
+        "Noa Beiman",
+        "Annika C. Sweetland",
+        "Milton L. Wainberg",
+        "Yossi Levi-Belz"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100364",
+      "doi": "10.1016/j.chbah.2026.100364",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100364",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100364"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以多代理 AI 模擬器訓練心理健康專業人員進行單次人際心理治療：前後測概念驗證研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Training mental health professionals in single-session IPT with a multi-agent AI simulator: A pre–post proof-of-concept study",
+      "title_original": "Training mental health professionals in single-session IPT with a multi-agent AI simulator: A pre–post proof-of-concept study",
+      "title_zh_tw": "以多代理 AI 模擬器訓練心理健康專業人員進行單次人際心理治療：前後測概念驗證研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100364"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jessica M. Alleva",
+        "Tuğba Türkcan",
+        "Linda Lin",
+        "Chrisa L. Sloutas",
+        "Jasmine Fardouly"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100339",
+      "doi": "10.1016/j.chbah.2026.100339",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100339",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100339"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「接觸生成式人工智慧（Gen-AI）影像對年輕女性身體意象的影響：影像類型與揭露與否重要嗎？」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The effects of exposure to imagery created with generative artificial intelligence (gen-AI) on young women's body image: Do image type and disclosure matter?",
+      "title_original": "The effects of exposure to imagery created with generative artificial intelligence (gen-AI) on young women's body image: Do image type and disclosure matter?",
+      "title_zh_tw": "接觸生成式人工智慧（Gen-AI）影像對年輕女性身體意象的影響：影像類型與揭露與否重要嗎？",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100339"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Samuel N. Koscelny",
+        "Sara Sadralashrafi",
+        "David M. Neyens"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100370",
+      "doi": "10.1016/j.chbah.2026.100370",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100370",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100370"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「簡單答案的危險：以使用者經驗與知覺的歸納式反思主題分析，概念化醫療聊天機器人資訊呈現中的主觀處理流暢性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The danger in easy answers: Conceptualizing subjective processing fluency for healthcare chatbot information presentation in an inductive reflexive thematic analysis of user experience and perceptions",
+      "title_original": "The danger in easy answers: Conceptualizing subjective processing fluency for healthcare chatbot information presentation in an inductive reflexive thematic analysis of user experience and perceptions",
+      "title_zh_tw": "簡單答案的危險：以使用者經驗與知覺的歸納式反思主題分析，概念化醫療聊天機器人資訊呈現中的主觀處理流暢性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100370"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vivian Emily Gunser",
+        "Birgit Brucker",
+        "Steffen Gottschling",
+        "Sandra Richter",
+        "Peter Gerjets"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100349",
+      "doi": "10.1016/j.chbah.2026.100349",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100349",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100349"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「風格很重要：特定作者的寫作風格是影響 AI 生成與人類創作詩歌之可信度與品質知覺的關鍵因素」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Style matters: Writing styles of specific authors are a key factor in determining the perceived credibility and quality of AI-generated and human-written poetry",
+      "title_original": "Style matters: Writing styles of specific authors are a key factor in determining the perceived credibility and quality of AI-generated and human-written poetry",
+      "title_zh_tw": "風格很重要：特定作者的寫作風格是影響 AI 生成與人類創作詩歌之可信度與品質知覺的關鍵因素",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100349"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michal Dolev-Cohen"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100345",
+      "doi": "10.1016/j.chbah.2026.100345",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100345",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100345"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「相同傷害、不同判斷：大型語言模型對青少年網路性虐待責任歸因的系統性差異」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Same harm, different judgments: Systematic variation across large language models in responsibility attribution for adolescent online sexual abuse",
+      "title_original": "Same harm, different judgments: Systematic variation across large language models in responsibility attribution for adolescent online sexual abuse",
+      "title_zh_tw": "相同傷害、不同判斷：大型語言模型對青少年網路性虐待責任歸因的系統性差異",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100345"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Felix Kares",
+        "Cornelius J. König",
+        "Michelle Polly",
+        "Markus Langer"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100336",
+      "doi": "10.1016/j.chbah.2026.100336",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100336",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100336"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AI 輔助決策中的責任歸因：自動化程度與系統可靠性的交互作用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Responsibility attributions in AI-assisted decisions: The interplay of the level of automation and system reliability",
+      "title_original": "Responsibility attributions in AI-assisted decisions: The interplay of the level of automation and system reliability",
+      "title_zh_tw": "AI 輔助決策中的責任歸因：自動化程度與系統可靠性的交互作用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100336"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Md Rabiul Islam Hridoy",
+        "Syada Miel Ahmed"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100340",
+      "doi": "10.1016/j.chbah.2026.100340",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100340",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100340"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「大型語言模型的心理語言反應性：意識形態促發下的情感不對稱」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Psycholinguistic reactivity in large language models: Affective asymmetry under ideological priming",
+      "title_original": "Psycholinguistic reactivity in large language models: Affective asymmetry under ideological priming",
+      "title_zh_tw": "大型語言模型的心理語言反應性：意識形態促發下的情感不對稱",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100340"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Cleone Mitsui",
+        "Yuta Kawamura"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100331",
+      "doi": "10.1016/j.chbah.2026.100331",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100331",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100331"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人們會在小型線上群聊中調整政治表達以迎合群體：來自 AI 模擬聊天實驗的證據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "People shift political expression to fit the room in small online group chats: Evidence from AI-simulated chat experiments",
+      "title_original": "People shift political expression to fit the room in small online group chats: Evidence from AI-simulated chat experiments",
+      "title_zh_tw": "人們會在小型線上群聊中調整政治表達以迎合群體：來自 AI 模擬聊天實驗的證據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100331"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Valentina Fantasia",
+        "Peter Gärdenfors"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100346",
+      "doi": "10.1016/j.chbah.2026.100346",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100346",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100346"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從人到機器人：描繪人類與非人類重要他者的互動」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Of mice and men and robots: mapping human interactions with nonhuman significant others",
+      "title_original": "Of mice and men and robots: mapping human interactions with nonhuman significant others",
+      "title_zh_tw": "從人到機器人：描繪人類與非人類重要他者的互動",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100346"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chantal Klier",
+        "Birgit Lugrin"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100368",
+      "doi": "10.1016/j.chbah.2026.100368",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100368",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100368"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「需要你真好！不同情境下人機互動中的心理需求滿足、幸福感與科技接受度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nice to Need You! Psychological need fulfillment, well-being, and technology acceptance in human–robot interaction across contexts",
+      "title_original": "Nice to Need You! Psychological need fulfillment, well-being, and technology acceptance in human–robot interaction across contexts",
+      "title_zh_tw": "需要你真好！不同情境下人機互動中的心理需求滿足、幸福感與科技接受度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100368"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Felix Kruse",
+        "Arvid Nagel",
+        "Elisa Kruse"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100334",
+      "doi": "10.1016/j.chbah.2026.100334",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100334",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100334"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「親職與兒童健康資訊的新方向？生成式人工智慧的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "New directions in parenting and child health information? The role of generative artificial intelligence",
+      "title_original": "New directions in parenting and child health information? The role of generative artificial intelligence",
+      "title_zh_tw": "親職與兒童健康資訊的新方向？生成式人工智慧的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100334"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Erik Derner",
+        "Dalibor Kučera",
+        "Aditya Gulati",
+        "Robert A. Bagheri",
+        "Nuria Oliver"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100362",
+      "doi": "10.1016/j.chbah.2026.100362",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100362",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100362"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「留意溝通風格：溝通方式對人類—聊天機器人互動的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mind the style: Impact of communication style on human-chatbot interaction",
+      "title_original": "Mind the style: Impact of communication style on human-chatbot interaction",
+      "title_zh_tw": "留意溝通風格：溝通方式對人類—聊天機器人互動的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100362"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Cindy H. Liu",
+        "Chang Zhao",
+        "Felix Lou",
+        "Wenbo Zhang",
+        "Anthony Menor",
+        "Angela Chow",
+        "Tiffany Yip"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100348",
+      "doi": "10.1016/j.chbah.2026.100348",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100348",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100348"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「大學生的孤獨感與以生成式 AI 作為陪伴工具的使用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Loneliness and generative AI use for companionship among college students",
+      "title_original": "Loneliness and generative AI use for companionship among college students",
+      "title_zh_tw": "大學生的孤獨感與以生成式 AI 作為陪伴工具的使用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100348"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Takahiro Tsumura",
+        "Kazunori Terada"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100363",
+      "doi": "10.1016/j.chbah.2026.100363",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100363",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100363"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「邏輯一致性作為 AI 情感說服的基礎」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Logical consistency as a foundation for emotional persuasion by AI",
+      "title_original": "Logical consistency as a foundation for emotional persuasion by AI",
+      "title_zh_tw": "邏輯一致性作為 AI 情感說服的基礎",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100363"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Stephan Vonschallen",
+        "Andreas Thür",
+        "Theresa Schmiedel",
+        "Friederike Eyssel"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100337",
+      "doi": "10.1016/j.chbah.2026.100337",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100337",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100337"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「知識就是力量？代理知識對與生成式社交代理線上互動中說服效果的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Knowledge is power? The impact of agent knowledge on persuasion effectiveness in online interactions with generative social agents",
+      "title_original": "Knowledge is power? The impact of agent knowledge on persuasion effectiveness in online interactions with generative social agents",
+      "title_zh_tw": "知識就是力量？代理知識對與生成式社交代理線上互動中說服效果的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100337"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elizabeth R. Merwin",
+        "Jacqueline Hammack",
+        "Lindsey Riera-Gomez",
+        "Joseph R. Keebler",
+        "Erik D. Engeberg",
+        "Teresa Wilcox"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100356",
+      "doi": "10.1016/j.chbah.2026.100356",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100356",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100356"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人類與機器人：非語言溝通中指向線索的運用及信任的中介機制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Humans vs. Robots: Utilization of pointing cues and the mediators of trust in nonverbal communication",
+      "title_original": "Humans vs. Robots: Utilization of pointing cues and the mediators of trust in nonverbal communication",
+      "title_zh_tw": "人類與機器人：非語言溝通中指向線索的運用及信任的中介機制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100356"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yasushi Watanabe",
+        "Masataka Nakayama",
+        "Kosuke Takemura",
+        "Yukiko Uchida"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100365",
+      "doi": "10.1016/j.chbah.2026.100365",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100365",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100365"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「職場 AI 回饋如何塑造 AI 依賴：日本辦公室工作者職場社會支持調節作用的隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "How workplace AI feedback shapes AI dependency: A randomized controlled trial on the moderating role of workplace social support among Japanese office workers",
+      "title_original": "How workplace AI feedback shapes AI dependency: A randomized controlled trial on the moderating role of workplace social support among Japanese office workers",
+      "title_zh_tw": "職場 AI 回饋如何塑造 AI 依賴：日本辦公室工作者職場社會支持調節作用的隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100365"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Peng-Yu Zeng",
+        "Kai-Yu Chang",
+        "Kuan-Yu Lin",
+        "Su-Ling Yeh"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100333",
+      "doi": "10.1016/j.chbah.2026.100333",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100333",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100333"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「生成式 AI 如何重塑感恩介入：益處與風險」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "How generative AI reshapes gratitude interventions: Benefits and risks",
+      "title_original": "How generative AI reshapes gratitude interventions: Benefits and risks",
+      "title_zh_tw": "生成式 AI 如何重塑感恩介入：益處與風險",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100333"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sarah Roßkopf",
+        "Leon O.H. Kroczek",
+        "Theresa F. Wechsler",
+        "Felix Stärz",
+        "Matthias Blau",
+        "Steven van de Par",
+        "Andreas Mühlberger"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100371",
+      "doi": "10.1016/j.chbah.2026.100371",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100371",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100371"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「嘿 AI：你能觸發我的壓力嗎？虛擬社會壓力範式中文字轉語音合成與人類語音的比較」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Hey AI: Can you trigger me? A comparison of Text-to-Speech synthesis and human speech in a virtual social stress paradigm",
+      "title_original": "Hey AI: Can you trigger me? A comparison of Text-to-Speech synthesis and human speech in a virtual social stress paradigm",
+      "title_zh_tw": "嘿 AI：你能觸發我的壓力嗎？虛擬社會壓力範式中文字轉語音合成與人類語音的比較",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100371"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Arthur Bran Herbener",
+        "Robert Zachariae",
+        "Michal Klincewicz",
+        "Mikkel Berg Thøgersen",
+        "Marie Rosenkrantz Hermann",
+        "Malene Flensborg Damholdt"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100347",
+      "doi": "10.1016/j.chbah.2026.100347",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100347",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100347"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探索大型語言模型的治療能力：觀察性研究及與人類治療師統合分析估計值的比較」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring the therapeutic competencies of large language models: Observational study and comparison with meta-analytical estimates for human therapists",
+      "title_original": "Exploring the therapeutic competencies of large language models: Observational study and comparison with meta-analytical estimates for human therapists",
+      "title_zh_tw": "探索大型語言模型的治療能力：觀察性研究及與人類治療師統合分析估計值的比較",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100347"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chen-Hsiang Hong",
+        "Yen-Zhen Liu",
+        "Chialin Chen"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100350",
+      "doi": "10.1016/j.chbah.2026.100350",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100350",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100350"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「生成式 AI 的情境依賴回應模式：稽核 ChatGPT 在身分敏感決策情境下的輸出」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Context-dependent response patterns in generative AI: An audit of ChatGPT outputs across identity-sensitive decision scenarios",
+      "title_original": "Context-dependent response patterns in generative AI: An audit of ChatGPT outputs across identity-sensitive decision scenarios",
+      "title_zh_tw": "生成式 AI 的情境依賴回應模式：稽核 ChatGPT 在身分敏感決策情境下的輸出",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100350"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Koshiro Tanaka",
+        "Takamasa Iio",
+        "Masahiro Shiomi"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100361",
+      "doi": "10.1016/j.chbah.2026.100361",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100361",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100361"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「日本參與者對 AI 與人類搭便車者實施相近程度的高成本懲罰：來自公共財賽局的證據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Comparable costly punishment toward AI and human free-riders among Japanese participants: Evidence from a public goods game",
+      "title_original": "Comparable costly punishment toward AI and human free-riders among Japanese participants: Evidence from a public goods game",
+      "title_zh_tw": "日本參與者對 AI 與人類搭便車者實施相近程度的高成本懲罰：來自公共財賽局的證據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100361"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiaohan Feng",
+        "Jie Fu"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100369",
+      "doi": "10.1016/j.chbah.2026.100369",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100369",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100369"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「高自閉特質女性中的聊天機器人外觀與孤獨感變化軌跡」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Chatbot appearance and loneliness trajectories in women with high autistic traits",
+      "title_original": "Chatbot appearance and loneliness trajectories in women with high autistic traits",
+      "title_zh_tw": "高自閉特質女性中的聊天機器人外觀與孤獨感變化軌跡",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100369"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sonsoles López-Pernas",
+        "Eduardo Oliveira",
+        "Kamila Misiejuk",
+        "Fitsum Gizachew Deriba",
+        "Rogers Kaliisa",
+        "Mohammed Saqr"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100357",
+      "doi": "10.1016/j.chbah.2026.100357",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100357",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100357"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AI 能否為不同類型學生提供適切支持？一項大規模評估」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Can AI deliver appropriate support for diverse student profiles?: A large-scale evaluation",
+      "title_original": "Can AI deliver appropriate support for diverse student profiles?: A large-scale evaluation",
+      "title_zh_tw": "AI 能否為不同類型學生提供適切支持？一項大規模評估",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100357"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kurt Alexander Ackermann",
+        "Michèle Rettenmund",
+        "Corina Helbling",
+        "Remo Bebie Gut",
+        "Nina Heim",
+        "Pia Furchheim"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100335",
+      "doi": "10.1016/j.chbah.2026.100335",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100335",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100335"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「能促進互動的虛擬化身：視覺角色期待、情境一致性、使用者特徵與知覺好感如何塑造對購物聊天機器人的回應」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Avatars that engage: How visual role expectations, contextual congruence, user characteristics, and perceived sympathy shape responses to shopping chatbots",
+      "title_original": "Avatars that engage: How visual role expectations, contextual congruence, user characteristics, and perceived sympathy shape responses to shopping chatbots",
+      "title_zh_tw": "能促進互動的虛擬化身：視覺角色期待、情境一致性、使用者特徵與知覺好感如何塑造對購物聊天機器人的回應",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100335"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marco I. Bonelli"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100344",
+      "doi": "10.1016/j.chbah.2026.100344",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100344",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100344"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人工人類領導者：數位人 CEO 信任與治理的 Transport–Ethics 模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Artificial human leaders: The Transport–Ethics Model of trust and governance in digital human CEOs",
+      "title_original": "Artificial human leaders: The Transport–Ethics Model of trust and governance in digital human CEOs",
+      "title_zh_tw": "人工人類領導者：數位人 CEO 信任與治理的 Transport–Ethics 模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100344"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mara Stockner",
+        "Gianmarco Convertino",
+        "Sara Cambedda",
+        "Giuliana Mazzoni"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100332",
+      "doi": "10.1016/j.chbah.2026.100332",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100332",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100332"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人類能分辨真實與深偽人臉嗎？系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Are humans able to discriminate between real and deepfake faces? A systematic review and meta-analysis",
+      "title_original": "Are humans able to discriminate between real and deepfake faces? A systematic review and meta-analysis",
+      "title_zh_tw": "人類能分辨真實與深偽人臉嗎？系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100332"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sebastian Scherr"
+      ],
+      "canonical_id": "doi:10.1016/j.chbah.2026.100351",
+      "doi": "10.1016/j.chbah.2026.100351",
+      "issns": [
+        "2949-8821"
+      ],
+      "journal": "Computers in Human Behavior: Artificial Humans",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbah.2026.100351",
+          "url": "https://doi.org/10.1016/j.chbah.2026.100351"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AI 對話稽核：社群媒體網紅的提示框架與免費／付費 AI 模型層級如何改變聊天機器人回應品質」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AI conversation audit: How social media influencer prompt framing and free-versus-paid AI model tiers change chatbot response quality",
+      "title_original": "AI conversation audit: How social media influencer prompt framing and free-versus-paid AI model tiers change chatbot response quality",
+      "title_zh_tw": "AI 對話稽核：社群媒體網紅的提示框架與免費／付費 AI 模型層級如何改變聊天機器人回應品質",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbah.2026.100351"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 31,
+    "by_article_type": {
+      "journal-article": 31
+    },
+    "by_source": {
+      "crossref": 31
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 31,
+    "translated_articles": 31
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "computers-in-human-behavior-artificial-humans__2026-08__r02",
+  "edition_key": "computers-in-human-behavior-artificial-humans__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-19",
+    "acquisition_start": "2026-08-15",
+    "added_article_count": 0,
+    "base_article_count": 31,
+    "base_edition_sha256": "438bca4b2fdcc0488b552455f518ccf702f387fd69ad2ed3b85647a53649eb16",
+    "base_manifest_publication_id": "computers-in-human-behavior-artificial-humans__2026-08__r01",
+    "base_period_end": "2026-08-14",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "computers-in-human-behavior-artificial-humans__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 31
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-19",
+    "incremental_acquisition_start": "2026-08-15",
+    "journal_slug": "computers-in-human-behavior-artificial-humans",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 31,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "computers-in-human-behavior-artificial-humans__2026-08__r02",
+  "retrieved_at": "2026-08-19T09:33:23Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__computers-in-human-behavior-artificial-humans__2026-08__r02",
+    "edition_key": "computers-in-human-behavior-artificial-humans__2026-08",
+    "end_date": "2026-08-19",
+    "issn": "2949-8821",
+    "journal": "Computers in Human Behavior: Artificial Humans",
+    "journal_slug": "computers-in-human-behavior-artificial-humans",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 19 日）",
+    "period_status": "MTD",
+    "publication_id": "computers-in-human-behavior-artificial-humans__2026-08__r02",
+    "revision": 2,
+    "slug": "computers-in-human-behavior-artificial-humans",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Computers in Human Behavior: Artificial Humans; publication=2026-08-15..2026-08-19",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "computers-in-human-behavior-artificial-humans__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": "25d200cab31dd0065a6f46e5fb1cf1e056f5df3ba5012f2748d10168ba2a490e",
+    "response_generated_at": "2026-08-14T04:53:02Z",
+    "response_sha256": "2faa9a556a1aaa94aa57dd8650579a125a7111bb1670083c7ced394820516004",
+    "source_edition_sha256": "a41980507a2621cddb816ef36bc17c16a45086597daeb75d95d2c6548cdf0d32",
+    "status": "COMPLETE",
+    "total_articles": 31,
+    "translated_articles": 31
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_computers_human_behavior_artificial_humans"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
