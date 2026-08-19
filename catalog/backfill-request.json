@@ -1,23 +1,26 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-cambridge-first-six-through-19",
+  "request_id": "2026-08-cambridge-remaining-ten-through-19",
   "acquisition_start": "2026-08-17",
   "acquisition_end": "2026-08-19",
   "revision": 2,
   "provider": "cambridge",
   "selection_provider": "cambridge",
-  "selection_offset": 0,
-  "selection_count": 6,
+  "selection_count": 10,
   "selection_base_revision": 1,
   "selection_base_period_end": "2026-08-16",
   "journals": [
-    "ai-edam",
-    "antimicrobial-stewardship-and-healthcare-epidemiology",
-    "bjpsych-open",
-    "cambridge-forum-on-ai-culture-and-society",
-    "cambridge-forum-on-ai-law-and-governance",
-    "cambridge-forum-on-technology-and-global-affairs"
+    "computational-humanities-research",
+    "data-centric-engineering",
+    "epidemiology-and-infection",
+    "journal-of-clinical-and-translational-science",
+    "journal-of-nutritional-science",
+    "memory-mind-and-media",
+    "natural-language-processing",
+    "psychological-medicine",
+    "public-health-nutrition",
+    "wearable-technologies"
   ],
-  "selection_semantics": "First six Cambridge provider journals, in provider-catalog order, with an immutable August r01 ending 2026-08-16; provider journals without that base are excluded."
+  "selection_semantics": "Remaining ten Cambridge provider journals whose required immutable base is August r01 ending 2026-08-16; the already-extended first six and Data & Policy, whose latest base is r02, are excluded."
 }
