@@ -1,0 +1,43 @@
+{
+  "article_count": 13,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-19T09:16:15Z",
+  "edition_id": "artificial-intelligence-in-medicine__2026-08__r02",
+  "edition_key": "artificial-intelligence-in-medicine__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 29190,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r02.json",
+      "sha256": "477f043cfc41889f8683417fbdac068bb25853c452164bb16ec79575405d2ffd"
+    },
+    "report_html": {
+      "bytes": 52643,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r02.html",
+      "sha256": "2a117008c2417abf6b45fff530b46cf34e157762b742e044016b305753d0afff"
+    }
+  },
+  "journal": "Artificial Intelligence in Medicine",
+  "journal_slug": "artificial-intelligence-in-medicine",
+  "manifest_name": "EvidenceRadar_Editions__artificial-intelligence-in-medicine__2026-08__r02.manifest.json",
+  "period_end": "2026-08-19",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "artificial-intelligence-in-medicine__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 12,
+  "translation_provenance": {
+    "request_binding_sha256": "9d7277fe6b6c9176c6211e89101a27c44c64e8890deb83e1b872e9b6c1714c96",
+    "response_sha256": "7a3862d1c2f6931d58073dea309314b55a2f5ddbf3919be3c7a0420e1e43f43e",
+    "source_edition_sha256": "0c0198a0faf70c355f03356fafdb7a3f3669b0ae393ab167279fddd8e3fdec8a"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
