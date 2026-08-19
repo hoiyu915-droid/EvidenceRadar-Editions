@@ -178,6 +178,48 @@ class IncrementalBackfillTests(unittest.TestCase):
                 request["policy_override_journals"], ["scientific-reports"]
             )
 
+    def test_batch_request_accepts_explicit_planned_journals_in_batch(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "request.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
+                        "schema_version": "1.0",
+                        "request_id": "2026-08-planned-existing",
+                        "acquisition_start": "2026-08-15",
+                        "acquisition_end": "2026-08-19",
+                        "revision": 2,
+                        "journals": ["chemical-science"],
+                        "allow_planned_journals": ["chemical-science"],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            request = load_batch_request(path)
+            self.assertEqual(request["allow_planned_journals"], ["chemical-science"])
+
+    def test_batch_request_rejects_planned_allowance_outside_batch(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "request.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
+                        "schema_version": "1.0",
+                        "request_id": "2026-08-planned-outside",
+                        "acquisition_start": "2026-08-15",
+                        "acquisition_end": "2026-08-19",
+                        "revision": 2,
+                        "journals": ["acs-central-science"],
+                        "allow_planned_journals": ["chemical-science"],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            with self.assertRaisesRegex(ValueError, "outside the journal batch"):
+                load_batch_request(path)
+
     def test_incremental_journal_resolves_from_validated_provider_snapshot(self):
         journal = _resolve_incremental_journal(
             "ai-edam",
@@ -196,6 +238,23 @@ class IncrementalBackfillTests(unittest.TestCase):
                 provider="unknown",
                 require_enabled=True,
             )
+
+    def test_planned_core_journal_requires_explicit_incremental_allowance(self):
+        with self.assertRaisesRegex(ValueError, "registered but not enabled"):
+            _resolve_incremental_journal(
+                "chemical-science",
+                catalog_root=Path("catalog"),
+                provider=None,
+                require_enabled=True,
+            )
+        journal = _resolve_incremental_journal(
+            "chemical-science",
+            catalog_root=Path("catalog"),
+            provider=None,
+            require_enabled=False,
+        )
+        self.assertFalse(journal["enabled"])
+        self.assertEqual(journal["sources"], ["rsc_chemical_science"])
 
     def test_production_request_matches_declared_catalog_and_base(self):
         request = load_batch_request(Path("catalog/backfill-request.json"))

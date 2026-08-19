@@ -79,6 +79,17 @@ def load_batch_request(path: Path) -> dict[str, Any]:
             raise ValueError(
                 f"backfill policy override requires an explicit max_records limit: {journal}"
             )
+    raw_planned = request.get("allow_planned_journals") or []
+    if not isinstance(raw_planned, list):
+        raise ValueError("backfill allow_planned_journals must be a list")
+    allow_planned_journals = [str(value) for value in raw_planned]
+    if len(allow_planned_journals) != len(set(allow_planned_journals)):
+        raise ValueError("backfill allow_planned_journals contains duplicates")
+    for journal in allow_planned_journals:
+        if journal not in journals:
+            raise ValueError(
+                f"planned journal allowance is outside the journal batch: {journal}"
+            )
     normalized = dict(request)
     normalized["request_id"] = request_id
     normalized["acquisition_start"] = start.isoformat()
@@ -88,6 +99,7 @@ def load_batch_request(path: Path) -> dict[str, Any]:
     normalized["provider"] = provider or None
     normalized["max_records_by_journal"] = limits
     normalized["policy_override_journals"] = policy_overrides
+    normalized["allow_planned_journals"] = allow_planned_journals
     return normalized
 
 
@@ -139,6 +151,7 @@ def run_batch(
     revision = int(request["revision"])
     max_records_by_journal = request.get("max_records_by_journal") or {}
     policy_override_journals = set(request.get("policy_override_journals") or [])
+    allow_planned_journals = set(request.get("allow_planned_journals") or [])
     if Path(receipt_output).is_file():
         existing = json.loads(Path(receipt_output).read_text(encoding="utf-8"))
         if (
@@ -182,6 +195,7 @@ def run_batch(
             radar_commit=radar_commit,
             max_records=max_records_by_journal.get(journal_slug),
             provider=request.get("provider"),
+            allow_planned=journal_slug in allow_planned_journals,
             allow_policy_override=journal_slug in policy_override_journals,
         )
         bundle_dir = Path(work_dir) / journal_slug
@@ -214,6 +228,7 @@ def run_batch(
         "acquisition_start": start.isoformat(),
         "acquisition_end": end.isoformat(),
         "revision": revision,
+        "allow_planned_journals": sorted(allow_planned_journals),
         "journal_count": len(results),
         "journals": results,
         "semantics": (

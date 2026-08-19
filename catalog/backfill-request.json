@@ -8,6 +8,10 @@
   "selection_count": 2,
   "selection_base_revision": 1,
   "selection_base_period_end": "2026-08-14",
+  "allow_planned_journals": [
+    "chemical-science",
+    "tmlr"
+  ],
   "journals": [
     "chemical-science",
     "tmlr"
