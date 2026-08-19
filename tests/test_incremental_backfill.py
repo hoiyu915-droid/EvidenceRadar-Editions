@@ -150,6 +150,33 @@ class IncrementalBackfillTests(unittest.TestCase):
             self.assertEqual(request["revision"], 2)
             self.assertEqual(request["journals"], ["acs-central-science", "clinical-nutrition"])
 
+    def test_batch_request_accepts_bounded_per_journal_policy_override(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "request.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
+                        "schema_version": "1.0",
+                        "request_id": "2026-08-volume-override",
+                        "acquisition_start": "2026-08-15",
+                        "acquisition_end": "2026-08-19",
+                        "revision": 2,
+                        "journals": ["scientific-reports"],
+                        "max_records_by_journal": {"scientific-reports": 1000},
+                        "policy_override_journals": ["scientific-reports"],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            request = load_batch_request(path)
+            self.assertEqual(
+                request["max_records_by_journal"], {"scientific-reports": 1000}
+            )
+            self.assertEqual(
+                request["policy_override_journals"], ["scientific-reports"]
+            )
+
     def test_production_request_selects_requested_enabled_active_journal_slice(self):
         request = load_batch_request(Path("catalog/backfill-request.json"))
         registry = json.loads(Path("catalog/journals.json").read_text(encoding="utf-8"))
@@ -179,6 +206,10 @@ class IncrementalBackfillTests(unittest.TestCase):
         count = request["selection_count"]
         selected = eligible[offset : offset + count]
         self.assertEqual(request["journals"], selected)
+        self.assertEqual(
+            request["max_records_by_journal"], {"scientific-reports": 1000}
+        )
+        self.assertEqual(request["policy_override_journals"], ["scientific-reports"])
         for slug in selected:
             manifest = json.loads(
                 (Path("editions") / slug / "2026/08/r01/manifest.json").read_text(

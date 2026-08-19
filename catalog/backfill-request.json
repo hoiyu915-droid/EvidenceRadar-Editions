@@ -9,6 +9,12 @@
   "selection_count": 15,
   "selection_base_revision": 1,
   "selection_base_period_end": "2026-08-14",
+  "max_records_by_journal": {
+    "scientific-reports": 1000
+  },
+  "policy_override_journals": [
+    "scientific-reports"
+  ],
   "journals": [
     "plos-biology",
     "plos-medicine",
