@@ -9,6 +9,7 @@ from pathlib import Path
 from evidenceradar_editions.bundle import write_bundle
 from evidenceradar_editions.incremental_backfill import (
     INCREMENTAL_SEMANTICS,
+    _resolve_incremental_journal,
     compose_incremental_month_revision,
 )
 from evidenceradar_editions.incremental_batch import load_batch_request
@@ -177,6 +178,25 @@ class IncrementalBackfillTests(unittest.TestCase):
                 request["policy_override_journals"], ["scientific-reports"]
             )
 
+    def test_incremental_journal_resolves_from_validated_provider_snapshot(self):
+        journal = _resolve_incremental_journal(
+            "ai-edam",
+            catalog_root=Path("catalog"),
+            provider="cambridge",
+            require_enabled=True,
+        )
+        self.assertEqual(journal["name"], "AI EDAM")
+        self.assertEqual(journal["sources"], ["cambridge_core"])
+
+    def test_incremental_journal_rejects_unknown_provider(self):
+        with self.assertRaisesRegex(ValueError, "unsupported incremental Edition provider"):
+            _resolve_incremental_journal(
+                "ai-edam",
+                catalog_root=Path("catalog"),
+                provider="unknown",
+                require_enabled=True,
+            )
+
     def test_production_request_selects_first_six_remaining_cambridge_editions(self):
         request = load_batch_request(Path("catalog/backfill-request.json"))
         provider = json.loads(
@@ -199,6 +219,7 @@ class IncrementalBackfillTests(unittest.TestCase):
         offset = request["selection_offset"]
         count = request["selection_count"]
         selected = eligible[offset : offset + count]
+        self.assertEqual(request["provider"], "cambridge")
         self.assertEqual(request["selection_provider"], "cambridge")
         self.assertEqual(request["journals"], selected)
         self.assertEqual(request["max_records_by_journal"], {})

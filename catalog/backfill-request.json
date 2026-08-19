@@ -5,6 +5,7 @@
   "acquisition_start": "2026-08-17",
   "acquisition_end": "2026-08-19",
   "revision": 2,
+  "provider": "cambridge",
   "selection_provider": "cambridge",
   "selection_offset": 0,
   "selection_count": 6,
