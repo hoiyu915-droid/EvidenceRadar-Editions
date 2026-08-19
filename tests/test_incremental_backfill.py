@@ -140,6 +140,23 @@ class IncrementalBackfillTests(unittest.TestCase):
             for item in registry["journals"]
             if item.get("status") == "active" and item.get("enabled", True) is not False
         ]
+        base_revision = request.get("selection_base_revision")
+        base_period_end = request.get("selection_base_period_end")
+        if base_revision is not None or base_period_end is not None:
+            base_eligible = []
+            for slug in eligible:
+                manifest_path = (
+                    Path("editions") / slug / "2026/08/r01/manifest.json"
+                )
+                if not manifest_path.exists():
+                    continue
+                manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+                if base_revision is not None and manifest["revision"] != base_revision:
+                    continue
+                if base_period_end is not None and manifest["period_end"] != base_period_end:
+                    continue
+                base_eligible.append(slug)
+            eligible = base_eligible
         offset = request["selection_offset"]
         count = request["selection_count"]
         selected = eligible[offset : offset + count]

@@ -1,23 +1,25 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-next-ten-through-19",
+  "request_id": "2026-08-third-ten-through-19",
   "acquisition_start": "2026-08-15",
   "acquisition_end": "2026-08-19",
   "revision": 2,
-  "selection_offset": 5,
+  "selection_offset": 15,
   "selection_count": 10,
+  "selection_base_revision": 1,
+  "selection_base_period_end": "2026-08-14",
   "journals": [
-    "clinical-nutrition-espen",
-    "clinical-nutrition-open-science",
-    "communications-chemistry",
-    "communications-physics",
-    "computer-speech-and-language",
-    "computers-and-education-artificial-intelligence",
-    "computers-in-human-behavior",
-    "computers-in-human-behavior-reports",
-    "computers-in-human-behavior-artificial-humans",
-    "eclinicalmedicine"
+    "expert-systems-with-applications",
+    "gait-and-posture",
+    "human-movement-science",
+    "ieee-transactions-on-artificial-intelligence",
+    "international-journal-of-human-computer-studies",
+    "jama-network-open",
+    "journal-of-biomedical-informatics",
+    "journal-of-clinical-epidemiology",
+    "journal-of-exercise-science-and-fitness",
+    "journal-of-science-and-medicine-in-sport"
   ],
-  "selection_semantics": "Next ten enabled active journals in catalog/journals.json order after the first five; disabled Chemical Science is skipped."
+  "selection_semantics": "Next ten enabled active journals with an immutable August r01 ending 2026-08-14, after the first fifteen eligible journals in catalog order; Information Processing & Management is skipped because it has no August r01 base."
 }
