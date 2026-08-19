@@ -43,12 +43,44 @@ def load_batch_request(path: Path) -> dict[str, Any]:
     for journal in journals:
         if not journal or not all(character.islower() or character.isdigit() or character == "-" for character in journal):
             raise ValueError(f"unsafe journal slug in backfill request: {journal!r}")
+    raw_limits = request.get("max_records_by_journal") or {}
+    if not isinstance(raw_limits, dict):
+        raise ValueError("backfill max_records_by_journal must be an object")
+    limits: dict[str, int] = {}
+    for journal, value in raw_limits.items():
+        if journal not in journals:
+            raise ValueError(
+                f"backfill max_records override is outside the journal batch: {journal}"
+            )
+        if isinstance(value, bool):
+            raise ValueError(f"invalid max_records override for {journal}")
+        limit = int(value)
+        if limit < 1 or limit > 5000:
+            raise ValueError(f"max_records override is out of bounds for {journal}")
+        limits[journal] = limit
+    raw_overrides = request.get("policy_override_journals") or []
+    if not isinstance(raw_overrides, list):
+        raise ValueError("backfill policy_override_journals must be a list")
+    policy_overrides = [str(value) for value in raw_overrides]
+    if len(policy_overrides) != len(set(policy_overrides)):
+        raise ValueError("backfill policy_override_journals contains duplicates")
+    for journal in policy_overrides:
+        if journal not in journals:
+            raise ValueError(
+                f"backfill policy override is outside the journal batch: {journal}"
+            )
+        if journal not in limits:
+            raise ValueError(
+                f"backfill policy override requires an explicit max_records limit: {journal}"
+            )
     normalized = dict(request)
     normalized["request_id"] = request_id
     normalized["acquisition_start"] = start.isoformat()
     normalized["acquisition_end"] = end.isoformat()
     normalized["revision"] = revision
     normalized["journals"] = journals
+    normalized["max_records_by_journal"] = limits
+    normalized["policy_override_journals"] = policy_overrides
     return normalized
 
 
@@ -98,6 +130,8 @@ def run_batch(
     start = parse_iso_date(request["acquisition_start"])
     end = parse_iso_date(request["acquisition_end"])
     revision = int(request["revision"])
+    max_records_by_journal = request.get("max_records_by_journal") or {}
+    policy_override_journals = set(request.get("policy_override_journals") or [])
     if Path(receipt_output).is_file():
         existing = json.loads(Path(receipt_output).read_text(encoding="utf-8"))
         if (
@@ -139,6 +173,8 @@ def run_batch(
             catalog_root=catalog_root,
             radar_root=radar_root,
             radar_commit=radar_commit,
+            max_records=max_records_by_journal.get(journal_slug),
+            allow_policy_override=journal_slug in policy_override_journals,
         )
         bundle_dir = Path(work_dir) / journal_slug
         write_bundle(built.run, bundle_dir)
