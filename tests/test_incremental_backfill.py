@@ -132,16 +132,19 @@ class IncrementalBackfillTests(unittest.TestCase):
             self.assertEqual(request["revision"], 2)
             self.assertEqual(request["journals"], ["acs-central-science", "clinical-nutrition"])
 
-    def test_production_request_selects_first_five_enabled_active_journals(self):
+    def test_production_request_selects_requested_enabled_active_journal_slice(self):
         request = load_batch_request(Path("catalog/backfill-request.json"))
         registry = json.loads(Path("catalog/journals.json").read_text(encoding="utf-8"))
-        first_five = [
+        eligible = [
             item["slug"]
             for item in registry["journals"]
             if item.get("status") == "active" and item.get("enabled", True) is not False
-        ][:5]
-        self.assertEqual(request["journals"], first_five)
-        for slug in first_five:
+        ]
+        offset = request["selection_offset"]
+        count = request["selection_count"]
+        selected = eligible[offset : offset + count]
+        self.assertEqual(request["journals"], selected)
+        for slug in selected:
             manifest = json.loads(
                 (Path("editions") / slug / "2026/08/r01/manifest.json").read_text(
                     encoding="utf-8"

@@ -1,16 +1,23 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-first-five-through-19",
+  "request_id": "2026-08-next-ten-through-19",
   "acquisition_start": "2026-08-15",
   "acquisition_end": "2026-08-19",
   "revision": 2,
+  "selection_offset": 5,
+  "selection_count": 10,
   "journals": [
-    "acs-central-science",
-    "artificial-intelligence",
-    "artificial-intelligence-in-medicine",
-    "clinical-biomechanics",
-    "clinical-nutrition"
+    "clinical-nutrition-espen",
+    "clinical-nutrition-open-science",
+    "communications-chemistry",
+    "communications-physics",
+    "computer-speech-and-language",
+    "computers-and-education-artificial-intelligence",
+    "computers-in-human-behavior",
+    "computers-in-human-behavior-reports",
+    "computers-in-human-behavior-artificial-humans",
+    "eclinicalmedicine"
   ],
-  "selection_semantics": "First five enabled active journals in catalog/journals.json order; disabled Chemical Science is skipped."
+  "selection_semantics": "Next ten enabled active journals in catalog/journals.json order after the first five; disabled Chemical Science is skipped."
 }
