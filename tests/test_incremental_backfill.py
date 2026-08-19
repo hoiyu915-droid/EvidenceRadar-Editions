@@ -177,46 +177,39 @@ class IncrementalBackfillTests(unittest.TestCase):
                 request["policy_override_journals"], ["scientific-reports"]
             )
 
-    def test_production_request_selects_requested_enabled_active_journal_slice(self):
+    def test_production_request_selects_first_six_remaining_cambridge_editions(self):
         request = load_batch_request(Path("catalog/backfill-request.json"))
-        registry = json.loads(Path("catalog/journals.json").read_text(encoding="utf-8"))
-        eligible = [
-            item["slug"]
-            for item in registry["journals"]
-            if item.get("status") == "active" and item.get("enabled", True) is not False
-        ]
+        provider = json.loads(
+            Path("catalog/providers/cambridge.json").read_text(encoding="utf-8")
+        )
+        eligible = []
         base_revision = request.get("selection_base_revision")
         base_period_end = request.get("selection_base_period_end")
-        if base_revision is not None or base_period_end is not None:
-            base_eligible = []
-            for slug in eligible:
-                manifest_path = (
-                    Path("editions") / slug / "2026/08/r01/manifest.json"
-                )
-                if not manifest_path.exists():
-                    continue
-                manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-                if base_revision is not None and manifest["revision"] != base_revision:
-                    continue
-                if base_period_end is not None and manifest["period_end"] != base_period_end:
-                    continue
-                base_eligible.append(slug)
-            eligible = base_eligible
+        for item in provider["journals"]:
+            slug = item["slug"]
+            manifest_path = Path("editions") / slug / "2026/08/r01/manifest.json"
+            if not manifest_path.exists():
+                continue
+            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+            if base_revision is not None and manifest["revision"] != base_revision:
+                continue
+            if base_period_end is not None and manifest["period_end"] != base_period_end:
+                continue
+            eligible.append(slug)
         offset = request["selection_offset"]
         count = request["selection_count"]
         selected = eligible[offset : offset + count]
+        self.assertEqual(request["selection_provider"], "cambridge")
         self.assertEqual(request["journals"], selected)
-        self.assertEqual(
-            request["max_records_by_journal"], {"scientific-reports": 1000}
-        )
-        self.assertEqual(request["policy_override_journals"], ["scientific-reports"])
+        self.assertEqual(request["max_records_by_journal"], {})
+        self.assertEqual(request["policy_override_journals"], [])
         for slug in selected:
             manifest = json.loads(
                 (Path("editions") / slug / "2026/08/r01/manifest.json").read_text(
                     encoding="utf-8"
                 )
             )
-            self.assertEqual(manifest["period_end"], "2026-08-14")
+            self.assertEqual(manifest["period_end"], "2026-08-16")
             self.assertEqual(manifest["revision"], 1)
 
     def test_workflow_has_guarded_fast_forward_when_action_prs_are_disabled(self):
