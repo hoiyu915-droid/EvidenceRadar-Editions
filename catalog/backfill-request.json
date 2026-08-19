@@ -1,0 +1,16 @@
+{
+  "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
+  "schema_version": "1.0",
+  "request_id": "2026-08-first-five-through-19",
+  "acquisition_start": "2026-08-15",
+  "acquisition_end": "2026-08-19",
+  "revision": 2,
+  "journals": [
+    "acs-central-science",
+    "artificial-intelligence",
+    "artificial-intelligence-in-medicine",
+    "clinical-biomechanics",
+    "clinical-nutrition"
+  ],
+  "selection_semantics": "First five enabled active journals in catalog/journals.json order; disabled Chemical Science is skipped."
+}

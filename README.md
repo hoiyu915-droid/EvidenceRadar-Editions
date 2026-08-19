@@ -211,6 +211,36 @@ _site/
 
 `.github/workflows/pages.yml` 只在 build/deploy 時生成 HTML，不把 `_site` 或 HTML 回寫 Git。Repository 的 Pages Source 需一次性設定為 **GitHub Actions**。
 
+## 5. 只補缺少的日期
+
+已存在月刊 revision 時，不必重新向來源查詢整個月份。`backfill` 只取得目前
+canonical 月刊結束日之後的連續日期，使用 canonical ID 去重，再建立新的完整月份
+snapshot revision：
+
+```sh
+evidenceradar-editions backfill \
+  --journal-slug acs-central-science \
+  --start 2026-08-15 \
+  --end 2026-08-19 \
+  --revision 2 \
+  --editions-root editions \
+  --catalog-root catalog \
+  --radar-root ../EvidenceRadar \
+  --radar-commit 6da659df845e4b76072dae016120ca76ed9c27c4 \
+  --output-dir dist/acs-2026-08-r02
+```
+
+這個命令不修改 `r01`，也不把 delta 假裝成完整重抓。`r02/edition.json` 會保存
+base SHA、舊窗口、新 acquisition 窗口、取得／新增／去重數量與明確的 incremental
+semantics。若來源為 `PARTIAL` 或 `SOURCE_ACCESS_GAP`，整個 publication fail closed。
+
+多刊 production request 使用 [`catalog/backfill-request.json`](catalog/backfill-request.json)
+與 `incremental-backfill.yml`。Workflow 一次完成所有指定期刊、以單一 guarded PR
+發布 canonical revisions，最後只 dispatch 一次 Pages。Pages 仍從 canonical JSON
+建立完整靜態 HTML；瀏覽器不需要載入或拼接整個資料庫。
+
+詳見 [`docs/INCREMENTAL_BACKFILL.md`](docs/INCREMENTAL_BACKFILL.md)。
+
 ## 互動 HTML 的資料界線
 
 HTML 提供搜尋、filter、排序與 navigation，不把「出現在索引」升格為「已讀全文」或「科學結論已核實」。繁中 summary 的 basis 會直接顯示：
