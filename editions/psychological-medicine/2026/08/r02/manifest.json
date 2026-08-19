@@ -1,0 +1,43 @@
+{
+  "article_count": 8,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-19T12:52:56Z",
+  "edition_id": "psychological-medicine__2026-08__r02",
+  "edition_key": "psychological-medicine__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 18543,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__psychological-medicine__2026-08__r02.json",
+      "sha256": "6cd655f23abcd29e27ef166a558ffc1c02c7c02643df7d59160c74a8318eb820"
+    },
+    "report_html": {
+      "bytes": 32826,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__psychological-medicine__2026-08__r02.html",
+      "sha256": "5770599248e065d4760037cd3f594a3dabcb2847412e096dac1483bec4368351"
+    }
+  },
+  "journal": "Psychological Medicine",
+  "journal_slug": "psychological-medicine",
+  "manifest_name": "EvidenceRadar_Editions__psychological-medicine__2026-08__r02.manifest.json",
+  "period_end": "2026-08-19",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "psychological-medicine__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
