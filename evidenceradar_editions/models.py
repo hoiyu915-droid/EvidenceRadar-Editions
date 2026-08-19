@@ -16,7 +16,8 @@ ALLOWED_SOURCES = (
     "rsc_chemical_science",
 )
 PROVIDER_SOURCES = ("cambridge_core",)
-SUPPORTED_SOURCES = ALLOWED_SOURCES + PROVIDER_SOURCES
+SNAPSHOT_SOURCES = ("tmlr_official_snapshot",)
+SUPPORTED_SOURCES = ALLOWED_SOURCES + PROVIDER_SOURCES + SNAPSHOT_SOURCES
 ALLOWED_SOURCE_STATUSES = ("SUCCESS", "NO_RESULTS", "PARTIAL", "FAILED", "NOT_ATTEMPTED")
 
 
@@ -120,6 +121,13 @@ class Article:
             return f"pmid:{self.pmid.strip()}"
         if self.pmcid:
             return f"pmcid:{self.pmcid.strip().upper()}"
+        for record in self.source_records:
+            source_id = str(record.source_id or "").strip()
+            if (
+                record.source == "tmlr_official_snapshot"
+                and re.fullmatch(r"[A-Za-z0-9_-]+", source_id)
+            ):
+                return f"openreview:{source_id}"
         return (
             "fingerprint:"
             + normalize_title_key(self.title)
