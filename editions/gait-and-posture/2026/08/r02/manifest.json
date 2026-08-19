@@ -1,0 +1,43 @@
+{
+  "article_count": 3,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-19T10:10:57Z",
+  "edition_id": "gait-and-posture__2026-08__r02",
+  "edition_key": "gait-and-posture__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 10477,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__gait-and-posture__2026-08__r02.json",
+      "sha256": "4451cc06f4d83fc4b1cd74a8e6358610411a993d82101e4908460773752ddda0"
+    },
+    "report_html": {
+      "bytes": 23613,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__gait-and-posture__2026-08__r02.html",
+      "sha256": "904eed1f3d0f840f1ba3f3e0ab2b9653bae3933bff000e1807db75d603e81d66"
+    }
+  },
+  "journal": "Gait & Posture",
+  "journal_slug": "gait-and-posture",
+  "manifest_name": "EvidenceRadar_Editions__gait-and-posture__2026-08__r02.manifest.json",
+  "period_end": "2026-08-19",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "gait-and-posture__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 3,
+  "translation_provenance": {
+    "request_binding_sha256": "412319cc4906cd684907009cef9ea112b715fa387b8c877d72f88cc173bdf7d2",
+    "response_sha256": "14960ab414dd31f60a04cf74244dd1a62c90065bdc1965d7b9bb023ec460942a",
+    "source_edition_sha256": "a10da1be68cfe0d0897c2d748dcea585e68344b4ec2952ce20c73b7e226d3875"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

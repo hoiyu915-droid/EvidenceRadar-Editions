@@ -1,0 +1,1531 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maria Sofia Bucarelli",
+        "Antonio Purificato",
+        "Andrea Bacciu",
+        "Lucas Cassano",
+        "Federico Siciliano",
+        "Anil Nelakanti",
+        "Amin Mantrach",
+        "Fabrizio Silvestri"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3666527",
+      "doi": "10.1109/tai.2026.3666527",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3666527",
+          "url": "https://doi.org/10.1109/tai.2026.3666527"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「當標註者意見不一致：從雜訊標籤學習的原則性方法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "When Annotators Disagree: A Principled Approach to Learning With Noisy Labels",
+      "title_original": "When Annotators Disagree: A Principled Approach to Learning With Noisy Labels",
+      "title_zh_tw": "當標註者意見不一致：從雜訊標籤學習的原則性方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3666527"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marco Casarin",
+        "Michael Vanuzzo",
+        "Mattia Guidolin",
+        "Monica Reggiani",
+        "Stefano Michieletto"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3670340",
+      "doi": "10.1109/tai.2026.3670340",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3670340",
+          "url": "https://doi.org/10.1109/tai.2026.3670340"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人類動作預測的遷移學習：在資料稀缺下提升準確度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Transfer Learning for Human Motion Prediction: Improving Accuracy Under Data Scarcity",
+      "title_original": "Transfer Learning for Human Motion Prediction: Improving Accuracy Under Data Scarcity",
+      "title_zh_tw": "人類動作預測的遷移學習：在資料稀缺下提升準確度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3670340"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Changbing Tang",
+        "Liangke Zhou",
+        "Jie Chen",
+        "Jingang Lai",
+        "Guanrong Chen"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3664774",
+      "doi": "10.1109/tai.2026.3664774",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3664774",
+          "url": "https://doi.org/10.1109/tai.2026.3664774"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「TD(λ)-GA：用於網路加權頂點覆蓋的強化學習式博弈演算法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "TD($\\lambda$)-GA: A Reinforcement Learning-Based Game Algorithm for Weighted Vertex Cover of Networks",
+      "title_original": "TD($\\lambda$)-GA: A Reinforcement Learning-Based Game Algorithm for Weighted Vertex Cover of Networks",
+      "title_zh_tw": "TD(λ)-GA：用於網路加權頂點覆蓋的強化學習式博弈演算法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3664774"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Li Deng",
+        "Zhan Shu",
+        "Tongwen Chen"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665859",
+      "doi": "10.1109/tai.2026.3665859",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665859",
+          "url": "https://doi.org/10.1109/tai.2026.3665859"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於強化學習的穩健 MPC：用於未知系統的雙層事件觸發機制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reinforcement Learning-Based Robust MPC With A Two-Level Event-Triggered Mechanism for Unknown Systems",
+      "title_original": "Reinforcement Learning-Based Robust MPC With A Two-Level Event-Triggered Mechanism for Unknown Systems",
+      "title_zh_tw": "基於強化學習的穩健 MPC：用於未知系統的雙層事件觸發機制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665859"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Brynn Knowlton",
+        "Jovani Campa",
+        "David Solis Gallo",
+        "Khalil Dajani",
+        "Nabeel Alzahrani"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665656",
+      "doi": "10.1109/tai.2026.3665656",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665656",
+          "url": "https://doi.org/10.1109/tai.2026.3665656"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「對主流 LLM 聊天機器人的提示式越獄：攻擊與防禦綜述」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Prompt-Based Jailbreaking of Leading LLM Chatbots: A Survey of Attacks and Defenses",
+      "title_original": "Prompt-Based Jailbreaking of Leading LLM Chatbots: A Survey of Attacks and Defenses",
+      "title_zh_tw": "對主流 LLM 聊天機器人的提示式越獄：攻擊與防禦綜述",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665656"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dipesh Tamboli",
+        "Vineet Punyamoorty",
+        "Atharv Pawar",
+        "Vaneet Aggarwal"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3671211",
+      "doi": "10.1109/tai.2026.3671211",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3671211",
+          "url": "https://doi.org/10.1109/tai.2026.3671211"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「PrivateEdit：面向人臉生成式影像編輯的隱私保護流程」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "PrivateEdit: A Privacy-Preserving Pipeline for Face-Centric Generative Image Editing",
+      "title_original": "PrivateEdit: A Privacy-Preserving Pipeline for Face-Centric Generative Image Editing",
+      "title_zh_tw": "PrivateEdit：面向人臉生成式影像編輯的隱私保護流程",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3671211"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Peng Zhou",
+        "Ji Liang",
+        "Yunyun Zhang",
+        "Yuanting Yan",
+        "Shu Zhao",
+        "Xindong Wu"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3661512",
+      "doi": "10.1109/tai.2026.3661512",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3661512",
+          "url": "https://doi.org/10.1109/tai.2026.3661512"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過特徵極性進行線上可解釋串流特徵選擇與分類」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Online Explainable Streaming Feature Selection and Classification via Feature Polarity",
+      "title_original": "Online Explainable Streaming Feature Selection and Classification via Feature Polarity",
+      "title_zh_tw": "透過特徵極性進行線上可解釋串流特徵選擇與分類",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3661512"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jinfan Zhang",
+        "Lin Zhao"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665496",
+      "doi": "10.1109/tai.2026.3665496",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665496",
+          "url": "https://doi.org/10.1109/tai.2026.3665496"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「利用 Actor–Critic 強化學習的神經網路智慧自適應最優輸出回授剛體太空船姿態追蹤控制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Neural Network Intelligent Adaptive Optimal Output Feedback Attitude Tracking Control for Rigid Spacecraft Using Actor-Critic Reinforcement Learning",
+      "title_original": "Neural Network Intelligent Adaptive Optimal Output Feedback Attitude Tracking Control for Rigid Spacecraft Using Actor-Critic Reinforcement Learning",
+      "title_zh_tw": "利用 Actor–Critic 強化學習的神經網路智慧自適應最優輸出回授剛體太空船姿態追蹤控制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665496"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sirui Liu",
+        "Keyu Hou",
+        "Ali Anaissi",
+        "Ali Braytee"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3668173",
+      "doi": "10.1109/tai.2026.3668173",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3668173",
+          "url": "https://doi.org/10.1109/tai.2026.3668173"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「NCRAgent：用於透明且可解釋醫療視覺問答的神經啟發式多智能體框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "NCRAgent: A Neuro-Inspired Multiagent Framework for Transparent and Explainable Medical VQA",
+      "title_original": "NCRAgent: A Neuro-Inspired Multiagent Framework for Transparent and Explainable Medical VQA",
+      "title_zh_tw": "NCRAgent：用於透明且可解釋醫療視覺問答的神經啟發式多智能體框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3668173"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haotian Shi",
+        "Yuhui Deng",
+        "Jiande Huang",
+        "Qifen Yang",
+        "Peng Zhou",
+        "Ke Wang",
+        "Weiping Ding"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665179",
+      "doi": "10.1109/tai.2026.3665179",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665179",
+          "url": "https://doi.org/10.1109/tai.2026.3665179"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「MSFFNet：結合中繼資料注入的多階段特徵融合車輛重識別」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "MSFFNet: Multistage Feature Fusion With Metadata Injection for Vehicle Reidentification",
+      "title_original": "MSFFNet: Multistage Feature Fusion With Metadata Injection for Vehicle Reidentification",
+      "title_zh_tw": "MSFFNet：結合中繼資料注入的多階段特徵融合車輛重識別",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665179"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qianlong Dang",
+        "Baosheng Li",
+        "Xiaoyu He"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3664343",
+      "doi": "10.1109/tai.2026.3664343",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3664343",
+          "url": "https://doi.org/10.1109/tai.2026.3664343"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「分散式黑箱最佳化的動量式零階梯度方法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Momentum-Based Zeroth-Order Gradient Method for Distributed Black-Box Optimization",
+      "title_original": "Momentum-Based Zeroth-Order Gradient Method for Distributed Black-Box Optimization",
+      "title_zh_tw": "分散式黑箱最佳化的動量式零階梯度方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3664343"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jinyuan Feng",
+        "Min Chen",
+        "Zhiqiang Pu",
+        "Yifan Xu",
+        "Yanyan Liang"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665674",
+      "doi": "10.1109/tai.2026.3665674",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665674",
+          "url": "https://doi.org/10.1109/tai.2026.3665674"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「MA2RL：用於可泛化多智能體強化學習的遮罩自編碼器」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "MA2RL: Masked Autoencoders for Generalizable Multi-Agent Reinforcement Learning",
+      "title_original": "MA2RL: Masked Autoencoders for Generalizable Multi-Agent Reinforcement Learning",
+      "title_zh_tw": "MA2RL：用於可泛化多智能體強化學習的遮罩自編碼器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665674"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jingchao Peng",
+        "Thomas Bashford-Rogers",
+        "Jingkun Chen",
+        "Haitao Zhao",
+        "Zhengwei Hu",
+        "Kurt Debattista"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3660821",
+      "doi": "10.1109/tai.2026.3660821",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3660821",
+          "url": "https://doi.org/10.1109/tai.2026.3660821"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於曝光校正的亮度分量分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Luminance Component Analysis for Exposure Correction",
+      "title_original": "Luminance Component Analysis for Exposure Correction",
+      "title_zh_tw": "用於曝光校正的亮度分量分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3660821"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kushal Bose",
+        "Swagatam Das"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3664026",
+      "doi": "10.1109/tai.2026.3664026",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3664026",
+          "url": "https://doi.org/10.1109/tai.2026.3664026"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從異質圖學習：自迴圈與平行邊影響的頻譜理論觀點」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Learning From Heterophilic Graphs: A Spectral Theory Perspective on the Impact of Self-Loops and Parallel Edges",
+      "title_original": "Learning From Heterophilic Graphs: A Spectral Theory Perspective on the Impact of Self-Loops and Parallel Edges",
+      "title_zh_tw": "從異質圖學習：自迴圈與平行邊影響的頻譜理論觀點",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3664026"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenny Ramadha Putri",
+        "Farchan Raswa Hakim",
+        "Bach-Tung Pham",
+        "Shang-Kuan Chen",
+        "Chung-I Huang",
+        "Kuo-Chen Li",
+        "Shih-Lun Chen",
+        "Jia-Ching Wang"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3662649",
+      "doi": "10.1109/tai.2026.3662649",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3662649",
+          "url": "https://doi.org/10.1109/tai.2026.3662649"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「由易到難學習：結合困難樣本挖掘的指紋偽造偵測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Learning From Easy to Hard: Fingerprint Spoof Detection With Hard Sample Mining",
+      "title_original": "Learning From Easy to Hard: Fingerprint Spoof Detection With Hard Sample Mining",
+      "title_zh_tw": "由易到難學習：結合困難樣本挖掘的指紋偽造偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3662649"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Guoan Zhang",
+        "Lihong Pei",
+        "Yang Cao",
+        "Yu Kang",
+        "Jiahu Qin"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665658",
+      "doi": "10.1109/tai.2026.3665658",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665658",
+          "url": "https://doi.org/10.1109/tai.2026.3665658"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「HiCo-STEP：因果資訊導引的階層式時空網路，用於交通排放預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "HiCo-STEP: Causality Informed Hierarchical Spatiotemporal Network for Traffic Emission Prediction",
+      "title_original": "HiCo-STEP: Causality Informed Hierarchical Spatiotemporal Network for Traffic Emission Prediction",
+      "title_zh_tw": "HiCo-STEP：因果資訊導引的階層式時空網路，用於交通排放預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665658"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jie Pan",
+        "Xin Zhang",
+        "Pengjun Zhao",
+        "Xiaoyu Zou",
+        "Baoqiao Qi",
+        "Liwen Zhang",
+        "Ying Liu"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665846",
+      "doi": "10.1109/tai.2026.3665846",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665846",
+          "url": "https://doi.org/10.1109/tai.2026.3665846"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「HFSleepNet：基於階層回授融合輔助全序列編碼器的自動睡眠分期模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "HFSleepNet: An Automatic Sleep Staging Model Based on Hierarchical Feedback Fusion Aided Full Sequence Encoder",
+      "title_original": "HFSleepNet: An Automatic Sleep Staging Model Based on Hierarchical Feedback Fusion Aided Full Sequence Encoder",
+      "title_zh_tw": "HFSleepNet：基於階層回授融合輔助全序列編碼器的自動睡眠分期模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665846"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xi Yao",
+        "Jin Li",
+        "Ruan-Hui Jiang",
+        "Yu-Zhuo Wang",
+        "Ying-Ming Wang",
+        "Yang-Geng Fu"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665848",
+      "doi": "10.1109/tai.2026.3665848",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665848",
+          "url": "https://doi.org/10.1109/tai.2026.3665848"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GT-EBRB：透過群聚圖結構與 Graph Transformer 最佳化的擴展信念規則庫系統」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "GT-EBRB: An Extended Belief Rule Base System Optimized via Clustering Graph Structure and Graph Transformer",
+      "title_original": "GT-EBRB: An Extended Belief Rule Base System Optimized via Clustering Graph Structure and Graph Transformer",
+      "title_zh_tw": "GT-EBRB：透過群聚圖結構與 Graph Transformer 最佳化的擴展信念規則庫系統",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665848"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohammad Partohaghighi",
+        "Roummel Marcia",
+        "YangQuan Chen"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3666843",
+      "doi": "10.1109/tai.2026.3666843",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3666843",
+          "url": "https://doi.org/10.1109/tai.2026.3666843"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「分數階聯邦學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Fractional Order Federated Learning",
+      "title_original": "Fractional Order Federated Learning",
+      "title_zh_tw": "分數階聯邦學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3666843"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuanqing Feng",
+        "Tao Bai",
+        "Zhi Lu",
+        "Xue Ming Tang",
+        "Songfeng Lu"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3664362",
+      "doi": "10.1109/tai.2026.3664362",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3664362",
+          "url": "https://doi.org/10.1109/tai.2026.3664362"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「FLAT：具自適應拓撲與安全聚合的高效率聯邦學習方案」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "FLAT: An Efficient Federated Learning Scheme With Adaptive Topology and Secure Aggregation",
+      "title_original": "FLAT: An Efficient Federated Learning Scheme With Adaptive Topology and Secure Aggregation",
+      "title_zh_tw": "FLAT：具自適應拓撲與安全聚合的高效率聯邦學習方案",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3664362"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuexin Wang",
+        "Xiaoyang Wang",
+        "Haocheng Li",
+        "Jiejie Liu",
+        "Tammam Tillo",
+        "Jimin Xiao"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3661382",
+      "doi": "10.1109/tai.2026.3661382",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3661382",
+          "url": "https://doi.org/10.1109/tai.2026.3661382"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「FGPT：用於零樣本異常偵測的細粒度提示調校」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "FGPT: Fine-Grained Prompt Tuning for Zero-Shot Anomaly Detection",
+      "title_original": "FGPT: Fine-Grained Prompt Tuning for Zero-Shot Anomaly Detection",
+      "title_zh_tw": "FGPT：用於零樣本異常偵測的細粒度提示調校",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3661382"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Korampalli Jaya Satwik",
+        "A. Anjali",
+        "Mahendra K. Shukla",
+        "Om Jee Pandey",
+        "Achyut Mani Tripathi"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3666841",
+      "doi": "10.1109/tai.2026.3666841",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3666841",
+          "url": "https://doi.org/10.1109/tai.2026.3666841"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「FAOSPA：用於揭露影片異常偵測弱點的頻率自適應正交時空擾動攻擊」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "FAOSPA: Frequency-Adaptive Orthogonal Spatiotemporal Perturbation Attack for Exploiting Vulnerabilities in Video Anomaly Detection",
+      "title_original": "FAOSPA: Frequency-Adaptive Orthogonal Spatiotemporal Perturbation Attack for Exploiting Vulnerabilities in Video Anomaly Detection",
+      "title_zh_tw": "FAOSPA：用於揭露影片異常偵測弱點的頻率自適應正交時空擾動攻擊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3666841"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohammad Hossein Samaei",
+        "Faryad Darabi Sahneh",
+        "Lee W. Cohnstaedt",
+        "Caterina M. Scoglio"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3666830",
+      "doi": "10.1109/tai.2026.3666830",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3666830",
+          "url": "https://doi.org/10.1109/tai.2026.3666830"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「EpidemIQs：用於流行病建模與分析的 Prompt-to-Paper LLM 智能體」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "EpidemIQs: Prompt-to-Paper LLM Agents for Epidemic Modeling and Analysis",
+      "title_original": "EpidemIQs: Prompt-to-Paper LLM Agents for Epidemic Modeling and Analysis",
+      "title_zh_tw": "EpidemIQs：用於流行病建模與分析的 Prompt-to-Paper LLM 智能體",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3666830"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mari Ashiga",
+        "Wei Jie",
+        "Fan Wu",
+        "Vardan Voskanyan",
+        "Fateme Dinmohammadi",
+        "Paul Brookes",
+        "Jingzhi Gong",
+        "Zheng Wang",
+        "Rafail Giavrimis",
+        "Mike Basios",
+        "Leslie Kanthan"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3670235",
+      "doi": "10.1109/tai.2026.3670235",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3670235",
+          "url": "https://doi.org/10.1109/tai.2026.3670235"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「大型語言模型在文字與程式碼生成中的集成學習：綜述」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Ensemble Learning for Large Language Models in Text and Code Generation: A Survey",
+      "title_original": "Ensemble Learning for Large Language Models in Text and Code Generation: A Survey",
+      "title_zh_tw": "大型語言模型在文字與程式碼生成中的集成學習：綜述",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3670235"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shivam Sarsawat",
+        "Korampalli Jaya Satwik",
+        "Mahendra K. Shukla",
+        "Manish Pratap Singh",
+        "Om Jee Pandey"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3669890",
+      "doi": "10.1109/tai.2026.3669890",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3669890",
+          "url": "https://doi.org/10.1109/tai.2026.3669890"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「提升無人機輔助反向散射網路的實體層安全：結合聯邦學習的多智能體深度強化學習框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Enhancing PLS in UAV-Aided Backscatter Networks: A Multiagent DRL Framework with Federated Learning",
+      "title_original": "Enhancing PLS in UAV-Aided Backscatter Networks: A Multiagent DRL Framework with Federated Learning",
+      "title_zh_tw": "提升無人機輔助反向散射網路的實體層安全：結合聯邦學習的多智能體深度強化學習框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3669890"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Keshav Singh Rawat",
+        "Tarun Sharma"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3669545",
+      "doi": "10.1109/tai.2026.3669545",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3669545",
+          "url": "https://doi.org/10.1109/tai.2026.3669545"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「量子機器學習的新興典範：知識洞見與未來展望」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Emerging Paradigm of Quantum Machine Learning: Knowledge Insights and Future Prospects",
+      "title_original": "Emerging Paradigm of Quantum Machine Learning: Knowledge Insights and Future Prospects",
+      "title_zh_tw": "量子機器學習的新興典範：知識洞見與未來展望",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3669545"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohammed Yusuf Ansari",
+        "Md Rabiul Islam",
+        "Khalid Qaraqe",
+        "Erchin Serpedin",
+        "Raffaella Righetti",
+        "Marwa Qaraqe"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3656125",
+      "doi": "10.1109/tai.2026.3656125",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3656125",
+          "url": "https://doi.org/10.1109/tai.2026.3656125"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「ECGNextFormer：從心電圖估計心血管健康的輕量、可擴展且可解釋架構」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "ECGNextFormer: A Lightweight, Scalable, and Explainable Architecture for Estimating Cardiovascular Well-Being From Electrocardiograms",
+      "title_original": "ECGNextFormer: A Lightweight, Scalable, and Explainable Architecture for Estimating Cardiovascular Well-Being From Electrocardiograms",
+      "title_zh_tw": "ECGNextFormer：從心電圖估計心血管健康的輕量、可擴展且可解釋架構",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3656125"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhehao Li",
+        "Yucheng Qian",
+        "Chong Wang",
+        "Yinghao Lu",
+        "Yi Chen",
+        "Jiong Wang",
+        "Jiafei Wu"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665181",
+      "doi": "10.1109/tai.2026.3665181",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665181",
+          "url": "https://doi.org/10.1109/tai.2026.3665181"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「DQEN：用於 DETR 型人－物互動偵測的雙查詢增強網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "DQEN: Dual Query Enhancement Network for DETR-Based HOI Detection",
+      "title_original": "DQEN: Dual Query Enhancement Network for DETR-Based HOI Detection",
+      "title_zh_tw": "DQEN：用於 DETR 型人－物互動偵測的雙查詢增強網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665181"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jui-Chien Hung",
+        "Song-Po Pan",
+        "Jun-Yun Wu",
+        "Da-Wei Jaw",
+        "Shih-Chia Huang"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3651222",
+      "doi": "10.1109/tai.2026.3651222",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3651222",
+          "url": "https://doi.org/10.1109/tai.2026.3651222"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過 3D MRI-to-SPECT 合成，從 MRI 感測資料視覺化多巴胺神經元活動以評估帕金森氏症」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dopamine Neuron Activity Visualization From MRI Sensors Through 3-D MRI-to-SPECT Synthesis for Parkinson’s Disease Assessment",
+      "title_original": "Dopamine Neuron Activity Visualization From MRI Sensors Through 3-D MRI-to-SPECT Synthesis for Parkinson’s Disease Assessment",
+      "title_zh_tw": "透過 3D MRI-to-SPECT 合成，從 MRI 感測資料視覺化多巴胺神經元活動以評估帕金森氏症",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3651222"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bo Xia",
+        "Yilun Kong",
+        "Yongzhe Chang",
+        "Bo Yuan",
+        "Zhiheng Li",
+        "Xueqian Wang",
+        "Bin Liang"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3664781",
+      "doi": "10.1109/tai.2026.3664781",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3664781",
+          "url": "https://doi.org/10.1109/tai.2026.3664781"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「延遲感知強化學習：採用編碼器增強的狀態表徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Delay-Aware Reinforcement Learning With Encoder-Enhanced State Representations",
+      "title_original": "Delay-Aware Reinforcement Learning With Encoder-Enhanced State Representations",
+      "title_zh_tw": "延遲感知強化學習：採用編碼器增強的狀態表徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3664781"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alexandros Gkillas",
+        "Nikos Pipergikos",
+        "Aris S. Lalos",
+        "Duong-Van Nguyen"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3664354",
+      "doi": "10.1109/tai.2026.3664354",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3664354",
+          "url": "https://doi.org/10.1109/tai.2026.3664354"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於 LiDAR 超解析度與改善分割的條件式深度展開：端到端方案」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Conditional Deep Unrolling for LiDAR Super-Resolution and Improved Segmentation: An End-to-End Solution",
+      "title_original": "Conditional Deep Unrolling for LiDAR Super-Resolution and Improved Segmentation: An End-to-End Solution",
+      "title_zh_tw": "用於 LiDAR 超解析度與改善分割的條件式深度展開：端到端方案",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3664354"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ruonan Zhai",
+        "Xuejun Zhang",
+        "Yi Mei",
+        "Wenbo Du",
+        "Tong Guo",
+        "Tao Song"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3662657",
+      "doi": "10.1109/tai.2026.3662657",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3662657",
+          "url": "https://doi.org/10.1109/tai.2026.3662657"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過代理模型輔助雙層最佳化的多訪次協作卡車－無人機路由」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Collaborative Truck-Drone Routing With Multivisit via Surrogate-Assisted Bi-Level Optimization",
+      "title_original": "Collaborative Truck-Drone Routing With Multivisit via Surrogate-Assisted Bi-Level Optimization",
+      "title_zh_tw": "透過代理模型輔助雙層最佳化的多訪次協作卡車－無人機路由",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3662657"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yihan Shang",
+        "Lin Wang",
+        "Junyu Dong",
+        "Xinghui Dong"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3669547",
+      "doi": "10.1109/tai.2026.3669547",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3669547",
+          "url": "https://doi.org/10.1109/tai.2026.3669547"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於偽裝物體偵測的邊界感知分散注意力網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Boundary-Aware Distracted Attention Network for Camouflaged Object Detection",
+      "title_original": "Boundary-Aware Distracted Attention Network for Camouflaged Object Detection",
+      "title_zh_tw": "用於偽裝物體偵測的邊界感知分散注意力網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3669547"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Md Rabiul Islam",
+        "Md Kamrul Hasan",
+        "Hasan Kurban",
+        "Erchin Serpedin"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665484",
+      "doi": "10.1109/tai.2026.3665484",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665484",
+          "url": "https://doi.org/10.1109/tai.2026.3665484"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於直徑先驗的貝氏機率知識，用於決策融合偵測肺結節異質性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Bayesian Probabilistic Knowledge From Diameter Prior for Decision Fusion to Detect Lung Nodule Heterogeneity",
+      "title_original": "Bayesian Probabilistic Knowledge From Diameter Prior for Decision Fusion to Detect Lung Nodule Heterogeneity",
+      "title_zh_tw": "基於直徑先驗的貝氏機率知識，用於決策融合偵測肺結節異質性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665484"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chin-Yi Lin",
+        "Tzu-Liang Tseng",
+        "Tsung-Han Tsai"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3655629",
+      "doi": "10.1109/tai.2026.3655629",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3655629",
+          "url": "https://doi.org/10.1109/tai.2026.3655629"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「自適應強化學習驅動的數位分身，用於多目標與多機台製程最佳化」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Adaptive Reinforcement Learning-Driven Digital Twin for Multiobjective and Multimachine Process Optimization",
+      "title_original": "Adaptive Reinforcement Learning-Driven Digital Twin for Multiobjective and Multimachine Process Optimization",
+      "title_zh_tw": "自適應強化學習驅動的數位分身，用於多目標與多機台製程最佳化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3655629"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenchuan Zhang",
+        "Wentao Fan",
+        "Nizar Bouguila"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3665660",
+      "doi": "10.1109/tai.2026.3665660",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3665660",
+          "url": "https://doi.org/10.1109/tai.2026.3665660"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過混合曲率專家混合擴散的自適應幾何表徵學習，用於連結預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Adaptive Geometric Representation Learning Through Mixed-Curvature Mixture-of-Experts Diffusion for Link Prediction",
+      "title_original": "Adaptive Geometric Representation Learning Through Mixed-Curvature Mixture-of-Experts Diffusion for Link Prediction",
+      "title_zh_tw": "透過混合曲率專家混合擴散的自適應幾何表徵學習，用於連結預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3665660"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sixian Chan",
+        "Jingcheng Zheng",
+        "Suqiang Li",
+        "Pan Mu",
+        "Cong Bai"
+      ],
+      "canonical_id": "doi:10.1109/tai.2026.3664780",
+      "doi": "10.1109/tai.2026.3664780",
+      "issns": [
+        "2691-4581"
+      ],
+      "journal": "IEEE Transactions on Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1109/tai.2026.3664780",
+          "url": "https://doi.org/10.1109/tai.2026.3664780"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於雙頭框架的自適應特徵融合，用於公路場景小物體偵測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Adaptive Feature Fusion Based on Double Head Framework for Small Object Detection in Highway Scenarios",
+      "title_original": "Adaptive Feature Fusion Based on Double Head Framework for Small Object Detection in Highway Scenarios",
+      "title_zh_tw": "基於雙頭框架的自適應特徵融合，用於公路場景小物體偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1109/tai.2026.3664780"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__ieee-transactions-on-artificial-intelligence__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__ieee-transactions-on-artificial-intelligence__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__ieee-transactions-on-artificial-intelligence__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__ieee-transactions-on-artificial-intelligence__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__ieee-transactions-on-artificial-intelligence__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__ieee-transactions-on-artificial-intelligence__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 37,
+    "by_article_type": {
+      "journal-article": 37
+    },
+    "by_source": {
+      "crossref": 37
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 37,
+    "translated_articles": 37
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "ieee-transactions-on-artificial-intelligence__2026-08__r02",
+  "edition_key": "ieee-transactions-on-artificial-intelligence__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-19",
+    "acquisition_start": "2026-08-15",
+    "added_article_count": 0,
+    "base_article_count": 37,
+    "base_edition_sha256": "aee9804e4f10ad6cf1a2ee67e4535fb7d15e591cbf7bcc8b4d2e97f49b9a5baa",
+    "base_manifest_publication_id": "ieee-transactions-on-artificial-intelligence__2026-08__r01",
+    "base_period_end": "2026-08-14",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "ieee-transactions-on-artificial-intelligence__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 37
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-19",
+    "incremental_acquisition_start": "2026-08-15",
+    "journal_slug": "ieee-transactions-on-artificial-intelligence",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 37,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "ieee-transactions-on-artificial-intelligence__2026-08__r02",
+  "publication_notes": {
+    "editorial_projection": {
+      "excluded_count": 3,
+      "excluded_records": [
+        {
+          "canonical_id": "doi:10.1109/tai.2026.3695325",
+          "reason": "NON_ARTICLE_FRONT_MATTER",
+          "title": "Table of Contents"
+        },
+        {
+          "canonical_id": "doi:10.1109/tai.2026.3695263",
+          "reason": "NON_ARTICLE_FRONT_MATTER",
+          "title": "IEEE Transactions on Artificial Intelligence Publication Information"
+        },
+        {
+          "canonical_id": "doi:10.1109/tai.2026.3695327",
+          "reason": "NON_ARTICLE_FRONT_MATTER",
+          "title": "Front Cover"
+        }
+      ],
+      "published_article_count": 37,
+      "source_match_count": 40
+    }
+  },
+  "retrieved_at": "2026-08-19T10:10:59Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__ieee-transactions-on-artificial-intelligence__2026-08__r02",
+    "edition_key": "ieee-transactions-on-artificial-intelligence__2026-08",
+    "end_date": "2026-08-19",
+    "issn": "2691-4581",
+    "journal": "IEEE Transactions on Artificial Intelligence",
+    "journal_slug": "ieee-transactions-on-artificial-intelligence",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 19 日）",
+    "period_status": "MTD",
+    "publication_id": "ieee-transactions-on-artificial-intelligence__2026-08__r02",
+    "revision": 2,
+    "slug": "ieee-transactions-on-artificial-intelligence",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=IEEE Transactions on Artificial Intelligence; publication=2026-08-15..2026-08-19",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "ieee-transactions-on-artificial-intelligence__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": "e0a985044388723227140f380531c1d0540899e81a798b9d8100568e7d372fd6",
+    "response_generated_at": "2026-08-14T00:40:56Z",
+    "response_sha256": "2200a72774a53c59dc72cf87bbbc3142c15212f1f943110aaff8768cdbafc298",
+    "source_edition_sha256": "38df44f561a550b78bf4d41df39afeebde11761d1db2a36b5da71a99c707c929",
+    "status": "COMPLETE",
+    "total_articles": 37,
+    "translated_articles": 37
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

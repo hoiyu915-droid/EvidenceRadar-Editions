@@ -1,0 +1,2387 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Samuel J. White",
+        "Miranda W. Langendam",
+        "Bada Yang",
+        "Yasaman Vali",
+        "Yaxin Chen",
+        "Elio Arruzza",
+        "Minh Chau",
+        "Mason Crossman",
+        "Zachary Munn",
+        "Tracy Merlin",
+        "Timothy H. Barker",
+        "Holger J. Schünemann"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112306",
+      "doi": "10.1016/j.jclinepi.2026.112306",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42102893",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112306",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112306"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42102893",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42102893/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「何時以及如何替換醫學檢驗的新參考標準：辨識方法學優先事項的範疇性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "When and how to replace a new reference standard for medical tests: a scoping review identifying methodological priorities",
+      "title_original": "When and how to replace a new reference standard for medical tests: a scoping review identifying methodological priorities",
+      "title_zh_tw": "何時以及如何替換醫學檢驗的新參考標準：辨識方法學優先事項的範疇性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112306",
+        "https://pubmed.ncbi.nlm.nih.gov/42102893/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Isa Spiero",
+        "Artuur M. Leeuwenberg",
+        "Joost Kamperman",
+        "Lotty Hooft",
+        "Karel G.M. Moons",
+        "Johanna A.A. Damen"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112320",
+      "doi": "10.1016/j.jclinepi.2026.112320",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42134730",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112320",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112320"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42134730",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42134730/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「使用大型語言模型自動評估預測模型研究的報告品質與完整性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Using large language models for automated assessment of reporting quality and completeness of prediction model studies",
+      "title_original": "Using large language models for automated assessment of reporting quality and completeness of prediction model studies",
+      "title_zh_tw": "使用大型語言模型自動評估預測模型研究的報告品質與完整性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112320",
+        "https://pubmed.ncbi.nlm.nih.gov/42134730/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hamed Movahed",
+        "Reza Donald Mirza",
+        "Romina Brignardello-Petersen",
+        "Alfonso Iorio",
+        "Niveditha Devasenapathy",
+        "Hossein Movahed",
+        "Qinwei Fu",
+        "Mobina Bagherianlemraski",
+        "Sara Ibrahim",
+        "Erfan Taherifard",
+        "Mahya Dorri",
+        "Maria-Jose Oliveros",
+        "Md. Kamrul Hasan",
+        "Shahab Sayfi",
+        "Rachel J. Couban",
+        "Gordon Guyatt"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112459",
+      "doi": "10.1016/j.jclinepi.2026.112459",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42580369",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112459",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112459"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580369",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580369/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在 GRADE 架構中使用門檻評定證據確定性：系統性回顧的系統調查」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Use of Thresholds for Rating Certainty of Evidence with the GRADE Framework: A Systematic Survey of Systematic Reviews",
+      "title_original": "Use of Thresholds for Rating Certainty of Evidence with the GRADE Framework: A Systematic Survey of Systematic Reviews",
+      "title_zh_tw": "在 GRADE 架構中使用門檻評定證據確定性：系統性回顧的系統調查",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112459",
+        "https://pubmed.ncbi.nlm.nih.gov/42580369/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Valérie Jooste",
+        "Anne-Marie Bouvier",
+        "Côme Lepage",
+        "Julien Taieb",
+        "Samhona Ganame",
+        "François Ghiringhelli",
+        "Axelle Joseph",
+        "Olayidé Boussari"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112442",
+      "doi": "10.1016/j.jclinepi.2026.112442",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42556756",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112442",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112442"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42556756",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42556756/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「專門族群型癌症登記資料在外部對照試驗中的可用性與相關性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Usability and relevance of specialized population-based cancer registry data in externally controlled trials",
+      "title_original": "Usability and relevance of specialized population-based cancer registry data in externally controlled trials",
+      "title_zh_tw": "專門族群型癌症登記資料在外部對照試驗中的可用性與相關性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112442",
+        "https://pubmed.ncbi.nlm.nih.gov/42556756/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andrea C. Tricco",
+        "Emily Robinson",
+        "Sharon E. Straus",
+        "Heather Colquhoun",
+        "Christina M. Godfrey",
+        "David Moher",
+        "Zachary Munn",
+        "Danielle Pollock",
+        "Sherrie Logan",
+        "Ellen B.M. Elsman",
+        "Sabira Hasanoff",
+        "Yonda Lai",
+        "James McMahon",
+        "Jasmeen Dourka",
+        "Dipika Neupane",
+        "Hanan Khalil",
+        "Micah D.J. Peters",
+        "Lyndsay Alexander",
+        "Romy M. Jia",
+        "Ashrita Saran",
+        "Catrin Evans",
+        "Dawid Pieper",
+        "Érica Brandão de Moraes",
+        "Fiona Campbell",
+        "Lisa Hartling",
+        "Michael G. Wilson",
+        "Vivian Welch",
+        "Tanya Horsley",
+        "Chantelle Garritty",
+        "Laura Weeks",
+        "Adrian Aldcroft",
+        "Etienne V. Langlois",
+        "Jessie McGowan",
+        "Adrienne Stevens",
+        "Brian Hutton",
+        "Martin Offringa",
+        "Areti Angeliki Veroniki"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112314",
+      "doi": "10.1016/j.jclinepi.2026.112314",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42107664",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112314",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112314"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42107664",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42107664/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「更新範疇性回顧的 PRISMA 報告指引：範疇性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Updating the PRISMA reporting guideline for scoping reviews: a scoping review",
+      "title_original": "Updating the PRISMA reporting guideline for scoping reviews: a scoping review",
+      "title_zh_tw": "更新範疇性回顧的 PRISMA 報告指引：範疇性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112314",
+        "https://pubmed.ncbi.nlm.nih.gov/42107664/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sumanth Kumbargere Nagraj",
+        "Tandekile Lubelwana Hafver",
+        "Valerie Reinthaler",
+        "Stijn Van de Velde",
+        "Carlos Zaror",
+        "YanJiao Shen",
+        "Susan Banda",
+        "Talitha Mpando",
+        "Gertrude Kunje",
+        "Suzgika Lakudzala",
+        "Ameer Hohlfeld",
+        "Emmanuel Effa",
+        "Denny Mabetha",
+        "Thomas Agoritsas",
+        "Per Olav Vandvik",
+        "Nicolas Delvaux"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112313",
+      "doi": "10.1016/j.jclinepi.2026.112313",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42102892",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112313",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112313"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42102892",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42102892/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「理解臨床實務指引傳播中哪些作法有效：質性證據綜合」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Understanding what works in disseminating clinical practice guidelines: A qualitative evidence synthesis",
+      "title_original": "Understanding what works in disseminating clinical practice guidelines: A qualitative evidence synthesis",
+      "title_zh_tw": "理解臨床實務指引傳播中哪些作法有效：質性證據綜合",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112313",
+        "https://pubmed.ncbi.nlm.nih.gov/42102892/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qize Li",
+        "Yingxuan Zhu",
+        "Yanyan Zhao",
+        "Chilie Danzeng",
+        "Duoer Wang",
+        "Ru Jiang",
+        "FeiLong Chen",
+        "Xiaoying Lin",
+        "Lingqian Hu",
+        "Yang Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112315",
+      "doi": "10.1016/j.jclinepi.2026.112315",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42128244",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112315",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112315"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42128244",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42128244/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「當代臨床試驗中的勝率比（win ratio）：採用日增與解讀挑戰——統合流行病學研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The win ratio in contemporary clinical trials: growing adoption and interpretation challenges—a meta-epidemiological study",
+      "title_original": "The win ratio in contemporary clinical trials: growing adoption and interpretation challenges—a meta-epidemiological study",
+      "title_zh_tw": "當代臨床試驗中的勝率比（win ratio）：採用日增與解讀挑戰——統合流行病學研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112315",
+        "https://pubmed.ncbi.nlm.nih.gov/42128244/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Leonardo Y. Kasputis Zanini",
+        "Diego Adão",
+        "Gabriela CL. Martins",
+        "Rachel Riera",
+        "Rafael Leite Pacheco"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112298",
+      "doi": "10.1016/j.jclinepi.2026.112298",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42069067",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112298",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112298"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42069067",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42069067/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「真實世界證據之辯：為何正確術語很重要」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The real-world evidence debate: why proper terminology matters",
+      "title_original": "The real-world evidence debate: why proper terminology matters",
+      "title_zh_tw": "真實世界證據之辯：為何正確術語很重要",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112298",
+        "https://pubmed.ncbi.nlm.nih.gov/42069067/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Isaac J. Egesa",
+        "Faye D. Baldwin",
+        "Molly Wells",
+        "Gashirai Mbizvo",
+        "Richard Emsley",
+        "Laura J. Bonnett",
+        "Emily Lam",
+        "Andrew Kightley",
+        "Anthony G. Marson",
+        "Catrin Tudur Smith"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112455",
+      "doi": "10.1016/j.jclinepi.2026.112455",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42580366",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112455",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112455"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580366",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580366/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「序列多重分派隨機試驗中的病人與公眾參與及投入程度：範疇性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The extent of Patient and Public Involvement and Engagement in Sequential Multiple Assignment Randomised Trials: A scoping Review",
+      "title_original": "The extent of Patient and Public Involvement and Engagement in Sequential Multiple Assignment Randomised Trials: A scoping Review",
+      "title_zh_tw": "序列多重分派隨機試驗中的病人與公眾參與及投入程度：範疇性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112455",
+        "https://pubmed.ncbi.nlm.nih.gov/42580366/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anneliese Synnot",
+        "Tari Turner",
+        "Samantha Chakraborty"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112296",
+      "doi": "10.1016/j.jclinepi.2026.112296",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42066967",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112296",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112296"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42066967",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42066967/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「指引制定者與具親身經驗者共同制定澳洲臨床實務指引的經驗與觀點：質性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The experiences and perceptions of guideline developers and people with lived experience working together to create Australian clinical practice guidelines: a qualitative study",
+      "title_original": "The experiences and perceptions of guideline developers and people with lived experience working together to create Australian clinical practice guidelines: a qualitative study",
+      "title_zh_tw": "指引制定者與具親身經驗者共同制定澳洲臨床實務指引的經驗與觀點：質性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112296",
+        "https://pubmed.ncbi.nlm.nih.gov/42066967/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jean-Christophe Lega",
+        "Arthur Gougeon",
+        "Claudina Michal",
+        "Steeve Provencher",
+        "Florian Naudet",
+        "Bruno Falissard",
+        "Sylvie Chevret",
+        "Remy Boussageon"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112458",
+      "doi": "10.1016/j.jclinepi.2026.112458",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42580367",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112458",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112458"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580367",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580367/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「典範轉移中的證據侵蝕：健康科技評估中敘事理性的興起」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The Erosion of Proof in Paradigm Transitions: The Rise of Narrative Rationality in Health Technology Assessment",
+      "title_original": "The Erosion of Proof in Paradigm Transitions: The Rise of Narrative Rationality in Health Technology Assessment",
+      "title_zh_tw": "典範轉移中的證據侵蝕：健康科技評估中敘事理性的興起",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112458",
+        "https://pubmed.ncbi.nlm.nih.gov/42580367/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alexander C.T. Tam",
+        "Jack Smith",
+        "Mark J. Harrison",
+        "Srinivas Murthy",
+        "Nick Bansback"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112334",
+      "doi": "10.1016/j.jclinepi.2026.112334",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42142602",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112334",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112334"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42142602",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42142602/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「加拿大臨床試驗招募的挑戰：試驗登錄資料分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The challenge of recruitment in clinical trials in Canada: an analysis of trial registry data",
+      "title_original": "The challenge of recruitment in clinical trials in Canada: an analysis of trial registry data",
+      "title_zh_tw": "加拿大臨床試驗招募的挑戰：試驗登錄資料分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112334",
+        "https://pubmed.ncbi.nlm.nih.gov/42142602/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carlos Zaror",
+        "Róbinson Chávez-Concha",
+        "Ariel Izcovich",
+        "Gordon H. Guyatt",
+        "Romina Brignardello-Petersen"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112441",
+      "doi": "10.1016/j.jclinepi.2026.112441",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42551807",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112441",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112441"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42551807",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42551807/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「單一審查者評估網絡統合分析的證據確定性可能不致誤導決策者：個案研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "SINGLE REVIEWER ASSESSMENTS OF CERTAINTY OF EVIDENCE IN NETWORK META-ANALYSES PROBABLY DO NOT MISLEAD DECISION-MAKERS: A CASE STUDY",
+      "title_original": "SINGLE REVIEWER ASSESSMENTS OF CERTAINTY OF EVIDENCE IN NETWORK META-ANALYSES PROBABLY DO NOT MISLEAD DECISION-MAKERS: A CASE STUDY",
+      "title_zh_tw": "單一審查者評估網絡統合分析的證據確定性可能不致誤導決策者：個案研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112441",
+        "https://pubmed.ncbi.nlm.nih.gov/42551807/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Megan Curtin",
+        "Allisun Wiltshire",
+        "Gustav Nilsonne",
+        "Maximilian Siebert"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112307",
+      "doi": "10.1016/j.jclinepi.2026.112307",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42082083",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112307",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112307"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42082083",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42082083/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「抗微生物藥物臨床試驗的結果報告：2017 年 FDA 修正法最終規則下的遵循度與及時性分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Results reporting in antimicrobial agent clinical trials: an analysis of compliance and timeliness under the 2017 FDA Amendments Act Final Rule",
+      "title_original": "Results reporting in antimicrobial agent clinical trials: an analysis of compliance and timeliness under the 2017 FDA Amendments Act Final Rule",
+      "title_zh_tw": "抗微生物藥物臨床試驗的結果報告：2017 年 FDA 修正法最終規則下的遵循度與及時性分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112307",
+        "https://pubmed.ncbi.nlm.nih.gov/42082083/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marija Franka Žuljević",
+        "Antonija Mijatović",
+        "Renata Orhanović",
+        "Glenn Goasdoué",
+        "Diana Gujinović"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112312",
+      "doi": "10.1016/j.jclinepi.2026.112312",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42092601",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112312",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112312"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42092601",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42092601/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「回應：迷幻藥試驗中試驗計畫修訂與公開報告的法規脈絡」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Response to: Swieczkowski D, Kwaśny A, Cubała WJ. Regulatory context for protocol amendments and public reporting in psychedelic trials",
+      "title_original": "Response to: Swieczkowski D, Kwaśny A, Cubała WJ. Regulatory context for protocol amendments and public reporting in psychedelic trials",
+      "title_zh_tw": "回應：迷幻藥試驗中試驗計畫修訂與公開報告的法規脈絡",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112312",
+        "https://pubmed.ncbi.nlm.nih.gov/42092601/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rebecca Whittle",
+        "Amardeep Legha",
+        "Biruk Tsegaye",
+        "Joie Ensor",
+        "Kym I.E. Snell",
+        "Lucinda Archer",
+        "Mohammed T. Hudda",
+        "Richard D. Riley",
+        "Paula Dhiman",
+        "Gary S. Collins"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112460",
+      "doi": "10.1016/j.jclinepi.2026.112460",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42580368",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112460",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112460"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580368",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580368/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「外部驗證研究的報告仍需改善：腫瘤預測模型研究報告的系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reporting of external validation studies needs improvement: a systematic review of reporting in oncology prediction model studies",
+      "title_original": "Reporting of external validation studies needs improvement: a systematic review of reporting in oncology prediction model studies",
+      "title_zh_tw": "外部驗證研究的報告仍需改善：腫瘤預測模型研究報告的系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112460",
+        "https://pubmed.ncbi.nlm.nih.gov/42580368/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Damian Swieczkowski",
+        "Aleksander Kwaśny",
+        "Wiesław Jerzy Cubała"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112311",
+      "doi": "10.1016/j.jclinepi.2026.112311",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42092602",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112311",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112311"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42092602",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42092602/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「迷幻藥試驗中試驗計畫修訂與公開報告的法規脈絡」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Regulatory context for protocol amendments and public reporting in psychedelic trials",
+      "title_original": "Regulatory context for protocol amendments and public reporting in psychedelic trials",
+      "title_zh_tw": "迷幻藥試驗中試驗計畫修訂與公開報告的法規脈絡",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112311",
+        "https://pubmed.ncbi.nlm.nih.gov/42092602/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ewout Steyerberg",
+        "Toby Hackmann",
+        "Ben van Calster",
+        "Maarten van Smeden",
+        "Laure Wynants"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112461",
+      "doi": "10.1016/j.jclinepi.2026.112461",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42580372",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112461",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112461"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580372",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580372/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「近期準則與簡易規則對已建立臨床預測模型所需樣本數的判定多數一致」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Recent criteria and simple rules agreed often on required sample size for developed clinical prediction models",
+      "title_original": "Recent criteria and simple rules agreed often on required sample size for developed clinical prediction models",
+      "title_zh_tw": "近期準則與簡易規則對已建立臨床預測模型所需樣本數的判定多數一致",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112461",
+        "https://pubmed.ncbi.nlm.nih.gov/42580372/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anna B.C. Humphreys",
+        "Bertil Lindahl",
+        "Camila Olarte Parra"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112335",
+      "doi": "10.1016/j.jclinepi.2026.112335",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42142603",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112335",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112335"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42142603",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42142603/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「發揮登錄資料型隨機對照試驗的完整潛力」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Realizing the full potential of registry-based randomized controlled trials",
+      "title_original": "Realizing the full potential of registry-based randomized controlled trials",
+      "title_zh_tw": "發揮登錄資料型隨機對照試驗的完整潛力",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112335",
+        "https://pubmed.ncbi.nlm.nih.gov/42142603/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rafael Dal-Ré"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112300",
+      "doi": "10.1016/j.jclinepi.2026.112300",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42069069",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112300",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112300"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42069069",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42069069/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「不應放棄真實世界證據術語」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Real-world evidence terminology should not be abandoned",
+      "title_original": "Real-world evidence terminology should not be abandoned",
+      "title_zh_tw": "不應放棄真實世界證據術語",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112300",
+        "https://pubmed.ncbi.nlm.nih.gov/42069069/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Luigi Russo",
+        "Nicolò Lentini",
+        "Luisa Soru",
+        "Roberta Pastorino",
+        "Stefania Boccia",
+        "John PA. Ioannidis"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112338",
+      "doi": "10.1016/j.jclinepi.2026.112338",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42144086",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112338",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112338"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42144086",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42144086/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「「個人化」「個別化」與「精準」介入的隨機試驗高度多樣，且透明度低、偏差高」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Randomized trials of “personalized,” “individualized,” and “precision” interventions are very diverse and have low transparency and high bias",
+      "title_original": "Randomized trials of “personalized,” “individualized,” and “precision” interventions are very diverse and have low transparency and high bias",
+      "title_zh_tw": "「個人化」「個別化」與「精準」介入的隨機試驗高度多樣，且透明度低、偏差高",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112338",
+        "https://pubmed.ncbi.nlm.nih.gov/42144086/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ulrich Mansmann"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112337",
+      "doi": "10.1016/j.jclinepi.2026.112337",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42144085",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112337",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112337"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42144085",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42144085/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「病人回報結果缺失資料的替代處理需要更清楚的模型與機制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Missing patient-reported outcome data replacements require clearer models and mechanisms",
+      "title_original": "Missing patient-reported outcome data replacements require clearer models and mechanisms",
+      "title_zh_tw": "病人回報結果缺失資料的替代處理需要更清楚的模型與機制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112337",
+        "https://pubmed.ncbi.nlm.nih.gov/42144085/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Harleen K. Marwah",
+        "Abarna Pearl",
+        "Christos P. Kotanidis",
+        "Sarah Gorey",
+        "Darren Taichman",
+        "Mary Beth Hamel"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112336",
+      "doi": "10.1016/j.jclinepi.2026.112336",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42150622",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112336",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112336"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42150622",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42150622/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「15 年間（2008–2023）納入中低收入國家參與者的試驗中，中低收入國家作者代表性不足」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Limited representation of authors from low- and middle-income countries (LMICs) in trials with participants from LMICs across 15 years (2008–2023)",
+      "title_original": "Limited representation of authors from low- and middle-income countries (LMICs) in trials with participants from LMICs across 15 years (2008–2023)",
+      "title_zh_tw": "15 年間（2008–2023）納入中低收入國家參與者的試驗中，中低收入國家作者代表性不足",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112336",
+        "https://pubmed.ncbi.nlm.nih.gov/42150622/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michel Shamy",
+        "Nishita Singh",
+        "Aravind Ganesh",
+        "Carol Kenney",
+        "Brian Dewar",
+        "Ubong Udoh",
+        "Dar Dowlatshahi",
+        "Mark Fedyk",
+        "Mark Sheehan",
+        "Kate Sahan",
+        "Xiaoying Chen",
+        "Craig S. Anderson",
+        "Bijoy Menon"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112289",
+      "doi": "10.1016/j.jclinepi.2026.112289",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42035814",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112289",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112289"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42035814",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42035814/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「中風 ACT-GLOBAL 適應性平台試驗中延後取得同意的正當性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Justification of deferral of consent in the ACT-GLOBAL adaptive platform trial in stroke",
+      "title_original": "Justification of deferral of consent in the ACT-GLOBAL adaptive platform trial in stroke",
+      "title_zh_tw": "中風 ACT-GLOBAL 適應性平台試驗中延後取得同意的正當性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112289",
+        "https://pubmed.ncbi.nlm.nih.gov/42035814/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Christian Fugl Hansen",
+        "Michael Rindom Krogsgaard",
+        "Claus Varnum",
+        "Søren Overgaard",
+        "Karl Bang Christensen"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112456",
+      "doi": "10.1016/j.jclinepi.2026.112456",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42580371",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112456",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112456"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580371",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580371/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「Oxford Hip Score 結構效度不足：丹麥前瞻性全髖關節置換世代的 Rasch 與驗證性因素分析證據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Inadequate structural validity of the Oxford Hip Score: Evidence from Rasch and Confirmatory Factor Analysis in a prospective, Danish total hip arthroplasty cohort",
+      "title_original": "Inadequate structural validity of the Oxford Hip Score: Evidence from Rasch and Confirmatory Factor Analysis in a prospective, Danish total hip arthroplasty cohort",
+      "title_zh_tw": "Oxford Hip Score 結構效度不足：丹麥前瞻性全髖關節置換世代的 Rasch 與驗證性因素分析證據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112456",
+        "https://pubmed.ncbi.nlm.nih.gov/42580371/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ian Theodore Cabaluna",
+        "Katrice Biños",
+        "Rosally Zamora",
+        "Angela Castrillo",
+        "Cynthia Cordero",
+        "Marissa Alejandria",
+        "Lia Palileo-Villanueva",
+        "Leonila Dans"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112319",
+      "doi": "10.1016/j.jclinepi.2026.112319",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42140528",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112319",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112319"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42140528",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42140528/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GRADE adolopment 架構在菲律賓國家指引計畫中的實施被認為適切、可接受且可行：混合方法研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Implementation of the GRADE adolopment framework was perceived as appropriate, acceptable, and feasible in a national guideline program in the Philippines: a mixed-methods study",
+      "title_original": "Implementation of the GRADE adolopment framework was perceived as appropriate, acceptable, and feasible in a national guideline program in the Philippines: a mixed-methods study",
+      "title_zh_tw": "GRADE adolopment 架構在菲律賓國家指引計畫中的實施被認為適切、可接受且可行：混合方法研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112319",
+        "https://pubmed.ncbi.nlm.nih.gov/42140528/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Matylde Diouf",
+        "Jerome Lambert",
+        "Sylvie Chevret"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112301",
+      "doi": "10.1016/j.jclinepi.2026.112301",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42092600",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112301",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112301"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42092600",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42092600/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「使用真實世界對照進行間接比較時的可識別性與選擇偏差：方法與報告的系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Identifiability and selection bias in indirect comparisons using real-world controls: a systematic review of methods and reporting",
+      "title_original": "Identifiability and selection bias in indirect comparisons using real-world controls: a systematic review of methods and reporting",
+      "title_zh_tw": "使用真實世界對照進行間接比較時的可識別性與選擇偏差：方法與報告的系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112301",
+        "https://pubmed.ncbi.nlm.nih.gov/42092600/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Javier Amaya-Nieto",
+        "Andrés Felipe Patiño-Benavidez",
+        "Daniela Sánchez-Santiesteban",
+        "Giancarlo Buitrago"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112299",
+      "doi": "10.1016/j.jclinepi.2026.112299",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42069068",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112299",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112299"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42069068",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42069068/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「擴展真實世界證據之辯：走向強調互補性與方法學嚴謹性的途徑」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Expanding the debate on real-world evidence: toward an approach focused on complementarity and methodological rigor",
+      "title_original": "Expanding the debate on real-world evidence: toward an approach focused on complementarity and methodological rigor",
+      "title_zh_tw": "擴展真實世界證據之辯：走向強調互補性與方法學嚴謹性的途徑",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112299",
+        "https://pubmed.ncbi.nlm.nih.gov/42069068/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Renske Versloot",
+        "Annemarie de Zoete",
+        "Jan Pool",
+        "Lianne Wood",
+        "Nicholas Henschke",
+        "Joel Bialosky",
+        "Chad Cook",
+        "Raymond Ostelo",
+        "Michiel de Boer",
+        "Sidney Rubinstein"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112332",
+      "doi": "10.1016/j.jclinepi.2026.112332",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42150621",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112332",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112332"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42150621",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42150621/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「評估下背痛隨機對照試驗中治療機制與治療目標的整合：統合流行病學分析計畫書」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Evaluating the integration of the reported treatment mechanisms and goal of treatment in randomized controlled trials for low back pain: protocol for a meta-epidemiological analysis",
+      "title_original": "Evaluating the integration of the reported treatment mechanisms and goal of treatment in randomized controlled trials for low back pain: protocol for a meta-epidemiological analysis",
+      "title_zh_tw": "評估下背痛隨機對照試驗中治療機制與治療目標的整合：統合流行病學分析計畫書",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112332",
+        "https://pubmed.ncbi.nlm.nih.gov/42150621/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Stefanie Lysk",
+        "Claudia M. Witt",
+        "Claudia Canella",
+        "Sabine Wiegmann",
+        "Rebecca Paprott",
+        "Hannah Neumayer",
+        "Thomas Gärtner",
+        "Stefan Konigorski",
+        "Daniel Pach"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112310",
+      "doi": "10.1016/j.jclinepi.2026.112310",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42102891",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112310",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112310"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42102891",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42102891/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過社群媒體影響者活動提升月經健康與所有年輕女性混合照護模式（MeMaF）研究的試驗招募：混合方法研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Enhancing trial recruitment through a social media influencer campaign in theÂ Menstrual Health and HybridÂ Care Model for All Young Females (MeMaF) study: a mixed methods approach",
+      "title_original": "Enhancing trial recruitment through a social media influencer campaign in theÂ Menstrual Health and HybridÂ Care Model for All Young Females (MeMaF) study: a mixed methods approach",
+      "title_zh_tw": "透過社群媒體影響者活動提升月經健康與所有年輕女性混合照護模式（MeMaF）研究的試驗招募：混合方法研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112310",
+        "https://pubmed.ncbi.nlm.nih.gov/42102891/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lisa Cruycke",
+        "Yoeri Swalens",
+        "Liesel Cornelis",
+        "Ann De Smedt",
+        "Sarah Meyer",
+        "Marc Michielsen",
+        "Koen Putman",
+        "Geert Verheyden",
+        "Maaike Fobelets"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112316",
+      "doi": "10.1016/j.jclinepi.2026.112316",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42107665",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112316",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112316"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42107665",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42107665/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「提升醫療照護流程評估的報告品質：流程評估報告初步檢核表（CROP）的 Delphi 研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Enhancing reporting of process evaluations in healthcare: A preliminary Checklist for RepOrting Process evaluations (CROP), a Delphi study",
+      "title_original": "Enhancing reporting of process evaluations in healthcare: A preliminary Checklist for RepOrting Process evaluations (CROP), a Delphi study",
+      "title_zh_tw": "提升醫療照護流程評估的報告品質：流程評估報告初步檢核表（CROP）的 Delphi 研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112316",
+        "https://pubmed.ncbi.nlm.nih.gov/42107665/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Julia Stadelmaier",
+        "Gina Bantle",
+        "Maria Petropoulou",
+        "Joerg J. Meerpohl",
+        "Lukas Schwingshackl"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112440",
+      "doi": "10.1016/j.jclinepi.2026.112440",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42546984",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112440",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112440"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42546984",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42546984/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「觀察性研究中飲食暴露—結果關聯並未隨偏差風險呈系統性差異：統合流行病學研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dietary exposure-outcome associations do not systematically differ by risk of bias in observational studies: A meta-epidemiological study",
+      "title_original": "Dietary exposure-outcome associations do not systematically differ by risk of bias in observational studies: A meta-epidemiological study",
+      "title_zh_tw": "觀察性研究中飲食暴露—結果關聯並未隨偏差風險呈系統性差異：統合流行病學研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112440",
+        "https://pubmed.ncbi.nlm.nih.gov/42546984/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tilahun Nega Godana",
+        "Fantahun Ayenew Mekonnen",
+        "Nebiyu Mekonnen Derseh"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112443",
+      "doi": "10.1016/j.jclinepi.2026.112443",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42567434",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112443",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112443"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42567434",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42567434/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「衣索比亞高負擔地區抗藥性結核病患者失訪臨床風險評分的建立與內部驗證：多中心回溯性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Development and Internal Validation of a Clinical Risk Score for Loss to Follow-Up Among Drug-Resistant Tuberculosis Patients in a High-Burden Setting, Ethiopia: A Multicenter Retrospective Study",
+      "title_original": "Development and Internal Validation of a Clinical Risk Score for Loss to Follow-Up Among Drug-Resistant Tuberculosis Patients in a High-Burden Setting, Ethiopia: A Multicenter Retrospective Study",
+      "title_zh_tw": "衣索比亞高負擔地區抗藥性結核病患者失訪臨床風險評分的建立與內部驗證：多中心回溯性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112443",
+        "https://pubmed.ncbi.nlm.nih.gov/42567434/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ka Hin Tai",
+        "Giulia Varvarà",
+        "Emma Escoffier",
+        "Ulrich Mansmann",
+        "Nicholas J. DeVito",
+        "Anna Catharina V. Armond",
+        "Florian Naudet"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112452",
+      "doi": "10.1016/j.jclinepi.2026.112452",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42575483",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112452",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112452"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42575483",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575483/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「歐洲臨床試驗主要贊助者的資料共享政策、要求與支援：公私部門贊助者調查」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Data sharing policies, requirements, and support from public and private clinical trial sponsors: a survey on top sponsors of clinical trials in Europe",
+      "title_original": "Data sharing policies, requirements, and support from public and private clinical trial sponsors: a survey on top sponsors of clinical trials in Europe",
+      "title_zh_tw": "歐洲臨床試驗主要贊助者的資料共享政策、要求與支援：公私部門贊助者調查",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112452",
+        "https://pubmed.ncbi.nlm.nih.gov/42575483/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Werner Vach"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112308",
+      "doi": "10.1016/j.jclinepi.2026.112308",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42082084",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112308",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112308"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42082084",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42082084/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「使用機率式參考標準時，可辨識無偏估計敏感度與特異度的條件」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Conditions for unbiased estimation of sensitivity and specificity when using a probabilistic reference standard could be identified",
+      "title_original": "Conditions for unbiased estimation of sensitivity and specificity when using a probabilistic reference standard could be identified",
+      "title_zh_tw": "使用機率式參考標準時，可辨識無偏估計敏感度與特異度的條件",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112308",
+        "https://pubmed.ncbi.nlm.nih.gov/42082084/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dongquan Bi",
+        "Andrew Copas",
+        "Fan Li",
+        "Michael O. Harhay",
+        "Brennan C. Kahan"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112462",
+      "doi": "10.1016/j.jclinepi.2026.112462",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42580370",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112462",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112462"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42580370",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42580370/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「因群集大小具資訊性，估計目標與估計量的選擇影響群集隨機試驗（RESTORE）部分結果的解讀」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Choice of estimands and estimators affected the interpretation of results for some outcomes in a cluster-randomised trial (RESTORE) due to informative cluster size",
+      "title_original": "Choice of estimands and estimators affected the interpretation of results for some outcomes in a cluster-randomised trial (RESTORE) due to informative cluster size",
+      "title_zh_tw": "因群集大小具資訊性，估計目標與估計量的選擇影響群集隨機試驗（RESTORE）部分結果的解讀",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112462",
+        "https://pubmed.ncbi.nlm.nih.gov/42580370/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alex Hlavaty",
+        "Clément Jambon-Barbara",
+        "Marc Manceau",
+        "Selin Keklik",
+        "Jean-Christophe Lega",
+        "Michel Cucherat",
+        "Charles Khouri",
+        "Matthieu Roustit"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112341",
+      "doi": "10.1016/j.jclinepi.2026.112341",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42176998",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112341",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112341"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42176998",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42176998/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「雙試驗典範下估計目標的變更與結論不一致盛行率：系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Changes in estimands and prevalence of discrepancies in conclusions under the two-trial paradigm: a systematic review",
+      "title_original": "Changes in estimands and prevalence of discrepancies in conclusions under the two-trial paradigm: a systematic review",
+      "title_zh_tw": "雙試驗典範下估計目標的變更與結論不一致盛行率：系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112341",
+        "https://pubmed.ncbi.nlm.nih.gov/42176998/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michael McCaul",
+        "Simone Titus-Dawson"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112444",
+      "doi": "10.1016/j.jclinepi.2026.112444",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42575484",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112444",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112444"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42575484",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42575484/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「超越紙筆：模擬作為指引方法學家的轉型訓練場域」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Beyond pen and paper: Simulation as a transformative training ground for guideline methodologists",
+      "title_original": "Beyond pen and paper: Simulation as a transformative training ground for guideline methodologists",
+      "title_zh_tw": "超越紙筆：模擬作為指引方法學家的轉型訓練場域",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112444",
+        "https://pubmed.ncbi.nlm.nih.gov/42575484/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wing S. Kwok",
+        "Geraldine Wallbank",
+        "Philip Hodgson",
+        "Thomas Schrader",
+        "Lexuan Shao",
+        "Mark Elkins",
+        "Junior Fandim",
+        "Julia Scott",
+        "Catherine Sherrington",
+        "Adrian C. Traeger"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112309",
+      "doi": "10.1016/j.jclinepi.2026.112309",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42069070",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112309",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112309"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42069070",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42069070/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在物理治療領域以題名與摘要自動辨識臨床試驗：比較分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Automated approaches to identifying clinical trials based on title and abstract in the field of physiotherapy: a comparative analysis",
+      "title_original": "Automated approaches to identifying clinical trials based on title and abstract in the field of physiotherapy: a comparative analysis",
+      "title_zh_tw": "在物理治療領域以題名與摘要自動辨識臨床試驗：比較分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112309",
+        "https://pubmed.ncbi.nlm.nih.gov/42069070/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Omar Dewidar",
+        "Larissa Shamseer",
+        "Lucy C. Barker",
+        "Ebenezer Owusu-Addo",
+        "Janice Tufte",
+        "Lawrence Mbuagbaw",
+        "Sarah Funnell",
+        "Janet Jull",
+        "Vivian Welch",
+        "Peter Craig",
+        "Erik Von Elm",
+        "Damian Francis",
+        "Billie-Jo Hardy",
+        "Matire Harwood",
+        "Janet Hatcher Roberts",
+        "Julian Little",
+        "Michael Johnson Mahande",
+        "Stuart G. Nicholls",
+        "Miriam Nkangu Nguilefem",
+        "Oloyede Oyekola",
+        "Tomás Pantoja",
+        "Anita Rizvi",
+        "Peter Tugwell",
+        "Hugh Sharma Waddington",
+        "Charles Shey Wiysonge",
+        "Mwenya Kasonde",
+        "Taryn Young"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112302",
+      "doi": "10.1016/j.jclinepi.2026.112302",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42092599",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112302",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112302"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42092599",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42092599/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過觀察性研究推進健康公平：STROBE-equity 擴充版的傳播與採用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Advancing health equity through observational research: dissemination and uptake of the STROBE-equity extension",
+      "title_original": "Advancing health equity through observational research: dissemination and uptake of the STROBE-equity extension",
+      "title_zh_tw": "透過觀察性研究推進健康公平：STROBE-equity 擴充版的傳播與採用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112302",
+        "https://pubmed.ncbi.nlm.nih.gov/42092599/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Melanie Salman",
+        "Viet-Thi Tran",
+        "Isabelle Boutron",
+        "Philippe Ravaud",
+        "Spencer Connell",
+        "Karolin Rose Krause"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112292",
+      "doi": "10.1016/j.jclinepi.2026.112292",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42061766",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112292",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112292"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42061766",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42061766/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「ICHOM 指標集的範疇性回顧發現，常被建議的基線特徵數量不多」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A scoping review of ICHOM sets identifies a small number of commonly recommended baseline characteristics",
+      "title_original": "A scoping review of ICHOM sets identifies a small number of commonly recommended baseline characteristics",
+      "title_zh_tw": "ICHOM 指標集的範疇性回顧發現，常被建議的基線特徵數量不多",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112292",
+        "https://pubmed.ncbi.nlm.nih.gov/42061766/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jakub Furmaga",
+        "Samuel McDonald",
+        "Bhaskar Thakur",
+        "Robert Turer"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112317",
+      "doi": "10.1016/j.jclinepi.2026.112317",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42128243",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112317",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112317"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42128243",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42128243/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「一種新型 Table 1：以呈現取代敘述」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A new type of table one: showing instead of telling",
+      "title_original": "A new type of table one: showing instead of telling",
+      "title_zh_tw": "一種新型 Table 1：以呈現取代敘述",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112317",
+        "https://pubmed.ncbi.nlm.nih.gov/42128243/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yaxin Chen",
+        "Yasaman Vali",
+        "Anne Wilhelmina Saskia Rutjes",
+        "Clare Davenport",
+        "Sue Mallett",
+        "Junfeng Wang",
+        "Bada Yang",
+        "Mariska Maria Geertruida Leeflang"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112463",
+      "doi": "10.1016/j.jclinepi.2026.112463",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42586323",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112463",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112463"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586323",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586323/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「方法學回顧發現，多數比較診斷準確度研究的統計分析存在缺失」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A methodological review finds that the statistical analysis of most comparative diagnostic accuracy studies had shortcomings",
+      "title_original": "A methodological review finds that the statistical analysis of most comparative diagnostic accuracy studies had shortcomings",
+      "title_zh_tw": "方法學回顧發現，多數比較診斷準確度研究的統計分析存在缺失",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112463",
+        "https://pubmed.ncbi.nlm.nih.gov/42586323/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Emily T. Vella",
+        "Ivan D. Florez",
+        "Sarah Kellett",
+        "Norma Varela",
+        "Caroline Zwaal",
+        "Jonathan Sussman",
+        "Xiaomei Yao"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112271",
+      "doi": "10.1016/j.jclinepi.2026.112271",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "41997221",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112271",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112271"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41997221",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41997221/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在臨床實務指引中建立含亞群 PICO 研究問題的架構」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A framework for developing PICO research questions with subgroups in clinical practice guidelines",
+      "title_original": "A framework for developing PICO research questions with subgroups in clinical practice guidelines",
+      "title_zh_tw": "在臨床實務指引中建立含亞群 PICO 研究問題的架構",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112271",
+        "https://pubmed.ncbi.nlm.nih.gov/41997221/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Samuel J. White",
+        "Timothy H. Barker",
+        "Tracy Merlin",
+        "Zachary Munn"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112333",
+      "doi": "10.1016/j.jclinepi.2026.112333",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of Clinical Epidemiology",
+      "pmcid": null,
+      "pmid": "42142601",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jclinepi.2026.112333",
+          "url": "https://doi.org/10.1016/j.jclinepi.2026.112333"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42142601",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42142601/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「呼籲提供方法學指引，以支援缺乏參考標準診斷測試之疾病診斷準則的制定」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A call for methodological guidance to support initiatives to develop diagnostic criteria for conditions without reference standard diagnostic tests",
+      "title_original": "A call for methodological guidance to support initiatives to develop diagnostic criteria for conditions without reference standard diagnostic tests",
+      "title_zh_tw": "呼籲提供方法學指引，以支援缺乏參考標準診斷測試之疾病診斷準則的制定",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112333",
+        "https://pubmed.ncbi.nlm.nih.gov/42142601/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Maria Jose Oliveros",
+        "Pamela Seron",
+        "Persephone MacKinlay",
+        "Camilo Morales",
+        "Jeritza Salazar",
+        "Laura Gutiérrez-Vega",
+        "Ruvistay Gutierrez-Arias",
+        "Constanza Ulloa",
+        "María Francisca Contreras",
+        "Jacqueline Inostroza-Quiroz",
+        "Jacob S Kim",
+        "Halam Bae",
+        "Akira Kuriyama",
+        "Nancy Santesso",
+        "Gordon Guyatt",
+        "Romina Brignardello-Petersen"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112457",
+      "doi": "10.1016/j.jclinepi.2026.112457",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of clinical epidemiology",
+      "pmcid": null,
+      "pmid": "42607873",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42607873",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42607873/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Patient-important outcomes account for fewer than half of reported outcomes and are synthesised differently from surrogate outcomes in rehabilitation systematic reviews.",
+      "title_original": "Patient-important outcomes account for fewer than half of reported outcomes and are synthesised differently from surrogate outcomes in rehabilitation systematic reviews.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112457",
+        "https://pubmed.ncbi.nlm.nih.gov/42607873/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Ann Subota",
+        "Mandavi Kashyap",
+        "Samuel Wiebe"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112469",
+      "doi": "10.1016/j.jclinepi.2026.112469",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of clinical epidemiology",
+      "pmcid": null,
+      "pmid": "42612954",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42612954",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42612954/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Interpreting Effect Size of Patient-Reported Outcome Measures in Epilepsy: Towards Empirical Benchmarks.",
+      "title_original": "Interpreting Effect Size of Patient-Reported Outcome Measures in Epilepsy: Towards Empirical Benchmarks.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112469",
+        "https://pubmed.ncbi.nlm.nih.gov/42612954/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Sarah Batson",
+        "Silvia Lombardo",
+        "Mariska Leeflang",
+        "Sian Taylor-Phillips",
+        "John Marshall"
+      ],
+      "canonical_id": "doi:10.1016/j.jclinepi.2026.112471",
+      "doi": "10.1016/j.jclinepi.2026.112471",
+      "issns": [
+        "0895-4356",
+        "1878-5921"
+      ],
+      "journal": "Journal of clinical epidemiology",
+      "pmcid": null,
+      "pmid": "42612955",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42612955",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42612955/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Evaluating Test Accuracy Study Designs for Rare and Ultra-rare Conditions: Application to Newborn Blood Spot Screening.",
+      "title_original": "Evaluating Test Accuracy Study Designs for Rare and Ultra-rare Conditions: Application to Newborn Blood Spot Screening.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jclinepi.2026.112471",
+        "https://pubmed.ncbi.nlm.nih.gov/42612955/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__journal-of-clinical-epidemiology__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__journal-of-clinical-epidemiology__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__journal-of-clinical-epidemiology__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__journal-of-clinical-epidemiology__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__journal-of-clinical-epidemiology__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__journal-of-clinical-epidemiology__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 48,
+    "by_article_type": {
+      "Journal Article": 3,
+      "journal-article": 45
+    },
+    "by_source": {
+      "crossref": 45,
+      "pubmed": 48
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 48,
+    "translated_articles": 45
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "journal-of-clinical-epidemiology__2026-08__r02",
+  "edition_key": "journal-of-clinical-epidemiology__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-19",
+    "acquisition_start": "2026-08-15",
+    "added_article_count": 3,
+    "base_article_count": 45,
+    "base_edition_sha256": "8b450ec711b5e41c2d256cc90d0d7627f56b5c8d7beca5783fa33bd427cdcc22",
+    "base_manifest_publication_id": "journal-of-clinical-epidemiology__2026-08__r01",
+    "base_period_end": "2026-08-14",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "journal-of-clinical-epidemiology__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 3,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 48
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-19",
+    "incremental_acquisition_start": "2026-08-15",
+    "journal_slug": "journal-of-clinical-epidemiology",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 48,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 3,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "journal-of-clinical-epidemiology__2026-08__r02",
+  "retrieved_at": "2026-08-19T10:11:06Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__journal-of-clinical-epidemiology__2026-08__r02",
+    "edition_key": "journal-of-clinical-epidemiology__2026-08",
+    "end_date": "2026-08-19",
+    "issn": "0895-4356",
+    "journal": "Journal of Clinical Epidemiology",
+    "journal_slug": "journal-of-clinical-epidemiology",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 19 日）",
+    "period_status": "MTD",
+    "publication_id": "journal-of-clinical-epidemiology__2026-08__r02",
+    "revision": 2,
+    "slug": "journal-of-clinical-epidemiology",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Journal of Clinical Epidemiology; publication=2026-08-15..2026-08-19",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 3,
+      "detail": null,
+      "query": "(\"Journal of Clinical Epidemiology\"[Journal] OR \"0895-4356\"[ISSN]) AND (\"2026/08/15\"[Date - Publication] : \"2026/08/19\"[Date - Publication])",
+      "returned_count": 3,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 3,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Journal of Clinical Epidemiology\" AND FIRST_PDATE:[2026-08-15 TO 2026-08-19]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "journal-of-clinical-epidemiology__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": "687a28ba6e67229c7821b8468da31b94fa8227a73db9b88dc82a470c02fc59b6",
+    "response_generated_at": "2026-08-14T03:42:05Z",
+    "response_sha256": "090179efc20f936f2bd3dfda5cc62e2d2605eff3b5d7f59ae61fe173403e94cb",
+    "source_edition_sha256": "cbd2a8e1737ab0d8927dc5499837367dba2603a76703e41cc417e6ea8904bea9",
+    "status": "PARTIAL",
+    "total_articles": 48,
+    "translated_articles": 45
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_journal_clinical_epidemiology"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
