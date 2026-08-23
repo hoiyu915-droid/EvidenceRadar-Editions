@@ -1,0 +1,3143 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Cristiana Indolfi",
+        "Angela Klain",
+        "Giulio Dinardo",
+        "Carolina Grella",
+        "Salvatore Cascone",
+        "Michele Miraglia del Giudice"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104132",
+      "doi": "10.1016/j.eclinm.2026.104132",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104132",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104132"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「兒童氣喘的沉默區：將小氣道功能障礙評估整合進臨床實務」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The silent zone of paediatric asthma: integrating small airway dysfunction assessment into clinical practice",
+      "title_original": "The silent zone of paediatric asthma: integrating small airway dysfunction assessment into clinical practice",
+      "title_zh_tw": "兒童氣喘的沉默區：將小氣道功能障礙評估整合進臨床實務",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104132"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chunlan Wu",
+        "Luying Wan",
+        "Qing Wu",
+        "Ping Li",
+        "Jingyi Li",
+        "Yifan Xu",
+        "Lina Zhu",
+        "Xianhe Xie"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104113",
+      "doi": "10.1016/j.eclinm.2026.104113",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13453482",
+      "pmid": "42576934",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104113",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104113"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42576934",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42576934/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「免疫檢查點抑制劑對實體腫瘤患者感染的影響：隨機對照試驗系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The impact of immune checkpoint inhibitors on infection in patients with solid malignancies: a systematic review and meta-analysis of randomised controlled trials",
+      "title_original": "The impact of immune checkpoint inhibitors on infection in patients with solid malignancies: a systematic review and meta-analysis of randomised controlled trials",
+      "title_zh_tw": "免疫檢查點抑制劑對實體腫瘤患者感染的影響：隨機對照試驗系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104113",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453482/",
+        "https://pubmed.ncbi.nlm.nih.gov/42576934/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yu Ngai Leung",
+        "Pui Hing Chau",
+        "Ying Dai",
+        "Christine Chi Oi Lam",
+        "Wing Cheong Leung",
+        "Kris Yuet Wan Lok"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104130",
+      "doi": "10.1016/j.eclinm.2026.104130",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13463982",
+      "pmid": "42592109",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104130",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104130"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42592109",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42592109/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「妊娠糖尿病產前擠乳（GAME）試驗：對母乳哺育結果與母親心理健康的影響——隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The Gestational Diabetes Antenatal Milk Expression (GAME) trial: effects on breastfeeding outcomes and maternal mental health—A randomised controlled trial",
+      "title_original": "The Gestational Diabetes Antenatal Milk Expression (GAME) trial: effects on breastfeeding outcomes and maternal mental health—A randomised controlled trial",
+      "title_zh_tw": "妊娠糖尿病產前擠乳（GAME）試驗：對母乳哺育結果與母親心理健康的影響——隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104130",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13463982/",
+        "https://pubmed.ncbi.nlm.nih.gov/42592109/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Muhammad Ahmad Nadeem",
+        "Chase J. Wehrle",
+        "Sangeeta Satish",
+        "Mingyi Zhang",
+        "Puneet Bansal",
+        "Khaled Ali",
+        "Ahmed Hussein",
+        "Sapana Verma",
+        "Valberto Sanha",
+        "Rebecca Panconesi",
+        "Chunbao Jiao",
+        "Keyue Sun",
+        "Omer Karuk Karakaya",
+        "Geofia S. Crasta",
+        "Fatma Selin Yildirim",
+        "Mazhar Khalil",
+        "Alejandro Pita",
+        "Jamak Modaresi Esfeh",
+        "David C.H. Kwon",
+        "Federico Aucejo",
+        "Jaekeun Kim",
+        "Robert L. Fairchild",
+        "Antonio D. Pinna",
+        "Bijan Eghtesad",
+        "Richard A. Fatica",
+        "Charles Miller",
+        "Masato Fujiki",
+        "Koji Hashimoto",
+        "Andrea Schlegel"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104087",
+      "doi": "10.1016/j.eclinm.2026.104087",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104087",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104087"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「常溫機器灌流對肝臟移植後急性腎損傷的影響：傾向分數配對回溯性單中心世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The effect of normothermic machine perfusion on acute kidney injury following liver transplantation: a propensity score-matched, retrospective, single-centre, cohort study",
+      "title_original": "The effect of normothermic machine perfusion on acute kidney injury following liver transplantation: a propensity score-matched, retrospective, single-centre, cohort study",
+      "title_zh_tw": "常溫機器灌流對肝臟移植後急性腎損傷的影響：傾向分數配對回溯性單中心世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104087"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elizabeth Webb",
+        "Teresa Neeman",
+        "Francis J. Bowden",
+        "Jamie Gaida",
+        "Virginia Mumford",
+        "Bernie Bissett"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104127",
+      "doi": "10.1016/j.eclinm.2026.104127",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104127",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104127"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「壓迫治療預防復發性下肢蜂窩性組織炎的持續效益：隨機對照試驗延長追蹤」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sustained benefit of compression therapy for preventing recurrent leg cellulitis: extended follow-up of a randomised controlled trial",
+      "title_original": "Sustained benefit of compression therapy for preventing recurrent leg cellulitis: extended follow-up of a randomised controlled trial",
+      "title_zh_tw": "壓迫治療預防復發性下肢蜂窩性組織炎的持續效益：隨機對照試驗延長追蹤",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104127"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Josephine SF. Chow",
+        "Neil Boudville",
+        "Suetonia Green",
+        "Yeoungjee Cho",
+        "Gabor Mihala",
+        "Jessica Kasza",
+        "Ruth Campbell",
+        "Hayley Candler",
+        "Carmel M. Hawley",
+        "Laura E. Hickey",
+        "Charani Kiriwandeniya",
+        "Misa Matsuyama",
+        "Ramya Movva",
+        "Elaine M. Pascoe",
+        "Donna M. Reidlinger",
+        "Andrea Valks",
+        "Pushparaj Velayudham",
+        "Liza Vergara",
+        "Carolyn Armstrong",
+        "Bernadette Buisman",
+        "Keri-Lu Equinox",
+        "Ana E. Figueiredo",
+        "Trudi Fuge",
+        "Rachel Haselden",
+        "Ashik Hayat",
+        "Kirsten Howard",
+        "Martin Howell",
+        "Allison Jaure",
+        "Matthew D. Jose",
+        "Anna Lee",
+        "Susana San Miguel",
+        "Jo-Anne Moodie",
+        "Thu T. Nguyen",
+        "Walaa WM. Saweirs",
+        "Genevieve Z. Steiner-Lim",
+        "Melinda Tomlins",
+        "Megan Upjohn",
+        "David Voss",
+        "Rachael C. Walker",
+        "David W. Johnson",
+        "Matthew Davies",
+        "Rosemary Simmonds",
+        "Christine Somerville",
+        "Claire Reed",
+        "Sharon Pitchford",
+        "Kamal Sud",
+        "Maria Dararoay",
+        "Harris Hakim",
+        "Natalie Grainer",
+        "Stella Green",
+        "Richard Singer",
+        "Mary Bodilsen",
+        "Andrea Blanco",
+        "Penny Hill",
+        "Kerry Yaxley",
+        "Cherie Forbes",
+        "Tracey Putt",
+        "Blair Donkin",
+        "Liz Berry",
+        "Suda Swaminathan",
+        "Murthy Divi",
+        "Lisa Feltell",
+        "Vanessa Edwards",
+        "Catherine Blackamore",
+        "Sung Lee",
+        "Annie Reynolds",
+        "Jenny Franco",
+        "Bindu Sunny",
+        "Mathew Mathew",
+        "Carolyn Sanders",
+        "Sanjeev Baweja",
+        "Jane Ruane",
+        "Heather Ferguson",
+        "Tim Spicer",
+        "Glenda Rayment",
+        "Reena Gounder",
+        "Ken-Soon Tan",
+        "Stephanie Fisk",
+        "Roy Cherian",
+        "Courtney Ruzgys",
+        "Jamie Kenrick-Jones",
+        "Sally Fox",
+        "Jazmine Tuivaiave",
+        "Soana Schaaf",
+        "Fiona Brown",
+        "Emad Maher",
+        "Caroline Gilmore",
+        "Balaji Jagannathan",
+        "Samantha McCabe",
+        "Gloria Ruwhiu",
+        "Cheryle Kiwi",
+        "Kathryn Anderson",
+        "Diana Rose Leary",
+        "Melisa Mlambo",
+        "Kylie Pegg",
+        "Marylin Aday",
+        "Sue Curry",
+        "Morgan Park",
+        "Portia Sena",
+        "Michaela Kelleher",
+        "Stephen McDonald",
+        "Bronwyn Hockley",
+        "Monique Borlace",
+        "Feldinar Tapay",
+        "Deborah Smith",
+        "Vijay Karepalli",
+        "Nadine Tisnley",
+        "Lisa Shelverton",
+        "Emma O'Lone",
+        "Amanda Lister",
+        "Rebecca Stevenson",
+        "John Saunders",
+        "Lin Lin",
+        "Hee-eun Yeo",
+        "Khalil Patankar",
+        "Georgina Forsyth",
+        "Susan Mizen",
+        "Parbeen Shafie",
+        "Anna Claire Cuesta",
+        "Francesco Ierino",
+        "Sabelle Renaudin",
+        "Monica Bexton",
+        "Rathika Krishnasamy",
+        "Andrea Pollock",
+        "Pamela Gordon",
+        "Stephen May",
+        "Kim McNamara",
+        "Brownwen TeWhare",
+        "Shaun O'Neill",
+        "Lynette Knuth",
+        "Roy Joseph",
+        "Alok Gupta",
+        "Regina Daly",
+        "Rebecca Barton",
+        "Andrew Gosling",
+        "David Troy",
+        "Eddie Tan",
+        "Lesley Thorburn",
+        "Johanna Levien",
+        "Kathryn Eggleton",
+        "Julie Woodman-Neill",
+        "Caroline Lunda Chembo",
+        "Jane Moore",
+        "Bernadette McAliste",
+        "Paula Woodward",
+        "Puniloa Fuka",
+        "Moira A Maley"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104089",
+      "doi": "10.1016/j.eclinm.2026.104089",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427580",
+      "pmid": "42542615",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104089",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104089"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42542615",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42542615/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「降低腹膜透析相關感染的標準化訓練：群集隨機對照研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Standardised training for reducing peritoneal dialysis-related infection: a cluster randomised controlled study",
+      "title_original": "Standardised training for reducing peritoneal dialysis-related infection: a cluster randomised controlled study",
+      "title_zh_tw": "降低腹膜透析相關感染的標準化訓練：群集隨機對照研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104089",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427580/",
+        "https://pubmed.ncbi.nlm.nih.gov/42542615/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sander W. Tas",
+        "Jeroen Christiaans",
+        "Maria J.H. Boumans",
+        "Frieda A. Koopman",
+        "Paul Pickrell",
+        "David H. Goddard",
+        "Alan Kivitz",
+        "Megha Patel-Banker",
+        "Cong-Qiu Chu",
+        "Eric Lee",
+        "Pendleton Wickersham",
+        "Vamsi V. Alli",
+        "Tim L. Faulkenberry",
+        "Megan Jenkins",
+        "Joshua Winder",
+        "Misha D.P. Luyer",
+        "Carly Barnett",
+        "Kristoffer Famm",
+        "Eric Irwin",
+        "Kevin Kwong",
+        "Leslie Lamson Scribner",
+        "Philip H. Milliken",
+        "Olaïde Raji",
+        "Kristen Rall",
+        "David M. Sokal",
+        "Hanna Whiteman",
+        "Adnan Mahmood",
+        "Margriet J. Vervoordeldonk",
+        "Isha Gupta",
+        "Raolat M. Abdulai",
+        "Jasper C.A. Broen"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104133",
+      "doi": "10.1016/j.eclinm.2026.104133",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104133",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104133"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「脾臟神經調節單獨使用或合併生物製劑／標靶合成 DMARDs 治療難治型類風濕性關節炎（ConsiderRAte）：隨機、假治療對照、早期可行性試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Splenic neuromodulation as monotherapy and in combination with biologic or targeted synthetic DMARDs for difficult-to-treat rheumatoid arthritis (ConsiderRAte): a randomised, sham-controlled, early feasibility trial",
+      "title_original": "Splenic neuromodulation as monotherapy and in combination with biologic or targeted synthetic DMARDs for difficult-to-treat rheumatoid arthritis (ConsiderRAte): a randomised, sham-controlled, early feasibility trial",
+      "title_zh_tw": "脾臟神經調節單獨使用或合併生物製劑／標靶合成 DMARDs 治療難治型類風濕性關節炎（ConsiderRAte）：隨機、假治療對照、早期可行性試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104133"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Po-Huang Chen",
+        "Wei-Cheng Chang",
+        "Hong-Jie Jhou",
+        "Hsin-Yu Chen",
+        "Mao-Hsuan Huang",
+        "Cho-Hao Lee"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104117",
+      "doi": "10.1016/j.eclinm.2026.104117",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13446204",
+      "pmid": "42564795",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104117",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104117"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564795",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564795/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「SGLT2 抑制劑與乳癌合併第二型糖尿病患者遠端轉移風險：目標試驗模擬與生物合理性分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "SGLT2 inhibitors and risk of distant metastasis in patients with breast cancer and type 2 diabetes: a target trial emulation with biological plausibility analysis",
+      "title_original": "SGLT2 inhibitors and risk of distant metastasis in patients with breast cancer and type 2 diabetes: a target trial emulation with biological plausibility analysis",
+      "title_zh_tw": "SGLT2 抑制劑與乳癌合併第二型糖尿病患者遠端轉移風險：目標試驗模擬與生物合理性分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104117",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446204/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564795/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yohhei Hamada",
+        "Sujen Surenthirarajah",
+        "Rishi K. Gupta",
+        "Matteo Quartagno",
+        "Carlos Acuna-Villaorduna",
+        "Neus Altet",
+        "Roland Diel",
+        "Jose Dominguez",
+        "Sian Floyd",
+        "Amita Gupta",
+        "Edward C. Jones-López",
+        "Christoph Lange",
+        "Frank van Leth",
+        "Irene Latorre Rueda",
+        "Vidya Mave",
+        "Laura Muñoz",
+        "Mandar Paradkar",
+        "Martina Sester",
+        "Haridas Prasad",
+        "Kwame Shanaube",
+        "Surendra K. Sharma",
+        "Rosa Sloot",
+        "Giovanni Sotgiu",
+        "Richa Vashishtha",
+        "Ibrahim Abubakar",
+        "Molebogeng X. Rangaka"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104146",
+      "doi": "10.1016/j.eclinm.2026.104146",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104146",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104146"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結核病發生率的性別差異：11 項前瞻性世代研究合併分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sex differences in tuberculosis incidence: a pooled analysis of 11 prospective cohort studies",
+      "title_original": "Sex differences in tuberculosis incidence: a pooled analysis of 11 prospective cohort studies",
+      "title_zh_tw": "結核病發生率的性別差異：11 項前瞻性世代研究合併分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104146"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Katarzyna Doniec",
+        "Jonas Schöley",
+        "Mine Kühn",
+        "Jennifer Beam Dowd"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104072",
+      "doi": "10.1016/j.eclinm.2026.104072",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427654",
+      "pmid": "42542596",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104072",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104072"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42542596",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42542596/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「COVID-19 疫情期間超額死亡的性別差異：34 個高所得國家的縱向生態分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sex differences in excess mortality during the COVID-19 pandemic: a longitudinal ecological analysis of 34 high-income countries",
+      "title_original": "Sex differences in excess mortality during the COVID-19 pandemic: a longitudinal ecological analysis of 34 high-income countries",
+      "title_zh_tw": "COVID-19 疫情期間超額死亡的性別差異：34 個高所得國家的縱向生態分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104072",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427654/",
+        "https://pubmed.ncbi.nlm.nih.gov/42542596/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Thomas A.N. Reed",
+        "Patrick Clarke",
+        "Juana de la Torre Arrieta",
+        "Moona Razzaque",
+        "Arcadio Garcia de Castro",
+        "Rossen Alexiev",
+        "Catalina Panainte",
+        "Naimat Khan",
+        "Laura Grey",
+        "Mary Matheson",
+        "Hannah Cuthbertson",
+        "Ozgur Tuncer",
+        "Steve Chatfield",
+        "Bruce Roser",
+        "Alan Boyd",
+        "Jonathan S. Nguyen-Van-Tam",
+        "Karen O’Hanlon",
+        "Adam P. Dale",
+        "Saul N. Faust"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104116",
+      "doi": "10.1016/j.eclinm.2026.104116",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104116",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104116"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「室溫穩定型破傷風－白喉疫苗 SPVX02 相較兩種既有追加疫苗的安全性、耐受性與免疫原性：英國多中心、單盲、隨機、首次人體第 1 期試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Safety, tolerability, and immunogenicity of SPVX02, a room temperature-stabilised tetanus-diphtheria vaccine, compared to two established tetanus-diphtheria booster vaccines: a multicentre, single-blind, randomised, first-in-human phase 1 trial in the UK",
+      "title_original": "Safety, tolerability, and immunogenicity of SPVX02, a room temperature-stabilised tetanus-diphtheria vaccine, compared to two established tetanus-diphtheria booster vaccines: a multicentre, single-blind, randomised, first-in-human phase 1 trial in the UK",
+      "title_zh_tw": "室溫穩定型破傷風－白喉疫苗 SPVX02 相較兩種既有追加疫苗的安全性、耐受性與免疫原性：英國多中心、單盲、隨機、首次人體第 1 期試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104116"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Moritz Thiel",
+        "Kyriakos Martakis",
+        "Ibrahim Duran",
+        "Hormos S. Dafsari",
+        "Petra Schiller",
+        "Jithmi Weliwitage",
+        "Barbara Hero",
+        "Yonika Larasati",
+        "Alexey Koval",
+        "Vladimir L. Katanaev",
+        "Anne Koy"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104092",
+      "doi": "10.1016/j.eclinm.2026.104092",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427569",
+      "pmid": "42542632",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104092",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104092"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42542632",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42542632/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「口服鋅治療 GNAO1 相關疾病患者的安全性與可行性（ZINCGNAO1）：德國開放標籤、單組、單中心先導試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Safety and feasibility of oral zinc for patients with GNAO1-related disorders (ZINCGNAO1): an open-label, single-arm, single-centre, pilot trial in Germany",
+      "title_original": "Safety and feasibility of oral zinc for patients with GNAO1-related disorders (ZINCGNAO1): an open-label, single-arm, single-centre, pilot trial in Germany",
+      "title_zh_tw": "口服鋅治療 GNAO1 相關疾病患者的安全性與可行性（ZINCGNAO1）：德國開放標籤、單組、單中心先導試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104092",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427569/",
+        "https://pubmed.ncbi.nlm.nih.gov/42542632/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sudarshan R. Jadcherla",
+        "Roseanna Helmick",
+        "Erika K. Osborn",
+        "Enas S. Alshaikh"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104128",
+      "doi": "10.1016/j.eclinm.2026.104128",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104128",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104128"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「新型食道刺激方案調節胃造口高風險嬰兒消化呼吸道機制與結果的安全性與可行性：先導研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Safety and feasibility of a novel oesophageal stimulation protocol in modulating aerodigestive mechanisms and outcomes in infants at-risk for gastrostomy: a pilot study",
+      "title_original": "Safety and feasibility of a novel oesophageal stimulation protocol in modulating aerodigestive mechanisms and outcomes in infants at-risk for gastrostomy: a pilot study",
+      "title_zh_tw": "新型食道刺激方案調節胃造口高風險嬰兒消化呼吸道機制與結果的安全性與可行性：先導研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104128"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Arshad M. Khanani",
+        "Ramin Tadayoni",
+        "Sabri Markabi",
+        "Sunil Patel",
+        "Hani Salehi-Had",
+        "David S. Boyer"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104091",
+      "doi": "10.1016/j.eclinm.2026.104091",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13445531",
+      "pmid": "42564608",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104091",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104091"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564608",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564608/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「局部 OCS-01 眼用懸液治療糖尿病黃斑部水腫的安全性與療效：多中心雙盲隨機載體對照第 2/3 期試驗第一階段」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Safety and efficacy of topical OCS-01 ophthalmic suspension for the treatment of diabetic macular oedema: stage 1 of a multicentre, double-blind, randomised, vehicle-controlled phase 2/3 trial",
+      "title_original": "Safety and efficacy of topical OCS-01 ophthalmic suspension for the treatment of diabetic macular oedema: stage 1 of a multicentre, double-blind, randomised, vehicle-controlled phase 2/3 trial",
+      "title_zh_tw": "局部 OCS-01 眼用懸液治療糖尿病黃斑部水腫的安全性與療效：多中心雙盲隨機載體對照第 2/3 期試驗第一階段",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104091",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13445531/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564608/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jordan Gillespie",
+        "Jaclyn Roland-McGowan",
+        "Katelyn Downey",
+        "Emile Latour",
+        "Alex G. Ortega-Loayza"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104086",
+      "doi": "10.1016/j.eclinm.2026.104086",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13393349",
+      "pmid": "42495104",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104086",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104086"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42495104",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42495104/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「壞疽性膿皮症癒合後復發：前瞻性登錄世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Recurrence after healing in pyoderma gangrenosum: a prospective registry-based cohort study",
+      "title_original": "Recurrence after healing in pyoderma gangrenosum: a prospective registry-based cohort study",
+      "title_zh_tw": "壞疽性膿皮症癒合後復發：前瞻性登錄世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104086",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13393349/",
+        "https://pubmed.ncbi.nlm.nih.gov/42495104/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Olalekan Lee Aiyegbusi",
+        "Noleen K. McCorry",
+        "Melanie J. Calvert",
+        "John Devin Peipert",
+        "Samantha Cruz Rivera",
+        "Robert Muni-Lofra",
+        "Solomon Alexis",
+        "Fez Awan",
+        "Tom Bailey",
+        "Lucinda Billingham",
+        "Rosaline Callaghan",
+        "Christine Collins",
+        "Brooke M. Currie",
+        "Mel Dixon",
+        "Melanie Duddridge",
+        "James Ennis",
+        "Linda Fred",
+        "Sarah Greenwell",
+        "Christian Griffiths",
+        "Asha Hareendran",
+        "Onyekachukwu A. Illoh",
+        "Kerry Leeson-Beevers",
+        "Krishna Letchemanan",
+        "Steven P. Lister",
+        "Christopher McCabe",
+        "Molly McFatrich",
+        "Amy Jayne McKnight",
+        "Fiona McLaughlin",
+        "Ramona Moldovan",
+        "Lindsey T. Murray",
+        "Daniel J. O'Connor",
+        "Hafiz Oko-osi",
+        "Louise Oni",
+        "Kate M. Pritchard",
+        "Khadija Rerhou Rantell",
+        "Volker Straub",
+        "Timothy G. Barrett",
+        "David Jones",
+        "Michael Clarke",
+        "Hayley Comins",
+        "Simon Gates",
+        "Amber R. Hart",
+        "Victoria Hedley",
+        "Blánaid Hicks",
+        "Martin R. Higgs",
+        "Matthew Hosken",
+        "Ameeta Retzer",
+        "Sarah Scullion",
+        "Laura A. Wyatt",
+        "Steven J. Blackburn",
+        "Catherine Turner"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104073",
+      "doi": "10.1016/j.eclinm.2026.104073",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13393705",
+      "pmid": "42495108",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104073",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104073"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42495108",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42495108/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「罕見疾病藥物開發中臨床結果評估的使用建議」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Recommendations for the use of clinical outcome assessments in rare disease drug development",
+      "title_original": "Recommendations for the use of clinical outcome assessments in rare disease drug development",
+      "title_zh_tw": "罕見疾病藥物開發中臨床結果評估的使用建議",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104073",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13393705/",
+        "https://pubmed.ncbi.nlm.nih.gov/42495108/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Eman A. Alghamdi",
+        "Nouf S. Alfadel",
+        "Ahlam A. Alghamdi",
+        "Basmah A. Albabtain",
+        "Muneerah M. Aleissa",
+        "Ghadah H. Alshehri",
+        "Nada Alsuhebany",
+        "Edward B. De Vol",
+        "Haifa Aldakhil",
+        "Waleed M. Altowayan",
+        "Mohammed Alghamdi",
+        "Ali Y. Alshahrani",
+        "Fawaz F. Alharbi"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104062",
+      "doi": "10.1016/j.eclinm.2026.104062",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13393010",
+      "pmid": "42495109",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104062",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104062"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42495109",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42495109/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「癌症患者單用或合併免疫檢查點抑制劑的妊娠不良事件：不均衡分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Pregnancy adverse events with immune checkpoint inhibitors in monotherapy and combination therapy in cancer: a disproportionality analysis",
+      "title_original": "Pregnancy adverse events with immune checkpoint inhibitors in monotherapy and combination therapy in cancer: a disproportionality analysis",
+      "title_zh_tw": "癌症患者單用或合併免疫檢查點抑制劑的妊娠不良事件：不均衡分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104062",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13393010/",
+        "https://pubmed.ncbi.nlm.nih.gov/42495109/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fabiana Corsi-Zuelli",
+        "Maxime Taquet",
+        "Bill Deakin",
+        "Rachel Upthegrove"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104111",
+      "doi": "10.1016/j.eclinm.2026.104111",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427570",
+      "pmid": "42542620",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104111",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104111"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42542620",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42542620/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「低劑量 methotrexate 對新發已記錄精神病的潛在預防作用：電子健康紀錄回溯性世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Potential preventive role of low-dose methotrexate against incident recorded psychosis: a retrospective cohort study based on electronic health records",
+      "title_original": "Potential preventive role of low-dose methotrexate against incident recorded psychosis: a retrospective cohort study based on electronic health records",
+      "title_zh_tw": "低劑量 methotrexate 對新發已記錄精神病的潛在預防作用：電子健康紀錄回溯性世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104111",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427570/",
+        "https://pubmed.ncbi.nlm.nih.gov/42542620/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maria Carmen De Santis",
+        "Christine Campbell",
+        "Faye Samy",
+        "Fiorenza De Rose",
+        "Bruno Meduri",
+        "Matteo Lambertini",
+        "Christos Sotiriou",
+        "Maria Grazia Carnevale",
+        "Antonella Ferro",
+        "Cristina Saura",
+        "Anup Choudhury",
+        "Carlotta Giandini",
+        "Paolo Verderio",
+        "Saranya Chumsri",
+        "Valentina Appierto",
+        "Martine Piccart",
+        "Giancarlo Pruneri",
+        "Riccardo Ray Colciago",
+        "Evandro de Azambuja",
+        "Serena Di Cosimo"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104079",
+      "doi": "10.1016/j.eclinm.2026.104079",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427515",
+      "pmid": "42541182",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104079",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104079"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42541182",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42541182/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「HER2 陽性乳癌患者乳房切除後放射治療：ALTTO 輔助 lapatinib 與／或 trastuzumab 治療最佳化試驗的回溯性探索世代分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Postmastectomy radiation therapy in patients with human epidermal growth factor receptor 2 (HER2)-positive breast cancer: a retrospective exploratory cohort analysis of the adjuvant lapatinib and/or trastuzumab treatment optimization (ALTTO) trial [BIG 2-06/NCCTG N063D (Alliance)]",
+      "title_original": "Postmastectomy radiation therapy in patients with human epidermal growth factor receptor 2 (HER2)-positive breast cancer: a retrospective exploratory cohort analysis of the adjuvant lapatinib and/or trastuzumab treatment optimization (ALTTO) trial [BIG 2-06/NCCTG N063D (Alliance)]",
+      "title_zh_tw": "HER2 陽性乳癌患者乳房切除後放射治療：ALTTO 輔助 lapatinib 與／或 trastuzumab 治療最佳化試驗的回溯性探索世代分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104079",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427515/",
+        "https://pubmed.ncbi.nlm.nih.gov/42541182/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Henrik Mellström Dahlgren",
+        "Huiqi Li",
+        "Ailiana Santosa",
+        "Leif Dotevall",
+        "Karsten Kötz",
+        "Fredrik Nyberg"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104112",
+      "doi": "10.1016/j.eclinm.2026.104112",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13446201",
+      "pmid": "42564724",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104112",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104112"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564724",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564724/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「疫情後呼吸道感染：COVID-19 疫情期間或之前出生兒童的瑞典全國世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Post-pandemic respiratory infections in children born during or before the COVID-19 pandemic: a nationwide cohort study in Sweden",
+      "title_original": "Post-pandemic respiratory infections in children born during or before the COVID-19 pandemic: a nationwide cohort study in Sweden",
+      "title_zh_tw": "疫情後呼吸道感染：COVID-19 疫情期間或之前出生兒童的瑞典全國世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104112",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446201/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564724/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elizabeth King",
+        "Nicola Wyer",
+        "Dalia Barghouthy",
+        "Ellen Reynolds",
+        "Holly Richardson",
+        "Miles Negus-Fancey",
+        "Louise Gallie",
+        "Zudin Puthucheary",
+        "Owen Gustafson",
+        "David McWilliams"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104085",
+      "doi": "10.1016/j.eclinm.2026.104085",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13393731",
+      "pmid": "42495105",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104085",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104085"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42495105",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42495105/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「加護病房出院後整合物理治療與營養介入的患者與臨床人員接受度：PHOENIX 試驗預先指定共同主要可行性結果的質性探索」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Patient and clinician acceptability of an integrated physiotherapy and nutrition intervention after ICU discharge: a qualitative exploration of a pre-specified co-primary feasibility outcome of the PHOENIX trial",
+      "title_original": "Patient and clinician acceptability of an integrated physiotherapy and nutrition intervention after ICU discharge: a qualitative exploration of a pre-specified co-primary feasibility outcome of the PHOENIX trial",
+      "title_zh_tw": "加護病房出院後整合物理治療與營養介入的患者與臨床人員接受度：PHOENIX 試驗預先指定共同主要可行性結果的質性探索",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104085",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13393731/",
+        "https://pubmed.ncbi.nlm.nih.gov/42495105/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Amanda Drury",
+        "Sarah Sheehan",
+        "Alicia Cunningham",
+        "Memnun Seven",
+        "Fiona Hurley",
+        "Paula Flanagan",
+        "Mary Tanay",
+        "Kristen R. Haase",
+        "Sara Colomer Lahiguera",
+        "Maura Dowling"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104080",
+      "doi": "10.1016/j.eclinm.2026.104080",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13396616",
+      "pmid": "42500353",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104080",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104080"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42500353",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42500353/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「精準腫瘤學中的護理角色、能力與教育：範疇回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nursing roles, competencies, and education in precision oncology: a scoping review",
+      "title_original": "Nursing roles, competencies, and education in precision oncology: a scoping review",
+      "title_zh_tw": "精準腫瘤學中的護理角色、能力與教育：範疇回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104080",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13396616/",
+        "https://pubmed.ncbi.nlm.nih.gov/42500353/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shainur Premji",
+        "Simon C. Moore",
+        "Daniel Tod",
+        "Megan Hamilton",
+        "Amrita Bandyopadhyay",
+        "Jonathan Shepherd",
+        "Henry Yeomans",
+        "Adele Battaglia",
+        "David O'Reilly",
+        "Simon M. Walker"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104108",
+      "doi": "10.1016/j.eclinm.2026.104108",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104108",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104108"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「威爾斯護理師主導醫院暴力介入計畫相較標準照護：成本效果分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nurse-led hospital violence intervention programme versus standard care in Wales: a cost-effectiveness analysis",
+      "title_original": "Nurse-led hospital violence intervention programme versus standard care in Wales: a cost-effectiveness analysis",
+      "title_zh_tw": "威爾斯護理師主導醫院暴力介入計畫相較標準照護：成本效果分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104108"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kristen D. Clark",
+        "Richard A. White",
+        "Sarah S. Jackson",
+        "Alkistis Skalkidou",
+        "Thomas Frisell",
+        "Fotios C. Papadopoulos"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104088",
+      "doi": "10.1016/j.eclinm.2026.104088",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13453480",
+      "pmid": "42576911",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104088",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104088"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42576911",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42576911/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「瑞典性別不安者全因與特定死因死亡率之全國估計，2001–2023：登錄世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nationwide estimates of all-cause and cause-specific mortality among individuals with gender dysphoria in Sweden, 2001–2023: a register-based cohort study",
+      "title_original": "Nationwide estimates of all-cause and cause-specific mortality among individuals with gender dysphoria in Sweden, 2001–2023: a register-based cohort study",
+      "title_zh_tw": "瑞典性別不安者全因與特定死因死亡率之全國估計，2001–2023：登錄世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104088",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453480/",
+        "https://pubmed.ncbi.nlm.nih.gov/42576911/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alba Fernández-Sanlés",
+        "Lucy J. Goudswaard",
+        "Dylan M. Williams",
+        "Betty Raman",
+        "Ellen J. Thompson",
+        "Michele Orini",
+        "Siana Jones",
+        "Alexandra Jamieson",
+        "Lee Hamill Howes",
+        "Andrew Wong",
+        "Vedika Handa",
+        "Carole H. Sudre",
+        "Laura C. Saunders",
+        "Nathan Cheetham",
+        "Alex Whitmarsh",
+        "Mary Ní Lochlainn",
+        "Jim Wild",
+        "Stephen M. Smith",
+        "Stefan Piechnik",
+        "Stefan Neubauer",
+        "Claire J. Steves",
+        "Nicholas J. Timpson",
+        "Nish Chaturvedi",
+        "Alun D. Hughes",
+        "Lamia Al Saikhan",
+        "Frederick Barkhof",
+        "Gabriella Captur",
+        "Alisia Carnemolla",
+        "Nish Chaturvedi",
+        "Nathan Cheetham",
+        "Richard Dobson",
+        "Alba Fernández-Sanlés",
+        "Lucy J. Goudswaard",
+        "Rebecca Green",
+        "Lee Hamill Howes",
+        "Vedika Handa",
+        "Alun Hughes",
+        "Alexandra Jamieson",
+        "Siana Jones",
+        "Rebecca Lewis",
+        "Vivek Muthurangu",
+        "Stefan Neubauer",
+        "Mary Ní Lochlainn",
+        "Michele Orini",
+        "Chloe Park",
+        "Praveetha Patalay",
+        "Stefan Piechnik",
+        "Maria Popham",
+        "Betty Raman",
+        "Alicja Rapala",
+        "Natalia Rojas",
+        "Laura C. Saunders",
+        "Roz Shafran",
+        "Stephen M. Smith",
+        "Terence Stephenson",
+        "Claire J. Steves",
+        "Carole H. Sudre",
+        "Ellen J. Thompson",
+        "Nicholas J. Timpson",
+        "Thomas Triebel",
+        "Alex Whitmarsh",
+        "Jim Wild",
+        "Dylan M. Williams",
+        "Andrew Wong"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104104",
+      "doi": "10.1016/j.eclinm.2026.104104",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427505",
+      "pmid": "42541313",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104104",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104104"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42541313",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42541313/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「長新冠相關多器官結構與功能缺損：人口型病例對照研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Multi-organ structural and functional deficits in association with long COVID: a population-based case-control study",
+      "title_original": "Multi-organ structural and functional deficits in association with long COVID: a population-based case-control study",
+      "title_zh_tw": "長新冠相關多器官結構與功能缺損：人口型病例對照研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104104",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427505/",
+        "https://pubmed.ncbi.nlm.nih.gov/42541313/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "María del Carmen Aznar de la Riera",
+        "Jesús Díaz-Gutiérrez",
+        "Stefanos N. Kales",
+        "Miguel Ruiz-Canela",
+        "Almudena Castro Conde",
+        "Beth Frates",
+        "Fernando Rodríguez-Artalejo",
+        "Mercedes Sotos-Prieto"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104134",
+      "doi": "10.1016/j.eclinm.2026.104134",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104134",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104134"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「地中海生活型態與第二型糖尿病患者不良心血管事件、全因及心血管死亡風險」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mediterranean lifestyle and risk of adverse cardiovascular events, all-cause and cardiovascular mortality among individuals with type 2 diabetes",
+      "title_original": "Mediterranean lifestyle and risk of adverse cardiovascular events, all-cause and cardiovascular mortality among individuals with type 2 diabetes",
+      "title_zh_tw": "地中海生活型態與第二型糖尿病患者不良心血管事件、全因及心血管死亡風險",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104134"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Seba Contreras",
+        "Philipp Dönges",
+        "Laura Müller",
+        "Piklu Mallick",
+        "Sydney Paltra",
+        "Ulrik Hvid",
+        "Robyn J.N. Kettlitz",
+        "Andreas Reitenbach",
+        "Rodrigo Amaral Lind",
+        "Maíra Aguiar",
+        "Philip Bechtle",
+        "André Calero Valdez",
+        "Ronja Gronemeyer",
+        "Manuela Harries",
+        "Veronika K. Jaeger",
+        "André Karch",
+        "Carolina J. Klett-Tammen",
+        "Peter Klimek",
+        "Mirjam E. Kretzschmar",
+        "Kai Nagel",
+        "Bjarke Frost Nielsen",
+        "Barbara Prainsack",
+        "Isabella M. Radhuber",
+        "Lone Simonsen",
+        "Kim Sneppen",
+        "Janik Suer",
+        "Viola Priesemann"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104101",
+      "doi": "10.1016/j.eclinm.2026.104101",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13453475",
+      "pmid": "42576971",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104101",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104101"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42576971",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42576971/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「大流行病的運作機制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mechanics of pandemics",
+      "title_original": "Mechanics of pandemics",
+      "title_zh_tw": "大流行病的運作機制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104101",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453475/",
+        "https://pubmed.ncbi.nlm.nih.gov/42576971/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sathishrajaa Palaniraja",
+        "Isabel Mosquera",
+        "Andre Lopes Carvalho",
+        "Deependra Singh",
+        "Josep Vilaseca",
+        "Aušvydas Patašius",
+        "Krzysztof Tupikowski",
+        "Ángel Gómez Amorín",
+        "Ana Marina Tarrazo Antelo",
+        "Montserrat Corujo Quinteiro",
+        "David Galvin",
+        "Roderick van den Bergh",
+        "Monique Joanne Roobol",
+        "Lionne Dysette FrancellaVenderbos",
+        "Sarah Collen",
+        "Hendrik van Poppel",
+        "Partha Basu",
+        "Arunah Chandran",
+        "James N'Dow",
+        "Phillip Conford",
+        "Juan Gómez Rivas",
+        "Katharina Beyer",
+        "Jozien Helleman",
+        "Renée Leenen",
+        "Daan Nieboer",
+        "Esmée Mulder",
+        "Jeroen Lodder",
+        "Frederique Denijs",
+        "Kirsi Talala",
+        "Pia Kirkegaard",
+        "Berit Andersen",
+        "Mette Bach Larsen",
+        "Sofie Meyer Andersen",
+        "Grace McKinney",
+        "Karel Hejduk",
+        "Ondřej Májek",
+        "Ondřej Ngo",
+        "Tomáš Vyskot",
+        "Marcela Koudelková",
+        "Roman Zachoval",
+        "Renata Chloupkova",
+        "Katerina Hejcmanova",
+        "Meike Van Harten",
+        "Peter-Paul Willemse",
+        "Norbert Couespel",
+        "Riccardo Moschetti",
+        "Mike Morrisey",
+        "Richard Price",
+        "Enea Venegoni",
+        "Agnese Konusevska",
+        "Otilia Colceriu",
+        "Zoë Parker",
+        "Dorota Dudek-Godeau",
+        "Adam Maciejczyk",
+        "Malgorzata Krynicka-Duszynska",
+        "Katarzyna Hodyra-Stefaniak",
+        "Monika Litwin",
+        "Monika Pajewska",
+        "Aleksandra Czerw",
+        "Andrzej Deptala",
+        "Silvia Suárez Luque",
+        "Carmen Durán Parrondo",
+        "Gemma Cuberas Borrós",
+        "Anna Arnau Bartés",
+        "Juan Pablo Salazar",
+        "Hector López Llauradó",
+        "Ola Bratt",
+        "Rebecka Godtman",
+        "Emil Järbur",
+        "Thomas Jiborn",
+        "Andres Bjartell",
+        "Anna Holst",
+        "Max Alerberk",
+        "Gintare Miksiene",
+        "Giedrė Smailytė",
+        "Ugne Mickeviciute",
+        "Lieven Annemans",
+        "Pieter-Jan Hutsebaut",
+        "Pieter Vynckier",
+        "Robert Kidd",
+        "Michael O'Brien",
+        "Paula Keon",
+        "Carolyne Lynch",
+        "Michael Rooney",
+        "Martin Kivi",
+        "Eamonn Rogers",
+        "Eileen Nolan",
+        "Paul Sweeney",
+        "Gillian Horgan",
+        "Thomas Frese",
+        "Kathleen Denny",
+        "Cate Bennett",
+        "Amy O'Connor",
+        "Sarah Coghlan",
+        "Ricky Le Roux",
+        "Karen Robb",
+        "Milagros Otero-Gracia",
+        "Eric Briers",
+        "Anna Lantz",
+        "Lisa Jelf Eneqvist"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104093",
+      "doi": "10.1016/j.eclinm.2026.104093",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104093",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104093"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「歐洲攝護腺癌篩檢準備度全貌：PRAISE-U 先導計畫的醫療體系能力分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mapping the readiness landscape for prostate cancer screening in Europe: analysis of health system capacity across the PRAISE-U pilots",
+      "title_original": "Mapping the readiness landscape for prostate cancer screening in Europe: analysis of health system capacity across the PRAISE-U pilots",
+      "title_zh_tw": "歐洲攝護腺癌篩檢準備度全貌：PRAISE-U 先導計畫的醫療體系能力分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104093"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jingqi Zhang",
+        "Nadia Daniel",
+        "Agnese Tiranti",
+        "Xuan Li",
+        "Abigail Robinson",
+        "Shishir Rao",
+        "Marian Knight",
+        "Joris Hemelaar"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104138",
+      "doi": "10.1016/j.eclinm.2026.104138",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104138",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104138"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「機器學習預測不良周產期結果：系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Machine learning to predict adverse perinatal outcomes: a systematic review and meta-analysis",
+      "title_original": "Machine learning to predict adverse perinatal outcomes: a systematic review and meta-analysis",
+      "title_zh_tw": "機器學習預測不良周產期結果：系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104138"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhihao Xu",
+        "Kristina Jenei",
+        "Richard Sullivan"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104121",
+      "doi": "10.1016/j.eclinm.2026.104121",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104121",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104121"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「中國藥品的國際核准：以美國為基準並比較歐洲及其他市場的分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "International approval of Chinese pharmaceuticals: a USA-anchored analysis with comparative insights from Europe and other markets",
+      "title_original": "International approval of Chinese pharmaceuticals: a USA-anchored analysis with comparative insights from Europe and other markets",
+      "title_zh_tw": "中國藥品的國際核准：以美國為基準並比較歐洲及其他市場的分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104121"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ulker Isayeva",
+        "Esther Touitou-Burckard",
+        "Alicja Bukowska",
+        "Ewelina Cichoń",
+        "Tomasz Gondek",
+        "Agata Todzia-Kornaś",
+        "Masoud Rahmati",
+        "Coralie Gandré",
+        "Andrzej Kiejna",
+        "Mirko Manchia",
+        "Laurent Boyer",
+        "Guillaume Fond",
+        "Enrico Ginelli",
+        "Tapio T. Gustafsson",
+        "Aleksi Hamina",
+        "George Keel",
+        "Peter Lindgren",
+        "Pierre-Michel Llorca",
+        "Sandrine Loubière",
+        "Ellenor Mittendorfer-Rutz",
+        "René Ernst Nielsen",
+        "Veronica Orleans",
+        "Pasquale Paribello",
+        "Vanessa Pauly",
+        "Esben Andersen Revsbech",
+        "Heidi Taipale",
+        "Owen Taylor",
+        "Jari Tiihonen",
+        "Jan Brink Valentin",
+        "Mariusz Zieba"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104105",
+      "doi": "10.1016/j.eclinm.2026.104105",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13449340",
+      "pmid": "42569244",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104105",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104105"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42569244",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42569244/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「嚴重精神疾病與共病身體健康問題的整合照護計畫：EU-MIND 傘式回顧，為歐洲未來行動提供依據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Integrated care programmes for severe mental illnesses and comorbid physical health disorders: the EU-MIND umbrella review to inform future actions in Europe",
+      "title_original": "Integrated care programmes for severe mental illnesses and comorbid physical health disorders: the EU-MIND umbrella review to inform future actions in Europe",
+      "title_zh_tw": "嚴重精神疾病與共病身體健康問題的整合照護計畫：EU-MIND 傘式回顧，為歐洲未來行動提供依據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104105",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13449340/",
+        "https://pubmed.ncbi.nlm.nih.gov/42569244/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Stefania Volpe",
+        "Seungju Lee",
+        "Mateusz Bilski",
+        "Maria Giulia Vincini",
+        "Michela Onza",
+        "Gaia Piperno",
+        "Maria Alessia Zerella",
+        "Luigi Cornacchia",
+        "Lucia Palumbo",
+        "Paola Fulghieri",
+        "Alfonso Zappia",
+        "Roberta Noberini",
+        "Mariano Lombardi",
+        "Eltjona Mane",
+        "Konstantinos Venetis",
+        "Monica Casiraghi",
+        "Lorenzo Spaggiari",
+        "Tiziana Bonaldi",
+        "Nicola Fusco",
+        "Roberto Orecchia",
+        "Barbara Alicja Jereczek-Fossa"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104095",
+      "doi": "10.1016/j.eclinm.2026.104095",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13443911",
+      "pmid": "42564821",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104095",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104095"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564821",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564821/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「早期非小細胞肺癌精準立體定位身體放射治療的免疫學生物標記：系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Immunological biomarkers for precision stereotactic body radiation therapy in early-stage non-small cell lung cancer: a systematic review",
+      "title_original": "Immunological biomarkers for precision stereotactic body radiation therapy in early-stage non-small cell lung cancer: a systematic review",
+      "title_zh_tw": "早期非小細胞肺癌精準立體定位身體放射治療的免疫學生物標記：系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104095",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13443911/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564821/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Amir M. Mohareb",
+        "Bonolo Phinius",
+        "Motswedi Anderson",
+        "Shahin Lockman",
+        "Julie Bottero",
+        "George A. Yendewa",
+        "Arthur Y. Kim",
+        "Anders Boyd"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104075",
+      "doi": "10.1016/j.eclinm.2026.104075",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427494",
+      "pmid": "42541296",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104075",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104075"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42541296",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42541296/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「HIV 感染者停止含 tenofovir 抗反轉錄病毒治療後的 B 型肝炎病毒結果：系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Hepatitis B virus outcomes in people with HIV after cessation of tenofovir-containing antiretroviral therapy: a systematic review and meta-analysis",
+      "title_original": "Hepatitis B virus outcomes in people with HIV after cessation of tenofovir-containing antiretroviral therapy: a systematic review and meta-analysis",
+      "title_zh_tw": "HIV 感染者停止含 tenofovir 抗反轉錄病毒治療後的 B 型肝炎病毒結果：系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104075",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427494/",
+        "https://pubmed.ncbi.nlm.nih.gov/42541296/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Oksana Sulaieva",
+        "Yeva Ilkiv",
+        "Viktoriia Yerokhovych",
+        "Vitalii Gurianov",
+        "Anna Shcherbakova",
+        "Pavlina Botsun",
+        "Damir Sapunar",
+        "Livia Puljak",
+        "Mykola Tronko",
+        "Olena Kovzun",
+        "Volodymyr Pushkarev",
+        "Victoriia Popova",
+        "Nazarii Kobyliak"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104077",
+      "doi": "10.1016/j.eclinm.2026.104077",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13393166",
+      "pmid": "42495107",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104077",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104077"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42495107",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42495107/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「烏克蘭戰前與戰時血糖生物標記趨勢，2021–2024：重複橫斷面研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Glycaemic biomarker trends across pre-war and wartime periods in Ukraine, 2021–2024: a repeated cross-sectional study",
+      "title_original": "Glycaemic biomarker trends across pre-war and wartime periods in Ukraine, 2021–2024: a repeated cross-sectional study",
+      "title_zh_tw": "烏克蘭戰前與戰時血糖生物標記趨勢，2021–2024：重複橫斷面研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104077",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13393166/",
+        "https://pubmed.ncbi.nlm.nih.gov/42495107/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fatima Ali",
+        "Alison K. Wright",
+        "Thomas Graier",
+        "Mahira El Sayed",
+        "Rachel H. Giles",
+        "Jo Lambert",
+        "Lars E. French",
+        "Henry W. Lim",
+        "Darren M. Ashcroft",
+        "Peter C.M. van de Kerkhof",
+        "Christopher E.M. Griffiths",
+        "Sean P. Gavan",
+        "Su Mar Lwin"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104103",
+      "doi": "10.1016/j.eclinm.2026.104103",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13445532",
+      "pmid": "42564855",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104103",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104103"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42564855",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42564855/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「擴大 WHO 乾癬基本藥物清單的全球健康與經濟影響：健康經濟模型研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Global health and economic impact of expanding the WHO essential medicines list for psoriasis: a health economic modelling study",
+      "title_original": "Global health and economic impact of expanding the WHO essential medicines list for psoriasis: a health economic modelling study",
+      "title_zh_tw": "擴大 WHO 乾癬基本藥物清單的全球健康與經濟影響：健康經濟模型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104103",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13445532/",
+        "https://pubmed.ncbi.nlm.nih.gov/42564855/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haowen Jiang",
+        "Daniel J. Lim",
+        "Chun Yuan Khoo",
+        "Sarah A.M. Cuddy",
+        "Raymond Wong",
+        "Ru-San Tan",
+        "Fei Gao",
+        "Yucheng Chen",
+        "Sharmila Dorbala",
+        "Angela S. Koh"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104059",
+      "doi": "10.1016/j.eclinm.2026.104059",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13393012",
+      "pmid": "42495106",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104059",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104059"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42495106",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42495106/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「心臟類澱粉沉積症的虛弱狀態、臨床與功能結果：系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Frailty status, clinical and functional outcomes in cardiac amyloidosis: a systematic review and meta-analysis",
+      "title_original": "Frailty status, clinical and functional outcomes in cardiac amyloidosis: a systematic review and meta-analysis",
+      "title_zh_tw": "心臟類澱粉沉積症的虛弱狀態、臨床與功能結果：系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104059",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13393012/",
+        "https://pubmed.ncbi.nlm.nih.gov/42495106/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Arshdeep Singh",
+        "Arshia Bhardwaj",
+        "Vandana Midha",
+        "Laurent Peyrin-Biroulet",
+        "Ajit Sood"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104120",
+      "doi": "10.1016/j.eclinm.2026.104120",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13463807",
+      "pmid": "42592391",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104120",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104120"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42592391",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42592391/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「急性重症潰瘍性結腸炎一開始即合併 corticosteroid 與 JAK 抑制劑治療的理據探討」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring the rationale for upfront corticosteroid–JAK inhibitor combination therapy in acute severe ulcerative colitis",
+      "title_original": "Exploring the rationale for upfront corticosteroid–JAK inhibitor combination therapy in acute severe ulcerative colitis",
+      "title_zh_tw": "急性重症潰瘍性結腸炎一開始即合併 corticosteroid 與 JAK 抑制劑治療的理據探討",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104120",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13463807/",
+        "https://pubmed.ncbi.nlm.nih.gov/42592391/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jung-Jae Kim",
+        "Jung Cheol Park",
+        "Sang Kyu Park",
+        "Gyojun Hwang",
+        "Joonho Chung",
+        "O-Ki Kwon",
+        "Seung Pil Ban",
+        "Jae Sang Oh",
+        "Young Woo Kim",
+        "Sukh Que Park",
+        "Yong Sam Shin",
+        "Jai Ho Choi",
+        "Woo Cheul Cho",
+        "Min-Yong Kwon",
+        "Chang-Hyun Kim",
+        "Jong-Hyun Park",
+        "Seok-Mann Yoon",
+        "Sang-Weon Lee",
+        "Chang Hyeun Kim",
+        "Yong Cheol Lim",
+        "Hyun-Seung Kang",
+        "Bum-Tae Kim",
+        "Junhyung Kim",
+        "Kang Min Kim",
+        "Myeong Jin Kim",
+        "Youngsoo Kim",
+        "Chang Young Lee",
+        "Woosung Lee",
+        "Keun Young Park",
+        "Dong Seong Shin"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104135",
+      "doi": "10.1016/j.eclinm.2026.104135",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104135",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104135"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「血流導向裝置治療未破裂顱內動脈瘤相較傳統血管內治療的療效與安全性：南韓多中心隨機開放標籤試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Efficacy and safety of flow diverter therapy for unruptured intracranial aneurysms compared to conventional endovascular therapy: a multicentre, randomised, open-label trial in South Korea",
+      "title_original": "Efficacy and safety of flow diverter therapy for unruptured intracranial aneurysms compared to conventional endovascular therapy: a multicentre, randomised, open-label trial in South Korea",
+      "title_zh_tw": "血流導向裝置治療未破裂顱內動脈瘤相較傳統血管內治療的療效與安全性：南韓多中心隨機開放標籤試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104135"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Luís Carlos Lopes-Júnior",
+        "Leticia Batista de Azevedo",
+        "Guilherme Augusto Loiola Passos",
+        "Lívia Machado Giacomin",
+        "Naira Santos D’Agostini",
+        "Jonathan Grassi",
+        "Ana Carolina Avancini Guimarães",
+        "Luiz Cláudio Barreto Silva Neto",
+        "Raphael Manhaes Pessanha",
+        "Etreo Junior Carneiro da Silva Minarini",
+        "Juliano Coimbra dos Santos",
+        "Marcelo Brener Nascimento Carlini",
+        "Renan Pazini Borges",
+        "Gabriel Colombo Pereira",
+        "Regina Aparecida Garcia de Lima",
+        "Liliana Vásquez Ponce",
+        "Felipe Roitberg",
+        "Vitor Fiorin Vasconcellos"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104107",
+      "doi": "10.1016/j.eclinm.2026.104107",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13448194",
+      "pmid": "42568832",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104107",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104107"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42568832",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42568832/"
+        },
+        {
+          "source": "europe_pmc",
+          "source_id": "42568832",
+          "url": "https://europepmc.org/article/MED/42568832"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「拉丁美洲早發癌症：發生率趨勢、證據缺口與臨床意涵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Early-onset cancer in Latin America: incidence trends, evidence gaps and clinical implications",
+      "title_original": "Early-onset cancer in Latin America: incidence trends, evidence gaps and clinical implications",
+      "title_zh_tw": "拉丁美洲早發癌症：發生率趨勢、證據缺口與臨床意涵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104107",
+        "https://europepmc.org/article/MED/42568832",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13448194/",
+        "https://pubmed.ncbi.nlm.nih.gov/42568832/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Avaneesh Kumar Pandey",
+        "Ritika Kondel Bhandari",
+        "Esmita Charani",
+        "Jennifer Cohn",
+        "Amrita Ghautare",
+        "Anne-Grete Märtson",
+        "Uttara Gadde",
+        "Sipho Dlamini",
+        "Malcolm Miller",
+        "Samir Malhotra",
+        "Thomas Tängdén",
+        "Sanjeev Singh",
+        "Marc Mendelson",
+        "Nusrat Shafiq"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104119",
+      "doi": "10.1016/j.eclinm.2026.104119",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13452151",
+      "pmid": "42571437",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104119",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104119"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42571437",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42571437/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「HIV、結核病與瘧疾計畫中的藥品缺貨：系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Drug stock-outs in HIV, tuberculosis, and malaria programs: a systematic review",
+      "title_original": "Drug stock-outs in HIV, tuberculosis, and malaria programs: a systematic review",
+      "title_zh_tw": "HIV、結核病與瘧疾計畫中的藥品缺貨：系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104119",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13452151/",
+        "https://pubmed.ncbi.nlm.nih.gov/42571437/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nana Li",
+        "Xiaoshuang Xu",
+        "Maojie Xue",
+        "Jiacheng Zhou",
+        "Xiang Wang",
+        "Junbei Wu",
+        "Leyi Chen",
+        "Yuqing Yang",
+        "Jiajin Chen",
+        "Tianlin Zhou",
+        "Jigang Zhang",
+        "Yanna Si",
+        "Yanxiang Miao",
+        "Guoxiang Fan",
+        "Dong Shao",
+        "Xin Liu",
+        "Liang Sun",
+        "Chaolin Guo",
+        "Feng Chen",
+        "David C. Christiani",
+        "YunHong Lu",
+        "Hui Peng",
+        "Xiaofei Cao",
+        "Ruyang Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104090",
+      "doi": "10.1016/j.eclinm.2026.104090",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427658",
+      "pmid": "42542617",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104090",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104090"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42542617",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42542617/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「鎮靜胃腸內視鏡低氧血症風險預測模型 HAPPY-12K 的開發與獨立驗證：多中心前瞻性世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Development and independent validation of a hypoxemia risk prediction model (HAPPY-12K) for sedated gastrointestinal endoscopy: a multicentre prospective cohort study",
+      "title_original": "Development and independent validation of a hypoxemia risk prediction model (HAPPY-12K) for sedated gastrointestinal endoscopy: a multicentre prospective cohort study",
+      "title_zh_tw": "鎮靜胃腸內視鏡低氧血症風險預測模型 HAPPY-12K 的開發與獨立驗證：多中心前瞻性世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104090",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427658/",
+        "https://pubmed.ncbi.nlm.nih.gov/42542617/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elizabeth A. Bye",
+        "Claire L. Boswell-Ruys",
+        "Martin E. Héroux",
+        "Bonsan B. Lee",
+        "Euan J. McCaughey",
+        "Zoë J. Djajadikarta",
+        "Monica A. Perez",
+        "Gabrielle Mendoza",
+        "Margaret Purcell",
+        "Claire Lincoln",
+        "Julian Taylor",
+        "Marta Ríos-León",
+        "Gavin Williams",
+        "Matt Kundevski",
+        "Joanna Diong",
+        "Peter Humburg",
+        "Bing Chen",
+        "Nadine Fuchs",
+        "Harrison Finn",
+        "Raquel Menchero",
+        "Ramiro Palazón-García",
+        "Sabrina Sepúlveda-Rodríguez",
+        "Scott Starkey",
+        "Terry Trinh",
+        "Jane E. Butler",
+        "Simon C. Gandevia"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104094",
+      "doi": "10.1016/j.eclinm.2026.104094",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13449336",
+      "pmid": "42569214",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104094",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104094"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42569214",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42569214/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「勘誤：「經皮脊髓刺激加步行訓練相較假刺激加步行訓練治療慢性脊髓損傷（eWALK）：多中心三盲隨機假治療對照試驗」」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Corrigendum to “Transcutaneous spinal cord stimulation plus locomotor training versus sham-stimulation plus locomotor training in chronic spinal cord injury (eWALK): a multicentre, triple-blind, randomised, sham-controlled trial”",
+      "title_original": "Corrigendum to “Transcutaneous spinal cord stimulation plus locomotor training versus sham-stimulation plus locomotor training in chronic spinal cord injury (eWALK): a multicentre, triple-blind, randomised, sham-controlled trial”",
+      "title_zh_tw": "勘誤：「經皮脊髓刺激加步行訓練相較假刺激加步行訓練治療慢性脊髓損傷（eWALK）：多中心三盲隨機假治療對照試驗」",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104094",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13449336/",
+        "https://pubmed.ncbi.nlm.nih.gov/42569214/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiaohan Xu",
+        "Luca J. Wachtendorf",
+        "Béla-Simon Paschold",
+        "Sophia Riesemann",
+        "Elena Ahrens",
+        "Theresa Tenge",
+        "Guanqing Chen",
+        "Monique Mohammed",
+        "Haobo Ma",
+        "Kerry O'Brien",
+        "Daniel Talmor",
+        "Maximilian S. Schaefer"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104140",
+      "doi": "10.1016/j.eclinm.2026.104140",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104140",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104140"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「勘誤：「術中異體濃縮紅血球輸血與術後譫妄：美國回溯性世代研究」」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Corrigendum to “Intraoperative allogeneic packed red blood cell transfusions and postoperative delirium: a retrospective cohort study in the USA”",
+      "title_original": "Corrigendum to “Intraoperative allogeneic packed red blood cell transfusions and postoperative delirium: a retrospective cohort study in the USA”",
+      "title_zh_tw": "勘誤：「術中異體濃縮紅血球輸血與術後譫妄：美國回溯性世代研究」",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104140"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zihan Guo",
+        "Jinwei Hu",
+        "Miao Mo",
+        "Mengmeng Wang",
+        "Shuohan Huang",
+        "Tongtong Liu",
+        "Jiyong Liu",
+        "Qiong Du"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104106",
+      "doi": "10.1016/j.eclinm.2026.104106",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427526",
+      "pmid": "42541270",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104106",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104106"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42541270",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42541270/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「四種長效顆粒球集落刺激因子用於乳癌患者初級預防的比較療效與安全性：中國前瞻性觀察世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Comparative efficacy and safety of four long-acting granulocyte colony-stimulating factors for primary prophylaxis in patients with breast cancer: a prospective observational cohort study in China",
+      "title_original": "Comparative efficacy and safety of four long-acting granulocyte colony-stimulating factors for primary prophylaxis in patients with breast cancer: a prospective observational cohort study in China",
+      "title_zh_tw": "四種長效顆粒球集落刺激因子用於乳癌患者初級預防的比較療效與安全性：中國前瞻性觀察世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104106",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427526/",
+        "https://pubmed.ncbi.nlm.nih.gov/42541270/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sarbajit Mukherjee",
+        "Azza Sarfraz",
+        "Kyaw Lin Aung",
+        "Manmeet Singh Ahluwalia"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104122",
+      "doi": "10.1016/j.eclinm.2026.104122",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13452147",
+      "pmid": "42571422",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104122",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104122"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42571422",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42571422/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「胃腸道癌症中的循環腫瘤 DNA：潛力、陷阱與未來方向」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Circulating tumor DNA in gastrointestinal cancers: promise, pitfalls, and the path forward",
+      "title_original": "Circulating tumor DNA in gastrointestinal cancers: promise, pitfalls, and the path forward",
+      "title_zh_tw": "胃腸道癌症中的循環腫瘤 DNA：潛力、陷阱與未來方向",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104122",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13452147/",
+        "https://pubmed.ncbi.nlm.nih.gov/42571422/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tobin Joseph",
+        "Chenyi Gao",
+        "Ramesh Nadarajah",
+        "Riyad Al-Lehebi",
+        "Luis Alves",
+        "David D. Berg",
+        "Amy Couper",
+        "Indranil Datta",
+        "Loay Eleyan",
+        "Mohammad Haris",
+        "Nathanial Hawkins",
+        "John R. Hurst",
+        "Christine R. Jenkins",
+        "Alan Kaplan",
+        "Janwillem W.H. Kocks",
+        "Konstantinos Kostikas",
+        "Carolyn SP. Lam",
+        "Therese Laperre",
+        "Fernando Martinez",
+        "Alexandra Mircescu",
+        "Maria Felicia Montero Arias",
+        "Umbreen Nadeem",
+        "Long Nguyen",
+        "Kate Wignall",
+        "Rachel Pullen",
+        "Keerthenan Raveendra",
+        "Chin Kook Rhee",
+        "Naveed Sattar",
+        "Daiana Stolz",
+        "Yongchang Sun",
+        "Gary Tse",
+        "Tonya Winders",
+        "David B. Price",
+        "Mohit Bhutani",
+        "Jianhua Wu",
+        "Chris P. Gale"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104131",
+      "doi": "10.1016/j.eclinm.2026.104131",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104131",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104131"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「慢性阻塞性肺病與新發心血管疾病、慢性腎臟病及死亡風險：系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Chronic obstructive pulmonary disease and risk of incident cardiovascular disease, chronic kidney disease, and death: a systematic review and meta-analysis",
+      "title_original": "Chronic obstructive pulmonary disease and risk of incident cardiovascular disease, chronic kidney disease, and death: a systematic review and meta-analysis",
+      "title_zh_tw": "慢性阻塞性肺病與新發心血管疾病、慢性腎臟病及死亡風險：系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104131"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anna Wilding",
+        "Luke Munford",
+        "Matt Sutton",
+        "Morgan Beeson",
+        "John Wildman",
+        "Stewart W. Mercer",
+        "Efundem Agboraw",
+        "Paul Wilson"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104102",
+      "doi": "10.1016/j.eclinm.2026.104102",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104102",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104102"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「英格蘭轉介至社會處方連結工作者後醫療利用與成本的變化：配對病例對照世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Changes in healthcare use and cost associated with referrals to social prescribing link workers in England: a matched case–control cohort study",
+      "title_original": "Changes in healthcare use and cost associated with referrals to social prescribing link workers in England: a matched case–control cohort study",
+      "title_zh_tw": "英格蘭轉介至社會處方連結工作者後醫療利用與成本的變化：配對病例對照世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104102"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Berta Fernandez-Camins",
+        "Elena Navas",
+        "Bogdan Vlacho",
+        "Josep Franch-Nadal",
+        "Giuseppe Maltese",
+        "Dídac Mauricio"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104118",
+      "doi": "10.1016/j.eclinm.2026.104118",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13453568",
+      "pmid": "42576977",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104118",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104118"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42576977",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42576977/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「高齡者診斷第二型糖尿病時的心血管結果與死亡風險：使用西班牙健康紀錄的回溯性人口研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Cardiovascular outcomes and mortality risk at diagnosis of type 2 diabetes in older adults: a retrospective population-based study using health records from Spain",
+      "title_original": "Cardiovascular outcomes and mortality risk at diagnosis of type 2 diabetes in older adults: a retrospective population-based study using health records from Spain",
+      "title_zh_tw": "高齡者診斷第二型糖尿病時的心血管結果與死亡風險：使用西班牙健康紀錄的回溯性人口研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104118",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453568/",
+        "https://pubmed.ncbi.nlm.nih.gov/42576977/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Angus Qi Chwen Ong",
+        "Chin-Siang Ang",
+        "Iva Bojic",
+        "Casey L. Johnson",
+        "Hesham Aggour",
+        "Fu Siong Ng",
+        "Josip Car",
+        "Paul Leeson",
+        "Judite Gonçalves",
+        "Nai Ming Lai"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104123",
+      "doi": "10.1016/j.eclinm.2026.104123",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104123",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104123"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「心血管照護中的人工智慧：隨機對照試驗系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Artificial intelligence in cardiovascular care: a systematic review and meta-analysis of randomised controlled trials",
+      "title_original": "Artificial intelligence in cardiovascular care: a systematic review and meta-analysis of randomised controlled trials",
+      "title_zh_tw": "心血管照護中的人工智慧：隨機對照試驗系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104123"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Franz Felix Konen",
+        "Nima Mahmoudi",
+        "Lina Marie Albers",
+        "Georgina Arrambide",
+        "Anna Lena Streichert",
+        "Melanie Haar",
+        "Alexander Soldatov",
+        "Erda Bucak",
+        "Konstantin Fritz Jendretzky",
+        "Sandra Nay",
+        "Lea Grote-Levi",
+        "Tobias Hegelmaier",
+        "Corinna Trebst",
+        "Philipp Schwenkenbecher",
+        "Martin W. Hümmert",
+        "Marc Pawlitzki",
+        "Kurt-Wolfram Sühs",
+        "Michael Khalil",
+        "Carsten Framme",
+        "Axel Petzold",
+        "Sven G. Meuth",
+        "Mike P. Wattjes",
+        "Aiden Haghikia",
+        "Xavier Montalban",
+        "Julius Renne",
+        "Thomas Skripuletz"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104098",
+      "doi": "10.1016/j.eclinm.2026.104098",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13430206",
+      "pmid": "42549016",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104098",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104098"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42549016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42549016/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「使用傳統診斷工具套用 2024 年修訂版多發性硬化症 McDonald 標準：德國單中心前瞻性世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Applying the 2024-revised McDonald criteria for multiple sclerosis using conventional diagnostic tools: a single-centre prospective cohort study in Germany",
+      "title_original": "Applying the 2024-revised McDonald criteria for multiple sclerosis using conventional diagnostic tools: a single-centre prospective cohort study in Germany",
+      "title_zh_tw": "使用傳統診斷工具套用 2024 年修訂版多發性硬化症 McDonald 標準：德國單中心前瞻性世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104098",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430206/",
+        "https://pubmed.ncbi.nlm.nih.gov/42549016/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinting Liu",
+        "Yingying Mao",
+        "Linyan Hu",
+        "Wen He",
+        "Xiaodong Wang",
+        "Xueyuan Guo",
+        "Min Li",
+        "Yiru Wang",
+        "Yue Wang",
+        "Wenhao Ma",
+        "Yun Yuan",
+        "Zhaoxia Wang",
+        "Shuangqing Yu",
+        "Shu Zhang",
+        "Shiwen Wu",
+        "Xiaoyan Dong",
+        "Xiaobing Wu",
+        "Guang Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104081",
+      "doi": "10.1016/j.eclinm.2026.104081",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13427482",
+      "pmid": "42541184",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104081",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104081"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42541184",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42541184/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「嬰兒型龐貝氏症兒童停止酵素替代治療後接受 AAV9 媒介 GAA 基因治療」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AAV9-mediated GAA gene therapy following enzyme replacement therapy discontinuation in children with infantile-onset Pompe disease",
+      "title_original": "AAV9-mediated GAA gene therapy following enzyme replacement therapy discontinuation in children with infantile-onset Pompe disease",
+      "title_zh_tw": "嬰兒型龐貝氏症兒童停止酵素替代治療後接受 AAV9 媒介 GAA 基因治療",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104081",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427482/",
+        "https://pubmed.ncbi.nlm.nih.gov/42541184/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Theodorus Dapamede",
+        "Kéana Aitcheson",
+        "Pola Lydia Lagari",
+        "Awais Farooq",
+        "Peter Louis",
+        "Chad Robichaux",
+        "Frank Li",
+        "Bardia Khosravi",
+        "Mohammadreza Chavoshi",
+        "Aawez Mansuri",
+        "Rohan Satya Isaac",
+        "Beatrice Brown-Mulry",
+        "Hari Trivedi",
+        "William Galanter",
+        "Ayis Pyrros",
+        "Judy Gichoya"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104078",
+      "doi": "10.1016/j.eclinm.2026.104078",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": "PMC13463794",
+      "pmid": "42592112",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104078",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104078"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42592112",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42592112/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以胸部 X 光進行慢性腎臟病機會性篩檢的深度學習模型：美國多中心驗證研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A deep learning model for opportunistic screening of chronic kidney disease using chest radiographs: a multicentre validation study in the USA",
+      "title_original": "A deep learning model for opportunistic screening of chronic kidney disease using chest radiographs: a multicentre validation study in the USA",
+      "title_zh_tw": "以胸部 X 光進行慢性腎臟病機會性篩檢的深度學習模型：美國多中心驗證研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104078",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13463794/",
+        "https://pubmed.ncbi.nlm.nih.gov/42592112/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Diego Ferone",
+        "Marianne Pavel",
+        "Ken Herrmann",
+        "Pamela L. Kunz",
+        "Sten Myrehaug",
+        "Daniel Halperin",
+        "Beth Chasen",
+        "Jaume Capdevila",
+        "Amparo García-Burillo",
+        "Salvatore Tafuto",
+        "Secondo Lastoria",
+        "Do-Youn Oh",
+        "Changhoon Yoo",
+        "Stephen Falk",
+        "Thorvardur R. Halfdanarson",
+        "Maddalena Sansovini",
+        "Laura Gerard",
+        "Emmanuel Deshayes",
+        "Angelina Filice",
+        "Ilya Folitar",
+        "Yufen Zhang",
+        "Wouter W. de Herder",
+        "Simron Singh"
+      ],
+      "canonical_id": "doi:10.1016/j.eclinm.2026.104109",
+      "doi": "10.1016/j.eclinm.2026.104109",
+      "issns": [
+        "2589-5370"
+      ],
+      "journal": "eClinicalMedicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.eclinm.2026.104109",
+          "url": "https://doi.org/10.1016/j.eclinm.2026.104109"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「[177Lu]Lu-DOTA-TATE 合併長效 octreotide 治療新診斷晚期第 2–3 級胃腸胰神經內分泌腫瘤：隨機第 3 期 NETTER-2 試驗預先規劃與事後療效分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "[177Lu]Lu-DOTA-TATE plus long-acting octreotide in patients with newly diagnosed, advanced, grade 2–3, gastroenteropancreatic neuroendocrine tumours: preplanned and post-hoc efficacy analyses from the randomised, phase 3 NETTER-2 trial",
+      "title_original": "[177Lu]Lu-DOTA-TATE plus long-acting octreotide in patients with newly diagnosed, advanced, grade 2–3, gastroenteropancreatic neuroendocrine tumours: preplanned and post-hoc efficacy analyses from the randomised, phase 3 NETTER-2 trial",
+      "title_zh_tw": "[177Lu]Lu-DOTA-TATE 合併長效 octreotide 治療新診斷晚期第 2–3 級胃腸胰神經內分泌腫瘤：隨機第 3 期 NETTER-2 試驗預先規劃與事後療效分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.eclinm.2026.104109"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r03.json",
+    "manifest_json": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r03.manifest.json",
+    "report_html": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r03.html",
+    "stem": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r03",
+    "translation_request_json": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r03.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r03.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 53,
+    "by_article_type": {
+      "journal-article": 53
+    },
+    "by_source": {
+      "crossref": 53,
+      "europe_pmc": 1,
+      "pubmed": 35
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 53,
+    "translated_articles": 53
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "eclinicalmedicine__2026-08__r03",
+  "edition_key": "eclinicalmedicine__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-23",
+    "acquisition_start": "2026-08-20",
+    "added_article_count": 0,
+    "base_article_count": 53,
+    "base_edition_sha256": "61ef5f6151081b4a61382cc826f713f3dd3e6521a661a366135c441613f8ba1a",
+    "base_manifest_publication_id": "eclinicalmedicine__2026-08__r02",
+    "base_period_end": "2026-08-19",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "eclinicalmedicine__2026-08__r02",
+    "base_revision": 2,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 53
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-23",
+    "incremental_acquisition_start": "2026-08-20",
+    "journal_slug": "eclinicalmedicine",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 53,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "eclinicalmedicine__2026-08__r03",
+  "retrieved_at": "2026-08-23T07:52:44Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r03",
+    "edition_key": "eclinicalmedicine__2026-08",
+    "end_date": "2026-08-23",
+    "issn": "2589-5370",
+    "journal": "eClinicalMedicine",
+    "journal_slug": "eclinicalmedicine",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 23 日）",
+    "period_status": "MTD",
+    "publication_id": "eclinicalmedicine__2026-08__r03",
+    "revision": 3,
+    "slug": "eclinicalmedicine",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=eClinicalMedicine; publication=2026-08-20..2026-08-23",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "(\"eClinicalMedicine\"[Journal] OR \"2589-5370\"[ISSN]) AND (\"2026/08/20\"[Date - Publication] : \"2026/08/23\"[Date - Publication])",
+      "returned_count": 0,
+      "source": "pubmed",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"eClinicalMedicine\" AND FIRST_PDATE:[2026-08-20 TO 2026-08-23]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "eclinicalmedicine__2026-08__r02",
+    "language": "zh-TW",
+    "request_binding_sha256": "de28567a8356599296ec3bc929906bb9369e095e9f483061b91c6b64b1340465",
+    "response_generated_at": "2026-08-14T04:06:17Z",
+    "response_sha256": "7333d7e3a22f67d2d85fea2a306cf38fa65ff87f7f032bd815ec9b7b908b3765",
+    "source_edition_sha256": "02679358962fca5c17cdec86efc7952a59630122e2c319e6ec0043fca9946316",
+    "status": "COMPLETE",
+    "total_articles": 53,
+    "translated_articles": 53
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "eclinicalmedicine"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

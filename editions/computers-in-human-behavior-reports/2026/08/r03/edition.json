@@ -1,0 +1,3882 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ahdiyeh Alipour",
+        "Tilo Hartmann",
+        "Maryam Alimardani"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101220",
+      "doi": "10.1016/j.chbr.2026.101220",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101220",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101220"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「你會依賴令人不安的代理嗎？恐怖谷效應對人類—代理互動信任影響的系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Would you rely on an eerie agent? A systematic review of the impact of the uncanny valley effect on trust in human-agent interaction",
+      "title_original": "Would you rely on an eerie agent? A systematic review of the impact of the uncanny valley effect on trust in human-agent interaction",
+      "title_zh_tw": "你會依賴令人不安的代理嗎？恐怖谷效應對人類—代理互動信任影響的系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101220"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhibin Zhou",
+        "Chi Su",
+        "Yu Huang",
+        "Wenxin Xu",
+        "Haolin Ye",
+        "Yanli Wang",
+        "Shiying Wang",
+        "Yueshan Xu",
+        "Kezhi Liu",
+        "Jing Chen",
+        "Wei Lei"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101234",
+      "doi": "10.1016/j.chbr.2026.101234",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101234",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101234"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「網路遊戲障礙中的白質區域同質性變化」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "White matter regional homogeneity alterations in internet gaming disorder",
+      "title_original": "White matter regional homogeneity alterations in internet gaming disorder",
+      "title_zh_tw": "網路遊戲障礙中的白質區域同質性變化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101234"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pengyu Chu",
+        "Yuning Sun"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101235",
+      "doi": "10.1016/j.chbr.2026.101235",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101235",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101235"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「什麼塑造了我們對表情符號溝通的認識？主題演化與制度力量的結構主題模型分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "What shapes what we know about emoji communication? A structural topic model of thematic evolution and institutional forces",
+      "title_original": "What shapes what we know about emoji communication? A structural topic model of thematic evolution and institutional forces",
+      "title_zh_tw": "什麼塑造了我們對表情符號溝通的認識？主題演化與制度力量的結構主題模型分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101235"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sandra Anna Just",
+        "Emily Jung",
+        "Rosana Sarpeah",
+        "Alexandra Brecht",
+        "Philip Stötzner",
+        "Ivan Nenchev"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101155",
+      "doi": "10.1016/j.chbr.2026.101155",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101155",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101155"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「除了網路使用之外，什麼塑造精神疾病患者的基礎數位能力：經驗、疾病嚴重度與自我效能的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "What shapes basic digital competence in people with mental illness beyond internet usage: the influence of experience, illness severity and self-efficacy",
+      "title_original": "What shapes basic digital competence in people with mental illness beyond internet usage: the influence of experience, illness severity and self-efficacy",
+      "title_zh_tw": "除了網路使用之外，什麼塑造精神疾病患者的基礎數位能力：經驗、疾病嚴重度與自我效能的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101155"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Christine Schoetensack",
+        "Vanda Černohorská",
+        "Katarzyna Goncikowska",
+        "Sébastien Chappuis",
+        "Tereza Klegr",
+        "Georgina Giner-Domínguez",
+        "Joanna Witowska",
+        "Julie Papastamatelou",
+        "Marc Wittmann",
+        "Rafael Valenzuela",
+        "José Vicente Pestana",
+        "Núria Codina",
+        "María Salette Marentes Castillo",
+        "Quentin Meteier",
+        "Mónica Fernández Boente",
+        "Chantal Martin-Soelch",
+        "Ruth Ogden"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101219",
+      "doi": "10.1016/j.chbr.2026.101219",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101219",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101219"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「什麼造就良好的數位時間？在生產力與控制感之間尋找平衡」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "What makes good digital time? Finding the balance between productivity and control",
+      "title_original": "What makes good digital time? Finding the balance between productivity and control",
+      "title_zh_tw": "什麼造就良好的數位時間？在生產力與控制感之間尋找平衡",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101219"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Panayiotis Kotzanikolaou",
+        "Thomas K. Dasaklis",
+        "Vassilis Christodoulakis",
+        "Vangelis Malamas"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101182",
+      "doi": "10.1016/j.chbr.2026.101182",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101182",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101182"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「當倫理原則彼此競合時，AI 怎樣才算更符合倫理？優先順序、LLM 行為與治理缺口」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "What is (More) ethical in AI when ethical principles compete? Prioritization, LLM behavior, and governance gaps",
+      "title_original": "What is (More) ethical in AI when ethical principles compete? Prioritization, LLM behavior, and governance gaps",
+      "title_zh_tw": "當倫理原則彼此競合時，AI 怎樣才算更符合倫理？優先順序、LLM 行為與治理缺口",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101182"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Li-Jen Wang",
+        "Yi-Jen Wang",
+        "Tze-Fan Chao",
+        "Meng-Cong Zheng"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101202",
+      "doi": "10.1016/j.chbr.2026.101202",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101202",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101202"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「心房顫動病人決策輔助工具中的視覺風險圖示：可用性在塑造風險知覺與理解中的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Visual risk graphics in a patient decision aid for atrial fibrillation: The role of usability in shaping risk perception and comprehension",
+      "title_original": "Visual risk graphics in a patient decision aid for atrial fibrillation: The role of usability in shaping risk perception and comprehension",
+      "title_zh_tw": "心房顫動病人決策輔助工具中的視覺風險圖示：可用性在塑造風險知覺與理解中的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101202"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carla Meloni",
+        "Giada Corrias",
+        "Stefano Curatti",
+        "Franco Delogu",
+        "Rachele Fanari"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101192",
+      "doi": "10.1016/j.chbr.2026.101192",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101192",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101192"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「驗證 iCorsi：Corsi 方塊敲擊測驗的沉浸式虛擬實境版本」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Validating iCorsi: An immersive virtual reality adaptation of the Corsi Block Tapping Test",
+      "title_original": "Validating iCorsi: An immersive virtual reality adaptation of the Corsi Block Tapping Test",
+      "title_zh_tw": "驗證 iCorsi：Corsi 方塊敲擊測驗的沉浸式虛擬實境版本",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101192"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michal Frackowiak",
+        "Pascale Sophie Russell",
+        "Mariek Vanden Abeele",
+        "Peter Hilpert"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101256",
+      "doi": "10.1016/j.chbr.2026.101256",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101256",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101256"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「拆解親密關係中低頭滑手機與科技干擾研究的首個十年（2014–2024）：兼具方法學批判的證據系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Unpacking The First Decade (2014-2024) of Research on Phubbing and Technoference in Intimate Relationships: A Systematic Review of Evidence with Methodological Critique",
+      "title_original": "Unpacking The First Decade (2014-2024) of Research on Phubbing and Technoference in Intimate Relationships: A Systematic Review of Evidence with Methodological Critique",
+      "title_zh_tw": "拆解親密關係中低頭滑手機與科技干擾研究的首個十年（2014–2024）：兼具方法學批判的證據系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101256"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xuefei Deng",
+        "Pamela Estell",
+        "Tawei Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101185",
+      "doi": "10.1016/j.chbr.2026.101185",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101185",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101185"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「理解數位勞動平台工作者的心理幸福感與知覺支持：工作者觀點」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Understanding worker psychological well-being and perceived support on a digital labor platform: The worker perspective",
+      "title_original": "Understanding worker psychological well-being and perceived support on a digital labor platform: The worker perspective",
+      "title_zh_tw": "理解數位勞動平台工作者的心理幸福感與知覺支持：工作者觀點",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101185"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Peng Tan",
+        "Yanpin Song",
+        "Xinyu Zhang",
+        "Jiaming Chen",
+        "Jianyu Lu",
+        "Yi Ji",
+        "Lihua Zheng",
+        "Xiangshi Ren",
+        "Hongtao Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101153",
+      "doi": "10.1016/j.chbr.2026.101153",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101153",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101153"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「理解節奏的角色：以虛擬實境為基礎的呼吸冥想對焦慮、壓力與正念的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Understanding the role of rhythm: Effects of VR-based breathing meditation on anxiety, stress, and mindfulness",
+      "title_original": "Understanding the role of rhythm: Effects of VR-based breathing meditation on anxiety, stress, and mindfulness",
+      "title_zh_tw": "理解節奏的角色：以虛擬實境為基礎的呼吸冥想對焦慮、壓力與正念的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101153"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Luckhana Suksai",
+        "Parama Kwangmuang"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101171",
+      "doi": "10.1016/j.chbr.2026.101171",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101171",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101171"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「理解通往運算思維的多重路徑：師資培育中的情緒軌跡與互動模式」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Understanding multiple pathways to computational thinking: Emotional trajectories and interaction patterns in pre-service teacher education",
+      "title_original": "Understanding multiple pathways to computational thinking: Emotional trajectories and interaction patterns in pre-service teacher education",
+      "title_zh_tw": "理解通往運算思維的多重路徑：師資培育中的情緒軌跡與互動模式",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101171"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yasemin Yetkin",
+        "Firas Almasri",
+        "H. Eray Çelik"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101224",
+      "doi": "10.1016/j.chbr.2026.101224",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101224",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101224"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「數位科技影響下：開發區中的數位科技壓力與科技工作倦怠」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Under the influence of digital technologies: Digital technostress and technological work burnout in development zones",
+      "title_original": "Under the influence of digital technologies: Digital technostress and technological work burnout in development zones",
+      "title_zh_tw": "數位科技影響下：開發區中的數位科技壓力與科技工作倦怠",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101224"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Benny Markovitch",
+        "Jonas C.C. Kamps",
+        "Jitze C. Orij",
+        "Panos Markopoulos",
+        "Max V. Birk"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101176",
+      "doi": "10.1016/j.chbr.2026.101176",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101176",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101176"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「把認知科學轉化為遊戲式生物標記：以 Tunnel Runner 偵測急性壓力」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Turning cognitive science into game-based biomarkers: Acute stress detection with tunnel runner",
+      "title_original": "Turning cognitive science into game-based biomarkers: Acute stress detection with tunnel runner",
+      "title_zh_tw": "把認知科學轉化為遊戲式生物標記：以 Tunnel Runner 偵測急性壓力",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101176"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Samaneh Hosseini Moghaddam",
+        "Kelly Lyons",
+        "Cheryl Regehr",
+        "Vivek Goel",
+        "Kaitlyn Regehr"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101154",
+      "doi": "10.1016/j.chbr.2026.101154",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101154",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101154"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「邁向由機器學習啟發的完整網路辱虐語言分類體系」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Towards a comprehensive taxonomy of online abusive language informed by machine learning",
+      "title_original": "Towards a comprehensive taxonomy of online abusive language informed by machine learning",
+      "title_zh_tw": "邁向由機器學習啟發的完整網路辱虐語言分類體系",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101154"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Emerson Johnston",
+        "Sunny Xun Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101214",
+      "doi": "10.1016/j.chbr.2026.101214",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101214",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101214"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「短影音平台上的主題敏感差異化與演算法等效性：視覺框架的系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Topic-sensitive differentiation and algorithmic equivalence on short-form video platforms: A systematic review of visual frameworks",
+      "title_original": "Topic-sensitive differentiation and algorithmic equivalence on short-form video platforms: A systematic review of visual frameworks",
+      "title_zh_tw": "短影音平台上的主題敏感差異化與演算法等效性：視覺框架的系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101214"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mehrnaz Hosseinzadeh",
+        "Morteza Naserbakht",
+        "Mohammad Fazel Amini",
+        "Mohammadmahdi Saeedimehr",
+        "Alireza Noori",
+        "Fatemeh Sadat Ghaheri",
+        "Fatemeh Rafiei",
+        "Elham Abharzad",
+        "Tara Jafargholi",
+        "Fatemeh Sadat Mirfazeli"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101194",
+      "doi": "10.1016/j.chbr.2026.101194",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101194",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101194"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「心理、行為與認知研究中建立沉浸式虛擬實境實驗的工具箱：範疇回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Toolboxes for creating immersive virtual reality experiments in psychological, behavioral, and cognitive research: A scoping review",
+      "title_original": "Toolboxes for creating immersive virtual reality experiments in psychological, behavioral, and cognitive research: A scoping review",
+      "title_zh_tw": "心理、行為與認知研究中建立沉浸式虛擬實境實驗的工具箱：範疇回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101194"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Aurora Troncoso-Ruiz",
+        "Marco van de Ven",
+        "Eliane Segers"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101127",
+      "doi": "10.1016/j.chbr.2026.101127",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101127",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101127"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「三年級與五年級學生閱讀多份數位文件時的自我調節」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Third and fifth graders’ self-regulation in multiple digital documents reading",
+      "title_original": "Third and fifth graders’ self-regulation in multiple digital documents reading",
+      "title_zh_tw": "三年級與五年級學生閱讀多份數位文件時的自我調節",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101127"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Giulio Toscani"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101211",
+      "doi": "10.1016/j.chbr.2026.101211",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101211",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101211"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「急迫性陷阱：為什麼緊急服務救了人命卻失去評分星等」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The urgency trap: Why emergency services save lives but lose stars",
+      "title_original": "The urgency trap: Why emergency services save lives but lose stars",
+      "title_zh_tw": "急迫性陷阱：為什麼緊急服務救了人命卻失去評分星等",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101211"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Audrée Bethsa Camille",
+        "Nathalie Cadieux",
+        "Pierre-Luc Fournier"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101238",
+      "doi": "10.1016/j.chbr.2026.101238",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101238",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101238"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「工作條件在法律專業人員科技壓力中的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The role of working conditions in technostress among legal professionals",
+      "title_original": "The role of working conditions in technostress among legal professionals",
+      "title_zh_tw": "工作條件在法律專業人員科技壓力中的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101238"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Julian Frommel",
+        "Regan L. Mandryk",
+        "Daniel Johnson"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101207",
+      "doi": "10.1016/j.chbr.2026.101207",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101207",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101207"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「自我調節、需求滿足與需求受挫在預測《英雄聯盟》有害行為中的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The role of self-regulation and need satisfaction and frustration for predicting toxic behaviour in League of Legends",
+      "title_original": "The role of self-regulation and need satisfaction and frustration for predicting toxic behaviour in League of Legends",
+      "title_zh_tw": "自我調節、需求滿足與需求受挫在預測《英雄聯盟》有害行為中的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101207"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zsolt Horváth",
+        "Julia Tibot",
+        "Orsolya Király",
+        "Shu M. Yu",
+        "Borbála Paksi",
+        "Andrea Eisinger",
+        "Mark D. Griffiths",
+        "Beáta Bőthe",
+        "Marco Zavagni",
+        "Helen Carter",
+        "Lorena Soler Casale",
+        "Keri Scott",
+        "Jackie Linares",
+        "Zsolt Demetrovics",
+        "Andrea Czakó"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101193",
+      "doi": "10.1016/j.chbr.2026.101193",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101193",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101193"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「家長監控應用程式與家長知情程度在青少年睡眠相關螢幕使用中的角色：全國性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The role of parental control apps and parental knowledge in adolescents' sleep-related screen use: A nationwide study",
+      "title_original": "The role of parental control apps and parental knowledge in adolescents' sleep-related screen use: A nationwide study",
+      "title_zh_tw": "家長監控應用程式與家長知情程度在青少年睡眠相關螢幕使用中的角色：全國性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101193"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tamás Papp",
+        "Sándor Erdős",
+        "Zsófia Vörös"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101249",
+      "doi": "10.1016/j.chbr.2026.101249",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101249",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101249"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從眾行為在社群交易平台領導型交易者崛起中的角色：網絡化信任訊號框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The Role of Herding in the Rise of Leader Traders on Social Trading Platforms: The Networked Trust Signaling Framework",
+      "title_original": "The Role of Herding in the Rise of Leader Traders on Social Trading Platforms: The Networked Trust Signaling Framework",
+      "title_zh_tw": "從眾行為在社群交易平台領導型交易者崛起中的角色：網絡化信任訊號框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101249"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hao Zhang",
+        "Huamao Peng",
+        "Dahua Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101243",
+      "doi": "10.1016/j.chbr.2026.101243",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101243",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101243"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「數位支付認知與高齡者線上學習成果的關係：學習動機的調節作用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The Relationship Between Digital Payment Awareness and Older Adults’ Online Learning Outcomes: The Moderating Role of Learning Motivation",
+      "title_original": "The Relationship Between Digital Payment Awareness and Older Adults’ Online Learning Outcomes: The Moderating Role of Learning Motivation",
+      "title_zh_tw": "數位支付認知與高齡者線上學習成果的關係：學習動機的調節作用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101243"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Cristiano Wilson",
+        "Carlos Tam"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101228",
+      "doi": "10.1016/j.chbr.2026.101228",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101228",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101228"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「開放銀行使用者的心理行為：推進三維安全框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The psychological behaviour of users in open banking: Advancing the tri-dimensional security framework",
+      "title_original": "The psychological behaviour of users in open banking: Advancing the tri-dimensional security framework",
+      "title_zh_tw": "開放銀行使用者的心理行為：推進三維安全框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101228"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nejc Plohl",
+        "Izidor Mlakar",
+        "Letizia Aquilino",
+        "Michele Brienza",
+        "Piercosma Bisconti",
+        "Urška Smrke"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101179",
+      "doi": "10.1016/j.chbr.2026.101179",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101179",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101179"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「知覺可信度在解釋政治深偽內容態度效應中的調節角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The moderating role of perceived trustworthiness in explaining the attitudinal effects of political deepfakes",
+      "title_original": "The moderating role of perceived trustworthiness in explaining the attitudinal effects of political deepfakes",
+      "title_zh_tw": "知覺可信度在解釋政治深偽內容態度效應中的調節角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101179"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shiwei Liu",
+        "Sen Chen",
+        "Zijian Liu",
+        "Sensen Song",
+        "Hao Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101241",
+      "doi": "10.1016/j.chbr.2026.101241",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101241",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101241"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「青少年智慧型手機成癮與憂鬱症狀的縱向關係：交叉延宕面板網絡分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The longitudinal relationships between smartphone addiction and depressive symptoms among adolescents: A cross-lagged panel network analysis",
+      "title_original": "The longitudinal relationships between smartphone addiction and depressive symptoms among adolescents: A cross-lagged panel network analysis",
+      "title_zh_tw": "青少年智慧型手機成癮與憂鬱症狀的縱向關係：交叉延宕面板網絡分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101241"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Min-Fang Kang",
+        "Yue Pan",
+        "Li Zhu",
+        "Kai-Mo Ding",
+        "Jun Zhu",
+        "Bei Zhao",
+        "Guo-Hai Li",
+        "Dan-Wei Zhang",
+        "Xian-Lu Chang",
+        "Hui Zheng",
+        "Qiang Hu",
+        "Zi-Liang Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101166",
+      "doi": "10.1016/j.chbr.2026.101166",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101166",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101166"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「青少年問題性線上遊戲、社群網路與智慧型手機使用的縱向關係：交叉延宕面板網絡分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The longitudinal relationships between problematic online gaming, social networking, and smartphone use in adolescence: A cross-lagged panel network analysis",
+      "title_original": "The longitudinal relationships between problematic online gaming, social networking, and smartphone use in adolescence: A cross-lagged panel network analysis",
+      "title_zh_tw": "青少年問題性線上遊戲、社群網路與智慧型手機使用的縱向關係：交叉延宕面板網絡分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101166"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Junjun Sun",
+        "Guiying Yao",
+        "Ning Zhou",
+        "Yanqin Liu",
+        "Xiaona Li",
+        "Ruiqin Zhang",
+        "Na Lu",
+        "Guodong Wang",
+        "Baolu Zhang",
+        "Yanxia Guo",
+        "Min Gao",
+        "Yanyan Luo"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101173",
+      "doi": "10.1016/j.chbr.2026.101173",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101173",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101173"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「BIS／BAS 對中國醫學生智慧型手機成癮的影響：社交焦慮與憂鬱的序列中介及身體活動的調節作用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The impact of BIS/BAS on smartphone addiction among Chinese medical undergraduates: The serial mediation of social anxiety and depression and the moderating role of physical exercise",
+      "title_original": "The impact of BIS/BAS on smartphone addiction among Chinese medical undergraduates: The serial mediation of social anxiety and depression and the moderating role of physical exercise",
+      "title_zh_tw": "BIS／BAS 對中國醫學生智慧型手機成癮的影響：社交焦慮與憂鬱的序列中介及身體活動的調節作用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101173"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fitri Aprilianty",
+        "Yoshiyuki Matsuura",
+        "Masakazu Takahashi"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101239",
+      "doi": "10.1016/j.chbr.2026.101239",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101239",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101239"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「消費者智慧的未來：AI 在神經行銷中的系統性文獻回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The future of consumer intelligence: A systematic literature review of AI in neuromarketing",
+      "title_original": "The future of consumer intelligence: A systematic literature review of AI in neuromarketing",
+      "title_zh_tw": "消費者智慧的未來：AI 在神經行銷中的系統性文獻回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101239"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rémi Duhamel",
+        "Emma Bousquet-Pasturel",
+        "Manuel Hefti",
+        "Simon Vuille",
+        "Jérémy Legardeur",
+        "Carine Lallemand"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101254",
+      "doi": "10.1016/j.chbr.2026.101254",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101254",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101254"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「低科技系統的體驗取捨：來自大規模公民實驗的證據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The Experiential Trade-Offs of Low-tech Systems: Evidence from a Large-Scale Citizen Experiment",
+      "title_original": "The Experiential Trade-Offs of Low-tech Systems: Evidence from a Large-Scale Citizen Experiment",
+      "title_zh_tw": "低科技系統的體驗取捨：來自大規模公民實驗的證據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101254"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tianyue Zhang",
+        "Mengqi Duan",
+        "Lan Guo",
+        "Zinula Hanmudu",
+        "Wanxin Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101258",
+      "doi": "10.1016/j.chbr.2026.101258",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101258",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101258"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「中國青少年螢幕活動與社群媒體成癮和憂鬱症狀的關聯：父母低頭滑手機的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The Association of Screen Activities and Social Media Addiction with Depressive Symptoms Among Chinese Adolescents: The Role of Parental Phubbing",
+      "title_original": "The Association of Screen Activities and Social Media Addiction with Depressive Symptoms Among Chinese Adolescents: The Role of Parental Phubbing",
+      "title_zh_tw": "中國青少年螢幕活動與社群媒體成癮和憂鬱症狀的關聯：父母低頭滑手機的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101258"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Magdalena Ramstedt Stadin",
+        "Constanze Leineweber"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101195",
+      "doi": "10.1016/j.chbr.2026.101195",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101195",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101195"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「將科技壓力操作化為 ICT 要求及其與瑞典工作人口憂鬱症狀的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Technostress operationalized as ICT demands and its association with depressive symptoms in the Swedish working population",
+      "title_original": "Technostress operationalized as ICT demands and its association with depressive symptoms in the Swedish working population",
+      "title_zh_tw": "將科技壓力操作化為 ICT 要求及其與瑞典工作人口憂鬱症狀的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101195"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Johannes L. Hatfield",
+        "Anne Mette Bjørgen",
+        "Yvonne Fritze",
+        "Siw Huatorpet",
+        "Hans Brox"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101233",
+      "doi": "10.1016/j.chbr.2026.101233",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101233",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101233"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「學術界的科技壓力：自主需求滿足與受挫在學術人員科技壓力、離職意圖與內在動機中的中介角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Technostress in academia: The mediating role of autonomy satisfaction and frustration in academic staff's technostress, turnover intention and intrinsic motivation",
+      "title_original": "Technostress in academia: The mediating role of autonomy satisfaction and frustration in academic staff's technostress, turnover intention and intrinsic motivation",
+      "title_zh_tw": "學術界的科技壓力：自主需求滿足與受挫在學術人員科技壓力、離職意圖與內在動機中的中介角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101233"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ghazanfar Ali Abbasi"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101242",
+      "doi": "10.1016/j.chbr.2026.101242",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101242",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101242"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「會傾聽的科技、能保護的隱私：語音數位助理的多方法研究——調節式中介觀點」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Technology That Listens, Privacy That Protects: A Multi-Method Study of Voice-Based Digital Assistants- A Moderated Mediation Perspective",
+      "title_original": "Technology That Listens, Privacy That Protects: A Multi-Method Study of Voice-Based Digital Assistants- A Moderated Mediation Perspective",
+      "title_zh_tw": "會傾聽的科技、能保護的隱私：語音數位助理的多方法研究——調節式中介觀點",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101242"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Melitta Csepregi",
+        "Beáta Korcsok",
+        "Judit Abdai",
+        "Ádám Miklósi",
+        "Bence Ferdinandy",
+        "Tímea Kovács",
+        "Sára Roszik",
+        "Márta Gácsi"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101204",
+      "doi": "10.1016/j.chbr.2026.101204",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101204",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101204"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從機器人手中拿糖果：真實活動情境中人們對自主非人形服務機器人的態度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Taking candy from a robot: Attitudes toward an autonomous non-humanoid service robot at real-life events",
+      "title_original": "Taking candy from a robot: Attitudes toward an autonomous non-humanoid service robot at real-life events",
+      "title_zh_tw": "從機器人手中拿糖果：真實活動情境中人們對自主非人形服務機器人的態度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101204"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Margi Engineer",
+        "Stephen Becker",
+        "Xiang Xiao",
+        "Rain Michaels",
+        "Amanda Lazar",
+        "Emma Dixon"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101215",
+      "doi": "10.1016/j.chbr.2026.101215",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101215",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101215"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「不同認知狀態高齡者的智慧型手機使用投入與無手機恐懼症」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Smartphone engagement and nomophobia in cognitively diverse older adults",
+      "title_original": "Smartphone engagement and nomophobia in cognitively diverse older adults",
+      "title_zh_tw": "不同認知狀態高齡者的智慧型手機使用投入與無手機恐懼症",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101215"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ruyi Ge"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101158",
+      "doi": "10.1016/j.chbr.2026.101158",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101158",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101158"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「跳過試用：機器人理財顧問採用中的自動化偏誤實證研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Skipping the trial: An empirical investigation of automation bias in robo-advisor adoption",
+      "title_original": "Skipping the trial: An empirical investigation of automation bias in robo-advisor adoption",
+      "title_zh_tw": "跳過試用：機器人理財顧問採用中的自動化偏誤實證研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101158"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dayeon Eom",
+        "Yijia Erika Zhu",
+        "Cameron D. Mackey",
+        "John H. Evans",
+        "Todd Newman",
+        "Dietram Scheufele",
+        "Dominique Brossard"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101226",
+      "doi": "10.1016/j.chbr.2026.101226",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101226",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101226"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「區分對人工智慧的支持型態：探索社會—知識論取向」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Segmenting support for artificial intelligence: Exploring socio-epistemic orientations",
+      "title_original": "Segmenting support for artificial intelligence: Exploring socio-epistemic orientations",
+      "title_zh_tw": "區分對人工智慧的支持型態：探索社會—知識論取向",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101226"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "MD. Shahriar Bin Nazmul",
+        "Md Shawmoon Azad",
+        "M.R.C. Mahdy"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101237",
+      "doi": "10.1016/j.chbr.2026.101237",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101237",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101237"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合非監督式機器學習與計畫行為理論進行消費者分群：孟加拉數位商務的啟示」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Segmenting consumers through unsupervised machine learning and the theory of planned behavior: Insights for digital commerce in Bangladesh",
+      "title_original": "Segmenting consumers through unsupervised machine learning and the theory of planned behavior: Insights for digital commerce in Bangladesh",
+      "title_zh_tw": "結合非監督式機器學習與計畫行為理論進行消費者分群：孟加拉數位商務的啟示",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101237"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mats Stromberg",
+        "Maxi Heitmayer"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101180",
+      "doi": "10.1016/j.chbr.2026.101180",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101180",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101180"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「為公益而滑：透過 Ulysses Donation Pledge 支持有意識的智慧型手機使用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Scrolling for a cause: Supporting intentional smartphone use through the Ulysses Donation Pledge",
+      "title_original": "Scrolling for a cause: Supporting intentional smartphone use through the Ulysses Donation Pledge",
+      "title_zh_tw": "為公益而滑：透過 Ulysses Donation Pledge 支持有意識的智慧型手機使用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101180"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Song Tu",
+        "Xue Li",
+        "Yifan Zhao",
+        "Jiaming Liu",
+        "Min Huang",
+        "Jing Xiao",
+        "Qi Li"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101250",
+      "doi": "10.1016/j.chbr.2026.101250",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101250",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101250"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「網路遊戲障礙青少年的獎賞—抑制控制缺損與複合介入」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reward-Inhibitory Control Deficits and Combined Intervention in Adolescents with Internet Gaming Disorder",
+      "title_original": "Reward-Inhibitory Control Deficits and Combined Intervention in Adolescents with Internet Gaming Disorder",
+      "title_zh_tw": "網路遊戲障礙青少年的獎賞—抑制控制缺損與複合介入",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101250"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tijmen L. Fuchs",
+        "Sifra R. Matthijsse",
+        "M. Susanne van ‘t Hoff-de Goede",
+        "E. Rutger Leukfeldt"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101184",
+      "doi": "10.1016/j.chbr.2026.101184",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101184",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101184"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「通報勒索軟體受害事件：解釋公民向警方與其他組織報案的意願」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reporting ransomware victimization: explaining citizens’ willingness to report to the police and other organizations",
+      "title_original": "Reporting ransomware victimization: explaining citizens’ willingness to report to the police and other organizations",
+      "title_zh_tw": "通報勒索軟體受害事件：解釋公民向警方與其他組織報案的意願",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101184"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mia Magdalena Bangerl",
+        "Katharina Stefan",
+        "Guilherme Maia de Oliveira Wood",
+        "Viktoria Pammer-Schindler"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101170",
+      "doi": "10.1016/j.chbr.2026.101170",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101170",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101170"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「遠距工作也有代價：結合動作協調、創造力與問題解決任務的視訊會議實驗研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Remote work comes with a cost: An experimental videoconferencing study with motor-coordination, creative, and problem-solving tasks",
+      "title_original": "Remote work comes with a cost: An experimental videoconferencing study with motor-coordination, creative, and problem-solving tasks",
+      "title_zh_tw": "遠距工作也有代價：結合動作協調、創造力與問題解決任務的視訊會議實驗研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101170"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alfio Ventura",
+        "Christopher Starke",
+        "Francesca Righetti",
+        "Nils Köbis"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101181",
+      "doi": "10.1016/j.chbr.2026.101181",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101181",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101181"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AI 時代的人際關係：以合成關係減少孤獨之機會與風險的回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Relationships in the age of AI: A review on the opportunities and risks of synthetic relationships to reduce loneliness",
+      "title_original": "Relationships in the age of AI: A review on the opportunities and risks of synthetic relationships to reduce loneliness",
+      "title_zh_tw": "AI 時代的人際關係：以合成關係減少孤獨之機會與風險的回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101181"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Christian E. Lopez",
+        "Jeanine Kirchner-Krath",
+        "Maximilian Altmeyer"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101188",
+      "doi": "10.1016/j.chbr.2026.101188",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101188",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101188"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「Hexad-12 西班牙文量表的心理計量評估」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Psychometric evaluation of the Hexad-12 scale in Spanish",
+      "title_original": "Psychometric evaluation of the Hexad-12 scale in Spanish",
+      "title_zh_tw": "Hexad-12 西班牙文量表的心理計量評估",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101188"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Reyhaneh Jahanbazi",
+        "Mehdireza Sarafraz"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101177",
+      "doi": "10.1016/j.chbr.2026.101177",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101177",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101177"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「羞恥、人格與依附的心理分析：心理治療個案與 AI 使用者的比較研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Psychological analysis of shame, personality, and attachment: A comparative study between psychotherapy clients and AI users",
+      "title_original": "Psychological analysis of shame, personality, and attachment: A comparative study between psychotherapy clients and AI users",
+      "title_zh_tw": "羞恥、人格與依附的心理分析：心理治療個案與 AI 使用者的比較研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101177"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jan-Ole Cloes",
+        "Lisa Klamert",
+        "Kerstin Paschke"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101247",
+      "doi": "10.1016/j.chbr.2026.101247",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101247",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101247"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「青少年的問題性串流影音使用：追劇模式、短影音形式與情緒調節能力的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Problematic video-streaming in adolescents: The role of binge-watching patterns, short video format, and emotion regulation abilities",
+      "title_original": "Problematic video-streaming in adolescents: The role of binge-watching patterns, short video format, and emotion regulation abilities",
+      "title_zh_tw": "青少年的問題性串流影音使用：追劇模式、短影音形式與情緒調節能力的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101247"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pei-Cheng Shih",
+        "Adrien Verhulst",
+        "Masato Hirano",
+        "Shunichi Kasahara",
+        "Shinichi Furuya"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101222",
+      "doi": "10.1016/j.chbr.2026.101222",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101222",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101222"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探查虛擬實境中的高風險表現壓力：行為反應的生理與人格特徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Probing high-stakes performance pressure in virtual reality: physiological and personality attributes of behavioral responses",
+      "title_original": "Probing high-stakes performance pressure in virtual reality: physiological and personality attributes of behavioral responses",
+      "title_zh_tw": "探查虛擬實境中的高風險表現壓力：行為反應的生理與人格特徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101222"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lucile Dupuy",
+        "Juliette Deyts",
+        "Marion Pech",
+        "Rafik Belloum",
+        "Karine Pérès",
+        "Hélène Amieva",
+        "Hélène Sauzéon"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101218",
+      "doi": "10.1016/j.chbr.2026.101218",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101218",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101218"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「衰弱高齡者使用環境輔助生活平台之使用者經驗與長期使用的預測因子：HomeAssist 研究結果」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Predictors of user experience and long-term use of an ambient assisted living platform by frail older adults: Results from the HomeAssist study",
+      "title_original": "Predictors of user experience and long-term use of an ambient assisted living platform by frail older adults: Results from the HomeAssist study",
+      "title_zh_tw": "衰弱高齡者使用環境輔助生活平台之使用者經驗與長期使用的預測因子：HomeAssist 研究結果",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101218"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Noah Glaser",
+        "Amogh Joshi",
+        "Sai Shreya Nuguri",
+        "Shangman (Eunice) Li",
+        "Spencer Henderson",
+        "Megan Hirni",
+        "Prasad Calyam"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101200",
+      "doi": "10.1016/j.chbr.2026.101200",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101200",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101200"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「試行 uSucceed：為神經多樣性成人設計的 AI 驅動資安虛擬實境遊戲——以使用者為中心的評估結果」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Piloting uSucceed, a cybersecurity AI-driven virtual reality game for neurodivergent adults: Findings from a user-centered evaluation",
+      "title_original": "Piloting uSucceed, a cybersecurity AI-driven virtual reality game for neurodivergent adults: Findings from a user-centered evaluation",
+      "title_zh_tw": "試行 uSucceed：為神經多樣性成人設計的 AI 驅動資安虛擬實境遊戲——以使用者為中心的評估結果",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101200"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rosabel Martinez-Roig",
+        "Verónica Onrubia-Martínez",
+        "Carlos Zambrana",
+        "Miguel Cazorla"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101198",
+      "doi": "10.1016/j.chbr.2026.101198",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101198",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101198"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「住宿式照護中高齡者對四足機器人協助步行的初始觀感：質性先導研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Older adults’ initial perceptions of a quadruped robot during assisted walks in residential care: A qualitative pilot study",
+      "title_original": "Older adults’ initial perceptions of a quadruped robot during assisted walks in residential care: A qualitative pilot study",
+      "title_zh_tw": "住宿式照護中高齡者對四足機器人協助步行的初始觀感：質性先導研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101198"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gabriela Górska",
+        "Paweł Holas"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101190",
+      "doi": "10.1016/j.chbr.2026.101190",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101190",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101190"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「測量還是誘發？以科技輔助工具研究同理心與慈悲時的方法學挑戰」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Measurement or induction? Methodological challenges in studying empathy and compassion with technology-assisted tools",
+      "title_original": "Measurement or induction? Methodological challenges in studying empathy and compassion with technology-assisted tools",
+      "title_zh_tw": "測量還是誘發？以科技輔助工具研究同理心與慈悲時的方法學挑戰",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101190"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Neil Shortland",
+        "Katelyn Smith",
+        "Laurence Alison"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101213",
+      "doi": "10.1016/j.chbr.2026.101213",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101213",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101213"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「讓機器發揮最大效益：模擬檢傷情境中的認知對齊是否影響向人工智慧代理委派任務」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Maximizing machines: Does cognitive alignment impact delegation to artificial intelligence agents in a simulated triage scenario",
+      "title_original": "Maximizing machines: Does cognitive alignment impact delegation to artificial intelligence agents in a simulated triage scenario",
+      "title_zh_tw": "讓機器發揮最大效益：模擬檢傷情境中的認知對齊是否影響向人工智慧代理委派任務",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101213"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhiyuan Liu",
+        "Shuai Jin",
+        "Shenghao Shi",
+        "Lin Li",
+        "Sijia Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101240",
+      "doi": "10.1016/j.chbr.2026.101240",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101240",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101240"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「網路遊戲障礙中的不良適應性冒險行為與價值相關神經運算變異相呼應」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Maladaptive risk-taking in internet gaming disorder tracks variability in value-related neural computation",
+      "title_original": "Maladaptive risk-taking in internet gaming disorder tracks variability in value-related neural computation",
+      "title_zh_tw": "網路遊戲障礙中的不良適應性冒險行為與價值相關神經運算變異相呼應",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101240"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiuquan Nie",
+        "Mengyi Wang",
+        "Dongming Wang",
+        "Yanjun Guo",
+        "Meian He",
+        "Xiaomin Zhang",
+        "Huan Guo",
+        "Weihong Chen"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101201",
+      "doi": "10.1016/j.chbr.2026.101201",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101201",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101201"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「中國中高齡成人智慧型手機使用與疾病風險的縱向關聯：生活品質的中介角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Longitudinal associations between smartphone use and risks of diseases among middle-aged and older Chinese adults: The mediating role of quality of life",
+      "title_original": "Longitudinal associations between smartphone use and risks of diseases among middle-aged and older Chinese adults: The mediating role of quality of life",
+      "title_zh_tw": "中國中高齡成人智慧型手機使用與疾病風險的縱向關聯：生活品質的中介角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101201"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nadine D. Wolf",
+        "Mike M. Schmitgen",
+        "Gudrun M. Henemann",
+        "Sophie H. Haage",
+        "Julian Koenig",
+        "Robert C. Wolf"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101244",
+      "doi": "10.1016/j.chbr.2026.101244",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101244",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101244"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「連結靜息態神經活動與真實世界智慧型手機使用行為：來自 fMRI 與生態瞬時評估的洞見」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Linking resting-state neural activity to real-world smartphone use behavior: insights from fMRI and ecological momentary assessment",
+      "title_original": "Linking resting-state neural activity to real-world smartphone use behavior: insights from fMRI and ecological momentary assessment",
+      "title_zh_tw": "連結靜息態神經活動與真實世界智慧型手機使用行為：來自 fMRI 與生態瞬時評估的洞見",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101244"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elsy Verhofstadt",
+        "Luc Van Ootegem",
+        "Arthur Jacobs",
+        "Mariek Vanden Abeele"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101172",
+      "doi": "10.1016/j.chbr.2026.101172",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101172",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101172"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「數位時代的生活滿意度：智慧型手機使用與使用經驗的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Life satisfaction in the digital age: The role of smartphone use and experience",
+      "title_original": "Life satisfaction in the digital age: The role of smartphone use and experience",
+      "title_zh_tw": "數位時代的生活滿意度：智慧型手機使用與使用經驗的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101172"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Brandon C. Bouchillon"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101210",
+      "doi": "10.1016/j.chbr.2026.101210",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101210",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101210"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「學習信任移民：在美國測試遊戲式體驗角色扮演介入」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Learning to trust immigrants: Testing a game-based experiential role-playing intervention in the United States",
+      "title_original": "Learning to trust immigrants: Testing a game-based experiential role-playing intervention in the United States",
+      "title_zh_tw": "學習信任移民：在美國測試遊戲式體驗角色扮演介入",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101210"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fatih Demir",
+        "Duygu Fındık-Coşkunçay"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101223",
+      "doi": "10.1016/j.chbr.2026.101223",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101223",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101223"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「個人投資者對金融投資決策中使用人工智慧之接受度：以 ChatGPT 為例」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Investigation of individual investors' acceptance of artificial intelligence use in financial investment decisions: The case of ChatGPT",
+      "title_original": "Investigation of individual investors' acceptance of artificial intelligence use in financial investment decisions: The case of ChatGPT",
+      "title_zh_tw": "個人投資者對金融投資決策中使用人工智慧之接受度：以 ChatGPT 為例",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101223"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Abdullah Al Fraidan",
+        "Rahaf Alkuwaity"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101199",
+      "doi": "10.1016/j.chbr.2026.101199",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101199",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101199"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「沉浸式教育創新：沙烏地阿拉伯利害關係人對元宇宙詞彙學習的觀感」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Immersive educational innovation: Stakeholder perceptions on metaverse-based vocabulary learning in Saudi Arabia",
+      "title_original": "Immersive educational innovation: Stakeholder perceptions on metaverse-based vocabulary learning in Saudi Arabia",
+      "title_zh_tw": "沉浸式教育創新：沙烏地阿拉伯利害關係人對元宇宙詞彙學習的觀感",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101199"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alex Yue Feng Zhu",
+        "Kee Lee Chou"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101225",
+      "doi": "10.1016/j.chbr.2026.101225",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101225",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101225"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「希望還是恐懼？拆解香港個人化退休金預測的情緒結構」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Hope or fear? Unpacking the emotional architecture of personalized pension projections in Hong Kong",
+      "title_original": "Hope or fear? Unpacking the emotional architecture of personalized pension projections in Hong Kong",
+      "title_zh_tw": "希望還是恐懼？拆解香港個人化退休金預測的情緒結構",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101225"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Naya Abdallah",
+        "Rateb Katmah",
+        "Kinda Khalaf",
+        "Herbert F. Jelinek"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101208",
+      "doi": "10.1016/j.chbr.2026.101208",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101208",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101208"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在網路中長大：早期社群媒體接觸如何塑造兒童的認知、情緒與家庭發展」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Growing up online: How early social media exposure shapes Children's cognitive, emotional, and family development",
+      "title_original": "Growing up online: How early social media exposure shapes Children's cognitive, emotional, and family development",
+      "title_zh_tw": "在網路中長大：早期社群媒體接觸如何塑造兒童的認知、情緒與家庭發展",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101208"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Inbar Levkovich",
+        "Lilach Alon"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101255",
+      "doi": "10.1016/j.chbr.2026.101255",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101255",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101255"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「生成式 AI 作為伴侶關係中的第三種聲音：系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Generative AI as a third voice in human couple relationships: A systematic review",
+      "title_original": "Generative AI as a third voice in human couple relationships: A systematic review",
+      "title_zh_tw": "生成式 AI 作為伴侶關係中的第三種聲音：系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101255"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Huai-yu Chen",
+        "Yu Chi"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101205",
+      "doi": "10.1016/j.chbr.2026.101205",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101205",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101205"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從素養到行為意圖：以科技接受模型調查準畢業生使用生成式 AI 求職的意願」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "From literacy to behavioral intention: A survey of soon-to-graduate students’ intention to use generative AI for job search through the technology acceptance model",
+      "title_original": "From literacy to behavioral intention: A survey of soon-to-graduate students’ intention to use generative AI for job search through the technology acceptance model",
+      "title_zh_tw": "從素養到行為意圖：以科技接受模型調查準畢業生使用生成式 AI 求職的意願",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101205"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Atakan Atamer",
+        "Olivia Pinto",
+        "Priti Shah"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101252",
+      "doi": "10.1016/j.chbr.2026.101252",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101252",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101252"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從盟友到演算法：意見分歧如何塑造使用者與 AI 的互動」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "From Ally to Algorithm: How Disagreement Shapes Users’ Engagement with AI",
+      "title_original": "From Ally to Algorithm: How Disagreement Shapes Users’ Engagement with AI",
+      "title_zh_tw": "從盟友到演算法：意見分歧如何塑造使用者與 AI 的互動",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101252"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sara Arlati",
+        "Flaminia Franchini",
+        "Andrea Zangiacomi",
+        "Simona Gabriella Di Santo"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101231",
+      "doi": "10.1016/j.chbr.2026.101231",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101231",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101231"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「針對有認知困擾高齡者之虛擬實境認知與身體訓練方案的可行性與接受度：先導隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Feasibility and acceptance of a virtual reality-based program for cognitive and physical training in older adults with cognitive complaints: A pilot randomized controlled trial",
+      "title_original": "Feasibility and acceptance of a virtual reality-based program for cognitive and physical training in older adults with cognitive complaints: A pilot randomized controlled trial",
+      "title_zh_tw": "針對有認知困擾高齡者之虛擬實境認知與身體訓練方案的可行性與接受度：先導隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101231"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Millicent Aziku",
+        "Dahman Tahri",
+        "Denis Djekourmane",
+        "Zhang Wei"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101156",
+      "doi": "10.1016/j.chbr.2026.101156",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101156",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101156"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探索好奇心與自信在數位互動與數學成就之間的中介角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring the mediating role of curiosity and confidence between digital interaction and math achievement",
+      "title_original": "Exploring the mediating role of curiosity and confidence between digital interaction and math achievement",
+      "title_zh_tw": "探索好奇心與自信在數位互動與數學成就之間的中介角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101156"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maéva Kurtz",
+        "Catherine Pons",
+        "Azzeddine Benabbou",
+        "Andrea Alamia",
+        "Teresa Iuculano",
+        "Julien Broisin"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101203",
+      "doi": "10.1016/j.chbr.2026.101203",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101203",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101203"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探索角色式系統在虛擬實驗室活動中對學生認知負荷的認知與神經影響：EEG 研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring the cognitive and neural impact of a role-based system on students’ cognitive load during a virtual laboratory activity: An EEG study",
+      "title_original": "Exploring the cognitive and neural impact of a role-based system on students’ cognitive load during a virtual laboratory activity: An EEG study",
+      "title_zh_tw": "探索角色式系統在虛擬實驗室活動中對學生認知負荷的認知與神經影響：EEG 研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101203"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Takuto Homma",
+        "Naoki Konishi",
+        "Ryohei Umetani",
+        "Jin Kato",
+        "Nobuhiro Mifune",
+        "Takemasa Yokoyama"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101206",
+      "doi": "10.1016/j.chbr.2026.101206",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101206",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101206"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探索元宇宙使用者：社會人口學與人格特徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring metaverse users: sociodemographic and personality traits",
+      "title_original": "Exploring metaverse users: sociodemographic and personality traits",
+      "title_zh_tw": "探索元宇宙使用者：社會人口學與人格特徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101206"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nikola Štaffenová",
+        "Gabriel Koman",
+        "Ivana Gabrišová"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101178",
+      "doi": "10.1016/j.chbr.2026.101178",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101178",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101178"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「非營利組織的雇主品牌與數位科技準備度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Employer branding and digital-technological preparedness in non-profit organisations",
+      "title_original": "Employer branding and digital-technological preparedness in non-profit organisations",
+      "title_zh_tw": "非營利組織的雇主品牌與數位科技準備度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101178"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Meilan Hu",
+        "Jerlyn Q.H. Ho",
+        "Claire Ng",
+        "Shermaine S.M. Wong",
+        "Andree Hartanto"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101149",
+      "doi": "10.1016/j.chbr.2026.101149",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101149",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101149"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過 AI 獲得情緒支持：向人工智慧或被認為是真人的對象傾訴，可能帶來相近的情緒幸福感效益」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Emotional support through AI: Venting to artificial intelligence or a perceived human may offer comparable emotional well-being benefits",
+      "title_original": "Emotional support through AI: Venting to artificial intelligence or a perceived human may offer comparable emotional well-being benefits",
+      "title_zh_tw": "透過 AI 獲得情緒支持：向人工智慧或被認為是真人的對象傾訴，可能帶來相近的情緒幸福感效益",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101149"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kasumi Dan",
+        "Takahiro Hoshino"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101232",
+      "doi": "10.1016/j.chbr.2026.101232",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101232",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101232"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「不信任促發能降低對 AI 的刻板印象嗎？檢驗其對 AI 接受度的適用性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Does distrust priming reduce AI stereotypes? Testing applicability to AI acceptance",
+      "title_original": "Does distrust priming reduce AI stereotypes? Testing applicability to AI acceptance",
+      "title_zh_tw": "不信任促發能降低對 AI 的刻板印象嗎？檢驗其對 AI 接受度的適用性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101232"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sibley F. Lyndgaard",
+        "Phillip L. Ackerman"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101167",
+      "doi": "10.1016/j.chbr.2026.101167",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101167",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101167"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「科技流暢度的遠端特質與近端策略預測因子」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Distal trait and proximal strategic predictors of technological fluency",
+      "title_original": "Distal trait and proximal strategic predictors of technological fluency",
+      "title_zh_tw": "科技流暢度的遠端特質與近端策略預測因子",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101167"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yifu Wang",
+        "Siqi Wang",
+        "Zhaojing Wang",
+        "Chuanying Song"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101159",
+      "doi": "10.1016/j.chbr.2026.101159",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101159",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101159"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「數位生活健康素養：概念化與測量」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Digital life health literacy: Conceptualization and measurement",
+      "title_original": "Digital life health literacy: Conceptualization and measurement",
+      "title_zh_tw": "數位生活健康素養：概念化與測量",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101159"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ysabel A. Guevarra",
+        "K.T.A. Sandeeshwara Kasturiratna",
+        "Charlotte K.Y. Lee",
+        "Andree Hartanto"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101175",
+      "doi": "10.1016/j.chbr.2026.101175",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101175",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101175"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「網路霸凌施害行為：全球盛行率、特徵、前因、後果與介入措施的系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Cyberbullying perpetration: A systematic review of global prevalence, profiles, antecedents, consequences, and interventions",
+      "title_original": "Cyberbullying perpetration: A systematic review of global prevalence, profiles, antecedents, consequences, and interventions",
+      "title_zh_tw": "網路霸凌施害行為：全球盛行率、特徵、前因、後果與介入措施的系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101175"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dian Chen",
+        "Yulin Zhang",
+        "Yiting Guo"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101227",
+      "doi": "10.1016/j.chbr.2026.101227",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101227",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101227"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「互相矛盾的線上評論資訊與消費者購買決策：統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Conflicting online review information and consumer purchase decisions: A meta-analysis",
+      "title_original": "Conflicting online review information and consumer purchase decisions: A meta-analysis",
+      "title_zh_tw": "互相矛盾的線上評論資訊與消費者購買決策：統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101227"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Roni Segal",
+        "Matan Lary",
+        "Ralf Schmaelzle",
+        "Yossi Ben-Zion"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101191",
+      "doi": "10.1016/j.chbr.2026.101191",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101191",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101191"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「語音清晰度的計算分析可預測 TED 演講的觀眾投入程度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Computational analysis of speech clarity predicts audience engagement in TED talks",
+      "title_original": "Computational analysis of speech clarity predicts audience engagement in TED talks",
+      "title_zh_tw": "語音清晰度的計算分析可預測 TED 演講的觀眾投入程度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101191"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Oliver Golden",
+        "Elizabeth V. Eikey"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101151",
+      "doi": "10.1016/j.chbr.2026.101151",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101151",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101151"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「描繪線上飲食與健身應用程式社群中的心理健康討論：使用者貼文的質性內容分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Characterizing mental health discussions in an online diet and fitness app community: A qualitative content analysis of users' posts",
+      "title_original": "Characterizing mental health discussions in an online diet and fitness app community: A qualitative content analysis of users' posts",
+      "title_zh_tw": "描繪線上飲食與健身應用程式社群中的心理健康討論：使用者貼文的質性內容分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101151"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Milad Malekzadeh"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101246",
+      "doi": "10.1016/j.chbr.2026.101246",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101246",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101246"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AI 能降低性別偏誤嗎？以 Google NotebookLM 的 AI 生成語音對話為例」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Can AI reduce gender bias? The case of AI-generated audio conversations in Google's NotebookLM",
+      "title_original": "Can AI reduce gender bias? The case of AI-generated audio conversations in Google's NotebookLM",
+      "title_zh_tw": "AI 能降低性別偏誤嗎？以 Google NotebookLM 的 AI 生成語音對話為例",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101246"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Paolo Buono",
+        "Mary Cerullo",
+        "Stefano Cirillo",
+        "Giuseppe Desolda",
+        "Francesco Greco",
+        "Emanuela Guglielmi",
+        "Grazia Margarella",
+        "Giuseppe Polese",
+        "Simone Scalabrino",
+        "Cesare Tucci"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101157",
+      "doi": "10.1016/j.chbr.2026.101157",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101157",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101157"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「除錯偵探與品質教練：開發者對 AI 輔助 IDE 工具的心智模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Bug detective and quality coach: Developers’ mental models of AI-assisted IDE tools",
+      "title_original": "Bug detective and quality coach: Developers’ mental models of AI-assisted IDE tools",
+      "title_zh_tw": "除錯偵探與品質教練：開發者對 AI 輔助 IDE 工具的心智模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101157"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Giovanna Puccio",
+        "Sandro Franceschini",
+        "Simona Carbone",
+        "Chiara Filotto",
+        "Simone Gori",
+        "Telmo Pievani",
+        "Viviana Trezza",
+        "Sara Mascheretti",
+        "Andrea Facoetti",
+        "Sara Bertoni"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101183",
+      "doi": "10.1016/j.chbr.2026.101183",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101183",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101183"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「短時間數位與傳統遊戲會暫時重新分配學齡前兒童的注意資源」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Brief digital and traditional gameplay transiently reallocate attentional resources in preschool children",
+      "title_original": "Brief digital and traditional gameplay transiently reallocate attentional resources in preschool children",
+      "title_zh_tw": "短時間數位與傳統遊戲會暫時重新分配學齡前兒童的注意資源",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101183"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ajar Diushekeeva",
+        "Claudia Picard-Deland",
+        "Santiago Hidalgo",
+        "Antonio Zadra"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101209",
+      "doi": "10.1016/j.chbr.2026.101209",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101209",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101209"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「超越螢幕時間：成人睡前媒體使用型態與睡眠結果」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Beyond screen time: Pre-sleep media use profiles and sleep outcomes in adults",
+      "title_original": "Beyond screen time: Pre-sleep media use profiles and sleep outcomes in adults",
+      "title_zh_tw": "超越螢幕時間：成人睡前媒體使用型態與睡眠結果",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101209"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kane Marlin",
+        "Pascale Brandt-Pomares",
+        "Patrice Laisney",
+        "Jérémy Castéra",
+        "Nicolas Mascret"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101248",
+      "doi": "10.1016/j.chbr.2026.101248",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101248",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101248"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「超越初始觀感：實作訓練如何塑造教師行動學習接受度的準實驗研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Beyond initial perceptions: A quasi-experimental study of how hands-on training shapes teachers' mobile learning acceptance",
+      "title_original": "Beyond initial perceptions: A quasi-experimental study of how hands-on training shapes teachers' mobile learning acceptance",
+      "title_zh_tw": "超越初始觀感：實作訓練如何塑造教師行動學習接受度的準實驗研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101248"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Moeketsi Mosia",
+        "Fadip Audu Nannim",
+        "Felix Egara",
+        "Moses Basitere"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101262",
+      "doi": "10.1016/j.chbr.2026.101262",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101262",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101262"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「超越覺察：情境因素與職前教師 AI 工具熟悉度的貝葉斯交叉分類分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Beyond Awareness: A Bayesian Cross-Classified Analysis of Contextual Factors and Preservice Teachers’ AI Tool Familiarity",
+      "title_original": "Beyond Awareness: A Bayesian Cross-Classified Analysis of Contextual Factors and Preservice Teachers’ AI Tool Familiarity",
+      "title_zh_tw": "超越覺察：情境因素與職前教師 AI 工具熟悉度的貝葉斯交叉分類分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101262"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fabian Schunk",
+        "Natalia Lipp",
+        "Cornelia Wrzus"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101196",
+      "doi": "10.1016/j.chbr.2026.101196",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101196",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101196"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在希望與風險之間：四種文化中對虛擬實境觀感的人格差異」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Between promise and peril: Personality differences in perceptions of virtual reality across four cultures",
+      "title_original": "Between promise and peril: Personality differences in perceptions of virtual reality across four cultures",
+      "title_zh_tw": "在希望與風險之間：四種文化中對虛擬實境觀感的人格差異",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101196"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Topan Try Harmanda",
+        "Achmad Nizar Hidayanto",
+        "Rizal Fathoni Aji",
+        "Igor Ilin"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101147",
+      "doi": "10.1016/j.chbr.2026.101147",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101147",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101147"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「文化遺產領域的人工智慧採用：趨勢、應用領域與挑戰的系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Artificial intelligence adoption in the cultural heritage sector: A systematic review of trends, application domains, and challenges",
+      "title_original": "Artificial intelligence adoption in the cultural heritage sector: A systematic review of trends, application domains, and challenges",
+      "title_zh_tw": "文化遺產領域的人工智慧採用：趨勢、應用領域與挑戰的系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101147"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Daniel Joinson",
+        "Edwin Simpson",
+        "Claire M.A. Haworth",
+        "Nello Cristianini",
+        "Nina H. Di Cara",
+        "Oliver S.P. Davis"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101197",
+      "doi": "10.1016/j.chbr.2026.101197",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101197",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101197"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「Twitter 上的公開社交互動與心理健康結果有關嗎？」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Are public social interactions on Twitter associated with mental health outcomes?",
+      "title_original": "Are public social interactions on Twitter associated with mental health outcomes?",
+      "title_zh_tw": "Twitter 上的公開社交互動與心理健康結果有關嗎？",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101197"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alexandra Wölfle",
+        "Desiree Schmuck"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101145",
+      "doi": "10.1016/j.chbr.2026.101145",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101145",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101145"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「機器人比人類更有偏見嗎？評估 AI 生成評分、故事與影像中關於溫暖感與能力的性別刻板印象」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Are bots more biased than humans? Assessing gender stereotypes of warmth and competence in AI-generated ratings, stories, and images",
+      "title_original": "Are bots more biased than humans? Assessing gender stereotypes of warmth and competence in AI-generated ratings, stories, and images",
+      "title_zh_tw": "機器人比人類更有偏見嗎？評估 AI 生成評分、故事與影像中關於溫暖感與能力的性別刻板印象",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101145"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Federico Magni",
+        "Yaping Gong"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101169",
+      "doi": "10.1016/j.chbr.2026.101169",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101169",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101169"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AI 招募中的求職者吸引力：溫暖感與能力的角色」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Applicant attraction in AI recruitment: The roles of warmth and competence",
+      "title_original": "Applicant attraction in AI recruitment: The roles of warmth and competence",
+      "title_zh_tw": "AI 招募中的求職者吸引力：溫暖感與能力的角色",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101169"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sara Reiter",
+        "Julia Gorges"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101174",
+      "doi": "10.1016/j.chbr.2026.101174",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101174",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101174"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以期望—價值理論解釋成人參與數位強化繼續教育：效益會影響參與，成本則不會」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "An expectancy-value theory approach to adults’ participation in digitally enhanced continuing education: Benefits but not costs affect participation",
+      "title_original": "An expectancy-value theory approach to adults’ participation in digitally enhanced continuing education: Benefits but not costs affect participation",
+      "title_zh_tw": "以期望—價值理論解釋成人參與數位強化繼續教育：效益會影響參與，成本則不會",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101174"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ram Proshad Barman"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101217",
+      "doi": "10.1016/j.chbr.2026.101217",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101217",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101217"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「孟加拉一所公立大學學生使用 Facebook 的實證研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "An empirical study of Facebook use among students at a public university in Bangladesh",
+      "title_original": "An empirical study of Facebook use among students at a public university in Bangladesh",
+      "title_zh_tw": "孟加拉一所公立大學學生使用 Facebook 的實證研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101217"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zefeng Sun",
+        "Tianrui He"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101160",
+      "doi": "10.1016/j.chbr.2026.101160",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101160",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101160"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「諮商相關影片的演算法可見度與資訊品質：YouTube 與 TikTok 的跨平台分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Algorithmic visibility and informational quality in counselling-related videos: A cross-platform analysis of YouTube and TikTok",
+      "title_original": "Algorithmic visibility and informational quality in counselling-related videos: A cross-platform analysis of YouTube and TikTok",
+      "title_zh_tw": "諮商相關影片的演算法可見度與資訊品質：YouTube 與 TikTok 的跨平台分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101160"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rasol Abdullah mirzaie",
+        "Mahla Abdoli"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101168",
+      "doi": "10.1016/j.chbr.2026.101168",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101168",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101168"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「整合 AI 的 5E STEM 教育：資優國中生學業表現無顯著變化下的學業希望性別差異增益」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AI-integrated 5E-based STEM education: Gendered gains in academic hope despite neutral academic performance among gifted middle school students",
+      "title_original": "AI-integrated 5E-based STEM education: Gendered gains in academic hope despite neutral academic performance among gifted middle school students",
+      "title_zh_tw": "整合 AI 的 5E STEM 教育：資優國中生學業表現無顯著變化下的學業希望性別差異增益",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101168"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Charlotte Czernietzki",
+        "Daniel Westmattelmann",
+        "Johann Nils Foege"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101216",
+      "doi": "10.1016/j.chbr.2026.101216",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101216",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101216"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「無論如何都要用 AI？招募人員看人工智慧在人事甄選中的使用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AI no matter what? A recruiter’s perspective on the use of artificial intelligence in personnel selection",
+      "title_original": "AI no matter what? A recruiter’s perspective on the use of artificial intelligence in personnel selection",
+      "title_zh_tw": "無論如何都要用 AI？招募人員看人工智慧在人事甄選中的使用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101216"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Saeedeh Mohammadi",
+        "Taha Yasseri"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101187",
+      "doi": "10.1016/j.chbr.2026.101187",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101187",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101187"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AI 回饋透過促進對反方論點的參與，強化社群式內容審核」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AI feedback enhances community-based content moderation through engagement with counterarguments",
+      "title_original": "AI feedback enhances community-based content moderation through engagement with counterarguments",
+      "title_zh_tw": "AI 回饋透過促進對反方論點的參與，強化社群式內容審核",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101187"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gabriel R. Lau",
+        "K.T.A. Sandeeshwara Kasturiratna",
+        "Adalia Y.H. Goh",
+        "Eddie M.W. Tong",
+        "Andree Hartanto"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101186",
+      "doi": "10.1016/j.chbr.2026.101186",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101186",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101186"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人類—AI 互動中的 AI 疲勞：概念框架、量表開發與驗證及其與 AI 參與的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AI fatigue in human–AI interaction: Conceptual framework, scale development and validation, and associations with AI engagement",
+      "title_original": "AI fatigue in human–AI interaction: Conceptual framework, scale development and validation, and associations with AI engagement",
+      "title_zh_tw": "人類—AI 互動中的 AI 疲勞：概念框架、量表開發與驗證及其與 AI 參與的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101186"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ján Skalka",
+        "Matúš Valko"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101236",
+      "doi": "10.1016/j.chbr.2026.101236",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101236",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101236"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以穩定性優先的可重現遊戲人格框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A stability-first framework for replicable game personas",
+      "title_original": "A stability-first framework for replicable game personas",
+      "title_zh_tw": "以穩定性優先的可重現遊戲人格框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101236"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Witcha Feungchan",
+        "Pitsanu Chaichitwanidchakol"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101251",
+      "doi": "10.1016/j.chbr.2026.101251",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101251",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101251"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「嚴肅遊戲設計框架：從學習與訓練到治療應用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A Serious Game Design Framework: From Learning and Training to Therapeutic Applications",
+      "title_original": "A Serious Game Design Framework: From Learning and Training to Therapeutic Applications",
+      "title_zh_tw": "嚴肅遊戲設計框架：從學習與訓練到治療應用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101251"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "César Villacura-Herrera",
+        "Frank T.J.M. Zaal",
+        "Ralf F.A. Cox"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101221",
+      "doi": "10.1016/j.chbr.2026.101221",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101221",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101221"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「人類辨識自然與合成刺激的行為、主觀與生理方法：現況與品質評估的範疇回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A scoping review on behavioral, subjective, and physiological approaches towards human detection of natural vs synthetic stimuli: State of the art and quality assessment",
+      "title_original": "A scoping review on behavioral, subjective, and physiological approaches towards human detection of natural vs synthetic stimuli: State of the art and quality assessment",
+      "title_zh_tw": "人類辨識自然與合成刺激的行為、主觀與生理方法：現況與品質評估的範疇回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101221"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vasja Vehovar",
+        "Živa Šubelj",
+        "Andraž Petrovčič",
+        "Jošt Bartol"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101212",
+      "doi": "10.1016/j.chbr.2026.101212",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101212",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101212"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「評估網路仇恨言論之問卷題項的範疇回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A scoping review of survey questions assessing online hate speech",
+      "title_original": "A scoping review of survey questions assessing online hate speech",
+      "title_zh_tw": "評估網路仇恨言論之問卷題項的範疇回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101212"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Y. Levi-Belz",
+        "B. Nobile",
+        "I. Levkovich",
+        "P. Courtet",
+        "Z. Elyoseph"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101189",
+      "doi": "10.1016/j.chbr.2026.101189",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101189",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101189"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於評估並改善負責任自殺新聞報導的可擴展 AI 系統：多地點、多語言實施研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A scalable AI-Based system for evaluating and enhancing responsible media coverage of suicide: A multi-site, multi-language implementation study",
+      "title_original": "A scalable AI-Based system for evaluating and enhancing responsible media coverage of suicide: A multi-site, multi-language implementation study",
+      "title_zh_tw": "用於評估並改善負責任自殺新聞報導的可擴展 AI 系統：多地點、多語言實施研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101189"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Noridayu Adnan",
+        "Siti Norul Huda Sheikh Abdullah",
+        "Raja Jamilah Raja Yusof",
+        "Noor Faridatul Ainun Zainal",
+        "Elaheh Yadegaridehkordi",
+        "Nazrul Anuar Nayan"
+      ],
+      "canonical_id": "doi:10.1016/j.chbr.2026.101229",
+      "doi": "10.1016/j.chbr.2026.101229",
+      "issns": [
+        "2451-9588"
+      ],
+      "journal": "Computers in Human Behavior Reports",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.chbr.2026.101229",
+          "url": "https://doi.org/10.1016/j.chbr.2026.101229"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「機器人教育中運用體驗式學習的網路思維行為模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A model of cyber thinking behaviour using experiential learning in robotics education",
+      "title_original": "A model of cyber thinking behaviour using experiential learning in robotics education",
+      "title_zh_tw": "機器人教育中運用體驗式學習的網路思維行為模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.chbr.2026.101229"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__computers-in-human-behavior-reports__2026-08__r03.json",
+    "manifest_json": "EvidenceRadar_Editions__computers-in-human-behavior-reports__2026-08__r03.manifest.json",
+    "report_html": "EvidenceRadar_Editions__computers-in-human-behavior-reports__2026-08__r03.html",
+    "stem": "EvidenceRadar_Editions__computers-in-human-behavior-reports__2026-08__r03",
+    "translation_request_json": "EvidenceRadar_Editions__computers-in-human-behavior-reports__2026-08__r03.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__computers-in-human-behavior-reports__2026-08__r03.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 103,
+    "by_article_type": {
+      "journal-article": 103
+    },
+    "by_source": {
+      "crossref": 103
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 103,
+    "translated_articles": 103
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "computers-in-human-behavior-reports__2026-08__r03",
+  "edition_key": "computers-in-human-behavior-reports__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-23",
+    "acquisition_start": "2026-08-20",
+    "added_article_count": 0,
+    "base_article_count": 103,
+    "base_edition_sha256": "9dc04410c0189183baed0cd490839871865b29b90ee67f3215bc71db8c359c25",
+    "base_manifest_publication_id": "computers-in-human-behavior-reports__2026-08__r02",
+    "base_period_end": "2026-08-19",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "computers-in-human-behavior-reports__2026-08__r02",
+    "base_revision": 2,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 103
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-23",
+    "incremental_acquisition_start": "2026-08-20",
+    "journal_slug": "computers-in-human-behavior-reports",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 103,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "computers-in-human-behavior-reports__2026-08__r03",
+  "retrieved_at": "2026-08-23T07:52:42Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__computers-in-human-behavior-reports__2026-08__r03",
+    "edition_key": "computers-in-human-behavior-reports__2026-08",
+    "end_date": "2026-08-23",
+    "issn": "2451-9588",
+    "journal": "Computers in Human Behavior Reports",
+    "journal_slug": "computers-in-human-behavior-reports",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 23 日）",
+    "period_status": "MTD",
+    "publication_id": "computers-in-human-behavior-reports__2026-08__r03",
+    "revision": 3,
+    "slug": "computers-in-human-behavior-reports",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Computers in Human Behavior Reports; publication=2026-08-20..2026-08-23",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "computers-in-human-behavior-reports__2026-08__r02",
+    "language": "zh-TW",
+    "request_binding_sha256": "8d5c65504c9bf0702a052daceefdb74adc894a33ee282aedfd0e01d42ae4b918",
+    "response_generated_at": "2026-08-14T04:53:02Z",
+    "response_sha256": "af1438844c7f4d05b4b29560dcefef908530dda9ef526a90590754afe2d30735",
+    "source_edition_sha256": "311f6ab3b16c5512f135f4890572305b613a838d714bdfd6d13c4d335d4915cf",
+    "status": "COMPLETE",
+    "total_articles": 103,
+    "translated_articles": 103
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_computers_human_behavior_reports"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

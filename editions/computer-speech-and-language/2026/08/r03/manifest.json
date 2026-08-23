@@ -1,0 +1,43 @@
+{
+  "article_count": 1,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T07:52:39Z",
+  "edition_id": "computer-speech-and-language__2026-08__r03",
+  "edition_key": "computer-speech-and-language__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 7059,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__computer-speech-and-language__2026-08__r03.json",
+      "sha256": "32bb4a4759dcce93fdcf1931f3ef5aca52a660aa083f868e4a6cac5d36c05a63"
+    },
+    "report_html": {
+      "bytes": 18114,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__computer-speech-and-language__2026-08__r03.html",
+      "sha256": "d1916c5c58c4f10842de75228893cc395bf4024a24e089ffe90ce8c0c9b01ff0"
+    }
+  },
+  "journal": "Computer Speech & Language",
+  "journal_slug": "computer-speech-and-language",
+  "manifest_name": "EvidenceRadar_Editions__computer-speech-and-language__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "computer-speech-and-language__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 1,
+  "translation_provenance": {
+    "request_binding_sha256": "490ec4778f23d82c01de3f1697ee374a35daae3b3028450e599677062a6e7391",
+    "response_sha256": "d7cb3f6e42126e95d4a39ecb05b7353c8aa4e7d7d7094fad225845bf8eb22024",
+    "source_edition_sha256": "caa8bacf47f1198009d50c6219fa5422e5abbe022c5abe87dca42b58e46677d3"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
