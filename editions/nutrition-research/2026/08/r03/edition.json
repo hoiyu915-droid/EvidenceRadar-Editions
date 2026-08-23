@@ -1,0 +1,814 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Geórgia Rondó Peres",
+        "Gabriel Pereira Nunes",
+        "Renata de Oliveira Alves",
+        "Tamires Passadori Martins",
+        "Priscila Toninatto Alves de Toledo",
+        "Haylla de Faria Horta",
+        "Cristiane Duque"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.05.011",
+      "doi": "10.1016/j.nutres.2026.05.011",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42335566",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.05.011",
+          "url": "https://doi.org/10.1016/j.nutres.2026.05.011"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42335566",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42335566/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「酚酸在骨組織癒合與再生中的治療潛力：範疇回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Therapeutic potential of phenolic acids in bone tissue healing and regeneration: a scoping review",
+      "title_original": "Therapeutic potential of phenolic acids in bone tissue healing and regeneration: a scoping review",
+      "title_zh_tw": "酚酸在骨組織癒合與再生中的治療潛力：範疇回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.05.011",
+        "https://pubmed.ncbi.nlm.nih.gov/42335566/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Adrian L. Lopresti",
+        "Stephen J. Smith"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.06.005",
+      "doi": "10.1016/j.nutres.2026.06.005",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42413424",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.06.005",
+          "url": "https://doi.org/10.1016/j.nutres.2026.06.005"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42413424",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42413424/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在健康青少年的隨機、雙盲、安慰劑對照試驗中，補充葉黃素與玉米黃素可提高黃斑色素光學密度與認知表現」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Supplementation with lutein and zeaxanthin increases macular pigment optical density and cognitive performance in healthy teenagers in a randomized, double-blind, placebo-controlled trial",
+      "title_original": "Supplementation with lutein and zeaxanthin increases macular pigment optical density and cognitive performance in healthy teenagers in a randomized, double-blind, placebo-controlled trial",
+      "title_zh_tw": "在健康青少年的隨機、雙盲、安慰劑對照試驗中，補充葉黃素與玉米黃素可提高黃斑色素光學密度與認知表現",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.06.005",
+        "https://pubmed.ncbi.nlm.nih.gov/42413424/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Peng Lei",
+        "Shaoyan Wu",
+        "Rong Luo",
+        "Binyang Tang",
+        "Sicen Wu"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.08.001",
+      "doi": "10.1016/j.nutres.2026.08.001",
+      "issns": [
+        "0271-5317"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.08.001",
+          "url": "https://doi.org/10.1016/j.nutres.2026.08.001"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「血清 25(OH)D 濃度與先天及適應性免疫細胞標誌物呈差異性關聯，並在約 40 ng/mL 出現閾值效應：橫斷面研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Serum 25(OH)D Concentrations Are Differentially Associated with Innate and Adaptive Immune Cell Markers, with Threshold Effects Near 40 ng/mL: A Cross-Sectional Study",
+      "title_original": "Serum 25(OH)D Concentrations Are Differentially Associated with Innate and Adaptive Immune Cell Markers, with Threshold Effects Near 40 ng/mL: A Cross-Sectional Study",
+      "title_zh_tw": "血清 25(OH)D 濃度與先天及適應性免疫細胞標誌物呈差異性關聯，並在約 40 ng/mL 出現閾值效應：橫斷面研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.08.001"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Montaña Cámara",
+        "Irene Sánchez-Gavilán",
+        "Howard D. Sesso"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.06.001",
+      "doi": "10.1016/j.nutres.2026.06.001",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42379107",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.06.001",
+          "url": "https://doi.org/10.1016/j.nutres.2026.06.001"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379107",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379107/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「鎂與維生素 D 補充對降低血壓的潛在協同影響：敘述性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Potential synergistic influence of magnesium and vitamin D supplementation on blood pressure reduction: a narrative review",
+      "title_original": "Potential synergistic influence of magnesium and vitamin D supplementation on blood pressure reduction: a narrative review",
+      "title_zh_tw": "鎂與維生素 D 補充對降低血壓的潛在協同影響：敘述性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.06.001",
+        "https://pubmed.ncbi.nlm.nih.gov/42379107/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chaofan Li",
+        "Xingmei Yin",
+        "Chenyang Liu",
+        "Xingxing Yuan"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.08.002",
+      "doi": "10.1016/j.nutres.2026.08.002",
+      "issns": [
+        "0271-5317"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.08.002",
+          "url": "https://doi.org/10.1016/j.nutres.2026.08.002"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「氧化壓力與鐵代謝失調：MAFLD 飲食介入的關鍵標靶與新證據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Oxidative Stress and Iron Dysmetabolism: Key Targets and Novel Evidence for Dietary Intervention in MAFLD",
+      "title_original": "Oxidative Stress and Iron Dysmetabolism: Key Targets and Novel Evidence for Dietary Intervention in MAFLD",
+      "title_zh_tw": "氧化壓力與鐵代謝失調：MAFLD 飲食介入的關鍵標靶與新證據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.08.002"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elena Simó-García",
+        "Murielle Bochud",
+        "Carole Clair",
+        "Aurélie M. Lasserre",
+        "Alexandre Berney",
+        "Julien Vaucher",
+        "Marie-Pierre F. Strippoli",
+        "Peter Vollenweider",
+        "Pedro Marques-Vidal"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.06.002",
+      "doi": "10.1016/j.nutres.2026.06.002",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42424708",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.06.002",
+          "url": "https://doi.org/10.1016/j.nutres.2026.06.002"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42424708",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42424708/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「肥胖盛行率因定義而大幅不同：多項橫斷面與前瞻性研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Obesity prevalence varies markedly by definition: multiple cross-sectional and prospective studies",
+      "title_original": "Obesity prevalence varies markedly by definition: multiple cross-sectional and prospective studies",
+      "title_zh_tw": "肥胖盛行率因定義而大幅不同：多項橫斷面與前瞻性研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.06.002",
+        "https://pubmed.ncbi.nlm.nih.gov/42424708/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vitor Augusto Oliveira",
+        "Luis Gustavo da Silva",
+        "Vinicius da Eira Silva",
+        "Jéssyca Maria Oliveira da Silva",
+        "Maria Vitória de Sena Silva",
+        "Vitor de Salles Painelli"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.06.006",
+      "doi": "10.1016/j.nutres.2026.06.006",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42431175",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.06.006",
+          "url": "https://doi.org/10.1016/j.nutres.2026.06.006"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42431175",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42431175/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「神經肌肉電刺激結合蛋白質補充可能改善肌肉量與肌力：隨機對照試驗的範疇回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Neuromuscular electrical stimulation combined with protein supplementation may improve muscle mass and strength: a scoping review of randomized controlled trials",
+      "title_original": "Neuromuscular electrical stimulation combined with protein supplementation may improve muscle mass and strength: a scoping review of randomized controlled trials",
+      "title_zh_tw": "神經肌肉電刺激結合蛋白質補充可能改善肌肉量與肌力：隨機對照試驗的範疇回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.06.006",
+        "https://pubmed.ncbi.nlm.nih.gov/42431175/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shelby G. Martell",
+        "Tori A. Holthaus",
+        "Shreya Verma",
+        "Brynn Adamson",
+        "Robert W. Motl",
+        "Naiman A. Khan"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.05.006",
+      "doi": "10.1016/j.nutres.2026.05.006",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42314522",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.05.006",
+          "url": "https://doi.org/10.1016/j.nutres.2026.05.006"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42314522",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42314522/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「多發性硬化症患者的地中海－DASH 神經退化延緩（MIND）飲食介入：可行性隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mediterranean-DASH intervention for neurodegenerative delay (MIND) diet intervention in persons with multiple sclerosis: A feasibility, randomized controlled trial",
+      "title_original": "Mediterranean-DASH intervention for neurodegenerative delay (MIND) diet intervention in persons with multiple sclerosis: A feasibility, randomized controlled trial",
+      "title_zh_tw": "多發性硬化症患者的地中海－DASH 神經退化延緩（MIND）飲食介入：可行性隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.05.006",
+        "https://pubmed.ncbi.nlm.nih.gov/42314522/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Soon Lee",
+        "Jillien Zukaitis-Phipps",
+        "Olga Malysheva",
+        "Stephanie Dubrof",
+        "Brice Hudson",
+        "Nikolay M. Filipov",
+        "Ishfaque Ahmed",
+        "Qun Zhao",
+        "Hea Jin Park"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.05.005",
+      "doi": "10.1016/j.nutres.2026.05.005",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42314521",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.05.005",
+          "url": "https://doi.org/10.1016/j.nutres.2026.05.005"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42314521",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42314521/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「母體蛋黃補充改變子代肝臟膽鹼狀態，並與母豬－仔豬模型中的功能網路活化及單胺代謝相關」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Maternal egg yolk supplementation alters offspring liver choline status and is associated with functional network activation and monoamine metabolism in a sow-piglet model",
+      "title_original": "Maternal egg yolk supplementation alters offspring liver choline status and is associated with functional network activation and monoamine metabolism in a sow-piglet model",
+      "title_zh_tw": "母體蛋黃補充改變子代肝臟膽鹼狀態，並與母豬－仔豬模型中的功能網路活化及單胺代謝相關",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.05.005",
+        "https://pubmed.ncbi.nlm.nih.gov/42314521/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bowei Yu",
+        "Yuefeng Yu",
+        "Ziteng Zhang",
+        "Ying Sun",
+        "Yanqi Fu",
+        "Yuying Wang",
+        "Bin Wang",
+        "Yingli Lu",
+        "Xiao Tan",
+        "Ningjian Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.06.003",
+      "doi": "10.1016/j.nutres.2026.06.003",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42391848",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.06.003",
+          "url": "https://doi.org/10.1016/j.nutres.2026.06.003"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42391848",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42391848/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「較高血清維生素 D 濃度與較低的新發第二型糖尿病風險相關，且此關聯獨立於克隆性造血」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Higher serum vitamin D concentration is associated with a lower risk of incident type 2 diabetes independent of clonal haematopoiesis",
+      "title_original": "Higher serum vitamin D concentration is associated with a lower risk of incident type 2 diabetes independent of clonal haematopoiesis",
+      "title_zh_tw": "較高血清維生素 D 濃度與較低的新發第二型糖尿病風險相關，且此關聯獨立於克隆性造血",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.06.003",
+        "https://pubmed.ncbi.nlm.nih.gov/42391848/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhaoqi Yan",
+        "Xiufan Du"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.05.010",
+      "doi": "10.1016/j.nutres.2026.05.010",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42379108",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.05.010",
+          "url": "https://doi.org/10.1016/j.nutres.2026.05.010"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42379108",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42379108/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「高品質飲食模式降低進展期心血管－腎臟－代謝症候群風險：美國成人 NHANES 橫斷面研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "High-quality dietary patterns reduce risk of advanced cardiovascular-kidney-metabolic syndrome: A cross-sectional NHANES study in US adults",
+      "title_original": "High-quality dietary patterns reduce risk of advanced cardiovascular-kidney-metabolic syndrome: A cross-sectional NHANES study in US adults",
+      "title_zh_tw": "高品質飲食模式降低進展期心血管－腎臟－代謝症候群風險：美國成人 NHANES 橫斷面研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.05.010",
+        "https://pubmed.ncbi.nlm.nih.gov/42379108/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nurchalisah Rustan Massinai",
+        "Sri Wahyuni",
+        "Wa Ode Nafilawati",
+        "Muhammad Syukri Sadimantara",
+        "Febryansyah Pagala"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.05.008",
+      "doi": "10.1016/j.nutres.2026.05.008",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42330689",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.05.008",
+          "url": "https://doi.org/10.1016/j.nutres.2026.05.008"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42330689",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42330689/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「發酵食品與益生菌宣稱：科學驗證與法規標準的批判性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Fermented foods and probiotic claims: A critical review of scientific validation and regulatory standards",
+      "title_original": "Fermented foods and probiotic claims: A critical review of scientific validation and regulatory standards",
+      "title_zh_tw": "發酵食品與益生菌宣稱：科學驗證與法規標準的批判性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.05.008",
+        "https://pubmed.ncbi.nlm.nih.gov/42330689/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Desirée Victoria-Montesinos",
+        "Rebeca González-Louzao",
+        "Pablo Barcina-Pérez",
+        "María Teresa Mercader-Ros",
+        "Carmen Lucas-Abellán",
+        "Iris Beatriz Daruich-González",
+        "Ana María García-Muñoz"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.05.007",
+      "doi": "10.1016/j.nutres.2026.05.007",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42372710",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.05.007",
+          "url": "https://doi.org/10.1016/j.nutres.2026.05.007"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42372710",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42372710/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「角豆（Ceratonia siliqua）及角豆衍生產品對血糖控制與胰島素阻抗的影響：臨床試驗系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Effects of carob (Ceratonia siliqua) and carob-derived products on glycaemic control and insulin resistance: A systematic review of clinical trials",
+      "title_original": "Effects of carob (Ceratonia siliqua) and carob-derived products on glycaemic control and insulin resistance: A systematic review of clinical trials",
+      "title_zh_tw": "角豆（Ceratonia siliqua）及角豆衍生產品對血糖控制與胰島素阻抗的影響：臨床試驗系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.05.007",
+        "https://pubmed.ncbi.nlm.nih.gov/42372710/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Umapathi Krishnamoorthy"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.05.009",
+      "doi": "10.1016/j.nutres.2026.05.009",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42335565",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.05.009",
+          "url": "https://doi.org/10.1016/j.nutres.2026.05.009"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42335565",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42335565/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以不同資料抽象層級的可解釋機器學習模型早期預測維生素缺乏症風險」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Early risk prediction of vitamin deficiency disorders by an interpretable machine learning model with varying levels of data abstraction",
+      "title_original": "Early risk prediction of vitamin deficiency disorders by an interpretable machine learning model with varying levels of data abstraction",
+      "title_zh_tw": "以不同資料抽象層級的可解釋機器學習模型早期預測維生素缺乏症風險",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.05.009",
+        "https://pubmed.ncbi.nlm.nih.gov/42335565/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Constance Gayet-Boyer",
+        "Fanny Tenenhaus-Aziza",
+        "Moises Torres-Gonzalez",
+        "D. Ian Givens",
+        "Cindy Schweitzer"
+      ],
+      "canonical_id": "doi:10.1016/j.nutres.2026.06.004",
+      "doi": "10.1016/j.nutres.2026.06.004",
+      "issns": [
+        "0271-5317",
+        "1879-0739"
+      ],
+      "journal": "Nutrition Research",
+      "pmcid": null,
+      "pmid": "42436057",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.nutres.2026.06.004",
+          "url": "https://doi.org/10.1016/j.nutres.2026.06.004"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42436057",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42436057/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「更正：〈乳製食品中的反式脂肪酸不影響心臟代謝疾病風險：隨機對照試驗證據的系統性回顧與統合分析，以及前瞻性世代研究的系統性回顧〉[Nutr Res. 2026;150:33–48]」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Corrigendum to “Trans fatty acids from dairy foods do not affect risk of cardiometabolic diseases: systematic review and meta-analysis of evidence from randomized controlled trials and systematic review of prospective cohort studies” [Nutr Res. 2026;150:33–48]",
+      "title_original": "Corrigendum to “Trans fatty acids from dairy foods do not affect risk of cardiometabolic diseases: systematic review and meta-analysis of evidence from randomized controlled trials and systematic review of prospective cohort studies” [Nutr Res. 2026;150:33–48]",
+      "title_zh_tw": "更正：〈乳製食品中的反式脂肪酸不影響心臟代謝疾病風險：隨機對照試驗證據的系統性回顧與統合分析，以及前瞻性世代研究的系統性回顧〉[Nutr Res. 2026;150:33–48]",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.nutres.2026.06.004",
+        "https://pubmed.ncbi.nlm.nih.gov/42436057/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__nutrition-research__2026-08__r03.json",
+    "manifest_json": "EvidenceRadar_Editions__nutrition-research__2026-08__r03.manifest.json",
+    "report_html": "EvidenceRadar_Editions__nutrition-research__2026-08__r03.html",
+    "stem": "EvidenceRadar_Editions__nutrition-research__2026-08__r03",
+    "translation_request_json": "EvidenceRadar_Editions__nutrition-research__2026-08__r03.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__nutrition-research__2026-08__r03.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 15,
+    "by_article_type": {
+      "journal-article": 15
+    },
+    "by_source": {
+      "crossref": 15,
+      "pubmed": 13
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 15,
+    "translated_articles": 15
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "nutrition-research__2026-08__r03",
+  "edition_key": "nutrition-research__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-23",
+    "acquisition_start": "2026-08-20",
+    "added_article_count": 0,
+    "base_article_count": 15,
+    "base_edition_sha256": "714fae9f9f0e699041a6774677f10a874af1e7969e36dec8040866e4a5058950",
+    "base_manifest_publication_id": "nutrition-research__2026-08__r02",
+    "base_period_end": "2026-08-19",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "nutrition-research__2026-08__r02",
+    "base_revision": 2,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 15
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-23",
+    "incremental_acquisition_start": "2026-08-20",
+    "journal_slug": "nutrition-research",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 15,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "nutrition-research__2026-08__r03",
+  "retrieved_at": "2026-08-23T08:04:13Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__nutrition-research__2026-08__r03",
+    "edition_key": "nutrition-research__2026-08",
+    "end_date": "2026-08-23",
+    "issn": "0271-5317",
+    "journal": "Nutrition Research",
+    "journal_slug": "nutrition-research",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 23 日）",
+    "period_status": "MTD",
+    "publication_id": "nutrition-research__2026-08__r03",
+    "revision": 3,
+    "slug": "nutrition-research",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Nutrition Research; publication=2026-08-20..2026-08-23",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "(\"Nutrition Research\"[Journal] OR \"0271-5317\"[ISSN]) AND (\"2026/08/20\"[Date - Publication] : \"2026/08/23\"[Date - Publication])",
+      "returned_count": 0,
+      "source": "pubmed",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Nutrition Research\" AND FIRST_PDATE:[2026-08-20 TO 2026-08-23]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "nutrition-research__2026-08__r02",
+    "language": "zh-TW",
+    "request_binding_sha256": "07e6f21e444939e905ae9cbcd11edc42583cc6ad9246b092c73e89541aa8d473",
+    "response_generated_at": "2026-08-14T05:07:59Z",
+    "response_sha256": "ef47e3b2aa1cb0b8d809a6fb4681ab22959bdf0b679f55eb46066255f80e0cb5",
+    "source_edition_sha256": "09b1374e40dab23ac9d6c6404ee76fb35a105ec152153105803d09921cb53f2a",
+    "status": "COMPLETE",
+    "total_articles": 15,
+    "translated_articles": 15
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_nutrition_research"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

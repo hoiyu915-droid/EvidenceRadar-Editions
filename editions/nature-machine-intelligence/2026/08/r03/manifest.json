@@ -1,0 +1,43 @@
+{
+  "article_count": 9,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:04:07Z",
+  "edition_id": "nature-machine-intelligence__2026-08__r03",
+  "edition_key": "nature-machine-intelligence__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 17089,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r03.json",
+      "sha256": "69621e0c8ca5ac703ce4c0e23658593ace5814a5665b9345b47cd7575beb5f2b"
+    },
+    "report_html": {
+      "bytes": 34714,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r03.html",
+      "sha256": "0ec30979b598b16a1760fd4cd66b0259d8c78d526ee5595094eeb07c42c13488"
+    }
+  },
+  "journal": "Nature Machine Intelligence",
+  "journal_slug": "nature-machine-intelligence",
+  "manifest_name": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "nature-machine-intelligence__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 5,
+  "translation_provenance": {
+    "request_binding_sha256": "c7b1eb2ec2637f4d0bb4cee0466cdec3aa096f68cd83bd1818a919bf1eaf21dd",
+    "response_sha256": "7457277a1770e362e4eaf80e770b82f5123d80ae3991d92d019494a61b91a62d",
+    "source_edition_sha256": "071d77841761e2f74a6360623d260be069f92b947976507793cc3f0cddc4b9fe"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

@@ -1,0 +1,1601 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hung-Min Lin",
+        "Mayanak K. Gupta",
+        "Niuchang Ouyang",
+        "Tyler Wilson",
+        "Artem Pogodin",
+        "Md Towhidur Rahman",
+        "Alexandra Zevalkink",
+        "J. Ross Stewart",
+        "Fanni Juranyi",
+        "Tao Hong",
+        "Yan Wu",
+        "Songxue Chi",
+        "Douglas L. Abernathy",
+        "Olivier Delaire"
+      ],
+      "canonical_id": "doi:10.1103/lx5w-x6wl",
+      "doi": "10.1103/lx5w-x6wl",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-21",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/lx5w-x6wl",
+          "url": "https://link.aps.org/doi/10.1103/lx5w-x6wl"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Phonon-Activated Collective Hopping in a Superionic Phase",
+      "title_original": "Phonon-Activated Collective Hopping in a Superionic Phase",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.aps.org/doi/10.1103/lx5w-x6wl"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lucas Caron",
+        "Hector Simon",
+        "Hugo Basset",
+        "Romaric Journet",
+        "Rosa Tualle-Brouri"
+      ],
+      "canonical_id": "doi:10.1103/q2h3-58pz",
+      "doi": "10.1103/q2h3-58pz",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-21",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/q2h3-58pz",
+          "url": "https://link.aps.org/doi/10.1103/q2h3-58pz"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses",
+      "title_original": "Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.aps.org/doi/10.1103/q2h3-58pz"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/jc35-gj2l",
+      "doi": "10.1103/jc35-gj2l",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-20",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/jc35-gj2l",
+          "url": "https://link.aps.org/doi/10.1103/jc35-gj2l"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Superconductivity in monolayer-trilayer phase of La 3 Ni 2 O 7 under high pressure",
+      "title_original": "Superconductivity in monolayer-trilayer phase of La 3 Ni 2 O 7 under high pressure",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.aps.org/doi/10.1103/jc35-gj2l"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tangi Legrand",
+        "Xin Wang",
+        "Florian Pausewang",
+        "Wolfgang Alt",
+        "Eduardo Uruñuela",
+        "Sebastian Hofferberth",
+        "Milena Simić",
+        "Matthew T. Eiles"
+      ],
+      "canonical_id": "doi:10.1103/tjv3-485v",
+      "doi": "10.1103/tjv3-485v",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-20",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/tjv3-485v",
+          "url": "https://link.aps.org/doi/10.1103/tjv3-485v"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Revealing Electron-Ytterbium Interactions through Rydberg Molecular Spectroscopy",
+      "title_original": "Revealing Electron-Ytterbium Interactions through Rydberg Molecular Spectroscopy",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.aps.org/doi/10.1103/tjv3-485v"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/lxrw-98f4",
+      "doi": "10.1103/lxrw-98f4",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-20",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/lxrw-98f4",
+          "url": "https://link.aps.org/doi/10.1103/lxrw-98f4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Metastable phase separation and nucleation of information in multicomponent liquids",
+      "title_original": "Metastable phase separation and nucleation of information in multicomponent liquids",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.aps.org/doi/10.1103/lxrw-98f4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/hyrk-1ftz",
+      "doi": "10.1103/hyrk-1ftz",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-20",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/hyrk-1ftz",
+          "url": "https://link.aps.org/doi/10.1103/hyrk-1ftz"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic gradients",
+      "title_original": "Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic gradients",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.aps.org/doi/10.1103/hyrk-1ftz"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maksym Serbyn",
+        "Alexander Avdoshkin",
+        "Oriana K. Diessel",
+        "David A. Huse"
+      ],
+      "canonical_id": "doi:10.1103/4zs8-7kf4",
+      "doi": "10.1103/4zs8-7kf4",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/4zs8-7kf4",
+          "url": "https://doi.org/10.1103/4zs8-7kf4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Eigenstate Thermalization in Thermal First-Order Phase Transitions",
+      "title_original": "Eigenstate Thermalization in Thermal First-Order Phase Transitions",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1103/4zs8-7kf4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hyun-Jae Lee",
+        "Pawan Kumar",
+        "Kyoung-June Go",
+        "Chang Hoon Kim",
+        "Yungyeom Kim",
+        "Kyoungjun Lee",
+        "Takao Shimizu",
+        "Seung Chul Chae",
+        "Hosub Jin",
+        "Minseong Lee",
+        "Umesh Waghmare",
+        "Si-Young Choi",
+        "Jun Hee Lee"
+      ],
+      "canonical_id": "doi:10.1103/63lf-k7zs",
+      "doi": "10.1103/63lf-k7zs",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/63lf-k7zs",
+          "url": "https://doi.org/10.1103/63lf-k7zs"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Bulklike Costless Domain Walls Driven by Phonon Pair Condensation in HfO 2",
+      "title_original": "Bulklike Costless Domain Walls Driven by Phonon Pair Condensation in HfO 2",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1103/63lf-k7zs"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "R. Winkler",
+        "U. Zülicke"
+      ],
+      "canonical_id": "doi:10.1103/jvv7-z2fq",
+      "doi": "10.1103/jvv7-z2fq",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/jvv7-z2fq",
+          "url": "https://doi.org/10.1103/jvv7-z2fq"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Standard Model of Electromagnetism and Chirality in Crystals",
+      "title_original": "Standard Model of Electromagnetism and Chirality in Crystals",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1103/jvv7-z2fq"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/m3jj-6sqz",
+      "doi": "10.1103/m3jj-6sqz",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/m3jj-6sqz",
+          "url": "https://doi.org/10.1103/m3jj-6sqz"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Genuine and spurious (non-)ergodicity in single particle tracking",
+      "title_original": "Genuine and spurious (non-)ergodicity in single particle tracking",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1103/m3jj-6sqz"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Julien Barrier",
+        "Liangtao Peng",
+        "Shuigang Xu",
+        "Christophe De Beule",
+        "V. I. Fal’ko",
+        "K. Watanabe",
+        "T. Tanigushi",
+        "A. K. Geim",
+        "Shaffique Adam",
+        "Alexey I. Berdyugin"
+      ],
+      "canonical_id": "doi:10.1103/z9qg-287y",
+      "doi": "10.1103/z9qg-287y",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/z9qg-287y",
+          "url": "https://doi.org/10.1103/z9qg-287y"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Coulomb Screening of Superconductivity in Magic-Angle Graphene",
+      "title_original": "Coulomb Screening of Superconductivity in Magic-Angle Graphene",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1103/z9qg-287y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ziyin Song",
+        "Ziyue Qi",
+        "Chen Fang",
+        "Zhong Fang",
+        "Hongming Weng"
+      ],
+      "canonical_id": "doi:10.1103/zy7s-j86r",
+      "doi": "10.1103/zy7s-j86r",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/zy7s-j86r",
+          "url": "https://doi.org/10.1103/zy7s-j86r"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過自旋空間群統一分類磁序：共面偶波相的預測」。",
+      "title": "Unified Symmetry Classification of Magnetic Orders via Spin Space Groups: Prediction of Coplanar Even-Wave Phases",
+      "title_original": "Unified Symmetry Classification of Magnetic Orders via Spin Space Groups: Prediction of Coplanar Even-Wave Phases",
+      "title_zh_tw": "透過自旋空間群統一分類磁序：共面偶波相的預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/zy7s-j86r"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/8fcr-5tf4",
+      "doi": "10.1103/8fcr-5tf4",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/8fcr-5tf4",
+          "url": "https://doi.org/10.1103/8fcr-5tf4"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「頻譜小增量糾纏：突破長程交互作用系統中的準多項式複雜度障礙」。",
+      "title": "Spectral small-incremental-entangling: Breaking quasi-polynomial complexity barriers in long-range interacting systems",
+      "title_original": "Spectral small-incremental-entangling: Breaking quasi-polynomial complexity barriers in long-range interacting systems",
+      "title_zh_tw": "頻譜小增量糾纏：突破長程交互作用系統中的準多項式複雜度障礙",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/8fcr-5tf4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/pbbp-bz28",
+      "doi": "10.1103/pbbp-bz28",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/pbbp-bz28",
+          "url": "https://doi.org/10.1103/pbbp-bz28"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過腔體回饋克服材料的內在限制」。",
+      "title": "Overcoming intrinsic material limitations through cavity feedback",
+      "title_original": "Overcoming intrinsic material limitations through cavity feedback",
+      "title_zh_tw": "透過腔體回饋克服材料的內在限制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/pbbp-bz28"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tristan Kraft",
+        "Manoj K. Joshi",
+        "William T. Lam",
+        "Tobias Olsacher",
+        "Florian Kranzl",
+        "Johannes Franke",
+        "Lata Kh Joshi",
+        "Rainer Blatt",
+        "Augusto Smerzi",
+        "Daniel Stilck França",
+        "Benoît Vermersch",
+        "Barbara Kraus",
+        "Christian F. Roos",
+        "Peter Zoller"
+      ],
+      "canonical_id": "doi:10.1103/s96t-n8tx",
+      "doi": "10.1103/s96t-n8tx",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/s96t-n8tx",
+          "url": "https://doi.org/10.1103/s96t-n8tx"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過 Hamiltonian 與 Lindbladian 學習進行有界誤差量子模擬」。",
+      "title": "Bounded-Error Quantum Simulation via Hamiltonian and Lindbladian Learning",
+      "title_original": "Bounded-Error Quantum Simulation via Hamiltonian and Lindbladian Learning",
+      "title_zh_tw": "透過 Hamiltonian 與 Lindbladian 學習進行有界誤差量子模擬",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/s96t-n8tx"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shizhen Zhi",
+        "Xiaojing Ma",
+        "Shanghao Chen",
+        "Tianyu Zhang",
+        "Yao Xu",
+        "Jiang Chen",
+        "Sheng Ye",
+        "Chenhao Lin",
+        "Linmao Wen",
+        "Jinxuan Cheng",
+        "Rongpei Shi",
+        "Xingjun Liu",
+        "Feng Cao",
+        "Lijun Zhang",
+        "Yuhao Fu",
+        "Qian Zhang",
+        "Jun Mao"
+      ],
+      "canonical_id": "doi:10.1103/7nxm-t64f",
+      "doi": "10.1103/7nxm-t64f",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/7nxm-t64f",
+          "url": "https://doi.org/10.1103/7nxm-t64f"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「解析 Mg–Ag–Sb 中的非多晶型相演化，以設計具熱恢復能力的熱電材料」。",
+      "title": "Unraveling Non-polymorphic Phase Evolution in Mg-Ag-Sb for Designing Thermally Recoverable Thermoelectrics",
+      "title_original": "Unraveling Non-polymorphic Phase Evolution in Mg-Ag-Sb for Designing Thermally Recoverable Thermoelectrics",
+      "title_zh_tw": "解析 Mg–Ag–Sb 中的非多晶型相演化，以設計具熱恢復能力的熱電材料",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/7nxm-t64f"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/9cwp-ppp2",
+      "doi": "10.1103/9cwp-ppp2",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/9cwp-ppp2",
+          "url": "https://doi.org/10.1103/9cwp-ppp2"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「600 位點腔體陣列顯微鏡的穩定性、簡併性與可擴展性」。",
+      "title": "Stability, degeneracy, and scalability of a 600-site cavity array microscope",
+      "title_original": "Stability, degeneracy, and scalability of a 600-site cavity array microscope",
+      "title_zh_tw": "600 位點腔體陣列顯微鏡的穩定性、簡併性與可擴展性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/9cwp-ppp2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Merin Jose",
+        "Nicholas H. P. Orr",
+        "Taiki Yanagishima",
+        "Roel P. A. Dullens"
+      ],
+      "canonical_id": "doi:10.1103/ht63-96gl",
+      "doi": "10.1103/ht63-96gl",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/ht63-96gl",
+          "url": "https://doi.org/10.1103/ht63-96gl"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「均勻成核膠體晶體中多晶性的演化」。",
+      "title": "Evolution of Polycrystallinity in Homogeneously Nucleated Colloidal Crystals",
+      "title_original": "Evolution of Polycrystallinity in Homogeneously Nucleated Colloidal Crystals",
+      "title_zh_tw": "均勻成核膠體晶體中多晶性的演化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/ht63-96gl"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/xyq4-kr2k",
+      "doi": "10.1103/xyq4-kr2k",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/xyq4-kr2k",
+          "url": "https://doi.org/10.1103/xyq4-kr2k"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「勘誤：扭轉晶體平帶中的可程式化量子反常霍爾絕緣體 [Phys. Rev. X 16, 011015 (2026)]」。",
+      "title": "Erratum: Programmable quantum anomalous Hall insulator in twisted crystalline flatbands [Phys. Rev. X 16, 011015 (2026)]",
+      "title_original": "Erratum: Programmable quantum anomalous Hall insulator in twisted crystalline flatbands [Phys. Rev. X 16, 011015 (2026)]",
+      "title_zh_tw": "勘誤：扭轉晶體平帶中的可程式化量子反常霍爾絕緣體 [Phys. Rev. X 16, 011015 (2026)]",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/xyq4-kr2k"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/cbbh-8r9c",
+      "doi": "10.1103/cbbh-8r9c",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/cbbh-8r9c",
+          "url": "https://doi.org/10.1103/cbbh-8r9c"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「交互作用微觀系統的節能控制：較長路徑何時反而節省能量」。",
+      "title": "Energy-efficient control of interacting microscopic Systems: When longer paths save energy",
+      "title_original": "Energy-efficient control of interacting microscopic Systems: When longer paths save energy",
+      "title_zh_tw": "交互作用微觀系統的節能控制：較長路徑何時反而節省能量",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/cbbh-8r9c"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhaoyu Liu",
+        "Sijie Xu",
+        "Jonathan M. DeStefano",
+        "Elliott Rosenberg",
+        "Tingjun Zhang",
+        "Jinyulin Li",
+        "Matthew B. Stone",
+        "Feng Ye",
+        "Wei Tian",
+        "Sarah Edwards",
+        "Rong Cong",
+        "Siyu Pan",
+        "Ching-Wu Chu",
+        "Liangzi Deng",
+        "Emilia Morosan",
+        "Rafael M. Fernandes",
+        "Jiun-Haw Chu",
+        "Pengcheng Dai"
+      ],
+      "canonical_id": "doi:10.1103/589s-s1yy",
+      "doi": "10.1103/589s-s1yy",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/589s-s1yy",
+          "url": "https://doi.org/10.1103/589s-s1yy"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「六方晶系 MnTe 中可由應變調控的反常霍爾效應」。",
+      "title": "Strain-Tunable Anomalous Hall Effect in Hexagonal MnTe",
+      "title_original": "Strain-Tunable Anomalous Hall Effect in Hexagonal MnTe",
+      "title_zh_tw": "六方晶系 MnTe 中可由應變調控的反常霍爾效應",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/589s-s1yy"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/w1nt-6s12",
+      "doi": "10.1103/w1nt-6s12",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/w1nt-6s12",
+          "url": "https://doi.org/10.1103/w1nt-6s12"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「四方晶格 YbMnBi2 中的自旋向列液晶與標量自旋手性」。",
+      "title": "Spin nematic liquid crystal and scalar spin chirality in tetragonal lattice YbMnBi 2",
+      "title_original": "Spin nematic liquid crystal and scalar spin chirality in tetragonal lattice YbMnBi 2",
+      "title_zh_tw": "四方晶格 YbMnBi2 中的自旋向列液晶與標量自旋手性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/w1nt-6s12"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Y. M. Vilk",
+        "A.-M. S. Tremblay"
+      ],
+      "canonical_id": "doi:10.1103/7v3y-tbbr",
+      "doi": "10.1103/7v3y-tbbr",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/7v3y-tbbr",
+          "url": "https://doi.org/10.1103/7v3y-tbbr"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「二維 Hubbard 模型中隨摻雜變化的偽能隙、費米液體、Van Hove 奇異點，以及壓縮率與 Knight 位移最大值」。",
+      "title": "Pseudogap, Fermi Liquid, Van Hove Singularity, and Maxima of the Compressibility and of the Knight Shift as a Function of Doping in the Two-Dimensional Hubbard Model",
+      "title_original": "Pseudogap, Fermi Liquid, Van Hove Singularity, and Maxima of the Compressibility and of the Knight Shift as a Function of Doping in the Two-Dimensional Hubbard Model",
+      "title_zh_tw": "二維 Hubbard 模型中隨摻雜變化的偽能隙、費米液體、Van Hove 奇異點，以及壓縮率與 Knight 位移最大值",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/7v3y-tbbr"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/tb52-jxmx",
+      "doi": "10.1103/tb52-jxmx",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/tb52-jxmx",
+          "url": "https://doi.org/10.1103/tb52-jxmx"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「自然很吝嗇：量子多體系統中 Scrooge 系綜的普適性」。",
+      "title": "Nature is stingy: Universality of Scrooge ensembles in quantum many-body systems",
+      "title_original": "Nature is stingy: Universality of Scrooge ensembles in quantum many-body systems",
+      "title_zh_tw": "自然很吝嗇：量子多體系統中 Scrooge 系綜的普適性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/tb52-jxmx"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/6j6l-kb6x",
+      "doi": "10.1103/6j6l-kb6x",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/6j6l-kb6x",
+          "url": "https://doi.org/10.1103/6j6l-kb6x"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「反鐵磁體表面的湧現交替磁性：完整對稱性分類與材料辨識」。",
+      "title": "Emergent altermagnetism at surfaces of antiferromagnets: Full symmetry classification and material identification",
+      "title_original": "Emergent altermagnetism at surfaces of antiferromagnets: Full symmetry classification and material identification",
+      "title_zh_tw": "反鐵磁體表面的湧現交替磁性：完整對稱性分類與材料辨識",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/6j6l-kb6x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/jrn5-gv19",
+      "doi": "10.1103/jrn5-gv19",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/jrn5-gv19",
+          "url": "https://doi.org/10.1103/jrn5-gv19"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過模糊取樣消除變分蒙地卡羅中的節點與支撐不匹配病態問題」。",
+      "title": "Removing nodal and support-mismatch pathologies in Variational Monte Carlo via blurred sampling",
+      "title_original": "Removing nodal and support-mismatch pathologies in Variational Monte Carlo via blurred sampling",
+      "title_zh_tw": "透過模糊取樣消除變分蒙地卡羅中的節點與支撐不匹配病態問題",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/jrn5-gv19"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/7nds-tjr8",
+      "doi": "10.1103/7nds-tjr8",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/7nds-tjr8",
+          "url": "https://doi.org/10.1103/7nds-tjr8"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「代理人的資訊熱力學：具記憶通道的做功能力」。",
+      "title": "Information thermodynamics of agents: The work capacity of channels with memory",
+      "title_original": "Information thermodynamics of agents: The work capacity of channels with memory",
+      "title_zh_tw": "代理人的資訊熱力學：具記憶通道的做功能力",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/7nds-tjr8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nina Javerzat",
+        "Daniele Notarmuzi"
+      ],
+      "canonical_id": "doi:10.1103/sv88-j2wj",
+      "doi": "10.1103/sv88-j2wj",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/sv88-j2wj",
+          "url": "https://doi.org/10.1103/sv88-j2wj"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「二維剛性滲流的快速演算法」。",
+      "title": "Fast Algorithm for 2D Rigidity Percolation",
+      "title_original": "Fast Algorithm for 2D Rigidity Percolation",
+      "title_zh_tw": "二維剛性滲流的快速演算法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/sv88-j2wj"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/qjt6-hj2k",
+      "doi": "10.1103/qjt6-hj2k",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/qjt6-hj2k",
+          "url": "https://doi.org/10.1103/qjt6-hj2k"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「UTe2 中消失的相位剛度與漲落主導的超導性」。",
+      "title": "Vanishing phase stiffness and fluctuation-dominated superconductivity in UTe 2",
+      "title_original": "Vanishing phase stiffness and fluctuation-dominated superconductivity in UTe 2",
+      "title_zh_tw": "UTe2 中消失的相位剛度與漲落主導的超導性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/qjt6-hj2k"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/7kd1-kxxz",
+      "doi": "10.1103/7kd1-kxxz",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/7kd1-kxxz",
+          "url": "https://doi.org/10.1103/7kd1-kxxz"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於 Lindbladian 能譜與穩態的張量網路框架」。",
+      "title": "Tensor network framework for Lindbladian spectra and steady states",
+      "title_original": "Tensor network framework for Lindbladian spectra and steady states",
+      "title_zh_tw": "用於 Lindbladian 能譜與穩態的張量網路框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/7kd1-kxxz"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Y. Shen",
+        "W. He",
+        "J. Sears",
+        "Xuefei Guo",
+        "Xiangpeng Luo",
+        "A. Roll",
+        "J. Li",
+        "J. Pelliciari",
+        "Xi He",
+        "I. Božovič",
+        "Junjie Zhang",
+        "J. F. Mitchell",
+        "V. Bisogni",
+        "M. Mitrano",
+        "S. Johnston",
+        "M. P. M. Dean"
+      ],
+      "canonical_id": "doi:10.1103/3ycq-jclr",
+      "doi": "10.1103/3ycq-jclr",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/3ycq-jclr",
+          "url": "https://doi.org/10.1103/3ycq-jclr"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「低價態鎳酸鹽中關聯電漿子的觀測」。",
+      "title": "Observation of Correlated Plasmons in Low-Valence Nickelates",
+      "title_original": "Observation of Correlated Plasmons in Low-Valence Nickelates",
+      "title_zh_tw": "低價態鎳酸鹽中關聯電漿子的觀測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/3ycq-jclr"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Matteo Ippoliti",
+        "David M. Long"
+      ],
+      "canonical_id": "doi:10.1103/tvny-gtzp",
+      "doi": "10.1103/tvny-gtzp",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/tvny-gtzp",
+          "url": "https://doi.org/10.1103/tvny-gtzp"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「零能量下的無限溫度」。",
+      "title": "Infinite Temperature at Zero Energy",
+      "title_original": "Infinite Temperature at Zero Energy",
+      "title_zh_tw": "零能量下的無限溫度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/tvny-gtzp"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shuai Zhang",
+        "Yanyu Jia",
+        "Atanu Samanta",
+        "Yutian Bao",
+        "Haosen Guan",
+        "Zhaoyi Joy Zheng",
+        "Guangming Cheng",
+        "Ting Liu",
+        "Cangyu Qu",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Nan Yao",
+        "Ashlie Martini",
+        "Leslie Schoop",
+        "Andrew M. Rappe",
+        "Sanfeng Wu",
+        "Robert W. Carpick"
+      ],
+      "canonical_id": "doi:10.1103/g2rj-jt2f",
+      "doi": "10.1103/g2rj-jt2f",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/g2rj-jt2f",
+          "url": "https://doi.org/10.1103/g2rj-jt2f"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「原子級薄金屬的機械化學奈米書寫」。",
+      "title": "Mechanochemical Nano-Writing of an Atomically Thin Metal",
+      "title_original": "Mechanochemical Nano-Writing of an Atomically Thin Metal",
+      "title_zh_tw": "原子級薄金屬的機械化學奈米書寫",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/g2rj-jt2f"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Koji Yamaguchi",
+        "Yosuke Mitsuhashi",
+        "Tomohiro Shitara",
+        "Hiroyasu Tajima"
+      ],
+      "canonical_id": "doi:10.1103/qqf6-x85b",
+      "doi": "10.1103/qqf6-x85b",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/qqf6-x85b",
+          "url": "https://doi.org/10.1103/qqf6-x85b"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「量子幾何張量決定任意緊緻 Lie 群不對稱性資源理論中的純態獨立同分布轉換率」。",
+      "title": "Quantum Geometric Tensor Determines the Pure-State I.I.D. Conversion Rate in the Resource Theory of Asymmetry for Any Compact Lie Group",
+      "title_original": "Quantum Geometric Tensor Determines the Pure-State I.I.D. Conversion Rate in the Resource Theory of Asymmetry for Any Compact Lie Group",
+      "title_zh_tw": "量子幾何張量決定任意緊緻 Lie 群不對稱性資源理論中的純態獨立同分布轉換率",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/qqf6-x85b"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Felix Fritzsch",
+        "Pieter W. Claeys"
+      ],
+      "canonical_id": "doi:10.1103/6mpz-p85s",
+      "doi": "10.1103/6mpz-p85s",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/6mpz-p85s",
+          "url": "https://doi.org/10.1103/6mpz-p85s"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「最小量子電路模型中的自由機率」。",
+      "title": "Free Probability in a Minimal Quantum Circuit Model",
+      "title_original": "Free Probability in a Minimal Quantum Circuit Model",
+      "title_zh_tw": "最小量子電路模型中的自由機率",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/6mpz-p85s"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/vwx8-mdtw",
+      "doi": "10.1103/vwx8-mdtw",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/vwx8-mdtw",
+          "url": "https://doi.org/10.1103/vwx8-mdtw"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「由焦綠石晶格上的競爭序驅動之精確向列相與混合磁相」。",
+      "title": "Exact nematic and mixed magnetic phases driven by competing orders on the pyrochlore lattice",
+      "title_original": "Exact nematic and mixed magnetic phases driven by competing orders on the pyrochlore lattice",
+      "title_zh_tw": "由焦綠石晶格上的競爭序驅動之精確向列相與混合磁相",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/vwx8-mdtw"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/2rw7-bzl4",
+      "doi": "10.1103/2rw7-bzl4",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/2rw7-bzl4",
+          "url": "https://doi.org/10.1103/2rw7-bzl4"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「邁向拓撲絕緣體與超導體的完整表徵：基於 Atiyah–Hirzebruch 譜序列系統建構拓撲不變量」。",
+      "title": "Towards complete characterization of topological insulators and superconductors: A systematic construction of topological invariants based on Atiyah-Hirzebruch spectral sequence",
+      "title_original": "Towards complete characterization of topological insulators and superconductors: A systematic construction of topological invariants based on Atiyah-Hirzebruch spectral sequence",
+      "title_zh_tw": "邁向拓撲絕緣體與超導體的完整表徵：基於 Atiyah–Hirzebruch 譜序列系統建構拓撲不變量",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/2rw7-bzl4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Koki Shinada",
+        "Naoto Nagaosa"
+      ],
+      "canonical_id": "doi:10.1103/2szj-s2nx",
+      "doi": "10.1103/2szj-s2nx",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/2szj-s2nx",
+          "url": "https://doi.org/10.1103/2szj-s2nx"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「磁性紋理的黎曼幾何分類與湧現現象」。",
+      "title": "Riemannian Geometric Classification and Emergent Phenomena of Magnetic Textures",
+      "title_original": "Riemannian Geometric Classification and Emergent Phenomena of Magnetic Textures",
+      "title_zh_tw": "磁性紋理的黎曼幾何分類與湧現現象",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/2szj-s2nx"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anonymous"
+      ],
+      "canonical_id": "doi:10.1103/bw7c-y5dc",
+      "doi": "10.1103/bw7c-y5dc",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/bw7c-y5dc",
+          "url": "https://doi.org/10.1103/bw7c-y5dc"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「密度退相干下的分數量子霍爾態」。",
+      "title": "Fractional quantum Hall states under density decoherence",
+      "title_original": "Fractional quantum Hall states under density decoherence",
+      "title_zh_tw": "密度退相干下的分數量子霍爾態",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/bw7c-y5dc"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yue Wan",
+        "Robert Rosenbaum"
+      ],
+      "canonical_id": "doi:10.1103/79h2-36r3",
+      "doi": "10.1103/79h2-36r3",
+      "issns": [
+        "2160-3308"
+      ],
+      "journal": "Physical Review X",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1103/79h2-36r3",
+          "url": "https://doi.org/10.1103/79h2-36r3"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「低維網路中的高維動力學」。",
+      "title": "High-Dimensional Dynamics in Low-Dimensional Networks",
+      "title_original": "High-Dimensional Dynamics in Low-Dimensional Networks",
+      "title_zh_tw": "低維網路中的高維動力學",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1103/79h2-36r3"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__physical-review-x__2026-08__r03.json",
+    "manifest_json": "EvidenceRadar_Editions__physical-review-x__2026-08__r03.manifest.json",
+    "report_html": "EvidenceRadar_Editions__physical-review-x__2026-08__r03.html",
+    "stem": "EvidenceRadar_Editions__physical-review-x__2026-08__r03",
+    "translation_request_json": "EvidenceRadar_Editions__physical-review-x__2026-08__r03.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__physical-review-x__2026-08__r03.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 40,
+    "by_article_type": {
+      "journal-article": 40
+    },
+    "by_source": {
+      "crossref": 40
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 40,
+    "translated_articles": 29
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "physical-review-x__2026-08__r03",
+  "edition_key": "physical-review-x__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-23",
+    "acquisition_start": "2026-08-20",
+    "added_article_count": 6,
+    "base_article_count": 34,
+    "base_edition_sha256": "69c68757b46e3e959214f3cecd3a72adfbbfc8ad3d88947ae75601dcf6e66a44",
+    "base_manifest_publication_id": "physical-review-x__2026-08__r02",
+    "base_period_end": "2026-08-19",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "physical-review-x__2026-08__r02",
+    "base_revision": 2,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 6,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 40
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-23",
+    "incremental_acquisition_start": "2026-08-20",
+    "journal_slug": "physical-review-x",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 40,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 6,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "physical-review-x__2026-08__r03",
+  "retrieved_at": "2026-08-23T08:04:13Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__physical-review-x__2026-08__r03",
+    "edition_key": "physical-review-x__2026-08",
+    "end_date": "2026-08-23",
+    "issn": "2160-3308",
+    "journal": "Physical Review X",
+    "journal_slug": "physical-review-x",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 23 日）",
+    "period_status": "MTD",
+    "publication_id": "physical-review-x__2026-08__r03",
+    "revision": 3,
+    "slug": "physical-review-x",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 6,
+      "detail": null,
+      "query": "container=Physical Review X; publication=2026-08-20..2026-08-23",
+      "returned_count": 6,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 6,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "physical-review-x__2026-08__r02",
+    "language": "zh-TW",
+    "request_binding_sha256": "7f8e331a29aae6d000727f85dade536f0035f12cb8a6dc161ea67c94ac72051b",
+    "response_generated_at": "2026-08-14T07:32:01Z",
+    "response_sha256": "77e3a3361705a7d42f0c03dff1ff244bbf0d209ee5e0ba88f0fc1178a64b4553",
+    "source_edition_sha256": "061e492b7c0803a43a769c359e1d0d7b011b2eadabb2bdc6cb59250d295cc595",
+    "status": "PARTIAL",
+    "total_articles": 40,
+    "translated_articles": 29
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "physical_review_x"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
