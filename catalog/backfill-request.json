@@ -1,24 +1,29 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-fourth-ten-through-23",
+  "request_id": "2026-08-fifth-fifteen-through-23",
   "acquisition_start": "2026-08-20",
   "acquisition_end": "2026-08-23",
   "revision": 3,
-  "selection_count": 10,
+  "selection_count": 15,
   "selection_base_revision": 2,
   "selection_base_period_end": "2026-08-19",
   "journals": [
-    "knowledge-based-systems",
-    "machine-learning",
-    "national-science-review",
-    "nature-communications",
-    "nature-machine-intelligence",
-    "neural-networks",
-    "nutrition",
-    "nutrition-research",
-    "physical-review-x",
-    "physical-therapy-in-sport"
+    "plos-biology",
+    "plos-medicine",
+    "pnas-nexus",
+    "science-advances",
+    "scientific-data",
+    "scientific-reports",
+    "sports-medicine-and-health-science",
+    "journal-of-nutritional-biochemistry",
+    "the-lancet",
+    "the-lancet-digital-health",
+    "the-lancet-global-health",
+    "the-lancet-healthy-longevity",
+    "the-lancet-regional-health-americas",
+    "the-lancet-regional-health-europe",
+    "the-lancet-regional-health-western-pacific"
   ],
-  "selection_semantics": "Fourth proven core-journal partition for the August suffix update; each journal has an immutable r02 base ending 2026-08-19 and therefore targets r03."
+  "selection_semantics": "Fifth proven core-journal partition for the August suffix update, including the high-volume Scientific Reports edition; each journal has an immutable r02 base ending 2026-08-19 and therefore targets r03."
 }
