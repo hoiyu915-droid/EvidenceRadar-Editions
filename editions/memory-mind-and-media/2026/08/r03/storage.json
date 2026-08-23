@@ -1,0 +1,20 @@
+{
+  "artifact_type": "EvidenceRadar_Editions_CanonicalStoreEntry",
+  "journal_slug": "memory-mind-and-media",
+  "period_key": "2026-08",
+  "publication_id": "memory-mind-and-media__2026-08__r03",
+  "revision": 3,
+  "schema_version": "3.0",
+  "source_bundle": {
+    "edition_json": "EvidenceRadar_Editions__memory-mind-and-media__2026-08__r03.json",
+    "manifest_json": "EvidenceRadar_Editions__memory-mind-and-media__2026-08__r03.manifest.json",
+    "report_html": "EvidenceRadar_Editions__memory-mind-and-media__2026-08__r03.html"
+  },
+  "storage_policy": {
+    "canonical_json_in_git": true,
+    "html_in_git": false,
+    "html_rendered_by_pages": true,
+    "manifest_in_git": true
+  },
+  "stored_at": "2026-08-23T08:21:51Z"
+}

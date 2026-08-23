@@ -1,0 +1,43 @@
+{
+  "article_count": 0,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:21:42Z",
+  "edition_id": "epidemiology-and-infection__2026-08__r03",
+  "edition_key": "epidemiology-and-infection__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 5613,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__epidemiology-and-infection__2026-08__r03.json",
+      "sha256": "e949a0cf52a29fe30bc4796b7cc227258accbcfdfbfcf422ef623a04f105430d"
+    },
+    "report_html": {
+      "bytes": 15474,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__epidemiology-and-infection__2026-08__r03.html",
+      "sha256": "2ecd75051cb411f27c92c66b3b68bc62d4ea38084f9f13e85590aab2f17d6f6b"
+    }
+  },
+  "journal": "Epidemiology & Infection",
+  "journal_slug": "epidemiology-and-infection",
+  "manifest_name": "EvidenceRadar_Editions__epidemiology-and-infection__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "epidemiology-and-infection__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "NO_MATCHING_ARTICLES",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUIRED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

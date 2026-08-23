@@ -1,0 +1,43 @@
+{
+  "article_count": 5,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:21:48Z",
+  "edition_id": "journal-of-nutritional-science__2026-08__r03",
+  "edition_key": "journal-of-nutritional-science__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 14585,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__journal-of-nutritional-science__2026-08__r03.json",
+      "sha256": "b78dacf6c20d29b3a74f612078a000928553dfbb0594f1b9e84b07a61305e48d"
+    },
+    "report_html": {
+      "bytes": 27165,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__journal-of-nutritional-science__2026-08__r03.html",
+      "sha256": "30c896aff906301d892fd25547f742a37d5645d1f846a6247b56d255932f5a70"
+    }
+  },
+  "journal": "Journal of Nutritional Science",
+  "journal_slug": "journal-of-nutritional-science",
+  "manifest_name": "EvidenceRadar_Editions__journal-of-nutritional-science__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "journal-of-nutritional-science__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
