@@ -1,20 +1,19 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-final-core-two-through-19",
-  "acquisition_start": "2026-08-15",
-  "acquisition_end": "2026-08-19",
-  "revision": 2,
-  "selection_count": 2,
-  "selection_base_revision": 1,
-  "selection_base_period_end": "2026-08-14",
-  "allow_planned_journals": [
-    "chemical-science",
-    "tmlr"
-  ],
+  "request_id": "2026-08-first-five-through-23",
+  "acquisition_start": "2026-08-20",
+  "acquisition_end": "2026-08-23",
+  "revision": 3,
+  "selection_count": 5,
+  "selection_base_revision": 2,
+  "selection_base_period_end": "2026-08-19",
   "journals": [
-    "chemical-science",
-    "tmlr"
+    "acs-central-science",
+    "artificial-intelligence",
+    "artificial-intelligence-in-medicine",
+    "clinical-biomechanics",
+    "clinical-nutrition"
   ],
-  "selection_semantics": "Final two existing August editions outside the Cambridge provider batch; both have immutable r01 bases ending 2026-08-14 and therefore target r02."
+  "selection_semantics": "First five core journals from the proven August backfill partition; each has an immutable r02 base ending 2026-08-19 and therefore targets r03."
 }
