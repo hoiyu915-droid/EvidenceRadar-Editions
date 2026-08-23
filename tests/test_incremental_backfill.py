@@ -276,8 +276,13 @@ class IncrementalBackfillTests(unittest.TestCase):
             known = {item["slug"] for item in registry["journals"]}
         self.assertEqual(len(request["journals"]), request["selection_count"])
         self.assertTrue(set(request["journals"]).issubset(known))
-        self.assertEqual(request["max_records_by_journal"], {})
-        self.assertEqual(request["policy_override_journals"], [])
+        limits = request["max_records_by_journal"]
+        overrides = request["policy_override_journals"]
+        self.assertTrue(set(limits).issubset(request["journals"]))
+        self.assertTrue(set(overrides).issubset(limits))
+        for limit in limits.values():
+            self.assertGreaterEqual(limit, 1)
+            self.assertLessEqual(limit, 5000)
         base_revision = request["selection_base_revision"]
         base_period_end = request["selection_base_period_end"]
         for slug in request["journals"]:
