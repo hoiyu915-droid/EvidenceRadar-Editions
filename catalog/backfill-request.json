@@ -25,5 +25,11 @@
     "the-lancet-regional-health-europe",
     "the-lancet-regional-health-western-pacific"
   ],
-  "selection_semantics": "Fifth proven core-journal partition for the August suffix update, including the high-volume Scientific Reports edition; each journal has an immutable r02 base ending 2026-08-19 and therefore targets r03."
+  "selection_semantics": "Fifth proven core-journal partition for the August suffix update, with the previously audited 1,000-record override for high-volume Scientific Reports; each journal has an immutable r02 base ending 2026-08-19 and therefore targets r03.",
+  "max_records_by_journal": {
+    "scientific-reports": 1000
+  },
+  "policy_override_journals": [
+    "scientific-reports"
+  ]
 }
