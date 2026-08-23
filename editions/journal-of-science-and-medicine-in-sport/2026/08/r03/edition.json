@@ -1,0 +1,1238 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andy Roosen",
+        "Alison Burchell",
+        "Stephen Cobley"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.01.017",
+      "doi": "10.1016/j.jsams.2026.01.017",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41667315",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.01.017",
+          "url": "https://doi.org/10.1016/j.jsams.2026.01.017"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41667315",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41667315/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「觀點：如何界定與培育太平洋地區「菁英運動員」——太平洋島國的考量」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Viewpoint: Defining and developing the Pacific ‘elite athlete’ – Considerations for Pacific Island Countries",
+      "title_original": "Viewpoint: Defining and developing the Pacific ‘elite athlete’ – Considerations for Pacific Island Countries",
+      "title_zh_tw": "觀點：如何界定與培育太平洋地區「菁英運動員」——太平洋島國的考量",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.01.017",
+        "https://pubmed.ncbi.nlm.nih.gov/41667315/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alexandra Geard",
+        "Thomas M. Doering",
+        "Michael A. Carron",
+        "Melanie Hayman"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.02.017",
+      "doi": "10.1016/j.jsams.2026.02.017",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41963142",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.02.017",
+          "url": "https://doi.org/10.1016/j.jsams.2026.02.017"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41963142",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41963142/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「缺失的拼圖：孕婦阻力訓練研究中訓練變項報告情況的系統性回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The missing pieces: A systematic review of the reporting of resistance training variables in studies of pregnant women",
+      "title_original": "The missing pieces: A systematic review of the reporting of resistance training variables in studies of pregnant women",
+      "title_zh_tw": "缺失的拼圖：孕婦阻力訓練研究中訓練變項報告情況的系統性回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.02.017",
+        "https://pubmed.ncbi.nlm.nih.gov/41963142/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alfonso de la Rubia",
+        "Carlos García-Sánchez",
+        "Elena Andrino",
+        "Celia Sánchez de la Iglesia",
+        "Amelia Ferro",
+        "Moisés Marquina"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.004",
+      "doi": "10.1016/j.jsams.2026.03.004",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41887943",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.004",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.004"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41887943",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41887943/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「生物成熟度分組對青少年手球技術與戰術表現的影響：男女青訓選手的初步證據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The impact of bio-banding on technical–tactical performance in youth handball: first insights from male and female academy players",
+      "title_original": "The impact of bio-banding on technical–tactical performance in youth handball: first insights from male and female academy players",
+      "title_zh_tw": "生物成熟度分組對青少年手球技術與戰術表現的影響：男女青訓選手的初步證據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.004",
+        "https://pubmed.ncbi.nlm.nih.gov/41887943/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jinfa Gu",
+        "Shiwei Chen",
+        "Zhongxu Hu",
+        "Yu Zhang",
+        "Ruohan Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.018",
+      "doi": "10.1016/j.jsams.2026.03.018",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41974598",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.018",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.018"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41974598",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41974598/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「功能性穩定訓練遵從度對下肢傷害預防的影響：依介入類型與訓練劑量進行的統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The effect of adherence to functional stability training on lower-limb injury prevention: A meta-analysis based on intervention type and training dose",
+      "title_original": "The effect of adherence to functional stability training on lower-limb injury prevention: A meta-analysis based on intervention type and training dose",
+      "title_zh_tw": "功能性穩定訓練遵從度對下肢傷害預防的影響：依介入類型與訓練劑量進行的統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.018",
+        "https://pubmed.ncbi.nlm.nih.gov/41974598/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nicole Spriggs",
+        "Stefan Henley",
+        "Natalia Kabaliuk",
+        "Danyon Stitt",
+        "Annette G. Heward-Swale",
+        "Congyu Xu",
+        "Kevin Mangan",
+        "Rich S.W. Masters",
+        "Tracy R. Melzer",
+        "Arindam Basu",
+        "Tim Anderson",
+        "Deborah Snell",
+        "Adrian Clark",
+        "Keith Alexander",
+        "Sinéad Moylett",
+        "Michael J. Hamlin",
+        "Nick Draper"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.08.200",
+      "doi": "10.1016/j.jsams.2026.08.200",
+      "issns": [
+        "1440-2440"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.08.200",
+          "url": "https://doi.org/10.1016/j.jsams.2026.08.200"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「擒抱技術與青少女橄欖球員頭部加速度事件的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The association between tackle technique and head acceleration events in a cross-section of adolescent female rugby players",
+      "title_original": "The association between tackle technique and head acceleration events in a cross-section of adolescent female rugby players",
+      "title_zh_tw": "擒抱技術與青少女橄欖球員頭部加速度事件的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.08.200"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sara Monosilio",
+        "Alessandro Spinelli",
+        "Armando Ferrera",
+        "Cosimo Damiano Daniello",
+        "Giuseppe Di Gioia",
+        "Giovanni Tonti",
+        "Gianni Pedrizzetti",
+        "Gianfranco Gualdi",
+        "Maria Rosaria Squeo",
+        "Antonio Pelliccia",
+        "Viviana Maestrini"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.04.004",
+      "doi": "10.1016/j.jsams.2026.04.004",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "42103578",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.04.004",
+          "url": "https://doi.org/10.1016/j.jsams.2026.04.004"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42103578",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42103578/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「運動員上心室心律不整與心臟磁振下的左心房評估：不只看左心室」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Supraventricular arrhythmias and left atrial evaluation in athletes by CMR: going beyond the left ventricle",
+      "title_original": "Supraventricular arrhythmias and left atrial evaluation in athletes by CMR: going beyond the left ventricle",
+      "title_zh_tw": "運動員上心室心律不整與心臟磁振下的左心房評估：不只看左心室",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.04.004",
+        "https://pubmed.ncbi.nlm.nih.gov/42103578/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohammed Abrahim",
+        "Neil Dilworth"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.019",
+      "doi": "10.1016/j.jsams.2026.03.019",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41997841",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.019",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.019"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41997841",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41997841/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「足球相關鈍性胸部創傷誘發異常上心室心搏過速並揭露青少年 Wolff–Parkinson–White 症候群」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Soccer-related blunt chest trauma inducing aberrant supraventricular tachycardia and unmasking Wolff–Parkinson–White syndrome in an adolescent",
+      "title_original": "Soccer-related blunt chest trauma inducing aberrant supraventricular tachycardia and unmasking Wolff–Parkinson–White syndrome in an adolescent",
+      "title_zh_tw": "足球相關鈍性胸部創傷誘發異常上心室心搏過速並揭露青少年 Wolff–Parkinson–White 症候群",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.019",
+        "https://pubmed.ncbi.nlm.nih.gov/41997841/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Abby Hanselman",
+        "Karin Grӓvare Silbernagel",
+        "Kayla D. Seymore",
+        "Richard W. Willy",
+        "Ryan T. Pohlig",
+        "Patrick Corrigan"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.08.002",
+      "doi": "10.1016/j.jsams.2026.08.002",
+      "issns": [
+        "1440-2440"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.08.002",
+          "url": "https://doi.org/10.1016/j.jsams.2026.08.002"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「阿基里斯腱病變者跑步時的肌腱受力：長時間跑步全程分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Running with Achilles tendinopathy: tendon forces throughout a prolonged run",
+      "title_original": "Running with Achilles tendinopathy: tendon forces throughout a prolonged run",
+      "title_zh_tw": "阿基里斯腱病變者跑步時的肌腱受力：長時間跑步全程分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.08.002"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tinka Smolarek",
+        "Patrick Wahl",
+        "Sebastian Keller"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.021",
+      "doi": "10.1016/j.jsams.2026.03.021",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41991429",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.021",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.021"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41991429",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41991429/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「游泳代謝表現決定因子新型診斷流程的信度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reliability of novel diagnostic protocols for metabolic performance determinants in swimming",
+      "title_original": "Reliability of novel diagnostic protocols for metabolic performance determinants in swimming",
+      "title_zh_tw": "游泳代謝表現決定因子新型診斷流程的信度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.021",
+        "https://pubmed.ncbi.nlm.nih.gov/41991429/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiaoxue Zhu",
+        "Zhaoyang Yan",
+        "Qiongqiu Zhao",
+        "Qi Wang",
+        "Simin Li",
+        "Daniel T.P. Fong",
+        "Qipeng Song"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.08.003",
+      "doi": "10.1016/j.jsams.2026.08.003",
+      "issns": [
+        "1440-2440"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.08.003",
+          "url": "https://doi.org/10.1016/j.jsams.2026.08.003"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「慢性踝關節不穩定者在動態內翻擾動下採取保護性落地策略並降低前距腓韌帶應變」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "People with chronic ankle instability adopt protective landing strategies and reduced anterior Talofibular ligament strain during dynamic inversion perturbations",
+      "title_original": "People with chronic ankle instability adopt protective landing strategies and reduced anterior Talofibular ligament strain during dynamic inversion perturbations",
+      "title_zh_tw": "慢性踝關節不穩定者在動態內翻擾動下採取保護性落地策略並降低前距腓韌帶應變",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.08.003"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sita N.L. Coenjaerts",
+        "Tom P.A. Beddows",
+        "Adam W. Weir",
+        "Roelina Munnik-Hagewoud",
+        "Leo Kluijtmans",
+        "Rutger Zuurmond",
+        "Walter van der Weegen",
+        "Wart van Zoest",
+        "Rick Verjans",
+        "Judith olde Heuvel",
+        "Roelof Welling",
+        "Roy Hoogeslag",
+        "Sietske van Berkel",
+        "Denise Eygendaal",
+        "Rintje Agricola",
+        "Pim van Klij"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.005",
+      "doi": "10.1016/j.jsams.2026.03.005",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41916790",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.005",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.005"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41916790",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41916790/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「荷蘭職業女子足球員髖部肌力與活動度常模值：PROFE hip 研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Normative values for hip strength and range of motion in Dutch professional female football players – PROFE hip study",
+      "title_original": "Normative values for hip strength and range of motion in Dutch professional female football players – PROFE hip study",
+      "title_zh_tw": "荷蘭職業女子足球員髖部肌力與活動度常模值：PROFE hip 研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.005",
+        "https://pubmed.ncbi.nlm.nih.gov/41916790/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Luke Stoneback",
+        "Brianna Buchanan",
+        "Benjamin D. Weishuhn",
+        "Peter C.D. Macpherson",
+        "Lindsey K. Lepley"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.017",
+      "doi": "10.1016/j.jsams.2026.03.017",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41946641",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.017",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.017"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41946641",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41946641/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「ACL 損傷後的肌肉準備好重建了嗎，還是受限於粒線體功能障礙？」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Is the muscle post-ACL injury ready to rebuild or is it limited by mitochondrial dysfunction?",
+      "title_original": "Is the muscle post-ACL injury ready to rebuild or is it limited by mitochondrial dysfunction?",
+      "title_zh_tw": "ACL 損傷後的肌肉準備好重建了嗎，還是受限於粒線體功能障礙？",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.017",
+        "https://pubmed.ncbi.nlm.nih.gov/41946641/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ryo Ogaki",
+        "Takuya Tajima",
+        "Kenji Hara",
+        "Daisuke Yoshikawa",
+        "Masahiro Furudate",
+        "Haruhiko Sato",
+        "Akihiko Nakamura",
+        "Ichiro Kono"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.08.203",
+      "doi": "10.1016/j.jsams.2026.08.203",
+      "issns": [
+        "1440-2440"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.08.203",
+          "url": "https://doi.org/10.1016/j.jsams.2026.08.203"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「日本菁英男子橄欖球聯賽的傷害發生率、嚴重度與負擔」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Incidence, severity, and burden of injury in the Japanese elite men's Rugby union league",
+      "title_original": "Incidence, severity, and burden of injury in the Japanese elite men's Rugby union league",
+      "title_zh_tw": "日本菁英男子橄欖球聯賽的傷害發生率、嚴重度與負擔",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.08.203"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Liam Colbert",
+        "Omar Heyward",
+        "Ben Jones",
+        "Isla J. Shill",
+        "Anna Stodter",
+        "Carolyn A. Emery",
+        "Gemma Knight",
+        "Simon Roberts",
+        "Keith Stokes",
+        "Stephen West"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.08.199",
+      "doi": "10.1016/j.jsams.2026.08.199",
+      "issns": [
+        "1440-2440"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.08.199",
+          "url": "https://doi.org/10.1016/j.jsams.2026.08.199"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「降低法定擒抱高度對青少女橄欖球擒抱行為、比賽事件與疑似傷害率的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Impact of lowering the legal tackle height on tackle behaviour, match events, and suspected injury rates in adolescent female Rugby union",
+      "title_original": "Impact of lowering the legal tackle height on tackle behaviour, match events, and suspected injury rates in adolescent female Rugby union",
+      "title_zh_tw": "降低法定擒抱高度對青少女橄欖球擒抱行為、比賽事件與疑似傷害率的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.08.199"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zixin Zhang",
+        "Giovanni Ferreira",
+        "Evangelos Pappas",
+        "Simon Hall",
+        "Peter Malliaras",
+        "Christopher Maher",
+        "Joshua R. Zadro"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.006",
+      "doi": "10.1016/j.jsams.2026.03.006",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41956950",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.006",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.006"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41956950",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41956950/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「診斷標籤對髕股疼痛處置意圖的影響：線上隨機實驗研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Effects of diagnostic labels on management intentions for patellofemoral pain: An online randomised experimental study",
+      "title_original": "Effects of diagnostic labels on management intentions for patellofemoral pain: An online randomised experimental study",
+      "title_zh_tw": "診斷標籤對髕股疼痛處置意圖的影響：線上隨機實驗研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.006",
+        "https://pubmed.ncbi.nlm.nih.gov/41956950/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Simon P. Roberts",
+        "Stephen W. West",
+        "Matthew V. Hancock",
+        "Craig Barden",
+        "Jac Powell",
+        "James C. Brown",
+        "Vanda White",
+        "Isla J. Shill",
+        "Carly D. McKay",
+        "Simon Kemp",
+        "Rachel Faull-Brown",
+        "Keith A. Stokes"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.06.002",
+      "doi": "10.1016/j.jsams.2026.06.002",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "42448490",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.06.002",
+          "url": "https://doi.org/10.1016/j.jsams.2026.06.002"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42448490",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42448490/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「降低英格蘭學校男子橄欖球最高擒抱高度對擒抱特徵、整體傷害與腦震盪率的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Effect of lowering the maximum tackle height in English Schoolboy rugby union on tackle characteristics, and all-injury and concussion rates",
+      "title_original": "Effect of lowering the maximum tackle height in English Schoolboy rugby union on tackle characteristics, and all-injury and concussion rates",
+      "title_zh_tw": "降低英格蘭學校男子橄欖球最高擒抱高度對擒抱特徵、整體傷害與腦震盪率的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.06.002",
+        "https://pubmed.ncbi.nlm.nih.gov/42448490/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jason Siegler",
+        "Julien Périard",
+        "Sam Chalmers",
+        "Franck Brocherie",
+        "Olivier Girard",
+        "Ollie Jay",
+        "Tim Meyer"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.07.015",
+      "doi": "10.1016/j.jsams.2026.07.015",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "42547114",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.07.015",
+          "url": "https://doi.org/10.1016/j.jsams.2026.07.015"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42547114",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42547114/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「社論」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Editorial",
+      "title_original": "Editorial",
+      "title_zh_tw": "社論",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.07.015",
+        "https://pubmed.ncbi.nlm.nih.gov/42547114/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elyse Letts",
+        "Sara King-Dowling",
+        "Natascja Di Cristofaro",
+        "Patricia Tucker",
+        "John Cairney",
+        "Dylan Kobsar",
+        "Brian W. Timmons",
+        "Joyce Obeid"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.009",
+      "doi": "10.1016/j.jsams.2026.03.009",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41933946",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.009",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.009"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41933946",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41933946/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以加速度計建立偵測幼兒身體活動與久坐時間的機器學習模型：Little Movers Activity Analysis」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Development of a machine learning model to detect toddlers' physical activity and sedentary time using accelerometers: Little Movers Activity Analysis",
+      "title_original": "Development of a machine learning model to detect toddlers' physical activity and sedentary time using accelerometers: Little Movers Activity Analysis",
+      "title_zh_tw": "以加速度計建立偵測幼兒身體活動與久坐時間的機器學習模型：Little Movers Activity Analysis",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.009",
+        "https://pubmed.ncbi.nlm.nih.gov/41933946/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pascal Edouard",
+        "Spyridon Iatropoulos",
+        "Pierre-Eddy Dandrieux",
+        "Karsten Hollander",
+        "Astrid Junge",
+        "Laurent Navarro"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.08.001",
+      "doi": "10.1016/j.jsams.2026.08.001",
+      "issns": [
+        "1440-2440"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.08.001",
+          "url": "https://doi.org/10.1016/j.jsams.2026.08.001"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「運動傷害與其他健康狀況流行病學資料的視覺化呈現」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Data visualisation for reporting epidemiological data on injury and other health conditions in sport",
+      "title_original": "Data visualisation for reporting epidemiological data on injury and other health conditions in sport",
+      "title_zh_tw": "運動傷害與其他健康狀況流行病學資料的視覺化呈現",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.08.001"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kay van Heeswijk",
+        "Daniëlle Spek",
+        "Federico Milani",
+        "Adwin Hoogeveen",
+        "Loes Janssen",
+        "Marc Scheltinga"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.08.202",
+      "doi": "10.1016/j.jsams.2026.08.202",
+      "issns": [
+        "1440-2440"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.08.202",
+          "url": "https://doi.org/10.1016/j.jsams.2026.08.202"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「小腿前側慢性運動性腔室症候群患者的小腿筋膜曲率差異」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Curvature of the crural fascia is different in anterior leg chronic exertional compartment syndrome",
+      "title_original": "Curvature of the crural fascia is different in anterior leg chronic exertional compartment syndrome",
+      "title_zh_tw": "小腿前側慢性運動性腔室症候群患者的小腿筋膜曲率差異",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.08.202"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "David J. Green",
+        "Clare Lobb",
+        "Ben E. Scott",
+        "Gareth Turner"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.012",
+      "doi": "10.1016/j.jsams.2026.03.012",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41956949",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.012",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.012"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41956949",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41956949/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「不同菁英耐力運動項目的血紅素總量比較，以及最佳化一氧化碳再呼吸法的受試者內信度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Comparison of haemoglobin mass across elite endurance sports and within-subject reliability using the optimised CO re-breathing method",
+      "title_original": "Comparison of haemoglobin mass across elite endurance sports and within-subject reliability using the optimised CO re-breathing method",
+      "title_zh_tw": "不同菁英耐力運動項目的血紅素總量比較，以及最佳化一氧化碳再呼吸法的受試者內信度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.012",
+        "https://pubmed.ncbi.nlm.nih.gov/41956949/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Swarupanjali Padhi",
+        "Prashant Ramdas Kokiwar",
+        "Janvi Patel",
+        "Ankita Kalra"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.03.020",
+      "doi": "10.1016/j.jsams.2026.03.020",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "42336715",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.03.020",
+          "url": "https://doi.org/10.1016/j.jsams.2026.03.020"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42336715",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42336715/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「評論〈降低英格蘭學校男子橄欖球最高擒抱高度對擒抱特徵、整體傷害與腦震盪率的影響〉」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Comment on “The effect of lowering the maximum tackle height in English Schoolboy rugby union on tackle characteristics and all-injury and concussion rates”",
+      "title_original": "Comment on “The effect of lowering the maximum tackle height in English Schoolboy rugby union on tackle characteristics and all-injury and concussion rates”",
+      "title_zh_tw": "評論〈降低英格蘭學校男子橄欖球最高擒抱高度對擒抱特徵、整體傷害與腦震盪率的影響〉",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.03.020",
+        "https://pubmed.ncbi.nlm.nih.gov/42336715/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alannah Reville",
+        "John Corrigan",
+        "Jennifer Pugh",
+        "Siobhan O'Connor"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.02.007",
+      "doi": "10.1016/j.jsams.2026.02.007",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41741253",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.02.007",
+          "url": "https://doi.org/10.1016/j.jsams.2026.02.007"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41741253",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41741253/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「追逐安全：2016–2024 年愛爾蘭職業與業餘賽馬比賽日跌倒與傷害」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Chasing safety: Race-day falls and injuries in Irish professional and amateur horseracing from 2016 to 2024",
+      "title_original": "Chasing safety: Race-day falls and injuries in Irish professional and amateur horseracing from 2016 to 2024",
+      "title_zh_tw": "追逐安全：2016–2024 年愛爾蘭職業與業餘賽馬比賽日跌倒與傷害",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.02.007",
+        "https://pubmed.ncbi.nlm.nih.gov/41741253/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hasan Basri Kiliç",
+        "Melis Şardan Ekiz",
+        "Senay Akin",
+        "Ömür Çelikbiçak",
+        "Lale Tokgözoğlu",
+        "Yusuf Çetin Kocaefe"
+      ],
+      "canonical_id": "doi:10.1016/j.jsams.2026.02.004",
+      "doi": "10.1016/j.jsams.2026.02.004",
+      "issns": [
+        "1440-2440",
+        "1878-1861"
+      ],
+      "journal": "Journal of Science and Medicine in Sport",
+      "pmcid": null,
+      "pmid": "41760417",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jsams.2026.02.004",
+          "url": "https://doi.org/10.1016/j.jsams.2026.02.004"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41760417",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41760417/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「血清蛋白體學揭示菁英運動員對耐力訓練與肌力訓練的不同適應」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Adaptations to endurance vs strength training in elite athletes revealed by serum proteomics",
+      "title_original": "Adaptations to endurance vs strength training in elite athletes revealed by serum proteomics",
+      "title_zh_tw": "血清蛋白體學揭示菁英運動員對耐力訓練與肌力訓練的不同適應",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jsams.2026.02.004",
+        "https://pubmed.ncbi.nlm.nih.gov/41760417/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r03.json",
+    "manifest_json": "EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r03.manifest.json",
+    "report_html": "EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r03.html",
+    "stem": "EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r03",
+    "translation_request_json": "EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r03.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r03.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 24,
+    "by_article_type": {
+      "journal-article": 24
+    },
+    "by_source": {
+      "crossref": 24,
+      "pubmed": 17
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 24,
+    "translated_articles": 24
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "journal-of-science-and-medicine-in-sport__2026-08__r03",
+  "edition_key": "journal-of-science-and-medicine-in-sport__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-23",
+    "acquisition_start": "2026-08-20",
+    "added_article_count": 0,
+    "base_article_count": 24,
+    "base_edition_sha256": "8dd97307c14d530a21fb26946fa33bb5ce931a06aade08d5292e485de726fbbf",
+    "base_manifest_publication_id": "journal-of-science-and-medicine-in-sport__2026-08__r02",
+    "base_period_end": "2026-08-19",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "journal-of-science-and-medicine-in-sport__2026-08__r02",
+    "base_revision": 2,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 24
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-23",
+    "incremental_acquisition_start": "2026-08-20",
+    "journal_slug": "journal-of-science-and-medicine-in-sport",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 24,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "journal-of-science-and-medicine-in-sport__2026-08__r03",
+  "publication_notes": {
+    "editorial_projection": {
+      "excluded_count": 2,
+      "excluded_records": [
+        {
+          "canonical_id": "doi:10.1016/j.jsams.2026.08.201",
+          "publication_date_precision": "MONTH",
+          "reason": "TEMPORARY_REMOVAL_PLACEHOLDER",
+          "title": "TEMPORARY REMOVAL: Promoting lifelong brain health: A review of risk factors and protective opportunities for athletes"
+        },
+        {
+          "canonical_id": "doi:10.1016/s1440-2440(26)00295-1",
+          "publication_date_precision": "MONTH",
+          "reason": "NON_ARTICLE_FRONT_MATTER",
+          "title": "Editorial Board"
+        }
+      ],
+      "policy": "Exclude temporary-removal/front-matter placeholders and records whose date precision is insufficient to assign them to the month.",
+      "published_article_count": 24,
+      "source_match_count": 26
+    }
+  },
+  "retrieved_at": "2026-08-23T07:59:08Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__journal-of-science-and-medicine-in-sport__2026-08__r03",
+    "edition_key": "journal-of-science-and-medicine-in-sport__2026-08",
+    "end_date": "2026-08-23",
+    "issn": "1440-2440",
+    "journal": "Journal of Science and Medicine in Sport",
+    "journal_slug": "journal-of-science-and-medicine-in-sport",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 23 日）",
+    "period_status": "MTD",
+    "publication_id": "journal-of-science-and-medicine-in-sport__2026-08__r03",
+    "revision": 3,
+    "slug": "journal-of-science-and-medicine-in-sport",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Journal of Science and Medicine in Sport; publication=2026-08-20..2026-08-23",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "(\"Journal of Science and Medicine in Sport\"[Journal] OR \"1440-2440\"[ISSN]) AND (\"2026/08/20\"[Date - Publication] : \"2026/08/23\"[Date - Publication])",
+      "returned_count": 0,
+      "source": "pubmed",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Journal of Science and Medicine in Sport\" AND FIRST_PDATE:[2026-08-20 TO 2026-08-23]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "journal-of-science-and-medicine-in-sport__2026-08__r02",
+    "language": "zh-TW",
+    "request_binding_sha256": "e732f6f68b9a240b8658eef4c36b92c47363081ea1af6ff89ef426a6e70df97d",
+    "response_generated_at": "2026-08-14T02:00:54Z",
+    "response_sha256": "008a8dc802841b4187ff558b0275fb87cba24133d1c777cdf345a47680cd0e66",
+    "source_edition_sha256": "57b71f121118a0d0e59c618d07cf183af962a8231802e934aba90578ae9e7380",
+    "status": "COMPLETE",
+    "total_articles": 24,
+    "translated_articles": 24
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_jsams"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

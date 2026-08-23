@@ -1,0 +1,43 @@
+{
+  "article_count": 23,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T07:59:05Z",
+  "edition_id": "journal-of-biomedical-informatics__2026-08__r03",
+  "edition_key": "journal-of-biomedical-informatics__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 48616,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__journal-of-biomedical-informatics__2026-08__r03.json",
+      "sha256": "49bd38facb737d78e838a5a05c4375da7258efb2e065e4c0251ed3d00067902b"
+    },
+    "report_html": {
+      "bytes": 83855,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__journal-of-biomedical-informatics__2026-08__r03.html",
+      "sha256": "6d42103da01f223c3499f6de6cafaa0c2e1f57f6464eadcb96170f6a77b1e26d"
+    }
+  },
+  "journal": "Journal of Biomedical Informatics",
+  "journal_slug": "journal-of-biomedical-informatics",
+  "manifest_name": "EvidenceRadar_Editions__journal-of-biomedical-informatics__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "journal-of-biomedical-informatics__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 21,
+  "translation_provenance": {
+    "request_binding_sha256": "b036cef2a509972debfaa42277f424aa9333a0bf74a1771b01178d6cfe652860",
+    "response_sha256": "8905f80b4e799348fa55b23a4a18d246979ba078cf30ed04ced1efb7043cb3f1",
+    "source_edition_sha256": "efaaf6f64a75145fef0c2c335fce23fee983058e5ed18b7ad0ffa416e2518fd5"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
