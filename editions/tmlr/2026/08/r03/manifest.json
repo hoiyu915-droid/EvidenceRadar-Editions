@@ -1,0 +1,43 @@
+{
+  "article_count": 147,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:16:44Z",
+  "edition_id": "tmlr__2026-08__r03",
+  "edition_key": "tmlr__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 187237,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__tmlr__2026-08__r03.json",
+      "sha256": "3baac208b2cc895603378f797ebfb6fadf15e609235bbcae3e2e876c4089419a"
+    },
+    "report_html": {
+      "bytes": 310377,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__tmlr__2026-08__r03.html",
+      "sha256": "e72c03f916f9ac6f50f48100d45e01a835c7fcc9c6e42ca7f5d8ca83f7d16ebb"
+    }
+  },
+  "journal": "Transactions on Machine Learning Research",
+  "journal_slug": "tmlr",
+  "manifest_name": "EvidenceRadar_Editions__tmlr__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "tmlr__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 84,
+  "translation_provenance": {
+    "request_binding_sha256": "502eebc398457e20149b734ab42421988ea6c12103dc060aaee99e5aad9e5d9b",
+    "response_sha256": "2a2941e51f83dac0d1f4f6dcb3815b7d257e19c4d28b88f877e8fa4283aebefc",
+    "source_edition_sha256": "e24ebfdbb3f0a1e30ef787a2b0be46adcaa7620239cbe0a2251855467f071b72"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
