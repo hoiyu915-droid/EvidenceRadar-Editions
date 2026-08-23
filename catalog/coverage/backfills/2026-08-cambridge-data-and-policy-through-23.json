@@ -1,0 +1,35 @@
+{
+  "acquisition_end": "2026-08-23",
+  "acquisition_start": "2026-08-20",
+  "allow_planned_journals": [],
+  "artifact_type": "EvidenceRadar_Editions_BackfillReceipt",
+  "generated_at": "2026-08-23T08:26:33Z",
+  "journal_count": 1,
+  "journals": [
+    {
+      "acquisition_end": "2026-08-23",
+      "acquisition_start": "2026-08-20",
+      "added_article_count": 0,
+      "base_article_count": 2,
+      "base_edition_sha256": "c94d935cd69098440b7707eec1eae9915c91f7e2562c8dfea664162fe583809a",
+      "base_manifest_publication_id": "data-and-policy__2026-08__r03",
+      "base_period_end": "2026-08-19",
+      "base_period_start": "2026-08-01",
+      "base_publication_id": "data-and-policy__2026-08__r03",
+      "base_revision": 3,
+      "deduplicated_article_count": 0,
+      "delta_acquired_article_count": 0,
+      "journal_slug": "data-and-policy",
+      "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+      "publication_id": "data-and-policy__2026-08__r04",
+      "result_article_count": 2,
+      "status": "PUBLISHED",
+      "target": "editions/data-and-policy/2026/08/r04"
+    }
+  ],
+  "period_key": "2026-08",
+  "request_id": "2026-08-cambridge-data-and-policy-through-23",
+  "revision": 4,
+  "schema_version": "1.0",
+  "semantics": "Only the missing date suffix was acquired live. Each result is a new full monthly snapshot revision composed with an immutable validated base."
+}
