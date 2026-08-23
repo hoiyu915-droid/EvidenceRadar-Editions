@@ -1,37 +1,45 @@
 # 2026 年 8 月 Editions 完成紀錄
 
-**狀態：August MTD coverage complete（資料窗口至 2026-08-14 UTC）**
+**狀態：August MTD coverage complete（資料窗口至 2026-08-23 UTC）**
 
 這份紀錄封存 2026 年 8 月的 authoritative registry coverage、例外處理、跨刊篩選結果與 production 驗證。它不是 8 月 `FINAL`：完整月份只能在 2026-08-31 結束後以新 revision 重建，不能覆寫既有 MTD publication。
 
 ## 1. 權威集合與完成判準
 
-August registry 的唯一分母是 [`catalog/journals.json`](../catalog/journals.json) 中的 **58 本期刊**。Cambridge provider catalog 是額外 discovery surface，不回頭改寫這個分母。
+August registry 的唯一分母是 [`catalog/journals.json`](../catalog/journals.json) 中的 **65 本期刊**。Cambridge provider catalog 是額外 discovery surface，不回頭改寫這個分母。
 
-[`catalog/coverage/2026-08.json`](../catalog/coverage/2026-08.json) 已為 58/58 本留下 terminal outcome：
+[`catalog/coverage/2026-08.json`](../catalog/coverage/2026-08.json) 已為 65/65 本留下 terminal outcome：
 
 | Outcome | 期刊數 |
 |---|---:|
-| `PUBLISHED` | 52 |
-| `NO_MATCHING_ARTICLES` | 4 |
-| `OUTSIDE_WINDOW` | 2 |
+| `PUBLISHED` | 61 |
+| `NO_MATCHING_ARTICLES` | 3 |
+| `OUTSIDE_WINDOW` | 1 |
 | `DATE_EVIDENCE_INSUFFICIENT` | 0 |
-| **合計** | **58** |
+| **合計** | **65** |
 
-52 本 canonical August MTD editions 合計 **4,389 筆 article records**；6 本沒有 publication 的期刊均以明確 terminal status 保存，沒有用 fabricated empty edition 假裝成功。
+61 本 canonical August MTD editions 合計 **6,339 筆 article records**；4 本沒有 publication 的期刊均以明確 terminal status 保存，沒有用 fabricated empty edition 假裝成功。
 
-本次 closeout 同時修正一個 stale aggregate：Chemical Science 的 journal row 已是 `PUBLISHED`，但檔尾一度仍寫成 51 published、1 date-evidence gap、7 no-edition。現在 row-level 與 aggregate-level 都是 52 / 0 / 6，並加入 regression test，之後任何 coverage JSON 的彙總數若與 journal rows 不一致，CI 會直接失敗。
+Coverage regression test 會檢查 row-level 與 aggregate-level 計數一致，並要求最新 coverage ledger 完整覆蓋當前 registry；歷史月份則保留當時的 registry 分母，不會被未來新增期刊回寫。
 
-## 2. 沒有 publication 的六個 terminal outcomes
+## 2. 新增 OA 期刊與 terminal outcomes
+
+本次加入 7 本 fully-OA 期刊：American Journal of Men's Health、BMC Psychology、BMC Women's Health、Journal of Family Research、Reproductive Health、Sexual and Reproductive Health Matters、Sexual Medicine。前五個有 August records 的期刊已發布 canonical r01 editions，BMC 兩刊以 `TRIAGE` 處理大量 metadata；另外兩刊保留可稽核的 no-edition outcome。
+
+Frontiers in Psychology 的 Gender, Sex and Sexualities section 沒有以整本期刊加入。現有 acquisition contract 尚無 section-level filter，整刊收錄會把無關文章混入；待 section identity/filter 可驗證後再納入。
+
+### 沒有 publication 的四個 terminal outcomes
 
 | 期刊 | Outcome | 依據 |
 |---|---|---|
-| Information Processing & Management | `NO_MATCHING_ARTICLES` | Exact-ISSN Crossref publication-date reconstruction 在 2026-08-01..14 為零。 |
-| Journal of Machine Learning Research | `NO_MATCHING_ARTICLES` | Official JMLR RSS 在窗口內沒有 `pubDate`。 |
-| Journal of Sport and Health Science | `NO_MATCHING_ARTICLES` | Crossref、PubMed、Europe PMC 都沒有匹配 publication record。 |
-| Natural Language Processing Journal | `NO_MATCHING_ARTICLES` | Exact-ISSN Crossref 沒有 publication-date record；created date 未被冒充 publication date。 |
-| Psychology of Sport and Exercise | `OUTSIDE_WINDOW` | 3 個 PubMed YEAR-only candidates 經 DOI 核對後，Crossref published/issued dates 都是 2026 年 11 月。 |
-| Transactions of the Association for Computational Linguistics | `OUTSIDE_WINDOW` | ACL Anthology 找到 34 個 2026-volume candidates；34 個可核對的 Crossref DAY/MONTH dates 均不在 8/1..14。 |
+| American Journal of Men's Health | `NO_MATCHING_ARTICLES` | Crossref、PubMed、Europe PMC 在 2026-08-01..23 都沒有匹配 publication record。 |
+| Journal of Machine Learning Research | `NO_MATCHING_ARTICLES` | Official JMLR RSS 仍只有 year-level `pubDate`，沒有可歸入 August 的日／月證據。 |
+| Sexual Medicine | `NO_MATCHING_ARTICLES` | Exact-ISSN Crossref 為零；PubMed／Europe PMC 當前結果的 DOI/container 實屬另一份非 fully-OA 的 *The Journal of Sexual Medicine*，因此 fail closed 排除。 |
+| Transactions of the Association for Computational Linguistics | `OUTSIDE_WINDOW` | ACL Anthology candidates 的可核對 Crossref 日／月出版日期仍不在 8/1..23。 |
+
+### 先前缺口的 targeted repair
+
+Information Processing & Management、Journal of Sport and Health Science、Natural Language Processing Journal 與 Psychology of Sport and Exercise 各有 1 筆新近可核實的 August month-precision record，已分別建立 r01。Psychology of Sport and Exercise 的 PubMed year-only candidates 沒有被強行歸入 August。
 
 ### Chemical Science repair
 
@@ -39,43 +47,37 @@ Chemical Science 原本的 date-evidence gap 已關閉並發布 76 筆 scholarly
 
 ## 3. August corpus 與 provider extension
 
-在 exact production SHA `6b09654c4e171128f1e52f430cb26c725b7caf79` 上：
+目前 repository snapshot：
 
-- 2026-08 最新 editions：**61 個 journal slugs、4,398 筆 records**。
-- 其中 authoritative registry：52 個 slugs、4,389 筆 records。
-- Selected Cambridge additions：9 個 slugs、9 筆 records；它們是補充 publication，不改變 58 本 registry 的完成分母。
-- 全站另保留 JAMA Network Open 的 2026-08-13 與 2026-08-14 兩個 day periods，共 17 筆；因此全 corpus 為 **61 journal slugs、63 periods、64 revisions、4,415 canonical records**。
+- Authoritative registry：65 個 slugs；61 個 August MTD editions，共 **6,339 筆 records**。
+- Selected provider additions 仍是額外 publication，不改變 65 本 registry 的完成分母。
+- 全站包含 **78 個 journal slugs、80 periods、219 revisions、6,415 筆 latest canonical records**。
+- Pages 的 volume-aware projection 保留 3,796 筆 latest search records；canonical JSON 不因瀏覽容量限制而被刪減。
 
 Cambridge provider catalog 當時列出 200 本 fully-OA journals，但 catalog presence 不等於已生成 edition。只有經 live request 選中的 journal 才進 canonical store。
 
 ## 4. 跨刊 evidence-processing funnel
 
-Pages run `31934127582` 產生的 exact-SHA complete-edition artifact 顯示：
+本次 snapshot 的本機 exact-source complete-edition dry run 顯示：
 
 | 階段 | 結果 |
 |---|---:|
-| Canonical records | 4,415 |
+| Canonical records | 6,415 |
 | Abstract fetch plan | 300 |
-| Abstract acquired / absent | 205 / 95 |
+| Abstract acquired / absent | 209 / 91 |
 | Full-text-now allocation | 120 |
-| Full text acquired / route not found | 69 / 51 |
-| Evidence-reporting evaluation completed | 62 |
-| Limited: no machine-readable text | 7 |
-| Editorial featured / reserve / limited review | 36 / 26 / 58 |
+| Full text acquired / access denied / route not found | 16 / 53 / 51 |
+| Evidence-reporting evaluation completed | 7 |
+| Limited: no machine-readable text | 9 |
+| Editorial featured / reserve / limited review | 7 / 0 / 113 |
 
-69 份全文中，61 份來自 Crossref open TDM links，8 份來自 Europe PMC XML；本輪沒有 access-denied 或 acquisition-inconclusive outcome。Raw abstract/full-text payloads 在 structural review 與 digest verification 後、artifact upload 前刪除，沒有寫入 Git 或發布到 Pages。
+Raw abstract/full-text payloads 在 structural review 與 digest verification 後、artifact upload 前刪除，沒有寫入 Git 或發布到 Pages。`access denied` 與 `route not found` 被保留為可稽核結果，沒有改寫成已取得全文。
 
-36 筆 featured items 的 primary-path 分布為：
+本輪 7 筆 featured items 只代表取得 machine-readable evidence text 並通過 reporting evaluation 的 bounded subset；不代表其研究結論比其他文章更可信。
 
 | Primary path | 數量 |
 |---|---:|
-| Randomized trial | 7 |
-| Safety signal | 7 |
-| Observational design | 7 |
-| Evidence synthesis | 6 |
-| Prospective longitudinal | 5 |
-| Replication / validation | 3 |
-| Survey | 1 |
+| Evaluated binding SHA-256 | `2d97f211cf5b7b23a211d9e1c028197bd42100b7baf7d3f40e1801be90dc6ee8` |
 
 這個 funnel 衡量的是可取得性、研究設計線索與 reporting coverage，**不是研究品質排行榜**。本輪沒有完成 risk-of-bias assessment，也沒有評估 effect magnitude；`FEATURED` 不等於結論可信、效應成立或可直接採用。
 
@@ -93,9 +95,13 @@ Prospective / safety items 集中在 plant-based diet 與 ultra-processed food�
 
 Validation / synthesis cluster 包括 CKD chest-radiograph deep learning、glaucoma progression、wrist PPG cardiac-arrest detection、respiratory early-warning system，以及 infection、frailty、HBV/HIV、radiotherapy biomarkers 等 systematic reviews。Journal of Clinical Epidemiology 的 items 也直接指向 external-validation reporting 與 estimand / conclusion discrepancy。跨刊訊號是：模型或 pooled estimate 的 headline 之外，external validation、reporting completeness、data availability 與 transportability 才是能否進入下一步 evidence work 的瓶頸。
 
-以上 synthesis 來自被 pipeline 選入並取得 abstract/full text 的 300/205/69 筆子集合，會偏向 identifier 完整、open-text route 可用及 clinical reporting 結構較清楚的期刊；不能反推為 4,415 筆 corpus 的主題盛行率。
+以上 synthesis 是 2026-08-14 snapshot 的歷史解讀，沒有自動外推到新增的關係、性別與性健康期刊。本次更新的 evidence funnel 是 6,415 筆 corpus 中 bounded 300-item plan 的可取得性稽核，不能反推為整體 corpus 的主題盛行率。
 
 ## 6. Production verification
+
+本次更新在 merge 前完成 140 項測試、canonical bundle 驗證、Pages build 與 complete-edition dry run。merge 後以 exact merge SHA 核對 CI、Pages workflow、live `links.json`、coverage ledger、journal HTML 與 immutable revision URL；run IDs 與 deployed checksum 以 GitHub Actions / Pages live readback 為準。
+
+前一個 2026-08-14 production baseline 保留如下，供 history compatibility 核對：
 
 - Live scoped edition run [`31934105615`](https://github.com/hoiyu915-droid/EvidenceRadar-Editions/actions/runs/31934105615) 成功完成 build、validate、canonical publish、merge、Pages dispatch 與 exact-SHA wait；Memory, Mind & Media r01 發布 2 筆 records。
 - Pages / downstream evidence run [`31934127582`](https://github.com/hoiyu915-droid/EvidenceRadar-Editions/actions/runs/31934127582) 在 SHA `6b09654c4e171128f1e52f430cb26c725b7caf79` 全步驟成功。
@@ -105,4 +111,4 @@ Validation / synthesis cluster 包括 CKD chest-radiograph deep learning、glauc
 
 ## 7. 後續月份語義
 
-這個 closeout 固定的是 **2026-08 MTD through 2026-08-14** 的 registry completion。8/14 之後不因「更新鮮」而把 58 本全部重跑成無意義的 r02；只對 failed、partial、missing 或經證據確認需要 repair 的 journal 做 targeted rerun。2026-08-31 結束後若要發布完整月份，必須以新 revision 建立 `FINAL`，並重新產生 coverage ledger、跨刊 synthesis 與 production verification。
+這個 closeout 固定的是 **2026-08 MTD through 2026-08-23** 的 registry completion。8/23 之後只對新增、failed、partial、missing 或經證據確認需要 repair 的 journal 做 targeted rerun。2026-08-31 結束後若要發布完整月份，必須以新 revision 建立 `FINAL`，並重新產生 coverage ledger、跨刊 synthesis 與 production verification。

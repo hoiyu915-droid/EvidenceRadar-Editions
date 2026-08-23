@@ -34,11 +34,11 @@ EvidenceRadar source/config hints       PubMed / Europe PMC / Crossref
 
 ## 2026 年 8 月 production status
 
-Authoritative August registry coverage 已完成至 **2026-08-14 UTC**：58/58 本都有 terminal outcome，包含 52 本 `PUBLISHED`（4,389 筆 records）、4 本 `NO_MATCHING_ARTICLES`、2 本 `OUTSIDE_WINDOW`，以及 0 個 unresolved date-evidence gap。
+Authoritative August registry coverage 已更新至 **2026-08-23 UTC**：65/65 本都有 terminal outcome，包含 61 本 `PUBLISHED`（6,339 筆 records）、3 本 `NO_MATCHING_ARTICLES`、1 本 `OUTSIDE_WINDOW`，以及 0 個 unresolved date-evidence gap。
 
-Exact production corpus 在 SHA `6b09654c4e171128f1e52f430cb26c725b7caf79` 上包含 61 個 journal slugs、63 periods、64 revisions 與 4,415 筆 canonical records；abstract/full-text/evidence funnel、六個 no-edition outcomes、Chemical Science repair、跨刊 synthesis 與 workflow/artifact digests 見 [`docs/AUGUST_2026_COMPLETION.md`](docs/AUGUST_2026_COMPLETION.md)。
+本次更新加入 7 本與性別、性健康、親密關係及家庭研究直接相關的 fully-OA 期刊，並補發 4 本先前因日期證據不足而缺少的 August editions。全站目前包含 78 個 journal slugs、80 periods、219 revisions 與 6,415 筆 latest canonical records；來源界線、no-edition outcomes 與驗證紀錄見 [`docs/AUGUST_2026_COMPLETION.md`](docs/AUGUST_2026_COMPLETION.md)。
 
-這是 **August MTD**，不是 `FINAL`。完整 8 月只能在 2026-08-31 結束後以新 revision 重建；不為追求日期更新而把已完成的 58 本無差別重跑成 r02。
+這是 **August MTD**，不是 `FINAL`。完整 8 月只能在 2026-08-31 結束後以新 revision 重建；本次只新增期刊及修復先前缺口，沒有把已完成的既有 editions 無差別重跑成 r02。
 
 ## Storage v0.3
 
@@ -111,7 +111,7 @@ python -m evidenceradar_editions journals --processing-mode SUSPENDED
 evidenceradar-editions run \
   --journal-slug jama-network-open \
   --start 2026-08-01 \
-  --end 2026-08-14 \
+  --end 2026-08-23 \
   --period-kind month \
   --revision 1 \
   --radar-root ../EvidenceRadar \
@@ -128,11 +128,11 @@ evidenceradar-editions run \
   --issn 2574-3805 \
   --slug jama-network-open \
   --start 2026-08-01 \
-  --end 2026-08-14 \
+  --end 2026-08-23 \
   --output-dir dist/jama-2026-08/raw
 ```
 
-`2026-08-01 → 2026-08-14` 配合 `--period-kind month` 會建立邏輯期別 `2026-08`，狀態為 `MTD`；完整到 8 月 31 日時狀態改為 `FINAL`。兩者屬同一月份，不覆寫既有 revision。
+`2026-08-01 → 2026-08-23` 配合 `--period-kind month` 會建立邏輯期別 `2026-08`，狀態為 `MTD`；完整到 8 月 31 日時狀態改為 `FINAL`。兩者屬同一月份，不覆寫既有 revision。
 
 重建語義固定是：
 

@@ -1,0 +1,43 @@
+{
+  "article_count": 1,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T09:44:02Z",
+  "edition_id": "information-processing-and-management__2026-08__r01",
+  "edition_key": "information-processing-and-management__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 5950,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__information-processing-and-management__2026-08__r01.json",
+      "sha256": "de517ca3b19d8e0f8fc4b7f41fc9e687fc74f479ce3a8d0bd4bf70f244a1fcea"
+    },
+    "report_html": {
+      "bytes": 17662,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__information-processing-and-management__2026-08__r01.html",
+      "sha256": "76958eec35465688bc122446568a6a1c586bc59b93fec14e9cdcb18e12accc85"
+    }
+  },
+  "journal": "Information Processing & Management",
+  "journal_slug": "information-processing-and-management",
+  "manifest_name": "EvidenceRadar_Editions__information-processing-and-management__2026-08__r01.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "information-processing-and-management__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": null
+}

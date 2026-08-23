@@ -20,7 +20,14 @@ from test_store_v3 import month_run
 class JournalRegistryTests(unittest.TestCase):
     def test_repository_registry_is_self_contained(self):
         registry = load_journal_registry(Path("catalog"))
-        self.assertEqual(registry["journal_count"], 58)
+        self.assertEqual(registry["journal_count"], 65)
+        impact_registry = json.loads(
+            Path("catalog/journal-impact-metrics.json").read_text(encoding="utf-8")
+        )
+        self.assertEqual(
+            set(impact_registry["journals"]),
+            {item["slug"] for item in registry["journals"]},
+        )
         self.assertEqual(
             registry["upstream"]["commit"],
             "6da659df845e4b76072dae016120ca76ed9c27c4",
@@ -31,6 +38,23 @@ class JournalRegistryTests(unittest.TestCase):
         self.assertEqual(defaults["issn"], "2574-3805")
         self.assertIn("crossref", defaults["sources"])
         self.assertNotIn("radar_rss", defaults["sources"])
+
+        relationships = get_journal(
+            "journal-of-family-research", catalog_root=Path("catalog")
+        )
+        self.assertEqual(relationships["oa"], "fully_oa")
+        self.assertIn("intimate_relationships", relationships["categories"])
+        self.assertEqual(relationships["sources"], ["crossref"])
+
+        sexual_medicine = get_journal(
+            "sexual-medicine", catalog_root=Path("catalog")
+        )
+        self.assertEqual(sexual_medicine["issn"], "2050-1161")
+        self.assertEqual(
+            sexual_medicine["sources"],
+            ["crossref"],
+            "PubMed currently conflates this title with The Journal of Sexual Medicine",
+        )
 
     def test_registry_filters_without_radar(self):
         ai = list_journals(

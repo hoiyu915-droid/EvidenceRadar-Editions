@@ -28,6 +28,15 @@ class ProcessingPolicyTests(unittest.TestCase):
         self.assertEqual(policy.pages_record_limit, 250)
         self.assertEqual(policy.translation_mode, "DEFERRED")
 
+    def test_repository_policy_triages_broad_relationship_discovery_journals(self):
+        for slug in ("bmc-psychology", "bmc-womens-health"):
+            with self.subTest(slug=slug):
+                policy = policy_for_slug(slug, catalog_root=Path("catalog"))
+                self.assertEqual(policy.configured_mode, "TRIAGE")
+                self.assertEqual(policy.source_record_limit, 500)
+                self.assertEqual(policy.pages_record_limit, 250)
+                self.assertEqual(policy.translation_mode, "DEFERRED")
+
     def test_full_policy_auto_triages_4397_reported_records(self):
         policy = policy_for_slug("example-journal", catalog_root=Path("catalog"))
         effective = apply_volume_guard(
