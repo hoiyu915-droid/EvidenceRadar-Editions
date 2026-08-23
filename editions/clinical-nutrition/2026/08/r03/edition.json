@@ -1,0 +1,1791 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Veit Grote",
+        "Laura Schlosser",
+        "Cristina Campoy",
+        "Elena Crehuá-Gaudiza",
+        "Hans Demmelmair",
+        "Markus J. Ege",
+        "Joaquin Escribano",
+        "Rafael Galera-Martínez",
+        "José Antonio García-Santos",
+        "Dariusz Gruszfeld",
+        "Kathrin Guerlich",
+        "Cristina Guillén-Sebastián",
+        "Uschi Handel",
+        "Małgorzata Jamka",
+        "Elzbieta Jarocka-Cyrta",
+        "Janusz Książyk",
+        "Artur Mazur",
+        "Ester Parada-Ricart",
+        "Isidro Robredo-García",
+        "Gerardo Rodríguez",
+        "Bartosz Romańczuk",
+        "Miguel Saenz de Pipaon",
+        "Marta Tejón-Fernández",
+        "Jarosław Walkowiak",
+        "Elisabeth Weichselbaum",
+        "Ariadna Witte",
+        "Berthold Koletzko"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106707",
+      "doi": "10.1016/j.clnu.2026.106707",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42275985",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106707",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106707"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42275985",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42275985/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「全羊奶配方與牛奶配方對嬰兒異位性皮膚炎的影響：隨機臨床試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Whole goat milk versus cow milk formula and atopic dermatitis in infants: A randomized clinical trial",
+      "title_original": "Whole goat milk versus cow milk formula and atopic dermatitis in infants: A randomized clinical trial",
+      "title_zh_tw": "全羊奶配方與牛奶配方對嬰兒異位性皮膚炎的影響：隨機臨床試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106707",
+        "https://pubmed.ncbi.nlm.nih.gov/42275985/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sophie Leonore Jahn",
+        "Kamil Demircan",
+        "Thilo Samson Chillon",
+        "Bettina Schuppelius",
+        "Elena Lalama",
+        "Jiudan Zhang",
+        "Julian Hackler",
+        "Kilian Rüther",
+        "Marta Csanalosi",
+        "Anette Christ",
+        "Eicke Latz",
+        "Olga Pivovarova-Ramich",
+        "Stefan Kabisch",
+        "Knut Mai",
+        "Andreas F.H. Pfeiffer",
+        "Lutz Schomburg"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106693",
+      "doi": "10.1016/j.clnu.2026.106693",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42269399",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106693",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106693"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42269399",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42269399/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「低熱量配方飲食後微量元素的動態變化及其與血糖特徵的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Trace element dynamics following low-calorie formula diet and their association with glycaemic traits",
+      "title_original": "Trace element dynamics following low-calorie formula diet and their association with glycaemic traits",
+      "title_zh_tw": "低熱量配方飲食後微量元素的動態變化及其與血糖特徵的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106693",
+        "https://pubmed.ncbi.nlm.nih.gov/42269399/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Annaliese Widmer",
+        "Aaron Lee",
+        "Tatsuki Koyama",
+        "David S. Goldfarb",
+        "Ryan S. Hsi",
+        "Heidi J. Silver"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106754",
+      "doi": "10.1016/j.clnu.2026.106754",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106754",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106754"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「預防復發性腎結石的目標導向與經驗性策略：隨機試驗中的飲食治療啟示」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Targeted versus Empiric Approach for Prevention of Recurrent Kidney Stones: Insights on Diet Therapy from a Randomized Trial",
+      "title_original": "Targeted versus Empiric Approach for Prevention of Recurrent Kidney Stones: Insights on Diet Therapy from a Randomized Trial",
+      "title_zh_tw": "預防復發性腎結石的目標導向與經驗性策略：隨機試驗中的飲食治療啟示",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106754"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Biyao Wang",
+        "Yuan Zeng",
+        "Lin Han",
+        "Zhenzhen Wang",
+        "Yanjun Lai",
+        "Xiang Gao",
+        "Qin Guo",
+        "Kang Chao",
+        "Qingfan Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106719",
+      "doi": "10.1016/j.clnu.2026.106719",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42430976",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106719",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106719"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42430976",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42430976/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「部分腸內營養合併 Ustekinumab 用於克隆氏症誘導與維持治療的協同效果：多中心世代的真實世界經驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Synergistic effects of partial enteral nutrition combined with Ustekinumab in induction and maintenance therapy for Crohn's disease: Real-world experience from a multicentre cohort",
+      "title_original": "Synergistic effects of partial enteral nutrition combined with Ustekinumab in induction and maintenance therapy for Crohn's disease: Real-world experience from a multicentre cohort",
+      "title_zh_tw": "部分腸內營養合併 Ustekinumab 用於克隆氏症誘導與維持治療的協同效果：多中心世代的真實世界經驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106719",
+        "https://pubmed.ncbi.nlm.nih.gov/42430976/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ana C.V. Benet",
+        "Silvana P. Orlandi",
+        "Leonardo S. Rocha",
+        "Thiago G. Barbosa-Silva",
+        "Renata M. Bielemann",
+        "Leonardo Pozza Santos",
+        "Carla M. Prado",
+        "M. Cristina Gonzalez"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106699",
+      "doi": "10.1016/j.clnu.2026.106699",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42275986",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106699",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106699"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42275986",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42275986/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「標準化小腿圍測量以改善肌肉量評估」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Standardizing calf circumference measurements to improve muscle mass assessment",
+      "title_original": "Standardizing calf circumference measurements to improve muscle mass assessment",
+      "title_zh_tw": "標準化小腿圍測量以改善肌肉量評估",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106699",
+        "https://pubmed.ncbi.nlm.nih.gov/42275986/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhongyang Guan",
+        "Blossom CM. Stephan",
+        "Lorenzo M. Donini",
+        "Justyna Godos",
+        "Giuseppe Grosso",
+        "Leticia Radin Pereira",
+        "Carla M. Prado",
+        "Carlos J. Toro-Huamanchumo",
+        "Jonathan CK. Wells",
+        "Marc Sim",
+        "Mario Siervo"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106696",
+      "doi": "10.1016/j.clnu.2026.106696",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42250474",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106696",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106696"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42250474",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42250474/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「肌少型肥胖與失智症風險：肌力與身體組成軌跡的主要關聯與 landmark 分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sarcopenic obesity and dementia risk: Primary associations and landmark analyses of muscle strength and body composition trajectories",
+      "title_original": "Sarcopenic obesity and dementia risk: Primary associations and landmark analyses of muscle strength and body composition trajectories",
+      "title_zh_tw": "肌少型肥胖與失智症風險：肌力與身體組成軌跡的主要關聯與 landmark 分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106696",
+        "https://pubmed.ncbi.nlm.nih.gov/42250474/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Akseli Bonsdorff",
+        "Daniel Oyon",
+        "Derk Klatte",
+        "Hannah S. Pauw",
+        "Nemanja Plecic",
+        "Nina Blazevic",
+        "Sara Regner",
+        "Kasper Overbeek"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106705",
+      "doi": "10.1016/j.clnu.2026.106705",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42275988",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106705",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106705"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42275988",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42275988/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「慢性胰臟炎中的肌少症與身體組成異常：病理生理、評估與臨床影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sarcopenia and body composition abnormalities in chronic pancreatitis: Pathophysiology, assessment, and clinical impact",
+      "title_original": "Sarcopenia and body composition abnormalities in chronic pancreatitis: Pathophysiology, assessment, and clinical impact",
+      "title_zh_tw": "慢性胰臟炎中的肌少症與身體組成異常：病理生理、評估與臨床影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106705",
+        "https://pubmed.ncbi.nlm.nih.gov/42275988/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maura E. Walker",
+        "Brenton Prescott",
+        "Shannon Stockero",
+        "Vanessa Xanthakis",
+        "Honghuang Lin",
+        "Robert E. Gerszten",
+        "Nicola M. Mckeown",
+        "Paul F. Jacques",
+        "Ramachandran S. Vasan"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106758",
+      "doi": "10.1016/j.clnu.2026.106758",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106758",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106758"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「健康飲食型態的蛋白體特徵與心血管疾病風險：Framingham Heart Study」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Proteomic Signature of Healthy Dietary Patterns and Risk of Cardiovascular Disease in the Framingham Heart Study",
+      "title_original": "Proteomic Signature of Healthy Dietary Patterns and Risk of Cardiovascular Disease in the Framingham Heart Study",
+      "title_zh_tw": "健康飲食型態的蛋白體特徵與心血管疾病風險：Framingham Heart Study",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106758"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiaxin Wang",
+        "Yuhang Wang",
+        "Yuqing Li",
+        "Jingxi Chen",
+        "Lai Jiang",
+        "Weiwei Tian",
+        "Ran Chu",
+        "Yin Liu",
+        "Jing Gao"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106710",
+      "doi": "10.1016/j.clnu.2026.106710",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42308667",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106710",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106710"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42308667",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42308667/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「高齡非 ST 段上升型心肌梗塞患者之老年營養風險指數對長期全因死亡率的預後價值」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Prognostic Value of the Geriatric Nutritional Risk Index for Long-Term All-Cause Mortality in Older Patients with Non-ST-Segment Elevation Myocardial Infarction",
+      "title_original": "Prognostic Value of the Geriatric Nutritional Risk Index for Long-Term All-Cause Mortality in Older Patients with Non-ST-Segment Elevation Myocardial Infarction",
+      "title_zh_tw": "高齡非 ST 段上升型心肌梗塞患者之老年營養風險指數對長期全因死亡率的預後價值",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106710",
+        "https://pubmed.ncbi.nlm.nih.gov/42308667/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Catarina Rodrigues",
+        "Dúnio Jácome-Pacheco",
+        "Inês Barreiros-Mota",
+        "Shámila Ismael",
+        "Gilberto Maia-Santos",
+        "Tiago Noronha",
+        "Maria João Almeida",
+        "Inês Castela",
+        "Jéssica Santos",
+        "Cristina Florindo",
+        "Alexandra Filipa Gomes",
+        "João Caio",
+        "Conceição Calhau",
+        "Diogo Pestana",
+        "João Ricardo Araújo",
+        "Anita MacDonald",
+        "Ana Faria",
+        "Júlio César Rocha"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106752",
+      "doi": "10.1016/j.clnu.2026.106752",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106752",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106752"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「不同餐食情境下以糖巨肽為基礎蛋白替代品的餐後代謝反應：對苯酮尿症（PKU）的啟示」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Postprandial metabolic responses to a glycomacropeptide-based protein substitute in different meal contexts – Implications for Phenylketonuria (PKU)",
+      "title_original": "Postprandial metabolic responses to a glycomacropeptide-based protein substitute in different meal contexts – Implications for Phenylketonuria (PKU)",
+      "title_zh_tw": "不同餐食情境下以糖巨肽為基礎蛋白替代品的餐後代謝反應：對苯酮尿症（PKU）的啟示",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106752"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shinya Suganuma",
+        "Tomoka Miyagi",
+        "Naoki Kanda",
+        "Minoru Yoshida",
+        "Akane Kariya",
+        "Yusuke Hoshi",
+        "Takahiro Fujita",
+        "Kensei Togo",
+        "Tomoaki Obata",
+        "Kenzo Ishii",
+        "Katsuyuki Abe",
+        "Chihiro Sato",
+        "Yoshifumi Heshiki",
+        "Daisetsu Yasumura",
+        "Shizuko Gomi",
+        "Masafumi Takahashi",
+        "Takashi Hongo",
+        "Keiji Sakurai",
+        "Miho Nishihara",
+        "Yuko Matsuda",
+        "Kiyota Chinen",
+        "Akiko Arai",
+        "Michihiro Maeda",
+        "Yuhei Irie",
+        "Hiroshi Kamijo",
+        "Kana Hosokawa",
+        "Daisuke Kasugai",
+        "Michiko Higashi",
+        "Ayaka Matsuoka",
+        "Hirotaka Ogawa",
+        "Yuichi Araki",
+        "Kenji Oike",
+        "Hajime Katsukawa",
+        "Toru Kotani",
+        "Takayuki Ogura",
+        "Keibun Liu",
+        "Kensuke Nakamura"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106757",
+      "doi": "10.1016/j.clnu.2026.106757",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106757",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106757"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「重症敗血症患者的持續性發炎、免疫抑制與分解代謝症候群及營養不良：多中心前瞻性觀察研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Persistent Inflammation, Immunosuppression and Catabolism Syndrome and malnutrition in critically ill patients with sepsis: A multi-center prospective observational study.",
+      "title_original": "Persistent Inflammation, Immunosuppression and Catabolism Syndrome and malnutrition in critically ill patients with sepsis: A multi-center prospective observational study.",
+      "title_zh_tw": "重症敗血症患者的持續性發炎、免疫抑制與分解代謝症候群及營養不良：多中心前瞻性觀察研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106757"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Huanhuan Luo",
+        "Zitian Zheng",
+        "Mingyao Sun",
+        "Zhiwen Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106748",
+      "doi": "10.1016/j.clnu.2026.106748",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106748",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106748"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「改善衰弱高齡者代謝健康與功能結局的最佳有氧運動劑量：系統性回顧與劑量反應統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Optimal aerobic exercise dose for improving metabolic health and functional outcomes in frail older adults: a systematic review and dose-response meta-analysis",
+      "title_original": "Optimal aerobic exercise dose for improving metabolic health and functional outcomes in frail older adults: a systematic review and dose-response meta-analysis",
+      "title_zh_tw": "改善衰弱高齡者代謝健康與功能結局的最佳有氧運動劑量：系統性回顧與劑量反應統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106748"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Marian A.E. de van der Schueren",
+        "Elke Naumann",
+        "Rianne ter Bekke",
+        "Rocco Barazzoni",
+        "Renée Blaauw",
+        "Tommy Cederholm",
+        "Lee-anne Chapple",
+        "Charlene Compher",
+        "M. Isabel T.D. Correia",
+        "Ryoji Fukushima",
+        "M. Cristina Gonzalez",
+        "Gordon L. Jensen",
+        "Charles Chin Han Lew",
+        "Su Lin Lim",
+        "Ainsley Malone",
+        "Veeradej Pisprasert",
+        "Elisabet Rothenberg",
+        "Alison Steiber",
+        "Martine Sealy",
+        "Harriët Jager-Wittenaar"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106709",
+      "doi": "10.1016/j.clnu.2026.106709",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42342513",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106709",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106709"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42342513",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42342513/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GLIM 流程中的營養篩檢第 2 部分：以修正版 Delphi 程序操作化「營養不良風險」概念」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nutritional screening within the GLIM procedure—Part 2: Operationalization of the concept risk of malnutrition using a modified Delphi procedure",
+      "title_original": "Nutritional screening within the GLIM procedure—Part 2: Operationalization of the concept risk of malnutrition using a modified Delphi procedure",
+      "title_zh_tw": "GLIM 流程中的營養篩檢第 2 部分：以修正版 Delphi 程序操作化「營養不良風險」概念",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106709",
+        "https://pubmed.ncbi.nlm.nih.gov/42342513/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Harriët Jager-Wittenaar",
+        "Martine Sealy",
+        "Rocco Barazzoni",
+        "Renee Blaauw",
+        "Tommy Cederholm",
+        "Lee-anne Chapple",
+        "Charlene Compher",
+        "M. Isabel T.D. Correia",
+        "Ryoji Fukushima",
+        "M. Cristina Gonzalez",
+        "Gordon L. Jensen",
+        "Charles Chin Han Lew",
+        "Su Lin Lim",
+        "Ainsley Malone",
+        "Veeradej Pisprasert",
+        "Elisabet Rothenberg",
+        "Alison Steiber",
+        "Elke Naumann",
+        "Marian de van der Schueren"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106708",
+      "doi": "10.1016/j.clnu.2026.106708",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42342512",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106708",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106708"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42342512",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42342512/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GLIM 流程中的營養篩檢第 1 部分：以修正版 Delphi 程序建立「營養不良風險」的概念性定義」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nutritional screening within the GLIM procedure—Part 1: Development of a conceptual definition of risk of malnutrition using a modified Delphi procedure",
+      "title_original": "Nutritional screening within the GLIM procedure—Part 1: Development of a conceptual definition of risk of malnutrition using a modified Delphi procedure",
+      "title_zh_tw": "GLIM 流程中的營養篩檢第 1 部分：以修正版 Delphi 程序建立「營養不良風險」的概念性定義",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106708",
+        "https://pubmed.ncbi.nlm.nih.gov/42342512/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chen Xin",
+        "Yuhong Luo",
+        "Yuhua Liu",
+        "Yan Xu",
+        "Guixin Liu",
+        "Binru Han",
+        "Frances Lin"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106755",
+      "doi": "10.1016/j.clnu.2026.106755",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106755",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106755"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「重症外科患者的營養管理：臨床實務指引評讀與整合」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Nutrition management in critically ill surgical patients: a clinical practice guideline appraisal and synthesis",
+      "title_original": "Nutrition management in critically ill surgical patients: a clinical practice guideline appraisal and synthesis",
+      "title_zh_tw": "重症外科患者的營養管理：臨床實務指引評讀與整合",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106755"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Connor C. Tseng",
+        "Jingyi Zhang",
+        "Sadichhya Shahi",
+        "Martha Waricoy",
+        "Lindsey Gordon",
+        "Kaylee R. Fisher",
+        "Spencer D. Camp",
+        "Colin Miller",
+        "Timothy C. McCall",
+        "Patrick G. Corr",
+        "Mikhail Kogan",
+        "Leigh A. Frame"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106743",
+      "doi": "10.1016/j.clnu.2026.106743",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106743",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106743"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「十五碳酸（C15:0）的脂質相關特徵：回溯性臨床世代中的網絡關係」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Lipid Correlates of Pentadecanoic Acid (C15:0): Network Relationships in a Retrospective Clinical Cohort",
+      "title_original": "Lipid Correlates of Pentadecanoic Acid (C15:0): Network Relationships in a Retrospective Clinical Cohort",
+      "title_zh_tw": "十五碳酸（C15:0）的脂質相關特徵：回溯性臨床世代中的網絡關係",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106743"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "V. Sá Martins",
+        "L. Aguiar",
+        "C. Dias",
+        "R. Figueiredo",
+        "T. Magalhães",
+        "P. Moreira",
+        "T. Mota",
+        "J. Pereira",
+        "I. Ramião",
+        "M. Ribeiro",
+        "B. Velez",
+        "R. Filipe",
+        "C. Santos-Araújo",
+        "C. Lucas",
+        "F. Macário"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106714",
+      "doi": "10.1016/j.clnu.2026.106714",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42348936",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106714",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106714"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42348936",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42348936/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「大型血液透析患者世代中透析期間營養攝取與全國持續供餐模式的遵從性觀點」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Intradialytic nutritional intake and adherence perspective of a national and continuous meal model in a large hemodialysis patient cohort",
+      "title_original": "Intradialytic nutritional intake and adherence perspective of a national and continuous meal model in a large hemodialysis patient cohort",
+      "title_zh_tw": "大型血液透析患者世代中透析期間營養攝取與全國持續供餐模式的遵從性觀點",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106714",
+        "https://pubmed.ncbi.nlm.nih.gov/42348936/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ismail Pinar",
+        "Julie Hvid Møller Andersen",
+        "Sofie Lund",
+        "Kirsten Kørup Rasmussen",
+        "Mark Krogh Hvistendahl",
+        "Christopher Filtenborg Brandt",
+        "Bolette Hartmann",
+        "Jens Frederik Rehfeld",
+        "Jens Juul Holst",
+        "Palle Bekker Jeppesen"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106713",
+      "doi": "10.1016/j.clnu.2026.106713",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42320379",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106713",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106713"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42320379",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42320379/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「腸道切除對胃腸道荷爾蒙分泌的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Impact of intestinal resections on the secretion of gastrointestinal hormones",
+      "title_original": "Impact of intestinal resections on the secretion of gastrointestinal hormones",
+      "title_zh_tw": "腸道切除對胃腸道荷爾蒙分泌的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106713",
+        "https://pubmed.ncbi.nlm.nih.gov/42320379/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lorenzo Norsa",
+        "Arianna Ghirardi",
+        "Esther Ramos Boluda",
+        "Anat Guz-Mark",
+        "Iva Hojsak",
+        "Johannes Hilberath",
+        "Ilse Julia Broekaert",
+        "Alida Alcolea Sánchez",
+        "Antonella Lezo",
+        "Paula Guerra",
+        "Pierre Poinsot",
+        "Cecile Lambe",
+        "Lorenzo D'Antiga"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106702",
+      "doi": "10.1016/j.clnu.2026.106702",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42275987",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106702",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106702"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42275987",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42275987/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「短腸症候群兒童接受 teduglutide 治療第一年的生長軌跡」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Growth trajectories of children with short bowel syndrome during the first year of teduglutide treatment",
+      "title_original": "Growth trajectories of children with short bowel syndrome during the first year of teduglutide treatment",
+      "title_zh_tw": "短腸症候群兒童接受 teduglutide 治療第一年的生長軌跡",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106702",
+        "https://pubmed.ncbi.nlm.nih.gov/42275987/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Irina Bulycheva",
+        "Yumi Watanabe",
+        "Kaori Kitamura",
+        "Keiko Kabasawa",
+        "Toshiko Saito",
+        "Akemi Takahashi",
+        "Ryosaku Kobayashi",
+        "Rieko Oshiki",
+        "Osamu Yamazaki",
+        "Kei Watanabe",
+        "Ribeka Takachi",
+        "Shoichiro Tsugane",
+        "Kazutoshi Nakamura"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106756",
+      "doi": "10.1016/j.clnu.2026.106756",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106756",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106756"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「發酵乳製品攝取與中高齡成人症狀性影像學膝骨關節炎風險：11 年世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Fermented dairy intake and symptomatic radiographic knee osteoarthritis risk in middle-aged and older adults: an 11-year cohort study",
+      "title_original": "Fermented dairy intake and symptomatic radiographic knee osteoarthritis risk in middle-aged and older adults: an 11-year cohort study",
+      "title_zh_tw": "發酵乳製品攝取與中高齡成人症狀性影像學膝骨關節炎風險：11 年世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106756"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andreea Zurbau",
+        "Lukas Haintz",
+        "Victoria Chen",
+        "Andrea J. Glenn",
+        "Meaghan E. Kavanagh",
+        "Julianah O. Oguntala",
+        "Sonia Blanco Mejia",
+        "Tauseef A. Khan",
+        "Lawrence A. Leiter",
+        "Cyril W.C. Kendall",
+        "Laura Chiavaroli",
+        "John L. Sievenpiper"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106698",
+      "doi": "10.1016/j.clnu.2026.106698",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42275989",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106698",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106698"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42275989",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42275989/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「植物固醇降低心代謝風險因子的效果：系統性回顧與統合分析的傘式回顧，以及隨機試驗的更新劑量反應統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Efficacy of phytosterols for reduction of cardiometabolic risk factors: An umbrella review of systematic reviews and meta-analyses and updated dose-response meta-analyses of randomized trials",
+      "title_original": "Efficacy of phytosterols for reduction of cardiometabolic risk factors: An umbrella review of systematic reviews and meta-analyses and updated dose-response meta-analyses of randomized trials",
+      "title_zh_tw": "植物固醇降低心代謝風險因子的效果：系統性回顧與統合分析的傘式回顧，以及隨機試驗的更新劑量反應統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106698",
+        "https://pubmed.ncbi.nlm.nih.gov/42275989/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ayten Altunsaray",
+        "Birgül Dağ",
+        "Ayhan Dağ"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106717",
+      "doi": "10.1016/j.clnu.2026.106717",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42400993",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106717",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106717"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42400993",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42400993/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「袖狀胃切除術後早期補充合生元對胃腸道結局的影響：隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Effects of early postoperative synbiotic supplementation on gastrointestinal outcomes after sleeve gastrectomy: A randomized controlled trial",
+      "title_original": "Effects of early postoperative synbiotic supplementation on gastrointestinal outcomes after sleeve gastrectomy: A randomized controlled trial",
+      "title_zh_tw": "袖狀胃切除術後早期補充合生元對胃腸道結局的影響：隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106717",
+        "https://pubmed.ncbi.nlm.nih.gov/42400993/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alba Camacho-Cardenosa",
+        "Elisa Merchán-Ramírez",
+        "Antonio Clavero-Jimeno",
+        "Alejandro De-la-O",
+        "José María Romero-Noguera",
+        "José L. Martín-Rodríguez",
+        "Manuel Muñoz-Torres",
+        "Idoia Labayen",
+        "Jonatan R. Ruiz",
+        "Manuel Dote-Montero"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106706",
+      "doi": "10.1016/j.clnu.2026.106706",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42302513",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106706",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106706"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42302513",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42302513/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「早時段、晚時段與自選時段限時進食對過重或肥胖成人減重維持的影響：隨機對照試驗 12 個月追蹤」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Effects of an early, late, and self-selected time-restricted eating intervention on weight loss maintenance in adults with overweight or obesity: A 12-month follow-up of a randomized controlled trial",
+      "title_original": "Effects of an early, late, and self-selected time-restricted eating intervention on weight loss maintenance in adults with overweight or obesity: A 12-month follow-up of a randomized controlled trial",
+      "title_zh_tw": "早時段、晚時段與自選時段限時進食對過重或肥胖成人減重維持的影響：隨機對照試驗 12 個月追蹤",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106706",
+        "https://pubmed.ncbi.nlm.nih.gov/42302513/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hila Zelicha",
+        "Maria Keller",
+        "Anat Yaskolka Meir",
+        "Ehud Rinott",
+        "Gal Tsaban",
+        "Alon Kaplan",
+        "Anne Hoffmann",
+        "Matthias Blüher",
+        "Uta Ceglarek",
+        "Berend Isermann",
+        "Michael Stumvoll",
+        "Ilan Shelef",
+        "Frank B. Hu",
+        "Meir J. Stampfer",
+        "Peter Kovacs",
+        "Iris Shai"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106701",
+      "doi": "10.1016/j.clnu.2026.106701",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42269400",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106701",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106701"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42269400",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42269400/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「綠色地中海飲食對血清葉酸及其與葉酸代謝基因變異交互作用的影響：DIRECT PLUS 18 個月飲食隨機對照試驗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Effect of green mediterranean diet on serum folate and its interaction with genetic variation in folate metabolism: The DIRECT PLUS 18-month dietary randomized controlled trial",
+      "title_original": "Effect of green mediterranean diet on serum folate and its interaction with genetic variation in folate metabolism: The DIRECT PLUS 18-month dietary randomized controlled trial",
+      "title_zh_tw": "綠色地中海飲食對血清葉酸及其與葉酸代謝基因變異交互作用的影響：DIRECT PLUS 18 個月飲食隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106701",
+        "https://pubmed.ncbi.nlm.nih.gov/42269400/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenning Lu",
+        "Xiangfei Meng",
+        "Lining Xu",
+        "Chaoyang Liu",
+        "Wen Chen",
+        "Rong Wang",
+        "Wenbo Nie",
+        "Rui Cheng"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106750",
+      "doi": "10.1016/j.clnu.2026.106750",
+      "issns": [
+        "0261-5614"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106750",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106750"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「胰十二指腸切除術後生化漏高齡患者的早期鼻空腸餵食：營養驅動介入的傾向分數加權世代研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Early Nasojejunal Feeding in Older Patients with Biochemical Leak After Pancreaticoduodenectomy: A Propensity-Weighted Cohort Study of a Nutrition-Driven Intervention",
+      "title_original": "Early Nasojejunal Feeding in Older Patients with Biochemical Leak After Pancreaticoduodenectomy: A Propensity-Weighted Cohort Study of a Nutrition-Driven Intervention",
+      "title_zh_tw": "胰十二指腸切除術後生化漏高齡患者的早期鼻空腸餵食：營養驅動介入的傾向分數加權世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106750"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jingyu Ye",
+        "Jianhui Zhao",
+        "Hao Wu",
+        "Haosen Ji",
+        "Siyun Zhou",
+        "Evropi Theodoratou",
+        "Konstantinos K. Tsilidis",
+        "Xue Li"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106716",
+      "doi": "10.1016/j.clnu.2026.106716",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42400994",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106716",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106716"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42400994",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42400994/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「EAT-Lancet 飲食對代謝體—蛋白體重編程的調節與大腸直腸癌風險降低」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dietary modulation of metabo-proteomic reprogramming by the EAT-lancet diet attenuates colorectal cancer risk",
+      "title_original": "Dietary modulation of metabo-proteomic reprogramming by the EAT-lancet diet attenuates colorectal cancer risk",
+      "title_zh_tw": "EAT-Lancet 飲食對代謝體—蛋白體重編程的調節與大腸直腸癌風險降低",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106716",
+        "https://pubmed.ncbi.nlm.nih.gov/42400994/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Laura K. Schembri",
+        "Siobhán B. Carr",
+        "Jane C. Davies",
+        "Sarah A. Collins"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106718",
+      "doi": "10.1016/j.clnu.2026.106718",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42424717",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106718",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106718"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42424717",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42424717/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「調節劑時代囊性纖維化兒童的飲食組成與品質：範疇回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Diet composition and quality in children with cystic fibrosis in the modulator era: A scoping review",
+      "title_original": "Diet composition and quality in children with cystic fibrosis in the modulator era: A scoping review",
+      "title_zh_tw": "調節劑時代囊性纖維化兒童的飲食組成與品質：範疇回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106718",
+        "https://pubmed.ncbi.nlm.nih.gov/42424717/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Laura Bordoni",
+        "Fatemeh Mansouri",
+        "Chiara Rucci",
+        "João Agostinho de Sousa",
+        "Ferdinand von Meyenn"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106703",
+      "doi": "10.1016/j.clnu.2026.106703",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42263547",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106703",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106703"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263547",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263547/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「飲食食物類別與表觀遺傳年齡加速及低度發炎的關聯：Lifelines-DEEP 世代」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Associations between dietary food categories, epigenetic age acceleration and low-grade inflammation in the Lifelines-DEEP cohort",
+      "title_original": "Associations between dietary food categories, epigenetic age acceleration and low-grade inflammation in the Lifelines-DEEP cohort",
+      "title_zh_tw": "飲食食物類別與表觀遺傳年齡加速及低度發炎的關聯：Lifelines-DEEP 世代",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106703",
+        "https://pubmed.ncbi.nlm.nih.gov/42263547/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zheng Yao",
+        "Xinhao Chen",
+        "Xin Xu",
+        "Qizhi Zhai",
+        "Risheng Zhao",
+        "Qian Huang"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106715",
+      "doi": "10.1016/j.clnu.2026.106715",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42348937",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106715",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106715"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42348937",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42348937/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「術前經皮內視鏡結腸造口回輸食糜與短腸症候群患者腸道復接後脫離靜脈液體支持的關聯：末端空腸造口且結腸完整但失功能患者」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Association of preoperative chyme reinfusion via percutaneous endoscopic colostomy with post-reversal Fluid independence in short bowel syndrome patients with an end jejunostomy and an intact but defunctionalized colon",
+      "title_original": "Association of preoperative chyme reinfusion via percutaneous endoscopic colostomy with post-reversal Fluid independence in short bowel syndrome patients with an end jejunostomy and an intact but defunctionalized colon",
+      "title_zh_tw": "術前經皮內視鏡結腸造口回輸食糜與短腸症候群患者腸道復接後脫離靜脈液體支持的關聯：末端空腸造口且結腸完整但失功能患者",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106715",
+        "https://pubmed.ncbi.nlm.nih.gov/42348937/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hyun-Jun Park",
+        "Yoon Hae Ahn",
+        "Kyung-Eui Lee",
+        "Si Mong Yoon",
+        "Choon Geun Lee",
+        "Jinwoo Lee",
+        "Sang-Min Lee",
+        "Hong Yeul Lee"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106711",
+      "doi": "10.1016/j.clnu.2026.106711",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42314493",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106711",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106711"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42314493",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42314493/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「營養支持後血磷下降與重症患者拔管失敗的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Association of phosphate decline after nutritional support with extubation failure in critically ill patients",
+      "title_original": "Association of phosphate decline after nutritional support with extubation failure in critically ill patients",
+      "title_zh_tw": "營養支持後血磷下降與重症患者拔管失敗的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106711",
+        "https://pubmed.ncbi.nlm.nih.gov/42314493/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Manraj Singh Sra",
+        "Shuvadeep Ganguly",
+        "Archana Sasi",
+        "Ayushi Bansal",
+        "Vasudha Verma",
+        "Swetambri Sharma",
+        "Mamta Kumari",
+        "Deepam Pushpam",
+        "Atul Batra",
+        "Sandeep Agarwala",
+        "Sameer Bakhshi"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106704",
+      "doi": "10.1016/j.clnu.2026.106704",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42296830",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106704",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106704"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42296830",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42296830/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「營養狀態縱向變化與兒童癌症存活結局的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Association of longitudinal changes in nutritional status with survival outcomes in childhood cancer",
+      "title_original": "Association of longitudinal changes in nutritional status with survival outcomes in childhood cancer",
+      "title_zh_tw": "營養狀態縱向變化與兒童癌症存活結局的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106704",
+        "https://pubmed.ncbi.nlm.nih.gov/42296830/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Soo-Hyun Kim",
+        "Hyunju Kim",
+        "Casey M. Rebholz",
+        "Dayeon Shin"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106697",
+      "doi": "10.1016/j.clnu.2026.106697",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42275990",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106697",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106697"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42275990",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42275990/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「飲食發炎潛勢與中年成人代謝症候群發生率的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Association between the inflammatory potential of the diet and incidence of metabolic syndrome in middle-aged adults",
+      "title_original": "Association between the inflammatory potential of the diet and incidence of metabolic syndrome in middle-aged adults",
+      "title_zh_tw": "飲食發炎潛勢與中年成人代謝症候群發生率的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106697",
+        "https://pubmed.ncbi.nlm.nih.gov/42275990/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lu Dong",
+        "Bailong Hu",
+        "Fang Wen",
+        "Shang Shi",
+        "Yi Liang",
+        "Lumei Qin",
+        "Xiaoyan Zhi",
+        "Run Li",
+        "Wen Song",
+        "Qun Xia",
+        "Jian Wu",
+        "Li Qiu",
+        "Qianglin Yi",
+        "Yang Zhao",
+        "Li Yan",
+        "Fangzhou Yang",
+        "Lu Chen",
+        "Jieqiong Luo",
+        "Wenqi Zhang",
+        "Li Zeng",
+        "Kun Zhou",
+        "Minhuan Shen",
+        "Xiaohua Zou"
+      ],
+      "canonical_id": "doi:10.1016/j.clnu.2026.106695",
+      "doi": "10.1016/j.clnu.2026.106695",
+      "issns": [
+        "0261-5614",
+        "1532-1983"
+      ],
+      "journal": "Clinical Nutrition",
+      "pmcid": null,
+      "pmid": "42263546",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.clnu.2026.106695",
+          "url": "https://doi.org/10.1016/j.clnu.2026.106695"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42263546",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42263546/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「營養不良與衰弱和高齡手術患者術後死亡的關聯」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Association between malnutrition and frailty and postoperative mortality in older surgical patients",
+      "title_original": "Association between malnutrition and frailty and postoperative mortality in older surgical patients",
+      "title_zh_tw": "營養不良與衰弱和高齡手術患者術後死亡的關聯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.clnu.2026.106695",
+        "https://pubmed.ncbi.nlm.nih.gov/42263546/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__clinical-nutrition__2026-08__r03.json",
+    "manifest_json": "EvidenceRadar_Editions__clinical-nutrition__2026-08__r03.manifest.json",
+    "report_html": "EvidenceRadar_Editions__clinical-nutrition__2026-08__r03.html",
+    "stem": "EvidenceRadar_Editions__clinical-nutrition__2026-08__r03",
+    "translation_request_json": "EvidenceRadar_Editions__clinical-nutrition__2026-08__r03.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__clinical-nutrition__2026-08__r03.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 33,
+    "by_article_type": {
+      "journal-article": 33
+    },
+    "by_source": {
+      "crossref": 33,
+      "pubmed": 24
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 33,
+    "translated_articles": 33
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "clinical-nutrition__2026-08__r03",
+  "edition_key": "clinical-nutrition__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-23",
+    "acquisition_start": "2026-08-20",
+    "added_article_count": 0,
+    "base_article_count": 33,
+    "base_edition_sha256": "101d32a8d18111c515b77cab954b173f02ccc371b6996a9fed9fde12ee2d2627",
+    "base_manifest_publication_id": "clinical-nutrition__2026-08__r02",
+    "base_period_end": "2026-08-19",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "clinical-nutrition__2026-08__r02",
+    "base_revision": 2,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 33
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-23",
+    "incremental_acquisition_start": "2026-08-20",
+    "journal_slug": "clinical-nutrition",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 33,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "clinical-nutrition__2026-08__r03",
+  "publication_notes": {
+    "editorial_projection": {
+      "excluded_count": 1,
+      "excluded_records": [
+        {
+          "canonical_id": "doi:10.1016/j.clnu.2026.106749",
+          "publication_date_precision": "YEAR",
+          "reason": "INSUFFICIENT_DATE_PRECISION_FOR_MONTH",
+          "title": "Smell and taste function after completion of childhood cancer treatment: Follow-up of a prospective cohort study."
+        }
+      ],
+      "policy": "Exclude temporary-removal/front-matter placeholders and records whose date precision is insufficient to assign them to the month.",
+      "published_article_count": 33,
+      "source_match_count": 34
+    }
+  },
+  "retrieved_at": "2026-08-23T07:45:39Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__clinical-nutrition__2026-08__r03",
+    "edition_key": "clinical-nutrition__2026-08",
+    "end_date": "2026-08-23",
+    "issn": "0261-5614",
+    "journal": "Clinical Nutrition",
+    "journal_slug": "clinical-nutrition",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 23 日）",
+    "period_status": "MTD",
+    "publication_id": "clinical-nutrition__2026-08__r03",
+    "revision": 3,
+    "slug": "clinical-nutrition",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Clinical Nutrition; publication=2026-08-20..2026-08-23",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "(\"Clinical Nutrition\"[Journal] OR \"0261-5614\"[ISSN]) AND (\"2026/08/20\"[Date - Publication] : \"2026/08/23\"[Date - Publication])",
+      "returned_count": 0,
+      "source": "pubmed",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Clinical Nutrition\" AND FIRST_PDATE:[2026-08-20 TO 2026-08-23]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "clinical-nutrition__2026-08__r02",
+    "language": "zh-TW",
+    "request_binding_sha256": "23b3f6eaedf64b19b5f43559b43981f3c77b844d4bedf6111dacf14a8adfba30",
+    "response_generated_at": "2026-08-14T02:00:54Z",
+    "response_sha256": "d2e6c3d543719f6fc2b7801e39effa266463e3bdeb234a27d2d3e2c5ce47afad",
+    "source_edition_sha256": "a187365e318dc93bdde9ca89e0436d10f5c94a66399e00df904eb2256b3241dc",
+    "status": "COMPLETE",
+    "total_articles": 33,
+    "translated_articles": 33
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_clinical_nutrition"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
