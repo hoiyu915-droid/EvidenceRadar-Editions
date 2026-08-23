@@ -1,20 +1,32 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-final-core-two-through-23",
+  "request_id": "2026-08-cambridge-sixteen-through-23",
   "acquisition_start": "2026-08-20",
   "acquisition_end": "2026-08-23",
   "revision": 3,
-  "selection_count": 2,
+  "provider": "cambridge",
+  "selection_provider": "cambridge",
+  "selection_count": 16,
   "selection_base_revision": 2,
   "selection_base_period_end": "2026-08-19",
-  "allow_planned_journals": [
-    "chemical-science",
-    "tmlr"
-  ],
   "journals": [
-    "chemical-science",
-    "tmlr"
+    "ai-edam",
+    "antimicrobial-stewardship-and-healthcare-epidemiology",
+    "bjpsych-open",
+    "cambridge-forum-on-ai-culture-and-society",
+    "cambridge-forum-on-ai-law-and-governance",
+    "cambridge-forum-on-technology-and-global-affairs",
+    "computational-humanities-research",
+    "data-centric-engineering",
+    "epidemiology-and-infection",
+    "journal-of-clinical-and-translational-science",
+    "journal-of-nutritional-science",
+    "memory-mind-and-media",
+    "natural-language-processing",
+    "psychological-medicine",
+    "public-health-nutrition",
+    "wearable-technologies"
   ],
-  "selection_semantics": "Final two existing August core editions outside the Cambridge provider batch; both have immutable r02 bases ending 2026-08-19, are explicitly allowed despite planned registry status, and therefore target r03."
+  "selection_semantics": "All sixteen Cambridge provider journals other than Data & Policy share immutable August r02 bases ending 2026-08-19 and therefore form one provider-scoped r03 suffix batch."
 }
