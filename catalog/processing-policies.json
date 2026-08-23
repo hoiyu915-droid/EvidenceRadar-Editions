@@ -36,6 +36,14 @@
     }
   },
   "journals": {
+    "bmc-psychology": {
+      "mode": "TRIAGE",
+      "note": "High-volume broad psychology journal. Retain bounded bibliographic coverage for relationship and family discovery while deferring blanket translation and commentary."
+    },
+    "bmc-womens-health": {
+      "mode": "TRIAGE",
+      "note": "High-volume broad women's-health journal. Retain bounded bibliographic coverage for sexual, reproductive and gender-related discovery while deferring blanket translation and commentary."
+    },
     "scientific-reports": {
       "mode": "TRIAGE",
       "note": "High-volume broad-scope source. The 2026-08 MTD canonical edition already contains 1,888 records, so future runs retain bounded metadata coverage while blanket translation/commentary is deferred and the default Pages projection is capped."

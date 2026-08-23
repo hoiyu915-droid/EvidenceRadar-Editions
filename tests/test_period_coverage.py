@@ -86,7 +86,12 @@ class PeriodCoverageTests(unittest.TestCase):
     def test_committed_coverage_aggregates_match_journal_rows(self):
         coverage_files = sorted(COVERAGE_ROOT.glob("*.json"))
         self.assertTrue(coverage_files, "expected at least one period coverage file")
+        registry = json.loads(
+            (ROOT / "catalog" / "journals.json").read_text(encoding="utf-8")
+        )
+        registry_slugs = {row["slug"] for row in registry["journals"]}
 
+        latest_coverage_path = coverage_files[-1]
         for path in coverage_files:
             with self.subTest(path=path.name):
                 payload = json.loads(path.read_text(encoding="utf-8"))
@@ -113,6 +118,8 @@ class PeriodCoverageTests(unittest.TestCase):
 
                 slugs = [row["slug"] for row in journals]
                 self.assertEqual(len(slugs), len(set(slugs)))
+                if path == latest_coverage_path:
+                    self.assertEqual(set(slugs), registry_slugs)
                 for row in journals:
                     self.assertIsInstance(row["article_count"], int)
                     self.assertGreaterEqual(row["article_count"], 0)

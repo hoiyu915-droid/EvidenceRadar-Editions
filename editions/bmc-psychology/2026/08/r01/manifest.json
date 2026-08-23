@@ -1,0 +1,43 @@
+{
+  "article_count": 136,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T09:42:08Z",
+  "edition_id": "bmc-psychology__2026-08__r01",
+  "edition_key": "bmc-psychology__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 187722,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__bmc-psychology__2026-08__r01.json",
+      "sha256": "41307f7137b5fbe38e17550be2c574760eb738ba4ee00991b05b33847e6655b4"
+    },
+    "report_html": {
+      "bytes": 320849,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__bmc-psychology__2026-08__r01.html",
+      "sha256": "24492ce8c10578050645851b8e596f6004d6c1f2198d820010388f633f73531a"
+    }
+  },
+  "journal": "BMC Psychology",
+  "journal_slug": "bmc-psychology",
+  "manifest_name": "EvidenceRadar_Editions__bmc-psychology__2026-08__r01.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "bmc-psychology__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": null
+}

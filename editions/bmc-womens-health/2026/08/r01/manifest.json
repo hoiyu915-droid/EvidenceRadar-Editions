@@ -1,0 +1,43 @@
+{
+  "article_count": 73,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T09:42:12Z",
+  "edition_id": "bmc-womens-health__2026-08__r01",
+  "edition_key": "bmc-womens-health__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 103434,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__bmc-womens-health__2026-08__r01.json",
+      "sha256": "b1ba80dc3c9f0d3e6ca5cae8c91a1488cc577d153fe0991918595ab4db028289"
+    },
+    "report_html": {
+      "bytes": 181493,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__bmc-womens-health__2026-08__r01.html",
+      "sha256": "671ad3a5d0a6966c27369c6c29be6775f0b8be9dcc4750b754e259b45e51a111"
+    }
+  },
+  "journal": "BMC Women's Health",
+  "journal_slug": "bmc-womens-health",
+  "manifest_name": "EvidenceRadar_Editions__bmc-womens-health__2026-08__r01.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "bmc-womens-health__2026-08__r01",
+  "publication_language": "zh-TW",
+  "revision": 1,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "current_source_reconstruction_of_historical_publication_window",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": null
+}

@@ -3,14 +3,21 @@
   "category_labels": {
     "chemistry": "化學",
     "clinical_medicine": "臨床醫學",
+    "gender_sexuality": "性別／性傾向",
     "human_ai": "Human-AI／HCI",
+    "intimate_relationships": "親密／伴侶關係",
     "interdisciplinary": "跨領域",
     "llm_research": "AI／LLM",
+    "marriage_family": "婚姻／家庭",
+    "mens_health": "男性健康",
     "physics_astronomy": "物理／天文",
+    "psychology": "心理學",
+    "sexual_health": "性與性健康",
     "sport_nutrition_fitness": "運動營養／體適能",
-    "sport_science": "運動科學"
+    "sport_science": "運動科學",
+    "womens_health": "女性健康"
   },
-  "journal_count": 58,
+  "journal_count": 65,
   "journals": [
     {
       "categories": [
@@ -44,6 +51,27 @@
     },
     {
       "categories": [
+        "mens_health",
+        "sexual_health",
+        "clinical_medicine",
+        "gender_sexuality"
+      ],
+      "issn": "1557-9883",
+      "name": "American Journal of Men's Health",
+      "oa": "fully_oa",
+      "origin": "editions",
+      "publisher": "SAGE",
+      "slug": "american-journal-of-mens-health",
+      "source_id": "american_journal_of_mens_health",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "status": "active"
+    },
+    {
+      "categories": [
         "clinical_medicine",
         "llm_research",
         "human_ai"
@@ -54,6 +82,47 @@
       "publisher": "Elsevier",
       "slug": "artificial-intelligence-in-medicine",
       "source_id": "elsevier_artificial_intelligence_medicine",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "status": "active"
+    },
+    {
+      "categories": [
+        "psychology",
+        "intimate_relationships",
+        "marriage_family"
+      ],
+      "issn": "2050-7283",
+      "name": "BMC Psychology",
+      "oa": "fully_oa",
+      "origin": "editions",
+      "publisher": "BMC / Springer Nature",
+      "slug": "bmc-psychology",
+      "source_id": "bmc_psychology",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "status": "active"
+    },
+    {
+      "categories": [
+        "womens_health",
+        "sexual_health",
+        "clinical_medicine",
+        "gender_sexuality"
+      ],
+      "issn": "1472-6874",
+      "name": "BMC Women's Health",
+      "oa": "fully_oa",
+      "origin": "editions",
+      "publisher": "BMC / Springer Nature",
+      "slug": "bmc-womens-health",
+      "source_id": "bmc_womens_health",
       "sources": [
         "crossref",
         "pubmed",
@@ -271,6 +340,24 @@
         "crossref",
         "pubmed",
         "europe_pmc"
+      ],
+      "status": "active"
+    },
+    {
+      "categories": [
+        "marriage_family",
+        "intimate_relationships",
+        "gender_sexuality"
+      ],
+      "issn": "2699-2337",
+      "name": "Journal of Family Research",
+      "oa": "fully_oa",
+      "origin": "editions",
+      "publisher": "University of Bamberg Press",
+      "slug": "journal-of-family-research",
+      "source_id": "journal_of_family_research",
+      "sources": [
+        "crossref"
       ],
       "status": "active"
     },
@@ -518,6 +605,26 @@
     },
     {
       "categories": [
+        "sexual_health",
+        "clinical_medicine",
+        "womens_health"
+      ],
+      "issn": "1742-4755",
+      "name": "Reproductive Health",
+      "oa": "fully_oa",
+      "origin": "editions",
+      "publisher": "BMC / Springer Nature",
+      "slug": "reproductive-health",
+      "source_id": "reproductive_health",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "status": "active"
+    },
+    {
+      "categories": [
         "interdisciplinary"
       ],
       "issn": "2053-714X",
@@ -541,6 +648,45 @@
       "publisher": "Elsevier",
       "slug": "natural-language-processing-journal",
       "source_id": "elsevier_natural_language_processing_journal",
+      "sources": [
+        "crossref"
+      ],
+      "status": "active"
+    },
+    {
+      "categories": [
+        "sexual_health",
+        "gender_sexuality",
+        "womens_health",
+        "clinical_medicine"
+      ],
+      "issn": "2641-0397",
+      "name": "Sexual and Reproductive Health Matters",
+      "oa": "fully_oa",
+      "origin": "editions",
+      "publisher": "Sexual and Reproductive Health Matters / Taylor & Francis",
+      "slug": "sexual-and-reproductive-health-matters",
+      "source_id": "sexual_and_reproductive_health_matters",
+      "sources": [
+        "crossref",
+        "pubmed",
+        "europe_pmc"
+      ],
+      "status": "active"
+    },
+    {
+      "categories": [
+        "sexual_health",
+        "intimate_relationships",
+        "clinical_medicine"
+      ],
+      "issn": "2050-1161",
+      "name": "Sexual Medicine",
+      "oa": "fully_oa",
+      "origin": "editions",
+      "publisher": "Oxford University Press",
+      "slug": "sexual-medicine",
+      "source_id": "sexual_medicine",
       "sources": [
         "crossref"
       ],
