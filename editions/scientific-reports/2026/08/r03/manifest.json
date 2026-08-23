@@ -1,0 +1,43 @@
+{
+  "article_count": 2869,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:12:29Z",
+  "edition_id": "scientific-reports__2026-08__r03",
+  "edition_key": "scientific-reports__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 4534066,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__scientific-reports__2026-08__r03.json",
+      "sha256": "33befcb9a7a4671b49068f04ea0952ce7e84aa7f3fcf583d4d714d5387d64194"
+    },
+    "report_html": {
+      "bytes": 7363415,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__scientific-reports__2026-08__r03.html",
+      "sha256": "658fcc51c85ea73988dd76dd699984b07aa50588b08982a8feaf88865706e4e7"
+    }
+  },
+  "journal": "Scientific Reports",
+  "journal_slug": "scientific-reports",
+  "manifest_name": "EvidenceRadar_Editions__scientific-reports__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "scientific-reports__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 1888,
+  "translation_provenance": {
+    "request_binding_sha256": "4ba5641a350c5bf869348291bc6c49b0037111e6f62eeb3fb4844206f7bd076b",
+    "response_sha256": "94704ab8e0458ad375374a8e2cb8a59cd408a7b4c43d9b91b9ee0e70650e97e3",
+    "source_edition_sha256": "94881b979c107299b53c643946bda74ac91f4a66018d3cdda42c86f6b6f9cdda"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

@@ -1,0 +1,43 @@
+{
+  "article_count": 33,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:12:39Z",
+  "edition_id": "the-lancet-regional-health-europe__2026-08__r03",
+  "edition_key": "the-lancet-regional-health-europe__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 81038,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r03.json",
+      "sha256": "470c40d2f36de47189a09a325077080cb612560f82a7fd9d2a745a848738d902"
+    },
+    "report_html": {
+      "bytes": 134607,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r03.html",
+      "sha256": "db9c868f9d2b3192fa51f88e5e89b30261d2110d65a0a997e727e841777a1bf9"
+    }
+  },
+  "journal": "The Lancet Regional Health – Europe",
+  "journal_slug": "the-lancet-regional-health-europe",
+  "manifest_name": "EvidenceRadar_Editions__the-lancet-regional-health-europe__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "the-lancet-regional-health-europe__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 33,
+  "translation_provenance": {
+    "request_binding_sha256": "8fb9052bc6db4c6c46ecbe9f01156b4705886847fb70c1af4b0a8a08a18fd97a",
+    "response_sha256": "b511aa880339335b881da759af15003b32880df56ce9ae97a7b718ea071d45ff",
+    "source_edition_sha256": "22260e0aec93d561e896389a96e602700baf8e1db3e084ca18fb908aa73cd3c0"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

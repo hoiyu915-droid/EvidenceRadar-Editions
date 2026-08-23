@@ -1,0 +1,43 @@
+{
+  "article_count": 41,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:12:36Z",
+  "edition_id": "the-lancet-global-health__2026-08__r03",
+  "edition_key": "the-lancet-global-health__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 84574,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r03.json",
+      "sha256": "2037f4dce18fc2abf32d0e001663da41dfaa715a090d3b767d489430d4772655"
+    },
+    "report_html": {
+      "bytes": 140225,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r03.html",
+      "sha256": "cb23c8953890e6259735de99fec4c9e748506bd19c1357d46c0f3ef2e6fe1cd0"
+    }
+  },
+  "journal": "The Lancet Global Health",
+  "journal_slug": "the-lancet-global-health",
+  "manifest_name": "EvidenceRadar_Editions__the-lancet-global-health__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "the-lancet-global-health__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 38,
+  "translation_provenance": {
+    "request_binding_sha256": "f92de8bdc75cebcd78ae2cb0944c539509d70b9da0aceea8c26fa307fccb2db4",
+    "response_sha256": "e5c99fcb3e1caee9a6387af7e9d0a49844755b03757129822b962375ac8b9744",
+    "source_edition_sha256": "049ce001cbb50668cf73f04b6aebf7896ddfda2652436209e6310f9a711a7b29"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

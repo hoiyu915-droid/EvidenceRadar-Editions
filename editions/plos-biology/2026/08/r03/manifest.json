@@ -1,0 +1,43 @@
+{
+  "article_count": 26,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-23T08:12:18Z",
+  "edition_id": "plos-biology__2026-08__r03",
+  "edition_key": "plos-biology__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 41466,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__plos-biology__2026-08__r03.json",
+      "sha256": "1113fc6f97648d4335e81af3b117b0a0e838c547f523299558a69fcd4d098f20"
+    },
+    "report_html": {
+      "bytes": 74373,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__plos-biology__2026-08__r03.html",
+      "sha256": "793aea9b1cf82a8d0cc3441898bd9d20c05ccb08e6fe7ea246374aec9ea8704b"
+    }
+  },
+  "journal": "PLOS Biology",
+  "journal_slug": "plos-biology",
+  "manifest_name": "EvidenceRadar_Editions__plos-biology__2026-08__r03.manifest.json",
+  "period_end": "2026-08-23",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "plos-biology__2026-08__r03",
+  "publication_language": "zh-TW",
+  "revision": 3,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 16,
+  "translation_provenance": {
+    "request_binding_sha256": "c27552188463944600c2870073862cedd730c4c2469b3da571311be4f98edd86",
+    "response_sha256": "7f3914689ce19876d7d82a27c1069d13dfd3417c39d9554495fa9452e00dfd98",
+    "source_edition_sha256": "215500be8d672a76d340e6ee4b96c3f11fdb16b087b2afc35f98663ee1d1466e"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
