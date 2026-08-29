@@ -1,0 +1,58 @@
+{
+  "acquisition_end": "2026-08-29",
+  "acquisition_start": "2026-08-24",
+  "allow_planned_journals": [
+    "chemical-science",
+    "tmlr"
+  ],
+  "artifact_type": "EvidenceRadar_Editions_BackfillReceipt",
+  "generated_at": "2026-08-29T06:45:06Z",
+  "journal_count": 2,
+  "journals": [
+    {
+      "acquisition_end": "2026-08-29",
+      "acquisition_start": "2026-08-24",
+      "added_article_count": 41,
+      "base_article_count": 113,
+      "base_edition_sha256": "0046b77e18362c2585ca88544f1077fbe0e94a6ae09dad71eff26e1995def573",
+      "base_manifest_publication_id": "chemical-science__2026-08__r03",
+      "base_period_end": "2026-08-23",
+      "base_period_start": "2026-08-01",
+      "base_publication_id": "chemical-science__2026-08__r03",
+      "base_revision": 3,
+      "deduplicated_article_count": 0,
+      "delta_acquired_article_count": 41,
+      "journal_slug": "chemical-science",
+      "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+      "publication_id": "chemical-science__2026-08__r04",
+      "result_article_count": 154,
+      "status": "PUBLISHED",
+      "target": "editions/chemical-science/2026/08/r04"
+    },
+    {
+      "acquisition_end": "2026-08-29",
+      "acquisition_start": "2026-08-24",
+      "added_article_count": 60,
+      "base_article_count": 147,
+      "base_edition_sha256": "3baac208b2cc895603378f797ebfb6fadf15e609235bbcae3e2e876c4089419a",
+      "base_manifest_publication_id": "tmlr__2026-08__r03",
+      "base_period_end": "2026-08-23",
+      "base_period_start": "2026-08-01",
+      "base_publication_id": "tmlr__2026-08__r03",
+      "base_revision": 3,
+      "deduplicated_article_count": 147,
+      "delta_acquired_article_count": 207,
+      "journal_slug": "tmlr",
+      "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+      "publication_id": "tmlr__2026-08__r04",
+      "result_article_count": 207,
+      "status": "PUBLISHED",
+      "target": "editions/tmlr/2026/08/r04"
+    }
+  ],
+  "period_key": "2026-08",
+  "request_id": "2026-08-final-core-two-through-29",
+  "revision": 4,
+  "schema_version": "1.0",
+  "semantics": "Only the missing date suffix was acquired live. Each result is a new full monthly snapshot revision composed with an immutable validated base."
+}
