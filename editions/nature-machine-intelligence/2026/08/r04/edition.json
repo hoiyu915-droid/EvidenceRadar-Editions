@@ -1,0 +1,781 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bojana Ranković",
+        "Ryan-Rhys Griffiths",
+        "Philippe Schwaller"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01283-z",
+      "doi": "10.1038/s42256-026-01283-z",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-28",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01283-z",
+          "url": "https://www.nature.com/articles/s42256-026-01283-z"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Large language models as uncertainty-calibrated optimizers for experimental discovery",
+      "title_original": "Large language models as uncertainty-calibrated optimizers for experimental discovery",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01283-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Min Chen",
+        "Zhiyi Zhu",
+        "Thorsten Wagener",
+        "Niklas Boers",
+        "R. Dietmar Müller",
+        "Josef Strobl",
+        "Gustau Camps-Valls",
+        "Michael Batty",
+        "Anthony J. Jakeman",
+        "Olaf Kolditz",
+        "Stefano Nativi",
+        "Maria Antonia Brovelli",
+        "Felix Creutzig",
+        "Pankaj Kumar",
+        "Paul Whitehead",
+        "C. Michael Barton",
+        "Dichen Liu",
+        "Peilong Ma",
+        "Zaiyang Ma",
+        "Fengyuan Zhang",
+        "Bo Zhang",
+        "Peng Hou",
+        "Guonian Lü"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01299-5",
+      "doi": "10.1038/s42256-026-01299-5",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-28",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01299-5",
+          "url": "https://www.nature.com/articles/s42256-026-01299-5"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Enhancing reproducibility in hybrid Earth system models",
+      "title_original": "Enhancing reproducibility in hybrid Earth system models",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01299-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Irene Unceta",
+        "Paula Subías-Beltrán",
+        "Oriol Pujol"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01294-w",
+      "doi": "10.1038/s42256-026-01294-w",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-26",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01294-w",
+          "url": "https://www.nature.com/articles/s42256-026-01294-w"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The epistemic debt of generative AI",
+      "title_original": "The epistemic debt of generative AI",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01294-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sungwoo Lee",
+        "Younghyun Oh",
+        "Hyunhoe An",
+        "Hyebhin Yoon",
+        "Karl J. Friston",
+        "Seok Jun Hong",
+        "Choong-Wan Woo"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01296-8",
+      "doi": "10.1038/s42256-026-01296-8",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-26",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01296-8",
+          "url": "https://www.nature.com/articles/s42256-026-01296-8"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Life-inspired interoceptive artificial intelligence for autonomous and adaptive agents",
+      "title_original": "Life-inspired interoceptive artificial intelligence for autonomous and adaptive agents",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01296-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jinghao Feng",
+        "Ziheng Zhao",
+        "Xiaoman Zhang",
+        "Mingfei Liu",
+        "Jingyi Chen",
+        "Xingran Quan",
+        "Boyang Fu",
+        "Jian Zhang",
+        "Yanfeng Wang",
+        "Ya Zhang",
+        "Weidi Xie"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01286-w",
+      "doi": "10.1038/s42256-026-01286-w",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-26",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01286-w",
+          "url": "https://www.nature.com/articles/s42256-026-01286-w"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "A knowledge-driven framework for predicting single-cell responses for unprofiled drugs",
+      "title_original": "A knowledge-driven framework for predicting single-cell responses for unprofiled drugs",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01286-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuan Ni",
+        "Zhantao Chen",
+        "Shizhou Xu",
+        "Cheng Peng",
+        "Rajan Plumley",
+        "Chun Hong Yoon",
+        "Jana B. Thayer",
+        "Joshua J. Turner"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01287-9",
+      "doi": "10.1038/s42256-026-01287-9",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-24",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01287-9",
+          "url": "https://www.nature.com/articles/s42256-026-01287-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Multi-resolution enhancement for full-spectrum neural representations",
+      "title_original": "Multi-resolution enhancement for full-spectrum neural representations",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01287-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shuhang Gu",
+        "Kexuan Shi"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01290-0",
+      "doi": "10.1038/s42256-026-01290-0",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-24",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01290-0",
+          "url": "https://www.nature.com/articles/s42256-026-01290-0"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Harnessing implicit neural representations for scientific data compression",
+      "title_original": "Harnessing implicit neural representations for scientific data compression",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01290-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Max K. Shepherd",
+        "Ethan B. Schonhaut",
+        "Keaton L. Scherpereel",
+        "Fatima Mumtaza Tourk",
+        "Aaron J. Young"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01297-7",
+      "doi": "10.1038/s42256-026-01297-7",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-24",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01297-7",
+          "url": "https://www.nature.com/articles/s42256-026-01297-7"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "A roadmap for end-to-end task-agnostic exoskeleton control",
+      "title_original": "A roadmap for end-to-end task-agnostic exoskeleton control",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42256-026-01297-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wei-Hao Chen",
+        "Qi-Wen Wang",
+        "Zhi-Yi Li",
+        "Song-Yang Li",
+        "Chen Lin",
+        "Zhi-Liang Ji"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01291-z",
+      "doi": "10.1038/s42256-026-01291-z",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-19",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01291-z",
+          "url": "https://doi.org/10.1038/s42256-026-01291-z"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Quantitative and interface-aware prediction of peptide–protein interactions by VITAL",
+      "title_original": "Quantitative and interface-aware prediction of peptide–protein interactions by VITAL",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01291-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lulu Pan",
+        "Genming Zhao",
+        "Yongfu Yu",
+        "Guoyou Qin"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01285-x",
+      "doi": "10.1038/s42256-026-01285-x",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01285-x",
+          "url": "https://doi.org/10.1038/s42256-026-01285-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Transfer learning with deployment-covariate recalibration for survival prediction under covariate shift",
+      "title_original": "Transfer learning with deployment-covariate recalibration for survival prediction under covariate shift",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01285-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [],
+      "canonical_id": "doi:10.1038/s42256-026-01301-0",
+      "doi": "10.1038/s42256-026-01301-0",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01301-0",
+          "url": "https://doi.org/10.1038/s42256-026-01301-0"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Agentic AI and cybersecurity, the story so far",
+      "title_original": "Agentic AI and cybersecurity, the story so far",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01301-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Huw Cheston",
+        "Reuben Bance",
+        "Peter M. C. Harrison"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01279-9",
+      "doi": "10.1038/s42256-026-01279-9",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01279-9",
+          "url": "https://doi.org/10.1038/s42256-026-01279-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Machine learning of artistic fingerprints in jazz",
+      "title_original": "Machine learning of artistic fingerprints in jazz",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01279-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xianli Wang",
+        "Lap Mou Tam",
+        "Qingsong Xu"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01292-y",
+      "doi": "10.1038/s42256-026-01292-y",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01292-y",
+          "url": "https://doi.org/10.1038/s42256-026-01292-y"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在真實雜亂環境中學習接觸表徵，以實現通用機器人抓取」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Learning contact representations in real-world clutter for universal robotic grasping",
+      "title_original": "Learning contact representations in real-world clutter for universal robotic grasping",
+      "title_zh_tw": "在真實雜亂環境中學習接觸表徵，以實現通用機器人抓取",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01292-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "William R. Johnson",
+        "Xiaonan Huang",
+        "Shiyang Lu",
+        "Kun Wang",
+        "Luca Cimatti",
+        "Marco Carati",
+        "Joran W. Booth",
+        "Kostas E. Bekris",
+        "Rebecca Kramer-Bottiglio"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01280-2",
+      "doi": "10.1038/s42256-026-01280-2",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01280-2",
+          "url": "https://doi.org/10.1038/s42256-026-01280-2"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「受張拉整體結構啟發的抗衝擊自主機器人」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Impact-resistant, autonomous robots inspired by tensegrity architecture",
+      "title_original": "Impact-resistant, autonomous robots inspired by tensegrity architecture",
+      "title_zh_tw": "受張拉整體結構啟發的抗衝擊自主機器人",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01280-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Seyed Mohamad Moosavi"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01275-z",
+      "doi": "10.1038/s42256-026-01275-z",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01275-z",
+          "url": "https://doi.org/10.1038/s42256-026-01275-z"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「軌跡預測突破分子模擬的飛秒上限」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Trajectory forecasting lifts the femtosecond ceiling in molecular simulation",
+      "title_original": "Trajectory forecasting lifts the femtosecond ceiling in molecular simulation",
+      "title_zh_tw": "軌跡預測突破分子模擬的飛秒上限",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01275-z"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhendong Cao",
+        "Lei Wang"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01282-0",
+      "doi": "10.1038/s42256-026-01282-0",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01282-0",
+          "url": "https://doi.org/10.1038/s42256-026-01282-0"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「強化學習引導生成式晶體設計」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Reinforcement learning steers generative crystal design",
+      "title_original": "Reinforcement learning steers generative crystal design",
+      "title_zh_tw": "強化學習引導生成式晶體設計",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01282-0"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mingqing Xiao",
+        "Kai Du",
+        "Zhouchen Lin"
+      ],
+      "canonical_id": "doi:10.1038/s42256-026-01278-w",
+      "doi": "10.1038/s42256-026-01278-w",
+      "issns": [
+        "2522-5839"
+      ],
+      "journal": "Nature Machine Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42256-026-01278-w",
+          "url": "https://doi.org/10.1038/s42256-026-01278-w"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「超越表徵對齊：以腦訊號引導語言模型進行穩健推理」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Beyond representational alignment with brain-guided language models for robust reasoning",
+      "title_original": "Beyond representational alignment with brain-guided language models for robust reasoning",
+      "title_zh_tw": "超越表徵對齊：以腦訊號引導語言模型進行穩健推理",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42256-026-01278-w"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 17,
+    "by_article_type": {
+      "journal-article": 17
+    },
+    "by_source": {
+      "crossref": 17
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 17,
+    "translated_articles": 5
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "nature-machine-intelligence__2026-08__r04",
+  "edition_key": "nature-machine-intelligence__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 8,
+    "base_article_count": 9,
+    "base_edition_sha256": "69621e0c8ca5ac703ce4c0e23658593ace5814a5665b9345b47cd7575beb5f2b",
+    "base_manifest_publication_id": "nature-machine-intelligence__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "nature-machine-intelligence__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 8,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 17
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "nature-machine-intelligence",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 17,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 8,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "nature-machine-intelligence__2026-08__r04",
+  "publication_notes": {
+    "editorial_projection": {
+      "excluded_count": 0,
+      "excluded_records": [],
+      "published_article_count": 5,
+      "source_match_count": 5
+    }
+  },
+  "retrieved_at": "2026-08-29T06:33:31Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__nature-machine-intelligence__2026-08__r04",
+    "edition_key": "nature-machine-intelligence__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "2522-5839",
+    "journal": "Nature Machine Intelligence",
+    "journal_slug": "nature-machine-intelligence",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "publication_id": "nature-machine-intelligence__2026-08__r04",
+    "revision": 4,
+    "slug": "nature-machine-intelligence",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 8,
+      "detail": null,
+      "query": "container=Nature Machine Intelligence; publication=2026-08-24..2026-08-29",
+      "returned_count": 8,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 8,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "nature-machine-intelligence__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": "c7b1eb2ec2637f4d0bb4cee0466cdec3aa096f68cd83bd1818a919bf1eaf21dd",
+    "response_generated_at": "2026-08-14T00:41:00Z",
+    "response_sha256": "7457277a1770e362e4eaf80e770b82f5123d80ae3991d92d019494a61b91a62d",
+    "source_edition_sha256": "071d77841761e2f74a6360623d260be069f92b947976507793cc3f0cddc4b9fe",
+    "status": "PARTIAL",
+    "total_articles": 17,
+    "translated_articles": 5
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

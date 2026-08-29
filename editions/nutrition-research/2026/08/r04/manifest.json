@@ -1,0 +1,43 @@
+{
+  "article_count": 15,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:33:34Z",
+  "edition_id": "nutrition-research__2026-08__r04",
+  "edition_key": "nutrition-research__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 35065,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__nutrition-research__2026-08__r04.json",
+      "sha256": "4fc6b60932e90c02b1e63b2946b7fe046134445245dffab43a0e1ecdeac42e2c"
+    },
+    "report_html": {
+      "bytes": 62602,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__nutrition-research__2026-08__r04.html",
+      "sha256": "a3d66b8928479e48722d9a26e49d721ee638e25d56e9da0fb2feee21eba65e07"
+    }
+  },
+  "journal": "Nutrition Research",
+  "journal_slug": "nutrition-research",
+  "manifest_name": "EvidenceRadar_Editions__nutrition-research__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "nutrition-research__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 15,
+  "translation_provenance": {
+    "request_binding_sha256": "07e6f21e444939e905ae9cbcd11edc42583cc6ad9246b092c73e89541aa8d473",
+    "response_sha256": "ef47e3b2aa1cb0b8d809a6fb4681ab22959bdf0b679f55eb46066255f80e0cb5",
+    "source_edition_sha256": "09b1374e40dab23ac9d6c6404ee76fb35a105ec152153105803d09921cb53f2a"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

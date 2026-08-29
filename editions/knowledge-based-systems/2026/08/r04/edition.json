@@ -1,0 +1,4055 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jianqiang Yan",
+        "Beibei Dong",
+        "Boting Qu",
+        "Yuan Gao"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116362",
+      "doi": "10.1016/j.knosys.2026.116362",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116362",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116362"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「WR-MDGCN：用於交通流量預測的小波殘差與多尺度動態圖卷積網路」。",
+      "title": "WR-MDGCN: Wavelet residual and multi-scale dynamic graph convolution network for traffic flow prediction",
+      "title_original": "WR-MDGCN: Wavelet residual and multi-scale dynamic graph convolution network for traffic flow prediction",
+      "title_zh_tw": "WR-MDGCN：用於交通流量預測的小波殘差與多尺度動態圖卷積網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116362"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shaozhen Ma",
+        "Hanchen Wang",
+        "Dong Wen",
+        "Wenjie Zhang",
+        "Wei Huang",
+        "Ying Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116397",
+      "doi": "10.1016/j.knosys.2026.116397",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116397",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116397"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「WOCD：利用弱團進行重疊社群偵測的半監督方法」。",
+      "title": "WOCD: A semi-supervised method for overlapping community detection using weak cliques",
+      "title_original": "WOCD: A semi-supervised method for overlapping community detection using weak cliques",
+      "title_zh_tw": "WOCD：利用弱團進行重疊社群偵測的半監督方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116397"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xingyu Peng",
+        "Ke Xu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116364",
+      "doi": "10.1016/j.knosys.2026.116364",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116364",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116364"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過無增強群集對比進行無監督圖投毒」。",
+      "title": "Unsupervised graph poisoning via augmentation-free cluster contrast",
+      "title_original": "Unsupervised graph poisoning via augmentation-free cluster contrast",
+      "title_zh_tw": "透過無增強群集對比進行無監督圖投毒",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116364"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Puhua Jia",
+        "Xinghao Yang",
+        "Yongwei Tang",
+        "Baodi Liu",
+        "Wei Li",
+        "Weifeng Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116344",
+      "doi": "10.1016/j.knosys.2026.116344",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116344",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116344"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以通用攻擊為基礎的焦點增強方法，用於軸承故障診斷」。",
+      "title": "Universal Attack based Focal Enhancement for Bearing Fault Diagnosis",
+      "title_original": "Universal Attack based Focal Enhancement for Bearing Fault Diagnosis",
+      "title_zh_tw": "以通用攻擊為基礎的焦點增強方法，用於軸承故障診斷",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116344"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gaoli Zhao",
+        "Jiazheng Su",
+        "Junping Song",
+        "Kefei Zhang",
+        "Hang Wang",
+        "Xin Ning"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116430",
+      "doi": "10.1016/j.knosys.2026.116430",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116430",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116430"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「UMHSDet：水下多尺度異質狀態空間偵測器」。",
+      "title": "UMHSDet: Underwater Multi-scale Heterogeneous State Space Detector",
+      "title_original": "UMHSDet: Underwater Multi-scale Heterogeneous State Space Detector",
+      "title_zh_tw": "UMHSDet：水下多尺度異質狀態空間偵測器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116430"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "D. Sorokin",
+        "A. Kostin",
+        "L. Savchenko",
+        "G. Gusev",
+        "A.V. Savchenko"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116258",
+      "doi": "10.1016/j.knosys.2026.116258",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116258",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116258"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「TreeDQN：用於組合最佳化的高樣本效率離策略強化學習」。",
+      "title": "TreeDQN: Sample-efficient off-policy reinforcement learning for combinatorial optimization",
+      "title_original": "TreeDQN: Sample-efficient off-policy reinforcement learning for combinatorial optimization",
+      "title_zh_tw": "TreeDQN：用於組合最佳化的高樣本效率離策略強化學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116258"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jie Shen",
+        "Hongyan Zhu",
+        "Binbin Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116418",
+      "doi": "10.1016/j.knosys.2026.116418",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116418",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116418"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以檢索增強生成邁向可信賴的工程資訊擷取」。",
+      "title": "Toward trustworthy engineering information extraction using retrieval-augmented generation",
+      "title_original": "Toward trustworthy engineering information extraction using retrieval-augmented generation",
+      "title_zh_tw": "以檢索增強生成邁向可信賴的工程資訊擷取",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116418"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kumju Jo",
+        "Heesun Jung",
+        "Sungyong Baik"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116698",
+      "doi": "10.1016/j.knosys.2026.116698",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116698",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116698"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「文字生成種子：將擴散模型重用為文字引導種子生成器，以免訓練方式進行開放詞彙種子式語意分割」。",
+      "title": "Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator",
+      "title_original": "Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator",
+      "title_zh_tw": "文字生成種子：將擴散模型重用為文字引導種子生成器，以免訓練方式進行開放詞彙種子式語意分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116698"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hao Li",
+        "Liang Du",
+        "Yixue Huang",
+        "Hao Jiang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116363",
+      "doi": "10.1016/j.knosys.2026.116363",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116363",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116363"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「TDiscNet：由拓撲差異引導的自適應語意建模，用於動態文字屬性圖」。",
+      "title": "TDiscNet: Topological discrepancy-guided adaptive semantic modeling for dynamic text-attributed graphs",
+      "title_original": "TDiscNet: Topological discrepancy-guided adaptive semantic modeling for dynamic text-attributed graphs",
+      "title_zh_tw": "TDiscNet：由拓撲差異引導的自適應語意建模，用於動態文字屬性圖",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116363"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haomin Zhao",
+        "Jie Zhang",
+        "Qiuxia Yang",
+        "Chengchao Wang",
+        "Yuanyuan Pu",
+        "Zhengpeng Zhao"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116777",
+      "doi": "10.1016/j.knosys.2026.116777",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116777",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116777"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「STF-Diff：以擴展風格反演進行影像風格轉換的關鍵在於風格詞元濾波器」。",
+      "title": "STF-Diff: The key to image style transfer using extended style inversion is the style token filter",
+      "title_original": "STF-Diff: The key to image style transfer using extended style inversion is the style token filter",
+      "title_zh_tw": "STF-Diff：以擴展風格反演進行影像風格轉換的關鍵在於風格詞元濾波器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116777"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiawei Pi",
+        "Senlin Luo",
+        "Limin Pan",
+        "Chengke Xu",
+        "Ji Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116311",
+      "doi": "10.1016/j.knosys.2026.116311",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116311",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116311"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「竊取監督式微調樣本：由詞元調變與損失比驅動的資料擷取攻擊」。",
+      "title": "Stealing supervised fine tuning samples: A data extraction attack driven by token modulation and loss ratio",
+      "title_original": "Stealing supervised fine tuning samples: A data extraction attack driven by token modulation and loss ratio",
+      "title_zh_tw": "竊取監督式微調樣本：由詞元調變與損失比驅動的資料擷取攻擊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116311"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ling Wang",
+        "Qinchun Xu",
+        "Zezhong Li"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116346",
+      "doi": "10.1016/j.knosys.2026.116346",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116346",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116346"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「STANAP：結合多模態演化的時空自適應鄰域感知預測」。",
+      "title": "STANAP: Spatiotemporal adaptive neighborhood-aware prediction with multimodal evolution",
+      "title_original": "STANAP: Spatiotemporal adaptive neighborhood-aware prediction with multimodal evolution",
+      "title_zh_tw": "STANAP：結合多模態演化的時空自適應鄰域感知預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116346"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Safaa Safouan",
+        "Karim El Moutaouakil"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116354",
+      "doi": "10.1016/j.knosys.2026.116354",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116354",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116354"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「SOM-GAT：透過自組織映射與圖注意力網路進行拓撲圖分群」。",
+      "title": "SOM-GAT: Topological graph clustering via Self-Organizing Maps and Graph Attention Networks",
+      "title_original": "SOM-GAT: Topological graph clustering via Self-Organizing Maps and Graph Attention Networks",
+      "title_zh_tw": "SOM-GAT：透過自組織映射與圖注意力網路進行拓撲圖分群",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116354"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maciej Wysocki"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116331",
+      "doi": "10.1016/j.knosys.2026.116331",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116331",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116331"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「衡量風險部位：指數選擇權賣出認沽策略中的 Kelly、VIX 與混合方法」。",
+      "title": "Sizing the risk: Kelly, VIX, and hybrid approaches in put-writing on index options",
+      "title_original": "Sizing the risk: Kelly, VIX, and hybrid approaches in put-writing on index options",
+      "title_zh_tw": "衡量風險部位：指數選擇權賣出認沽策略中的 Kelly、VIX 與混合方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116331"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kai Lu",
+        "Long Liu",
+        "Xin Wang",
+        "Xinzhe Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116412",
+      "doi": "10.1016/j.knosys.2026.116412",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116412",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116412"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「SHMG：用於動作辨識的語意引導人體動作生成」。",
+      "title": "SHMG: Semantic-guided Human Motion Generation for action recognition",
+      "title_original": "SHMG: Semantic-guided Human Motion Generation for action recognition",
+      "title_zh_tw": "SHMG：用於動作辨識的語意引導人體動作生成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116412"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiao Liu",
+        "Chule Yang",
+        "Minming Ye",
+        "Longfei Su",
+        "Naiyang Guan"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116410",
+      "doi": "10.1016/j.knosys.2026.116410",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116410",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116410"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「SGFM-Net：用於遙測影像細粒度船舶分類的語意引導特徵探勘網路」。",
+      "title": "SGFM-Net: A semantically guided feature mining network for fine-grained ship classification in remote sensing images",
+      "title_original": "SGFM-Net: A semantically guided feature mining network for fine-grained ship classification in remote sensing images",
+      "title_zh_tw": "SGFM-Net：用於遙測影像細粒度船舶分類的語意引導特徵探勘網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116410"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Subhashree K",
+        "Manoj Kumar S"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116318",
+      "doi": "10.1016/j.knosys.2026.116318",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116318",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116318"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於品牌活化的商業推薦演算法：結合情感分析與詞對式詞性標註感知」。",
+      "title": "Sentimental analysis and word pair-based parts of speech (PoS) tagging aware recommendation algorithm in business for brand-brisking",
+      "title_original": "Sentimental analysis and word pair-based parts of speech (PoS) tagging aware recommendation algorithm in business for brand-brisking",
+      "title_zh_tw": "用於品牌活化的商業推薦演算法：結合情感分析與詞對式詞性標註感知",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116318"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Satheeswari Damodaran",
+        "Leninisha S",
+        "N.M JothiSwaroopan"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116884",
+      "doi": "10.1016/j.knosys.2026.116884",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116884",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116884"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「使用最佳化多錨點空間感知時序卷積神經網路，對衛星影像中的高壓輸電塔與電力線進行語意分割」。",
+      "title": "Semantic Segmentation of High Voltage Transmission Towers and Power Lines in Satellite Images Using Optimized Multi-anchor Space-aware Temporal Convolutional Neural Networks",
+      "title_original": "Semantic Segmentation of High Voltage Transmission Towers and Power Lines in Satellite Images Using Optimized Multi-anchor Space-aware Temporal Convolutional Neural Networks",
+      "title_zh_tw": "使用最佳化多錨點空間感知時序卷積神經網路，對衛星影像中的高壓輸電塔與電力線進行語意分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116884"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jordan N. Cork",
+        "Tea Tušar",
+        "Bogdan Filipič"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116376",
+      "doi": "10.1016/j.knosys.2026.116376",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116376",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116376"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「從基準測試套件中選擇受限多目標最佳化測試問題」。",
+      "title": "Selecting test problems from benchmark suites in constrained multiobjective optimisation",
+      "title_original": "Selecting test problems from benchmark suites in constrained multiobjective optimisation",
+      "title_zh_tw": "從基準測試套件中選擇受限多目標最佳化測試問題",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116376"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Javid Ali Liakath",
+        "Raman Chidambaram Janaki",
+        "Chinnasamy Ambayiram",
+        "Manikandan Nanjappan"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116233",
+      "doi": "10.1016/j.knosys.2026.116233",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116233",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116233"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「物聯網中的可擴展任務排程：整合長鼻浣熊最佳化與分散式強化學習」。",
+      "title": "Scalable task scheduling in internet of things networks: Integrating coati optimization with distributed reinforcement learning",
+      "title_original": "Scalable task scheduling in internet of things networks: Integrating coati optimization with distributed reinforcement learning",
+      "title_zh_tw": "物聯網中的可擴展任務排程：整合長鼻浣熊最佳化與分散式強化學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116233"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yufei Gao",
+        "Shuai Li",
+        "Yucheng Shi",
+        "Yan Cao",
+        "Lei Shi",
+        "Mengyang He"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116440",
+      "doi": "10.1016/j.knosys.2026.116440",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116440",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116440"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「SA-FTM：用於增強目標式對抗遷移性的結構感知特徵調整框架」。",
+      "title": "SA-FTM: A structure-aware feature tuning framework for enhancing targeted adversarial transferability",
+      "title_original": "SA-FTM: A structure-aware feature tuning framework for enhancing targeted adversarial transferability",
+      "title_zh_tw": "SA-FTM：用於增強目標式對抗遷移性的結構感知特徵調整框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116440"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zijian Pan",
+        "Jiaohua Qin",
+        "Yuanjing Luo",
+        "Xuyu Xiang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116773",
+      "doi": "10.1016/j.knosys.2026.116773",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116773",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116773"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「具模型擷取攻擊抵抗力的反向驗證式模型浮水印」。",
+      "title": "Reverse verification-based model watermarking with resistance to model extraction attacks",
+      "title_original": "Reverse verification-based model watermarking with resistance to model extraction attacks",
+      "title_zh_tw": "具模型擷取攻擊抵抗力的反向驗證式模型浮水印",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116773"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Valaparla Rohini",
+        "R Mohan"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116407",
+      "doi": "10.1016/j.knosys.2026.116407",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116407",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116407"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「RePa-ViT：以灰階與彩色影像分析偵測內部威脅的重參數化 Vision Transformer 框架」。",
+      "title": "RePa-ViT: A Reparameterized Vision Transformer framework for insider threat detection with grayscale and color image analysis",
+      "title_original": "RePa-ViT: A Reparameterized Vision Transformer framework for insider threat detection with grayscale and color image analysis",
+      "title_zh_tw": "RePa-ViT：以灰階與彩色影像分析偵測內部威脅的重參數化 Vision Transformer 框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116407"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sai Krishna Thota"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116815",
+      "doi": "10.1016/j.knosys.2026.116815",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116815",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116815"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「量子啟發且知識引導的決策支援，用於受爭奪環境中的風險感知無人機任務規劃」。",
+      "title": "Quantum-Inspired Knowledge-Guided Decision Support for Risk-Aware UAV Mission Planning in Contested Environments",
+      "title_original": "Quantum-Inspired Knowledge-Guided Decision Support for Risk-Aware UAV Mission Planning in Contested Environments",
+      "title_zh_tw": "量子啟發且知識引導的決策支援，用於受爭奪環境中的風險感知無人機任務規劃",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116815"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhangjun Wu",
+        "Miao Chen",
+        "Shiyuan Zheng",
+        "Yaguang Guo",
+        "Haidong Shao"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116372",
+      "doi": "10.1016/j.knosys.2026.116372",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116372",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116372"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過多視角對抗淨化進行旋轉機械故障診斷的原型驅動開放集領域泛化」。",
+      "title": "Prototype-driven open-set domain generalization for rotating machinery fault diagnosis via multiview adversarial purification",
+      "title_original": "Prototype-driven open-set domain generalization for rotating machinery fault diagnosis via multiview adversarial purification",
+      "title_zh_tw": "透過多視角對抗淨化進行旋轉機械故障診斷的原型驅動開放集領域泛化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116372"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yafei Wang",
+        "Haiheng Nan",
+        "Runze Yan",
+        "Xueyan Ding",
+        "Jianda Wang",
+        "Xianping Fu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116336",
+      "doi": "10.1016/j.knosys.2026.116336",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116336",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116336"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「PIGaze：具即插即用適應能力的個人化車內視線估計」。",
+      "title": "PIGaze: Personalized in-vehicle gaze estimation with plug-and-play adaptation",
+      "title_original": "PIGaze: Personalized in-vehicle gaze estimation with plug-and-play adaptation",
+      "title_zh_tw": "PIGaze：具即插即用適應能力的個人化車內視線估計",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116336"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nobuyuki Oishi",
+        "Philip Birch",
+        "Paula Lago",
+        "Daniel Roggen"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116367",
+      "doi": "10.1016/j.knosys.2026.116367",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116367",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116367"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「穿戴式 IMU 活動辨識之對比學習中的物理合理資料增強」。",
+      "title": "Physically plausible data augmentations in contrastive learning for wearable IMU-based activity recognition",
+      "title_original": "Physically plausible data augmentations in contrastive learning for wearable IMU-based activity recognition",
+      "title_zh_tw": "穿戴式 IMU 活動辨識之對比學習中的物理合理資料增強",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116367"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yilin Sun",
+        "Mohammad Masum"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116854",
+      "doi": "10.1016/j.knosys.2026.116854",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116854",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116854"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「PE2Prompt：用於可解釋靜態惡意軟體分析的大型語言模型原生框架」。",
+      "title": "PE2Prompt: A Large Language Model-Native Framework for Interpretable Static Malware Analysis",
+      "title_original": "PE2Prompt: A Large Language Model-Native Framework for Interpretable Static Malware Analysis",
+      "title_zh_tw": "PE2Prompt：用於可解釋靜態惡意軟體分析的大型語言模型原生框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116854"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhu Zhu",
+        "Huangwei Chen",
+        "Zhenyu Yan",
+        "Donghao Zhang",
+        "Yueyi Wu",
+        "Yuqi Zhan",
+        "Weihao Cheng",
+        "Manli Zhao",
+        "Weizhong Gu",
+        "Yifei Chen",
+        "Feiwei Qin",
+        "Gang Yu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116261",
+      "doi": "10.1016/j.knosys.2026.116261",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116261",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116261"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「PathLens：用於深入病理洞察的輕量級多模態推理器」。",
+      "title": "PathLens: A lightweight multimodal reasoner for in-depth pathology insights",
+      "title_original": "PathLens: A lightweight multimodal reasoner for in-depth pathology insights",
+      "title_zh_tw": "PathLens：用於深入病理洞察的輕量級多模態推理器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116261"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ziqiong Li",
+        "Heyu Chai",
+        "Zhangyao Song",
+        "Shengjun Liu",
+        "Xinru Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116370",
+      "doi": "10.1016/j.knosys.2026.116370",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116370",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116370"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「PARCNet：用於高效率多變量時間序列預測的相位感知殘差校正網路」。",
+      "title": "PARCNet: Phase-aware residual correction network for efficient multivariate time series forecasting",
+      "title_original": "PARCNet: Phase-aware residual correction network for efficient multivariate time series forecasting",
+      "title_zh_tw": "PARCNet：用於高效率多變量時間序列預測的相位感知殘差校正網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116370"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carlos Mario Braga",
+        "Manuel A. Serrano",
+        "Eduardo Fernández-Medina"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116369",
+      "doi": "10.1016/j.knosys.2026.116369",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116369",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116369"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「AI 偵測系統的操作公平性診斷：指標與方法學」。",
+      "title": "Operational fairness diagnostics for AI-based detection systems: Metrics and methodology",
+      "title_original": "Operational fairness diagnostics for AI-based detection systems: Metrics and methodology",
+      "title_zh_tw": "AI 偵測系統的操作公平性診斷：指標與方法學",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116369"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yan Jiao",
+        "Pin-Han Ho",
+        "Limei Peng"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116768",
+      "doi": "10.1016/j.knosys.2026.116768",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116768",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116768"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「部分可觀測條件下用於知識狀態抽象的可觀測商世界模型」。",
+      "title": "Observable quotient world models for knowledge-state abstraction under partial observability",
+      "title_original": "Observable quotient world models for knowledge-state abstraction under partial observability",
+      "title_zh_tw": "部分可觀測條件下用於知識狀態抽象的可觀測商世界模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116768"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yassine Ben Youssef",
+        "Maha Nssibi",
+        "Ghaith Manita",
+        "Seyedali Mirjalili"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116776",
+      "doi": "10.1016/j.knosys.2026.116776",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116776",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116776"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「神經傳導物質最佳化演算法（NTOA）：受人類神經傳導物質動態啟發的新型後設啟發式方法」。",
+      "title": "Neurotransmitter Optimization Algorithm (NTOA): A novel metaheuristic inspired by human neurotransmitter dynamics",
+      "title_original": "Neurotransmitter Optimization Algorithm (NTOA): A novel metaheuristic inspired by human neurotransmitter dynamics",
+      "title_zh_tw": "神經傳導物質最佳化演算法（NTOA）：受人類神經傳導物質動態啟發的新型後設啟發式方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116776"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Carlos Cano-Espinosa",
+        "Jose González",
+        "Carmelo Gómez",
+        "José Miguel Bolarín",
+        "Jorge Alió del Barrio",
+        "Francisco Cavas"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116402",
+      "doi": "10.1016/j.knosys.2026.116402",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116402",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116402"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「利用角膜表面幾何與屈光資料進行圓錐角膜進展的多模態分類：周邊區域與缺失資料模式的作用」。",
+      "title": "Multimodal classification of keratoconus progression using corneal surface geometry and refractive data: the role of peripheral regions and missing-data patterns",
+      "title_original": "Multimodal classification of keratoconus progression using corneal surface geometry and refractive data: the role of peripheral regions and missing-data patterns",
+      "title_zh_tw": "利用角膜表面幾何與屈光資料進行圓錐角膜進展的多模態分類：周邊區域與缺失資料模式的作用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116402"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jingxuan Chai",
+        "Jie Cao",
+        "Xiaoqiang Zhao",
+        "Jinghua Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116379",
+      "doi": "10.1016/j.knosys.2026.116379",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116379",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116379"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以多尺度與多層次特徵增強的後設學習進行少樣本故障診斷」。",
+      "title": "Multi-Scale and multi-level feature enhanced meta-learning for few-shot fault diagnosis",
+      "title_original": "Multi-Scale and multi-level feature enhanced meta-learning for few-shot fault diagnosis",
+      "title_zh_tw": "以多尺度與多層次特徵增強的後設學習進行少樣本故障診斷",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116379"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Prasad Naik Banavathu",
+        "P. Muthu Krishnammal"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116759",
+      "doi": "10.1016/j.knosys.2026.116759",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116759",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116759"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「整合多特徵的時空深度神經網路，用於監視影片中的暴力事件偵測」。",
+      "title": "Multi-Feature Integrated Spatiotemporal Deep Neural Network for Detecting Violent Events in Video Surveillance",
+      "title_original": "Multi-Feature Integrated Spatiotemporal Deep Neural Network for Detecting Violent Events in Video Surveillance",
+      "title_zh_tw": "整合多特徵的時空深度神經網路，用於監視影片中的暴力事件偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116759"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yeni Dwi Rahayu",
+        "Chastine Fatichah",
+        "Anny Yuniarti",
+        "Yusti Probowati Rahayu",
+        "Mathias Adya Diwangkara Suganda"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116398",
+      "doi": "10.1016/j.knosys.2026.116398",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116398",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116398"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「MSTGNet：從多模態行為地標進行影片層級欺騙偵測的多尺度時序圖網路」。",
+      "title": "MSTGNet: Multi-scale temporal graph network for video-level deception detection from multimodal behavioral landmarks",
+      "title_original": "MSTGNet: Multi-scale temporal graph network for video-level deception detection from multimodal behavioral landmarks",
+      "title_zh_tw": "MSTGNet：從多模態行為地標進行影片層級欺騙偵測的多尺度時序圖網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116398"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chenhan Zhai",
+        "Hui Liu",
+        "Ertong Shang",
+        "Jingchao Lu",
+        "Zeyu Qiu",
+        "Junzhao Du"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116371",
+      "doi": "10.1016/j.knosys.2026.116371",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116371",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116371"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「MH-DNT：透過雙重雜訊容忍實現醫學影像分類的抗雜訊模型異質聯邦學習」。",
+      "title": "MH-DNT: Noise-robust model-heterogeneous federated learning for medical image classification via dual noise tolerance",
+      "title_original": "MH-DNT: Noise-robust model-heterogeneous federated learning for medical image classification via dual noise tolerance",
+      "title_zh_tw": "MH-DNT：透過雙重雜訊容忍實現醫學影像分類的抗雜訊模型異質聯邦學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116371"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xuejiao Wang",
+        "Ziheng Huang",
+        "Weiliang Meng",
+        "Changbo Wang",
+        "Gaoqi He"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116323",
+      "doi": "10.1016/j.knosys.2026.116323",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116323",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116323"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「MEDP：用於少樣本動態場景圖生成的多模態增強動態原型學習」。",
+      "title": "MEDP: Multimodal-Enhanced Dynamic Prototype learning for few-shot dynamic scene graph generation",
+      "title_original": "MEDP: Multimodal-Enhanced Dynamic Prototype learning for few-shot dynamic scene graph generation",
+      "title_zh_tw": "MEDP：用於少樣本動態場景圖生成的多模態增強動態原型學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116323"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gengping Zhang",
+        "Hongli Liu",
+        "Yu Wang",
+        "Shengjie Zhao"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116742",
+      "doi": "10.1016/j.knosys.2026.116742",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116742",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116742"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「MDPO-PV：用於專利估值的知識導向多時間跨度可微分策略最佳化框架」。",
+      "title": "MDPO-PV: A knowledge-informed Multi-horizon Differentiable Policy Optimization framework for Patent Valuation",
+      "title_original": "MDPO-PV: A knowledge-informed Multi-horizon Differentiable Policy Optimization framework for Patent Valuation",
+      "title_zh_tw": "MDPO-PV：用於專利估值的知識導向多時間跨度可微分策略最佳化框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116742"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yunrui Wang",
+        "Zhaoyang Zheng",
+        "Xintong Sui",
+        "Man Yv"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116826",
+      "doi": "10.1016/j.knosys.2026.116826",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116826",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116826"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「LoRA-SFIE-LLM：協同 LoRA 與 RAG 檢索最佳化以擷取採煤機故障資訊」。",
+      "title": "LoRA-SFIE-LLM: Synergistic LoRA and RAG retrieval optimization for shearer fault information extraction",
+      "title_original": "LoRA-SFIE-LLM: Synergistic LoRA and RAG retrieval optimization for shearer fault information extraction",
+      "title_zh_tw": "LoRA-SFIE-LLM：協同 LoRA 與 RAG 檢索最佳化以擷取採煤機故障資訊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116826"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yao Zhao",
+        "Shiquan Li",
+        "Xiangyu Cai"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116406",
+      "doi": "10.1016/j.knosys.2026.116406",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116406",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116406"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「LMSF-Net：具增強前處理的輕量級多尺度融合網路，用於光伏缺陷偵測」。",
+      "title": "LMSF-Net: A lightweight multi-scale fusion network with enhanced preprocessing for photovoltaic defect detection",
+      "title_original": "LMSF-Net: A lightweight multi-scale fusion network with enhanced preprocessing for photovoltaic defect detection",
+      "title_zh_tw": "LMSF-Net：具增強前處理的輕量級多尺度融合網路，用於光伏缺陷偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116406"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zenghui Zhou",
+        "Man Li",
+        "Xiaoke Fang",
+        "Xinyi Zhou",
+        "Weibin Lin",
+        "Zheng Zheng"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116324",
+      "doi": "10.1016/j.knosys.2026.116324",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116324",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116324"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「LGMT：以邏輯為基礎的變形測試，用於評估大型語言模型的推理可靠性」。",
+      "title": "LGMT: Logic-Grounded Metamorphic Testing for evaluating the reasoning reliability of LLMs",
+      "title_original": "LGMT: Logic-Grounded Metamorphic Testing for evaluating the reasoning reliability of LLMs",
+      "title_zh_tw": "LGMT：以邏輯為基礎的變形測試，用於評估大型語言模型的推理可靠性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116324"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Gang Hu",
+        "Tian Wei",
+        "Jingyao Luo",
+        "Zekang Huang",
+        "Xinghao Zhao",
+        "Shiyuan Chen",
+        "Kang Wang",
+        "Fang Liu",
+        "Min Peng",
+        "Qianqian Xie",
+        "Zhengpeng Zhao",
+        "Yuanyuan Pu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116325",
+      "doi": "10.1016/j.knosys.2026.116325",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116325",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116325"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「KidMind：開放式框架，用於開發與評測支援華語兒童心理健康之同理陪伴與知識推理大型語言模型」。",
+      "title": "KidMind: An open framework to develop and benchmark LLMs for empathetic companionship and knowledge reasoning in Chinese child mental health support",
+      "title_original": "KidMind: An open framework to develop and benchmark LLMs for empathetic companionship and knowledge reasoning in Chinese child mental health support",
+      "title_zh_tw": "KidMind：開放式框架，用於開發與評測支援華語兒童心理健康之同理陪伴與知識推理大型語言模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116325"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xilong Liao",
+        "Baizhan Li",
+        "Tim Broyd",
+        "Shiyu Han",
+        "Chuanyu Tang",
+        "Nan Li"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116852",
+      "doi": "10.1016/j.knosys.2026.116852",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116852",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116852"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「整合資訊流知識圖譜與大型語言模型微調，用於領域特定任務的知識引導程序工程」。",
+      "title": "Integrating Information Flow-Knowledge Graphs and Fine-tuning LLM for Knowledge-Guided Process Engineering in Domain-Specific Task",
+      "title_original": "Integrating Information Flow-Knowledge Graphs and Fine-tuning LLM for Knowledge-Guided Process Engineering in Domain-Specific Task",
+      "title_zh_tw": "整合資訊流知識圖譜與大型語言模型微調，用於領域特定任務的知識引導程序工程",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116852"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Huaiyu Tan",
+        "Yikang Lu",
+        "Alfonso de Miguel-Arribas",
+        "Lei Shi"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116414",
+      "doi": "10.1016/j.knosys.2026.116414",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116414",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116414"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「從網路化族群與人類實驗系統推斷博弈策略」。",
+      "title": "Inferring game strategy from networked populations and human experimental systems",
+      "title_original": "Inferring game strategy from networked populations and human experimental systems",
+      "title_zh_tw": "從網路化族群與人類實驗系統推斷博弈策略",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116414"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhongjie Li",
+        "Yunye Feng",
+        "Haonan Xing",
+        "Meng Ge",
+        "Tianrui Wang",
+        "Jun Tang",
+        "Lin Gan",
+        "Gaoyan Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116808",
+      "doi": "10.1016/j.knosys.2026.116808",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116808",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116808"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「結合預訓練降噪模組與特徵最佳化網路以改進船舶輻射噪聲辨識」。",
+      "title": "Improved Ship-Radiated Noise Recognition using a pre-trained noise reduction module combined with feature optimization network",
+      "title_original": "Improved Ship-Radiated Noise Recognition using a pre-trained noise reduction module combined with feature optimization network",
+      "title_zh_tw": "結合預訓練降噪模組與特徵最佳化網路以改進船舶輻射噪聲辨識",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116808"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xu Zhang",
+        "Zhikui Chen",
+        "Hao Ren",
+        "Suhua Zhang",
+        "Yang Tian",
+        "Longxiang Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116356",
+      "doi": "10.1016/j.knosys.2026.116356",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116356",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116356"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「邊緣端以稀疏深度遷移學習進行影像分類：彩票剪枝方法」。",
+      "title": "Image classification with sparse deep transfer learning at edge: A lottery pruning approach",
+      "title_original": "Image classification with sparse deep transfer learning at edge: A lottery pruning approach",
+      "title_zh_tw": "邊緣端以稀疏深度遷移學習進行影像分類：彩票剪枝方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116356"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haotian Hu",
+        "Yunpeng Zheng",
+        "Qian Liu",
+        "Shuai Yang",
+        "Biqi Wang",
+        "Xiaohui Yuan",
+        "Lichuan Gu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116429",
+      "doi": "10.1016/j.knosys.2026.116429",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116429",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116429"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過結構化資料模擬與領域差異去相關實現高光譜單來源領域泛化」。",
+      "title": "Hyperspectral single-source domain generalization via structured data simulation and domain-disparity decorrelation",
+      "title_original": "Hyperspectral single-source domain generalization via structured data simulation and domain-disparity decorrelation",
+      "title_zh_tw": "透過結構化資料模擬與領域差異去相關實現高光譜單來源領域泛化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116429"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yiming Li",
+        "Pengchao Che",
+        "Tongshan Liu",
+        "Guiqiu Song"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116875",
+      "doi": "10.1016/j.knosys.2026.116875",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116875",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116875"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「HiPS-DFMFSAC：動態環境中大型無人機群的協同導航與避障」。",
+      "title": "HiPS-DFMFSAC for Large-Scale UAV Swarm Cooperative Navigation and Obstacle Avoidance in Dynamic Environments",
+      "title_original": "HiPS-DFMFSAC for Large-Scale UAV Swarm Cooperative Navigation and Obstacle Avoidance in Dynamic Environments",
+      "title_zh_tw": "HiPS-DFMFSAC：動態環境中大型無人機群的協同導航與避障",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116875"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yi Ji",
+        "Yongyuan Zhu",
+        "Siliang Lu",
+        "Lixia Yang",
+        "Xiang Ji",
+        "Alan Wee-Chung Liew"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116843",
+      "doi": "10.1016/j.knosys.2026.116843",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116843",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116843"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「HGTFNet：用於多變量短期電力負載預測的混合圖增強時頻網路」。",
+      "title": "HGTFNet: A Hybrid Graph-enhanced Time-Frequency Network for Multivariate Short-Term Electric Load Forecasting",
+      "title_original": "HGTFNet: A Hybrid Graph-enhanced Time-Frequency Network for Multivariate Short-Term Electric Load Forecasting",
+      "title_zh_tw": "HGTFNet：用於多變量短期電力負載預測的混合圖增強時頻網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116843"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hui Zhou",
+        "Boyang Ren",
+        "Zhongying Zhao",
+        "Maoguo Gong"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116366",
+      "doi": "10.1016/j.knosys.2026.116366",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116366",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116366"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以 Hessian 資訊引導殘差對齊的異質對比式圖凝縮」。",
+      "title": "Hessian-Informed Residual Alignment for Heterogeneous Contrastive Graph Condensation",
+      "title_original": "Hessian-Informed Residual Alignment for Heterogeneous Contrastive Graph Condensation",
+      "title_zh_tw": "以 Hessian 資訊引導殘差對齊的異質對比式圖凝縮",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116366"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Huaping Zhou",
+        "Shiji Lu",
+        "Kelei Sun",
+        "Tao Wu",
+        "Bin Deng",
+        "Man Chen"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116390",
+      "doi": "10.1016/j.knosys.2026.116390",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116390",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116390"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「GMG-Net：用於低光影像增強的梯度感知與中頻引導網路」。",
+      "title": "GMG-Net: Gradient-aware and Mid-frequency Guided network for low-light image enhancement",
+      "title_original": "GMG-Net: Gradient-aware and Mid-frequency Guided network for low-light image enhancement",
+      "title_zh_tw": "GMG-Net：用於低光影像增強的梯度感知與中頻引導網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116390"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiancu Chen",
+        "Shuyin Xia",
+        "Sen Zhao",
+        "Danni Wang",
+        "Chang Peng"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116285",
+      "doi": "10.1016/j.knosys.2026.116285",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116285",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116285"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「GBExplainer：以粒球將自適應粒度解釋泛化至圖神經網路」。",
+      "title": "GBExplainer: Generalizing adaptive-granularity explanations with granular balls for graph neural networks",
+      "title_original": "GBExplainer: Generalizing adaptive-granularity explanations with granular balls for graph neural networks",
+      "title_zh_tw": "GBExplainer：以粒球將自適應粒度解釋泛化至圖神經網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116285"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dan Xu",
+        "Guoshu Song",
+        "Wei Teng",
+        "Jinlong Shi"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116368",
+      "doi": "10.1016/j.knosys.2026.116368",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116368",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116368"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「GALACLIP：透過成本聚合連結全域對齊與局部推理，用於零樣本語意分割」。",
+      "title": "GALACLIP: Bridging global alignment and local reasoning via cost aggregation for zero-shot semantic segmentation",
+      "title_original": "GALACLIP: Bridging global alignment and local reasoning via cost aggregation for zero-shot semantic segmentation",
+      "title_zh_tw": "GALACLIP：透過成本聚合連結全域對齊與局部推理，用於零樣本語意分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116368"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Runxuan Xu",
+        "Siyuan Huang",
+        "Yepeng Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116360",
+      "doi": "10.1016/j.knosys.2026.116360",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116360",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116360"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「未來視野引導的趨勢投射：用於長期時間序列預測的主動映射框架」。",
+      "title": "Future horizon-guided trend projection: A proactive mapping framework for long-term time series forecasting",
+      "title_original": "Future horizon-guided trend projection: A proactive mapping framework for long-term time series forecasting",
+      "title_zh_tw": "未來視野引導的趨勢投射：用於長期時間序列預測的主動映射框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116360"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Keqiang Li",
+        "Shuai Ji",
+        "Yisheng Yin",
+        "Chengrui Zhang",
+        "Tieshuang Zhu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116381",
+      "doi": "10.1016/j.knosys.2026.116381",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116381",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116381"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「FSTL-Net：基於時序建模與度量學習的少樣本焊接缺陷偵測方法」。",
+      "title": "FSTL-Net: A few-shot welding defect detection method based on temporal modeling and metric learning",
+      "title_original": "FSTL-Net: A few-shot welding defect detection method based on temporal modeling and metric learning",
+      "title_zh_tw": "FSTL-Net：基於時序建模與度量學習的少樣本焊接缺陷偵測方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116381"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yifeng Wan",
+        "Zhicheng Xiong"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116343",
+      "doi": "10.1016/j.knosys.2026.116343",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116343",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116343"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「FSPA-Net：由頻率–結構先驗引導的雙流動態融合，用於遙測場景分類」。",
+      "title": "FSPA-Net: Frequency–structural prior guided dual-stream dynamic fusion for remote sensing scene classification",
+      "title_original": "FSPA-Net: Frequency–structural prior guided dual-stream dynamic fusion for remote sensing scene classification",
+      "title_zh_tw": "FSPA-Net：由頻率–結構先驗引導的雙流動態融合，用於遙測場景分類",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116343"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xingfa Wang",
+        "Chenggang Dai",
+        "Chengjun Chen",
+        "Kunhua Liu",
+        "Mingxing Lin"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116393",
+      "doi": "10.1016/j.knosys.2026.116393",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116393",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116393"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於水下稠密影像預測的頻率情境動態卷積與大型基準資料集」。",
+      "title": "Frequency-context dynamic convolution and a large-scale benchmark dataset for underwater dense image prediction",
+      "title_original": "Frequency-context dynamic convolution and a large-scale benchmark dataset for underwater dense image prediction",
+      "title_zh_tw": "用於水下稠密影像預測的頻率情境動態卷積與大型基準資料集",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116393"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hongyu Wang",
+        "Zhi Zhao",
+        "Songtao Ding",
+        "Ke Fang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116792",
+      "doi": "10.1016/j.knosys.2026.116792",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116792",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116792"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「FMARLJP：基於細粒度後設角色與自適應檢索機制的多代理人法律判決預測」。",
+      "title": "FMARLJP:Multi-agent legal judgment prediction based on fine-grained meta-roles and adaptive retrieval mechanism",
+      "title_original": "FMARLJP:Multi-agent legal judgment prediction based on fine-grained meta-roles and adaptive retrieval mechanism",
+      "title_zh_tw": "FMARLJP：基於細粒度後設角色與自適應檢索機制的多代理人法律判決預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116792"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Weina Zhang",
+        "Junsheng Huang",
+        "Zhongqin Bi",
+        "Baonan Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116400",
+      "doi": "10.1016/j.knosys.2026.116400",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116400",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116400"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「Flow-RAG：透過門控流傳播進行知識圖譜問答的檢索增強生成」。",
+      "title": "Flow-RAG: Retrieval-augmented generation for knowledge graph question answering via gated flow propagation",
+      "title_original": "Flow-RAG: Retrieval-augmented generation for knowledge graph question answering via gated flow propagation",
+      "title_zh_tw": "Flow-RAG：透過門控流傳播進行知識圖譜問答的檢索增強生成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116400"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ali Hassan",
+        "Johan Johansson",
+        "Stefan Schulte",
+        "Tingting Zhang",
+        "Karen Egiazarian",
+        "Mårten Sjöström"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116377",
+      "doi": "10.1016/j.knosys.2026.116377",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116377",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116377"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「FireSegUNet：探索用於無人航空載具的高計算效率火災分割網路」。",
+      "title": "FireSegUNet: Exploring computationally efficient fire segmentation network for Unmanned Aerial Vehicles",
+      "title_original": "FireSegUNet: Exploring computationally efficient fire segmentation network for Unmanned Aerial Vehicles",
+      "title_zh_tw": "FireSegUNet：探索用於無人航空載具的高計算效率火災分割網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116377"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xi Li",
+        "Wei Liu",
+        "Yi Xi Ding"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116420",
+      "doi": "10.1016/j.knosys.2026.116420",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116420",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116420"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「具背景抑制與關鍵特徵增強的細粒度視覺分類網路」。",
+      "title": "Fine-grained visual classification network with background suppression and key feature enhancement",
+      "title_original": "Fine-grained visual classification network with background suppression and key feature enhancement",
+      "title_zh_tw": "具背景抑制與關鍵特徵增強的細粒度視覺分類網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116420"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Min Tang",
+        "Rishu Li",
+        "Guoqiang Deng"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116359",
+      "doi": "10.1016/j.knosys.2026.116359",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116359",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116359"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「FedSGK：以公共嵌入代理處理三重異質性的無資料子圖聯邦蒸餾」。",
+      "title": "FedSGK: Data-free subgraph federated distillation with a public embedding proxy for triple heterogeneity",
+      "title_original": "FedSGK: Data-free subgraph federated distillation with a public embedding proxy for triple heterogeneity",
+      "title_zh_tw": "FedSGK：以公共嵌入代理處理三重異質性的無資料子圖聯邦蒸餾",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116359"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhongzheng Yuan",
+        "Lianshuai Guo",
+        "Xunkai Li",
+        "Yinlin Zhu",
+        "Wenyu Wang",
+        "Meixia Qu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116373",
+      "doi": "10.1016/j.knosys.2026.116373",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116373",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116373"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「FedSA-GCL：具個人化聚合與群集感知廣播的半非同步聯邦圖學習框架」。",
+      "title": "FedSA-GCL: A semi-asynchronous federated graph learning framework with personalized aggregation and cluster-aware broadcasting",
+      "title_original": "FedSA-GCL: A semi-asynchronous federated graph learning framework with personalized aggregation and cluster-aware broadcasting",
+      "title_zh_tw": "FedSA-GCL：具個人化聚合與群集感知廣播的半非同步聯邦圖學習框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116373"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qilei Li",
+        "Mingliang Gao",
+        "Wenzhe Zhai",
+        "Wentai Wu",
+        "Chen Wang",
+        "Ahmed M. Abdelmoniem"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116300",
+      "doi": "10.1016/j.knosys.2026.116300",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116300",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116300"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「邊緣運算賦能人工智慧物聯網的聯邦學習：全面綜述」。",
+      "title": "Federated Learning for Edge Computing Enabled Artificial Intelligence of Things: A comprehensive survey",
+      "title_original": "Federated Learning for Edge Computing Enabled Artificial Intelligence of Things: A comprehensive survey",
+      "title_zh_tw": "邊緣運算賦能人工智慧物聯網的聯邦學習：全面綜述",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116300"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lujin Zhao",
+        "Yunlong Zhao",
+        "Pengfei Gong",
+        "Wenmin Li",
+        "Yijie Shi",
+        "Zhengping Jin",
+        "Sujuan Qin"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116432",
+      "doi": "10.1016/j.knosys.2026.116432",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116432",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116432"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「FedBRDO：偏誤感知且表示解耦的動態最佳化框架，用於聯邦長尾學習」。",
+      "title": "FedBRDO: A bias-aware and representation-decoupled dynamic optimization framework for federated long-tailed learning",
+      "title_original": "FedBRDO: A bias-aware and representation-decoupled dynamic optimization framework for federated long-tailed learning",
+      "title_zh_tw": "FedBRDO：偏誤感知且表示解耦的動態最佳化框架，用於聯邦長尾學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116432"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chunmei He",
+        "Xin Jiang",
+        "Ye Zhengchun",
+        "Ling Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116860",
+      "doi": "10.1016/j.knosys.2026.116860",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116860",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116860"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於廣義零樣本學習的特徵混淆緩解與特徵解耦」。",
+      "title": "Feature Confusion Mitigation and Feature Disentanglement for Generalized Zero-Shot Learning",
+      "title_original": "Feature Confusion Mitigation and Feature Disentanglement for Generalized Zero-Shot Learning",
+      "title_zh_tw": "用於廣義零樣本學習的特徵混淆緩解與特徵解耦",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116860"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hui-Jia Li",
+        "Jiajun Gao",
+        "Yao Zhang",
+        "Qiqi Wang",
+        "Huanhuan Chen"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116391",
+      "doi": "10.1016/j.knosys.2026.116391",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116391",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116391"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過多代理人意見博弈進行可解釋屬性圖分群」。",
+      "title": "Explainable attributed graph clustering via Multi-Agent Opinion Game",
+      "title_original": "Explainable attributed graph clustering via Multi-Agent Opinion Game",
+      "title_zh_tw": "透過多代理人意見博弈進行可解釋屬性圖分群",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116391"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shuwen Yang",
+        "Anran Wu",
+        "Xingjiao Wu",
+        "Jiabao Zhao",
+        "Linlin Wang",
+        "Liang He"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116358",
+      "doi": "10.1016/j.knosys.2026.116358",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116358",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116358"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「證據鏈驅動的多模態檢索問答」。",
+      "title": "Evidence-chain-driven multimodal retrieval question answering",
+      "title_original": "Evidence-chain-driven multimodal retrieval question answering",
+      "title_zh_tw": "證據鏈驅動的多模態檢索問答",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116358"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Md Rahat Kader Khan",
+        "Samiul Islam Niloy",
+        "Mahdi Hasanzadeh",
+        "Ahmad Patooghy",
+        "Kasem Khalil"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116232",
+      "doi": "10.1016/j.knosys.2026.116232",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116232",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116232"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「利用大型語言模型生成合成資料以提升多處理器系統單晶片對熱攻擊的韌性」。",
+      "title": "Enhancing thermal attack resilience in Multi-Processor System-on-Chip through synthetic data generation using LLMs",
+      "title_original": "Enhancing thermal attack resilience in Multi-Processor System-on-Chip through synthetic data generation using LLMs",
+      "title_zh_tw": "利用大型語言模型生成合成資料以提升多處理器系統單晶片對熱攻擊的韌性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116232"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jingxian Cheng",
+        "Yingfang Wang",
+        "Tianqing Zhu",
+        "Xu Yang",
+        "Ningning Cui",
+        "Jianxin Li"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116357",
+      "doi": "10.1016/j.knosys.2026.116357",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116357",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116357"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「DynaMind：面向高更新量工作負載的動態學習式索引」。",
+      "title": "DynaMind: A dynamic learned index for update-intensive workloads",
+      "title_original": "DynaMind: A dynamic learned index for update-intensive workloads",
+      "title_zh_tw": "DynaMind：面向高更新量工作負載的動態學習式索引",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116357"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shufan Peng",
+        "Tianliang Lu",
+        "Miaoxuan Shan",
+        "Bowen Ding"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116303",
+      "doi": "10.1016/j.knosys.2026.116303",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116303",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116303"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於可泛化臉部偽造偵測的雙特徵漸進式解耦」。",
+      "title": "Dual Feature Progressive Disentanglement for generalizable face forgery detection",
+      "title_original": "Dual Feature Progressive Disentanglement for generalizable face forgery detection",
+      "title_zh_tw": "用於可泛化臉部偽造偵測的雙特徵漸進式解耦",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116303"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jizhao Zhu",
+        "Quanxin Jin",
+        "Xiang Li",
+        "Xinlong Pan",
+        "Lei Lin"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116264",
+      "doi": "10.1016/j.knosys.2026.116264",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116264",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116264"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「Dr.MEA：運用大型語言模型增強多模態實體對齊」。",
+      "title": "Dr.MEA: Leveraging large language model to enhance multi-modal entity alignment",
+      "title_original": "Dr.MEA: Leveraging large language model to enhance multi-modal entity alignment",
+      "title_zh_tw": "Dr.MEA：運用大型語言模型增強多模態實體對齊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116264"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiao Zhao",
+        "Junbiao Cui",
+        "Bin Zheng",
+        "Jiye Liang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116349",
+      "doi": "10.1016/j.knosys.2026.116349",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116349",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116349"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過解耦類別與領域可判別性實現領域泛化：樣本視角」。",
+      "title": "Domain generalization via decoupling class and domain discriminability: A sample perspective",
+      "title_original": "Domain generalization via decoupling class and domain discriminability: A sample perspective",
+      "title_zh_tw": "透過解耦類別與領域可判別性實現領域泛化：樣本視角",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116349"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yun Lu",
+        "Wenyu Chen",
+        "Peng He",
+        "Yanglei Gan",
+        "Peiyuan Jiang",
+        "Yao Liu",
+        "Qiao Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116416",
+      "doi": "10.1016/j.knosys.2026.116416",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116416",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116416"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「DIVCOM：用於可擴展重疊社群偵測的自適應圖切分」。",
+      "title": "DIVCOM: Adaptive graph division for scalable detection of overlapping communities",
+      "title_original": "DIVCOM: Adaptive graph division for scalable detection of overlapping communities",
+      "title_zh_tw": "DIVCOM：用於可擴展重疊社群偵測的自適應圖切分",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116416"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jing Lv",
+        "Yu Dong",
+        "Chaohui Guo"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116329",
+      "doi": "10.1016/j.knosys.2026.116329",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116329",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116329"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「平滑分位數迴歸中最佳子集選擇的分散式演算法」。",
+      "title": "Distributed algorithm for best subset selection in smoothed quantile regression",
+      "title_original": "Distributed algorithm for best subset selection in smoothed quantile regression",
+      "title_zh_tw": "平滑分位數迴歸中最佳子集選擇的分散式演算法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116329"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vu-Tien Nguyen",
+        "Su Nguyen",
+        "Van-Hop Nguyen"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116417",
+      "doi": "10.1016/j.knosys.2026.116417",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116417",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116417"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「利用深度強化學習選擇高效率搜尋啟發式組合，以解決動態作業車間排程」。",
+      "title": "Deep reinforcement learning to select efficient portfolios of search heuristics for solving dynamic job shop scheduling",
+      "title_original": "Deep reinforcement learning to select efficient portfolios of search heuristics for solving dynamic job shop scheduling",
+      "title_zh_tw": "利用深度強化學習選擇高效率搜尋啟發式組合，以解決動態作業車間排程",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116417"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohsen Golafrouz",
+        "Houshyar Asadi",
+        "Mohammad Anwar Hosen",
+        "Mohammad Reza Chalak Qazani",
+        "Amin Khatami",
+        "Mojgan Fayyazi",
+        "Li Zhang",
+        "Siamak Pedrammehr",
+        "Lei Wei",
+        "CP Lim",
+        "Saeid Nahavandi"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116250",
+      "doi": "10.1016/j.knosys.2026.116250",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116250",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116250"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以單模態臉部表情或生理訊號進行深度學習情緒辨識：綜述」。",
+      "title": "Deep learning-based emotion recognition using unimodal facial expressions or physiological signals: A review",
+      "title_original": "Deep learning-based emotion recognition using unimodal facial expressions or physiological signals: A review",
+      "title_zh_tw": "以單模態臉部表情或生理訊號進行深度學習情緒辨識：綜述",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116250"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Juyuan Zhang",
+        "Xiaoxiao Liang",
+        "Chenghua Gong",
+        "Rui Sun",
+        "Liming Pan",
+        "Linyuan Lü"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116405",
+      "doi": "10.1016/j.knosys.2026.116405",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116405",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116405"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「解耦前向與回饋資訊流：用於關係推理的雙注意力框架」。",
+      "title": "Decoupling forward and feedback flows: A dual-attention framework for relational inference",
+      "title_original": "Decoupling forward and feedback flows: A dual-attention framework for relational inference",
+      "title_zh_tw": "解耦前向與回饋資訊流：用於關係推理的雙注意力框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116405"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shaobo Ren",
+        "Zhen Liu",
+        "Haiyang Ren",
+        "Tongle Duan",
+        "Shuhang Gu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116361",
+      "doi": "10.1016/j.knosys.2026.116361",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116361",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116361"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「DDNA：雙擴散增強網路對齊」。",
+      "title": "DDNA: Dual-diffusion-enhanced network alignment",
+      "title_original": "DDNA: Dual-diffusion-enhanced network alignment",
+      "title_zh_tw": "DDNA：雙擴散增強網路對齊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116361"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qinghao Meng",
+        "Xu Zhang",
+        "Jiaxin Yang",
+        "Yuwen Fu",
+        "Xuehu Duan",
+        "Shuohao Li",
+        "Jun Lei",
+        "Jun Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116399",
+      "doi": "10.1016/j.knosys.2026.116399",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116399",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116399"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「DATR：用於階層式細粒度場景圖生成的深度感知 Transformer」。",
+      "title": "DATR: Depth-aware transformer for hierarchical and fine-grained scene graph generation",
+      "title_original": "DATR: Depth-aware transformer for hierarchical and fine-grained scene graph generation",
+      "title_zh_tw": "DATR：用於階層式細粒度場景圖生成的深度感知 Transformer",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116399"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sihao Liu",
+        "Zhiheng Zhou",
+        "Weihua He",
+        "Guiying Yan"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116383",
+      "doi": "10.1016/j.knosys.2026.116383",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116383",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116383"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「CyBond Net：透過圖邊空間重新思考訊息傳遞機制」。",
+      "title": "CyBond Net: Rethinking message passing mechanism via graph edge space",
+      "title_original": "CyBond Net: Rethinking message passing mechanism via graph edge space",
+      "title_zh_tw": "CyBond Net：透過圖邊空間重新思考訊息傳遞機制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116383"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jun Jiang",
+        "Chen Zhang",
+        "Yanan Xie",
+        "Shengliang Wu",
+        "Xin He",
+        "Yong Xu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116438",
+      "doi": "10.1016/j.knosys.2026.116438",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116438",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116438"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過大型模型生成式復原實現空對地鏈路的跨模態無人機語意通訊」。",
+      "title": "Cross-modal UAV semantic communication via large-model generative restoration for air-to-ground links",
+      "title_original": "Cross-modal UAV semantic communication via large-model generative restoration for air-to-ground links",
+      "title_zh_tw": "透過大型模型生成式復原實現空對地鏈路的跨模態無人機語意通訊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116438"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lidan Bai",
+        "Jun Sun",
+        "Chao Li",
+        "Hengyang Lu",
+        "Vasile Palade"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116382",
+      "doi": "10.1016/j.knosys.2026.116382",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116382",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116382"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「更正：〈用於稀疏大型多目標最佳化的動態多知識演化演算法〉[Knowledge-Based Systems 第 331 卷（2026 年 1 月 3 日）114764]」。",
+      "title": "Corrigendum to “Dynamic multi-knowledge evolutionary algorithm for sparse large-scale multi-objective optimization” [Knowledge-Based Systems Volume 331 (3 January 2026) 114764]",
+      "title_original": "Corrigendum to “Dynamic multi-knowledge evolutionary algorithm for sparse large-scale multi-objective optimization” [Knowledge-Based Systems Volume 331 (3 January 2026) 114764]",
+      "title_zh_tw": "更正：〈用於稀疏大型多目標最佳化的動態多知識演化演算法〉[Knowledge-Based Systems 第 331 卷（2026 年 1 月 3 日）114764]",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116382"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lei Ao",
+        "Dejene M. Sime",
+        "Nan Ouyang",
+        "Kai Sheng",
+        "Xiaojiang Ren",
+        "Yiting Liu",
+        "Xin He",
+        "Yoshiki Yamaguchi"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116797",
+      "doi": "10.1016/j.knosys.2026.116797",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116797",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116797"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「ConVoxel：多體素 3D 物件偵測從互補性走向一致性」。",
+      "title": "ConVoxel: From complementarity to consistency in multi-voxel 3D object detection",
+      "title_original": "ConVoxel: From complementarity to consistency in multi-voxel 3D object detection",
+      "title_zh_tw": "ConVoxel：多體素 3D 物件偵測從互補性走向一致性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116797"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohammad Saeb Nahi",
+        "M.A. Balafar",
+        "Jafar Tanha",
+        "Nazila Pourhaji Aghayengejeh"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116365",
+      "doi": "10.1016/j.knosys.2026.116365",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116365",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116365"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「採用拓撲敏感雜訊增強框架的對比式圖分群」。",
+      "title": "Contrastive graph clustering with a topology-sensitive noise augmentation framework",
+      "title_original": "Contrastive graph clustering with a topology-sensitive noise augmentation framework",
+      "title_zh_tw": "採用拓撲敏感雜訊增強框架的對比式圖分群",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116365"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hyungu Kang",
+        "Seokho Kang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116822",
+      "doi": "10.1016/j.knosys.2026.116822",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116822",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116822"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「工業機器視覺中抗失真的影像分類一致性正則化」。",
+      "title": "Consistency regularization for distortion-robust image classification in industrial machine vision",
+      "title_original": "Consistency regularization for distortion-robust image classification in industrial machine vision",
+      "title_zh_tw": "工業機器視覺中抗失真的影像分類一致性正則化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116822"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xianghui Li",
+        "Liqing Qiu",
+        "Weidong Zhao"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116305",
+      "doi": "10.1016/j.knosys.2026.116305",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116305",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116305"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「CIRRUS：用於時序圖表示學習的情境交互路由殘差與統一頻譜架構」。",
+      "title": "CIRRUS: A contextual interaction routing residual and unified spectral architecture for temporal graph representation learning",
+      "title_original": "CIRRUS: A contextual interaction routing residual and unified spectral architecture for temporal graph representation learning",
+      "title_zh_tw": "CIRRUS：用於時序圖表示學習的情境交互路由殘差與統一頻譜架構",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116305"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiaxin Hu",
+        "Tao Wang",
+        "Fei Wang",
+        "Hongrun Wang",
+        "Jingshuai Cao"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116380",
+      "doi": "10.1016/j.knosys.2026.116380",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116380",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116380"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以因果引導解耦與反事實推理降低推薦系統偏誤」。",
+      "title": "Causal-Guided Disentanglement for debiasing Recommendation via counterfactual reasoning",
+      "title_original": "Causal-Guided Disentanglement for debiasing Recommendation via counterfactual reasoning",
+      "title_zh_tw": "以因果引導解耦與反事實推理降低推薦系統偏誤",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116380"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shuai Miao",
+        "Zhiyong Huang",
+        "Daidi Zhong",
+        "Zhi Yu",
+        "Mingyang Hou",
+        "Penghao Jia",
+        "Yan Yan",
+        "Yushi Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116811",
+      "doi": "10.1016/j.knosys.2026.116811",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116811",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116811"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「連結教師–學生表示領域以進行流形感知知識蒸餾」。",
+      "title": "Bridging teacher–student representation domains for manifold-aware knowledge distillation",
+      "title_original": "Bridging teacher–student representation domains for manifold-aware knowledge distillation",
+      "title_zh_tw": "連結教師–學生表示領域以進行流形感知知識蒸餾",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116811"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jing Li",
+        "Minghui Xu",
+        "Jinjia Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116378",
+      "doi": "10.1016/j.knosys.2026.116378",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116378",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116378"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於卷積字典學習的 Bregman 自適應非凸解耦演算法」。",
+      "title": "Bregman adaptive nonconvex decoupled algorithm for convolutional dictionary learning",
+      "title_original": "Bregman adaptive nonconvex decoupled algorithm for convolutional dictionary learning",
+      "title_zh_tw": "用於卷積字典學習的 Bregman 自適應非凸解耦演算法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116378"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yanan Bai",
+        "Hongbo Zhao",
+        "Xiaoyu Shi",
+        "Liji Xiao",
+        "Zepeng Gong",
+        "Yanglei Lu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116424",
+      "doi": "10.1016/j.knosys.2026.116424",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116424",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116424"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「BGV-TCF：信任引導的同態協定，用於可擴展隱私保護協同過濾」。",
+      "title": "BGV-TCF: A trust-guided homomorphic protocol for scalable privacy-preserving collaborative filtering",
+      "title_original": "BGV-TCF: A trust-guided homomorphic protocol for scalable privacy-preserving collaborative filtering",
+      "title_zh_tw": "BGV-TCF：信任引導的同態協定，用於可擴展隱私保護協同過濾",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116424"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinyi Zeng",
+        "Jia Wang",
+        "Jian Zhang",
+        "Yi Dong",
+        "Wei Wang",
+        "Yanji Jiang",
+        "Yonggang Zhang",
+        "Haiyang Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116375",
+      "doi": "10.1016/j.knosys.2026.116375",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116375",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116375"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「超越捷徑：以因果介入減輕放射影像診斷中的虛假相關」。",
+      "title": "Beyond shortcuts: Mitigating spurious correlations in radiological diagnosis with causal intervention",
+      "title_original": "Beyond shortcuts: Mitigating spurious correlations in radiological diagnosis with causal intervention",
+      "title_zh_tw": "超越捷徑：以因果介入減輕放射影像診斷中的虛假相關",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116375"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yi Xu",
+        "Weijie Tan",
+        "Chunguo Li",
+        "Minyao Ma"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116197",
+      "doi": "10.1016/j.knosys.2026.116197",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116197",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116197"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「批次化可驗證分散式安全矩陣多項式計算」。",
+      "title": "Batched verifiable distributed secure matrix polynomial computation",
+      "title_original": "Batched verifiable distributed secure matrix polynomial computation",
+      "title_zh_tw": "批次化可驗證分散式安全矩陣多項式計算",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116197"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenzhe Zheng",
+        "Yujie Liu",
+        "Yu Luo",
+        "Yuping Sun",
+        "Teng Zhou",
+        "Shun Yao"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116823",
+      "doi": "10.1016/j.knosys.2026.116823",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116823",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116823"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於跨模態醫學影像合成的屬性調變空間–頻率域學習網路」。",
+      "title": "Attribute-modulated spatial-frequency domain learning network for cross-modality medical image synthesis",
+      "title_original": "Attribute-modulated spatial-frequency domain learning network for cross-modality medical image synthesis",
+      "title_zh_tw": "用於跨模態醫學影像合成的屬性調變空間–頻率域學習網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116823"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hang Shao",
+        "Shan-e-hyder Soomro",
+        "Xiaotao Shi",
+        "Dan Liu",
+        "Yunfei Liu",
+        "Chunpeng Bao",
+        "Junbin Cao",
+        "Xiaoyu Xie",
+        "Wei Shao",
+        "Tianyi Zhao",
+        "Fan Yang",
+        "Mengru Lee"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116401",
+      "doi": "10.1016/j.knosys.2026.116401",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116401",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116401"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「ALRcallerX：串接 R 機器學習與 AnyLogic AI 建模以建立資料驅動模擬」。",
+      "title": "ALRcallerX: Creating data-driven simulations by bridging R-based machine learning and AI-powered modeling in AnyLogic",
+      "title_original": "ALRcallerX: Creating data-driven simulations by bridging R-based machine learning and AI-powered modeling in AnyLogic",
+      "title_zh_tw": "ALRcallerX：串接 R 機器學習與 AnyLogic AI 建模以建立資料驅動模擬",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116401"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dingrui Xue",
+        "Yuqing Lin",
+        "Jiancheng Liu",
+        "Wanlong Qi",
+        "Ke Li",
+        "Bo Li",
+        "Kang Sun",
+        "Zhipeng Zhang",
+        "Xiaolong Su",
+        "Kai Xu",
+        "Kexin Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116423",
+      "doi": "10.1016/j.knosys.2026.116423",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116423",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116423"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「對抗式空中多威脅評估：結合動態特徵融合與專家獎勵塑形的強化學習方法」。",
+      "title": "Adversarial aerial multi-threat assessment: A reinforcement learning approach with dynamic feature fusion and expert reward shaping",
+      "title_original": "Adversarial aerial multi-threat assessment: A reinforcement learning approach with dynamic feature fusion and expert reward shaping",
+      "title_zh_tw": "對抗式空中多威脅評估：結合動態特徵融合與專家獎勵塑形的強化學習方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116423"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jinyang An",
+        "Yisu Liu",
+        "Wanqian Zhang",
+        "Lin Wang",
+        "Xiaohua Chen",
+        "Zexian Yang",
+        "Zheng Lin",
+        "Weiping Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116348",
+      "doi": "10.1016/j.knosys.2026.116348",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116348",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116348"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「透過注意力細化與繼承推進多主體文字生成影像」。",
+      "title": "Advancing multi-subject text-to-image synthesis via Attention Refinement and Inheritance",
+      "title_original": "Advancing multi-subject text-to-image synthesis via Attention Refinement and Inheritance",
+      "title_zh_tw": "透過注意力細化與繼承推進多主體文字生成影像",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116348"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chenyu Li",
+        "Mingchen Sun",
+        "Yutong Zhang",
+        "Ying Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116313",
+      "doi": "10.1016/j.knosys.2026.116313",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116313",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116313"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以自適應提示與外部知識引導增強分子圖的分布外偵測」。",
+      "title": "Adaptive Prompt and External Knowledge Guidance for Enhancing Molecular Graph OOD Detection",
+      "title_original": "Adaptive Prompt and External Knowledge Guidance for Enhancing Molecular Graph OOD Detection",
+      "title_zh_tw": "以自適應提示與外部知識引導增強分子圖的分布外偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116313"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Boyuan Zhang",
+        "Jie Pan",
+        "Shuai Yang",
+        "Lichuan Gu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116427",
+      "doi": "10.1016/j.knosys.2026.116427",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116427",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116427"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「先適應再融合：用於多模態測試時適應的實例特徵調整」。",
+      "title": "Adapt-then-fuse: Instance feature adaptation for multi-modal test-time adaptation",
+      "title_original": "Adapt-then-fuse: Instance feature adaptation for multi-modal test-time adaptation",
+      "title_zh_tw": "先適應再融合：用於多模態測試時適應的實例特徵調整",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116427"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Genxiu Wang",
+        "Junying Zeng",
+        "Enming Cui",
+        "Bin Zheng",
+        "Xudong Jia",
+        "Jin Wen",
+        "Maoqing Hu",
+        "Chuanbo Qin"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116841",
+      "doi": "10.1016/j.knosys.2026.116841",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116841",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116841"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以遷移學習分割腹部 CT 影像中的嗜鉻細胞瘤及周圍多器官」。",
+      "title": "A Transfer Learning-Based Approach for Pheochromocytoma and Surrounding Multi-Organ Segmentation in Abdominal CT Images",
+      "title_original": "A Transfer Learning-Based Approach for Pheochromocytoma and Surrounding Multi-Organ Segmentation in Abdominal CT Images",
+      "title_zh_tw": "以遷移學習分割腹部 CT 影像中的嗜鉻細胞瘤及周圍多器官",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116841"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yifan Huo",
+        "Hang Li",
+        "Ruobing Wang",
+        "Ming Liu",
+        "Junhong Zheng",
+        "Lili He"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116352",
+      "doi": "10.1016/j.knosys.2026.116352",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116352",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116352"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「具可靠性估計的多層次對比學習框架，用於多模態推薦」。",
+      "title": "A multi-level contrastive learning framework with reliability estimation for multimodal recommendation",
+      "title_original": "A multi-level contrastive learning framework with reliability estimation for multimodal recommendation",
+      "title_zh_tw": "具可靠性估計的多層次對比學習框架，用於多模態推薦",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116352"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tian Ren",
+        "Hao Zhang",
+        "Jian Chen",
+        "Weilin Liao",
+        "Siyao Cheng",
+        "Jie Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116328",
+      "doi": "10.1016/j.knosys.2026.116328",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116328",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116328"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以 Lyapunov 方法進行客戶端選擇，以處理聯邦學習中的系統誘發異質性」。",
+      "title": "A Lyapunov-based client selection approach to handle system-induced heterogeneity in federated learning",
+      "title_original": "A Lyapunov-based client selection approach to handle system-induced heterogeneity in federated learning",
+      "title_zh_tw": "以 Lyapunov 方法進行客戶端選擇，以處理聯邦學習中的系統誘發異質性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116328"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mubashir Javaid",
+        "Muhammad Javed Iqbal",
+        "Muazzam Maqsood"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116297",
+      "doi": "10.1016/j.knosys.2026.116297",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116297",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116297"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「用於行人重新識別的圖引導幾何塌縮對抗攻擊」。",
+      "title": "A graph-guided geometry-collapse adversarial attack for person re-identification",
+      "title_original": "A graph-guided geometry-collapse adversarial attack for person re-identification",
+      "title_zh_tw": "用於行人重新識別的圖引導幾何塌縮對抗攻擊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116297"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shengli Wu",
+        "Chuanjiang Zhang",
+        "Wenting Xing"
+      ],
+      "canonical_id": "doi:10.1016/j.knosys.2026.116422",
+      "doi": "10.1016/j.knosys.2026.116422",
+      "issns": [
+        "0950-7051"
+      ],
+      "journal": "Knowledge-Based Systems",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.knosys.2026.116422",
+          "url": "https://doi.org/10.1016/j.knosys.2026.116422"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「基於近端策略最佳化（PPO）的動態多來源領域自適應遷移學習方法，用於滾動軸承複合故障診斷」。",
+      "title": "A Dynamic Multi-Source Domain Adaptive Transfer Learning Approach for Rolling Bearing Composite Fault Diagnosis Based on Proximal Policy Optimization (PPO)",
+      "title_original": "A Dynamic Multi-Source Domain Adaptive Transfer Learning Approach for Rolling Bearing Composite Fault Diagnosis Based on Proximal Policy Optimization (PPO)",
+      "title_zh_tw": "基於近端策略最佳化（PPO）的動態多來源領域自適應遷移學習方法，用於滾動軸承複合故障診斷",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.knosys.2026.116422"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 106,
+    "by_article_type": {
+      "journal-article": 106
+    },
+    "by_source": {
+      "crossref": 106
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 106,
+    "translated_articles": 106
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "knowledge-based-systems__2026-08__r04",
+  "edition_key": "knowledge-based-systems__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 0,
+    "base_article_count": 106,
+    "base_edition_sha256": "a518e0960dcf776d66bdc81e3cd53850aaa05858cfbbb5a890d68bcc16eff10d",
+    "base_manifest_publication_id": "knowledge-based-systems__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "knowledge-based-systems__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 106
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "knowledge-based-systems",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 106,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "knowledge-based-systems__2026-08__r04",
+  "retrieved_at": "2026-08-29T06:33:25Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04",
+    "edition_key": "knowledge-based-systems__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "0950-7051",
+    "journal": "Knowledge-Based Systems",
+    "journal_slug": "knowledge-based-systems",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "publication_id": "knowledge-based-systems__2026-08__r04",
+    "revision": 4,
+    "slug": "knowledge-based-systems",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Knowledge-Based Systems; publication=2026-08-24..2026-08-29",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "knowledge-based-systems__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": "55c8046fd5294bc78b925ce5b432c4db66e0befc605e4f73510c5c0dc70349bd",
+    "response_generated_at": "2026-08-14T07:32:01Z",
+    "response_sha256": "49929e3cd58ab761352daa0bbd38329a317f54cadea36cd881fe89894ae043c8",
+    "source_edition_sha256": "bda80c5f765680831f300e0a1a7df3084f5ff67eb47690001b94ac7435b79da6",
+    "status": "COMPLETE",
+    "total_articles": 106,
+    "translated_articles": 106
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_knowledge_based_systems"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

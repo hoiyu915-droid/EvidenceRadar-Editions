@@ -1,0 +1,4893 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Siqi Li",
+        "Jingyang Xiang",
+        "Jiateng Wei",
+        "Chengrui Zhu",
+        "Jiandang Yang",
+        "Jun Chen",
+        "Jian Yang",
+        "Xiaobin Wei",
+        "Yunliang Jiang",
+        "Yong Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108840",
+      "doi": "10.1016/j.neunet.2026.108840",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108840",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108840"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「WLR：用於大型語言模型免重新訓練剪枝的良態線性重建」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "WLR: Well-conditioned linear reconstruction for retraining-free pruning of LLMs",
+      "title_original": "WLR: Well-conditioned linear reconstruction for retraining-free pruning of LLMs",
+      "title_zh_tw": "WLR：用於大型語言模型免重新訓練剪枝的良態線性重建",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108840"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Narges Saeedizadeh",
+        "Seyed Mohammad Jafar Jalali",
+        "Burhan Khan",
+        "Shady Mohamed"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108768",
+      "doi": "10.1016/j.neunet.2026.108768",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108768",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108768"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「WEViT：具類別特定注意力的權重糾纏視覺 Transformer，用於弱監督語意分割」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "WEViT: weight-entangled vision transformers with class-specific attention for weakly supervised semantic segmentation",
+      "title_original": "WEViT: weight-entangled vision transformers with class-specific attention for weakly supervised semantic segmentation",
+      "title_zh_tw": "WEViT：具類別特定注意力的權重糾纏視覺 Transformer，用於弱監督語意分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108768"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hao Shu",
+        "Wangli Hao",
+        "Meng Han",
+        "Fuzhong Li"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108867",
+      "doi": "10.1016/j.neunet.2026.108867",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108867",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108867"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「WARGM-PDPG：用於裝置配置演算法的雙階段策略梯度圖 Mamba 神經網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "WARGM-PDPG: A dual-phase policy gradient graph mamba neural network for device placement algorithms",
+      "title_original": "WARGM-PDPG: A dual-phase policy gradient graph mamba neural network for device placement algorithms",
+      "title_zh_tw": "WARGM-PDPG：用於裝置配置演算法的雙階段策略梯度圖 Mamba 神經網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108867"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiaoyu Dong",
+        "Fang Xu",
+        "Ying Lyu",
+        "Rui Zhao",
+        "Yajing Zheng"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108790",
+      "doi": "10.1016/j.neunet.2026.108790",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108790",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108790"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「VISTA-3D：用於視覺式 3D 物件偵測的免訓練展開方法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "VISTA-3D : Training-free unfolding for vision-based 3D object detection",
+      "title_original": "VISTA-3D : Training-free unfolding for vision-based 3D object detection",
+      "title_zh_tw": "VISTA-3D：用於視覺式 3D 物件偵測的免訓練展開方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108790"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hongming Li",
+        "Chi Ding",
+        "José C Príncipe"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108836",
+      "doi": "10.1016/j.neunet.2026.108836",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108836",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108836"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以注意力機制訓練稀疏卷積深度預測編碼網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Training sparse convolutional deep predictive coding networks with attention",
+      "title_original": "Training sparse convolutional deep predictive coding networks with attention",
+      "title_zh_tw": "以注意力機制訓練稀疏卷積深度預測編碼網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108836"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ju Jia",
+        "Haonan Wang",
+        "Tian Wu",
+        "Cong Wu",
+        "Lina Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109513",
+      "doi": "10.1016/j.neunet.2026.109513",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109513",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109513"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「TGPA：結合階層式子圖增強的可遷移圖提示攻擊」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "TGPA: Transferable Graph Prompt Attack with Hierarchical Subgraph Augmentation",
+      "title_original": "TGPA: Transferable Graph Prompt Attack with Hierarchical Subgraph Augmentation",
+      "title_zh_tw": "TGPA：結合階層式子圖增強的可遷移圖提示攻擊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109513"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yiqi Wu",
+        "Changliang Li",
+        "Jiale He",
+        "Feng Cao",
+        "Cuilian Lei",
+        "Yilin Chen",
+        "Dejun Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108754",
+      "doi": "10.1016/j.neunet.2026.108754",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108754",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108754"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「感知時空脈絡的體素 Transformer，用於語意場景補全」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Temporal and spatial context aware voxel transformer for semantic scene completion",
+      "title_original": "Temporal and spatial context aware voxel transformer for semantic scene completion",
+      "title_zh_tw": "感知時空脈絡的體素 Transformer，用於語意場景補全",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108754"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuanliang Kan",
+        "Yao Hu",
+        "Li Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108864",
+      "doi": "10.1016/j.neunet.2026.108864",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108864",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108864"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合錯誤邊剪枝與抗平滑機制的任務自適應稀疏圖結構學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Task-adaptive sparse graph structure learning with error-edge pruning and anti-smoothing mechanism",
+      "title_original": "Task-adaptive sparse graph structure learning with error-edge pruning and anti-smoothing mechanism",
+      "title_zh_tw": "結合錯誤邊剪枝與抗平滑機制的任務自適應稀疏圖結構學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108864"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiaodan Chen",
+        "Alexandre Pitti",
+        "Mathias Quoy",
+        "Nancy F. Chen"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108828",
+      "doi": "10.1016/j.neunet.2026.108828",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108828",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108828"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從排序獲得結構：排序編碼作為由序列通往結構的橋樑」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Structure from rank: Rank-order coding as a bridge from sequence to structure",
+      "title_original": "Structure from rank: Rank-order coding as a bridge from sequence to structure",
+      "title_zh_tw": "從排序獲得結構：排序編碼作為由序列通往結構的橋樑",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108828"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lian Duan",
+        "Jiawen Zhang",
+        "Chongxin Li",
+        "Hanzhang Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108799",
+      "doi": "10.1016/j.neunet.2026.108799",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108799",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108799"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以局部調整與全域縮放學習率穩定迭代式剪枝」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Stabilizing iterative pruning with local adjustments and global scaling learning rate",
+      "title_original": "Stabilizing iterative pruning with local adjustments and global scaling learning rate",
+      "title_zh_tw": "以局部調整與全域縮放學習率穩定迭代式剪枝",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108799"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haoming Han",
+        "Shuai Zhang",
+        "Yan Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108839",
+      "doi": "10.1016/j.neunet.2026.108839",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108839",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108839"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過動態事件觸發控制分析具有脈衝擾動連結與 Markov 切換之隨機脈衝耦合系統的穩定性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Stability of stochastic impulsive coupled systems with impulse-disturbed links and Markov switching via dynamic event-triggered control",
+      "title_original": "Stability of stochastic impulsive coupled systems with impulse-disturbed links and Markov switching via dynamic event-triggered control",
+      "title_zh_tw": "透過動態事件觸發控制分析具有脈衝擾動連結與 Markov 切換之隨機脈衝耦合系統的穩定性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108839"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yiheng Lu",
+        "Zhihui Zhang",
+        "Ziyu Guan",
+        "Wei Zhao",
+        "Yaming Yang",
+        "Cai Xu",
+        "Maoguo Gong"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108804",
+      "doi": "10.1016/j.neunet.2026.108804",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108804",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108804"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「SSA-KD：用於卷積神經網路的自結構感知知識蒸餾」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "SSA-KD: Self-structure-aware knowledge distillation for convolutional neural networks",
+      "title_original": "SSA-KD: Self-structure-aware knowledge distillation for convolutional neural networks",
+      "title_zh_tw": "SSA-KD：用於卷積神經網路的自結構感知知識蒸餾",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108804"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "S.K. Sudha",
+        "S. Aji"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108844",
+      "doi": "10.1016/j.neunet.2026.108844",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108844",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108844"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於影片分析的脈衝神經網路：模型與架構的深入回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Spiking neural networks for video analysis: An in-depth review of models and architectures",
+      "title_original": "Spiking neural networks for video analysis: An in-depth review of models and architectures",
+      "title_zh_tw": "用於影片分析的脈衝神經網路：模型與架構的深入回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108844"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuchen XIE",
+        "Honghang CHI",
+        "Haopeng QUAN",
+        "Yahui WANG",
+        "Wei WANG",
+        "Yu MA"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109459",
+      "doi": "10.1016/j.neunet.2026.109459",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109459",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109459"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「硬約束 PINN 的頻譜分析：邊界函數的空間調制機制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Spectral Analysis of Hard-Constraint PINNs: The Spatial Modulation Mechanism of Boundary Functions",
+      "title_original": "Spectral Analysis of Hard-Constraint PINNs: The Spatial Modulation Mechanism of Boundary Functions",
+      "title_zh_tw": "硬約束 PINN 的頻譜分析：邊界函數的空間調制機制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109459"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yibing Yin",
+        "Nuo Chen",
+        "Sixiang Li",
+        "Yaoyue Gao",
+        "Yongjun Li"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109497",
+      "doi": "10.1016/j.neunet.2026.109497",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109497",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109497"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「稀疏專家混合模型驅動的多模態退化影像融合」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sparse Mixture of Experts-Driven Multimodal Degraded Image Fusion",
+      "title_original": "Sparse Mixture of Experts-Driven Multimodal Degraded Image Fusion",
+      "title_zh_tw": "稀疏專家混合模型驅動的多模態退化影像融合",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109497"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shaochun Li",
+        "Junzhi Cui",
+        "Jingli Ren"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108775",
+      "doi": "10.1016/j.neunet.2026.108775",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108775",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108775"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合傳統特徵聚合的單量子位元圖分類器」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Single-qubit graph classifier with classical feature aggregation",
+      "title_original": "Single-qubit graph classifier with classical feature aggregation",
+      "title_zh_tw": "結合傳統特徵聚合的單量子位元圖分類器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108775"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haibing Li",
+        "Yaoliang Ye",
+        "Zongye Ding",
+        "Quanbin Lu",
+        "Wenbo Zhu",
+        "Zhongbo Zhang",
+        "Chao Dong"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108848",
+      "doi": "10.1016/j.neunet.2026.108848",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108848",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108848"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以 Shapley 值最佳化的可微分架構搜尋，用於資源受限環境中的輕量化神經網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Shapley value optimized differentiable architecture search for lightweight neural networks in resource-constrained environments",
+      "title_original": "Shapley value optimized differentiable architecture search for lightweight neural networks in resource-constrained environments",
+      "title_zh_tw": "以 Shapley 值最佳化的可微分架構搜尋，用於資源受限環境中的輕量化神經網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108848"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chao Yang",
+        "Deshui Miao",
+        "Chao Tian",
+        "Guoqing Zhu",
+        "Zhenyu He"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108779",
+      "doi": "10.1016/j.neunet.2026.108779",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108779",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108779"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「SGAFuse：透過動態閘控進行語意引導的 RGB－熱影像自適應融合」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "SGAFuse: Semantic-guided adaptive fusion for RGB-thermal images via dynamic gating",
+      "title_original": "SGAFuse: Semantic-guided adaptive fusion for RGB-thermal images via dynamic gating",
+      "title_zh_tw": "SGAFuse：透過動態閘控進行語意引導的 RGB－熱影像自適應融合",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108779"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mia-Katrin Kvalsund",
+        "Kai Olav Ellefsen",
+        "Kyrre Glette",
+        "Sidney Pontes-Filho",
+        "Mikkel Elle Lepperød"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108798",
+      "doi": "10.1016/j.neunet.2026.108798",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108798",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108798"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「感測器移動驅動主動式神經細胞自動機中的湧現注意力與可擴展性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sensor movement drives emergent attention and scalability in active neural cellular automata",
+      "title_original": "Sensor movement drives emergent attention and scalability in active neural cellular automata",
+      "title_zh_tw": "感測器移動驅動主動式神經細胞自動機中的湧現注意力與可擴展性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108798"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhengyan Liu",
+        "Huiwen Wang",
+        "Qing Zhao",
+        "Lihong Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108851",
+      "doi": "10.1016/j.neunet.2026.108851",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108851",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108851"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於多變量組成資料的自加權低秩表示」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Self-weighted low-rank representation for multivariate compositional data",
+      "title_original": "Self-weighted low-rank representation for multivariate compositional data",
+      "title_zh_tw": "用於多變量組成資料的自加權低秩表示",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108851"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yi Zhong",
+        "Zhenzhu Chen",
+        "Rui Zhang",
+        "Lei Zhou",
+        "Anmin Fu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108833",
+      "doi": "10.1016/j.neunet.2026.108833",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108833",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108833"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「SEEK：防禦模型劫持攻擊的簡單方法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "SEEK: A simple defense to model hijacking attack",
+      "title_original": "SEEK: A simple defense to model hijacking attack",
+      "title_zh_tw": "SEEK：防禦模型劫持攻擊的簡單方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108833"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shaoqian Zhou",
+        "Wen You",
+        "Ling Guo",
+        "Xuhui Meng"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108770",
+      "doi": "10.1016/j.neunet.2026.108770",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108770",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108770"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於求解正向與反向隨機微分方程的可擴展物理資訊深度生成模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Scalable physics-informed deep generative model for solving forward and inverse stochastic differential equations",
+      "title_original": "Scalable physics-informed deep generative model for solving forward and inverse stochastic differential equations",
+      "title_zh_tw": "用於求解正向與反向隨機微分方程的可擴展物理資訊深度生成模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108770"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qizhe Fan",
+        "Xiaoqin Shen",
+        "Yuanbo Chen",
+        "Shihui Ying",
+        "Jue Jiang",
+        "Juan Wang",
+        "Shaoyi Du"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108826",
+      "doi": "10.1016/j.neunet.2026.108826",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108826",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108826"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「SCADA：用於領域自適應語意分割的稀疏交叉注意力」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "SCADA: Sparse cross attention for domain adaptive semantic segmentation",
+      "title_original": "SCADA: Sparse cross attention for domain adaptive semantic segmentation",
+      "title_zh_tw": "SCADA：用於領域自適應語意分割的稀疏交叉注意力",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108826"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wuyang Shan",
+        "Xiaoyu Lu",
+        "Yan Wang",
+        "Yijie Xie",
+        "Xiaoqin Yu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108813",
+      "doi": "10.1016/j.neunet.2026.108813",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108813",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108813"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「RIFoL：用於雜訊影像的強健影像偽造定位網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "RIFoL: A robust image forgery localization network for noisy images",
+      "title_original": "RIFoL: A robust image forgery localization network for noisy images",
+      "title_zh_tw": "RIFoL：用於雜訊影像的強健影像偽造定位網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108813"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "JiaCheng Luo",
+        "Jianqi Zhong",
+        "Jianhua Ji",
+        "Wenming Cao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109505",
+      "doi": "10.1016/j.neunet.2026.109505",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109505",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109505"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「由重複歷史驅動的模糊 Markov 網路，用於長期人體動作預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Repetitive History-driven Fuzzy markov Networks for Long-Term Human Motion Prediction",
+      "title_original": "Repetitive History-driven Fuzzy markov Networks for Long-Term Human Motion Prediction",
+      "title_zh_tw": "由重複歷史驅動的模糊 Markov 網路，用於長期人體動作預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109505"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiang Wei",
+        "Xiaohan Zhou",
+        "Xinjun Liu",
+        "Yunliang Zang",
+        "Qiang Yu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108830",
+      "doi": "10.1016/j.neunet.2026.108830",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108830",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108830"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「具雙模態神經元時間尺度的循環脈衝神經網路，以提升學習效能」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Recurrent spiking neural networks with bimodal neuronal time scales for learning performance enhancement",
+      "title_original": "Recurrent spiking neural networks with bimodal neuronal time scales for learning performance enhancement",
+      "title_zh_tw": "具雙模態神經元時間尺度的循環脈衝神經網路，以提升學習效能",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108830"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dat Tran-Anh",
+        "Thang Vu Ba",
+        "Ngan Hoang Dao",
+        "Bao Bui Quoc",
+        "Nam Vu Hoai",
+        "Tao Ngo Quoc",
+        "Quynh Nguyen Huu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108760",
+      "doi": "10.1016/j.neunet.2026.108760",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108760",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108760"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「RAC：透過 CLIP 降低歧義的少樣本水果辨識」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "RAC : Few-shot fruit recognition through CLIP-based ambiguity reduction",
+      "title_original": "RAC : Few-shot fruit recognition through CLIP-based ambiguity reduction",
+      "title_zh_tw": "RAC：透過 CLIP 降低歧義的少樣本水果辨識",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108760"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yanlin Chen",
+        "Yuhan Zhang",
+        "Ruobing Huang",
+        "Ao Chang",
+        "Jian Wang",
+        "Jianhua Zhou",
+        "Dong Ni"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108806",
+      "doi": "10.1016/j.neunet.2026.108806",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108806",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108806"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合偽特徵學習的投影式標記化，用於超音波影像卵巢病灶分割」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Projection-based tokenization with Pseudo feature learning for ovarian lesion segmentation in ultrasound images",
+      "title_original": "Projection-based tokenization with Pseudo feature learning for ovarian lesion segmentation in ultrasound images",
+      "title_zh_tw": "結合偽特徵學習的投影式標記化，用於超音波影像卵巢病灶分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108806"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Junyi Shi",
+        "Huidong Cheng",
+        "Fang Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108777",
+      "doi": "10.1016/j.neunet.2026.108777",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108777",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108777"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「具輸入與輸出量化的多代理系統預定時間一致性控制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Predefined-time consensus control for multiagent systems with input and output quantization",
+      "title_original": "Predefined-time consensus control for multiagent systems with input and output quantization",
+      "title_zh_tw": "具輸入與輸出量化的多代理系統預定時間一致性控制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108777"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xue Luo",
+        "Jiale Huang",
+        "Li’an Shen",
+        "Hang Wang",
+        "Ziqiang Shi"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108803",
+      "doi": "10.1016/j.neunet.2026.108803",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108803",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108803"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於黏彈性材料本構建模與多物理耦合的物理資訊神經網路：瀝青路面力學應用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Physics-informed neural networks for constitutive modeling and multiphysics coupling in viscoelastic materials: Applications to asphalt pavement mechanics",
+      "title_original": "Physics-informed neural networks for constitutive modeling and multiphysics coupling in viscoelastic materials: Applications to asphalt pavement mechanics",
+      "title_zh_tw": "用於黏彈性材料本構建模與多物理耦合的物理資訊神經網路：瀝青路面力學應用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108803"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Asela Hevapathige",
+        "Qing Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108869",
+      "doi": "10.1016/j.neunet.2026.108869",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108869",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108869"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「置換不變圖分割：圖神經網路如何捕捉結構互動？」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Permutation-Invariant graph partitioning: How graph neural networks capture structural interactions?",
+      "title_original": "Permutation-Invariant graph partitioning: How graph neural networks capture structural interactions?",
+      "title_zh_tw": "置換不變圖分割：圖神經網路如何捕捉結構互動？",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108869"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yifan Lu",
+        "Bailing Zhang",
+        "Haolan Zhang",
+        "Xin Yu",
+        "Chaoyi Pang",
+        "Lang Wang",
+        "Min Tang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108835",
+      "doi": "10.1016/j.neunet.2026.108835",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108835",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108835"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「PDCFMO：透過融合式元最佳化建立人體機率密集對應」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "PDCFMO: Probabilistic dense correspondence of human body via fusion meta-optimization",
+      "title_original": "PDCFMO: Probabilistic dense correspondence of human body via fusion meta-optimization",
+      "title_zh_tw": "PDCFMO：透過融合式元最佳化建立人體機率密集對應",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108835"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zifan Liu",
+        "Yuan Cao",
+        "Xue Xu",
+        "Peng Luan",
+        "Yanwei Yu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108846",
+      "doi": "10.1016/j.neunet.2026.108846",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108846",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108846"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「物件引導的多粒度無監督雜湊，用於影像檢索」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Object-guided multi-granularity unsupervised hashing for image retrieval",
+      "title_original": "Object-guided multi-granularity unsupervised hashing for image retrieval",
+      "title_zh_tw": "物件引導的多粒度無監督雜湊，用於影像檢索",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108846"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Waleed Razzaq",
+        "Yun-Bo Zhao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109495",
+      "doi": "10.1016/j.neunet.2026.109495",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109495",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109495"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於表示學習的神經元注意力電路（NAC）」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Neuronal Attention Circuit (NAC) for Representation Learning",
+      "title_original": "Neuronal Attention Circuit (NAC) for Representation Learning",
+      "title_zh_tw": "用於表示學習的神經元注意力電路（NAC）",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109495"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dayu Guo",
+        "Zhiwen Luo",
+        "Nizar Bouguila",
+        "Wentao Fan"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108792",
+      "doi": "10.1016/j.neunet.2026.108792",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108792",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108792"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「超球面上的神經主題建模：以 von Mises–Fisher 混合模型進行球面表示學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Neural topic modeling on hyperspheres: Spherical representation learning with von Mises-Fisher mixtures",
+      "title_original": "Neural topic modeling on hyperspheres: Spherical representation learning with von Mises-Fisher mixtures",
+      "title_zh_tw": "超球面上的神經主題建模：以 von Mises–Fisher 混合模型進行球面表示學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108792"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Guowei Wang",
+        "Tongtong Li",
+        "Qi Sun",
+        "Hong Peng",
+        "Taowen Ren",
+        "Yu Fu",
+        "Zhijun Yao",
+        "Bin Hu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108748",
+      "doi": "10.1016/j.neunet.2026.108748",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108748",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108748"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於多模態圖融合的 GCN，以 fMRI 與 T1 加權 MRI 診斷阿茲海默症」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Multimodal graph fusion-based GCN for Alzheimer’s disease diagnosis using fMRI and T1-weighted MRI",
+      "title_original": "Multimodal graph fusion-based GCN for Alzheimer’s disease diagnosis using fMRI and T1-weighted MRI",
+      "title_zh_tw": "基於多模態圖融合的 GCN，以 fMRI 與 T1 加權 MRI 診斷阿茲海默症",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108748"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qi Zhang",
+        "Huamin Wang",
+        "Hangchi Shen"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108873",
+      "doi": "10.1016/j.neunet.2026.108873",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108873",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108873"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於 SNN 的多尺度分塊殘差編碼與時間隨機插值填補，以提升語音分類」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Multi-scale chunked residual encoding and temporal stochastic interpolation padding in SNNs for enhanced speech classification",
+      "title_original": "Multi-scale chunked residual encoding and temporal stochastic interpolation padding in SNNs for enhanced speech classification",
+      "title_zh_tw": "用於 SNN 的多尺度分塊殘差編碼與時間隨機插值填補，以提升語音分類",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108873"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yongjian Zhou",
+        "Wei Zhou",
+        "Luwen Huangfu",
+        "Jun Zeng",
+        "Tingyue He",
+        "Junhao Wen"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108766",
+      "doi": "10.1016/j.neunet.2026.108766",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108766",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108766"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合階層式特徵擷取的多粒度偏好增強，用於 session-based 推薦」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Multi-granularity preference enhancement with hierarchical feature extraction for session-based recommendations",
+      "title_original": "Multi-granularity preference enhancement with hierarchical feature extraction for session-based recommendations",
+      "title_zh_tw": "結合階層式特徵擷取的多粒度偏好增強，用於 session-based 推薦",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108766"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenhui Liu",
+        "Kangyang Luo",
+        "Zhijian Wu",
+        "Shanfeng Hao",
+        "Dingjiang Huang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108763",
+      "doi": "10.1016/j.neunet.2026.108763",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108763",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108763"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在離線強化學習中，以樣本內價值函數減輕 OOD 過度樂觀」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mitigating OOD overoptimism via in-sample value function in offline reinforcement learning",
+      "title_original": "Mitigating OOD overoptimism via in-sample value function in offline reinforcement learning",
+      "title_zh_tw": "在離線強化學習中，以樣本內價值函數減輕 OOD 過度樂觀",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108763"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pengfei Jiao",
+        "Peng Yan",
+        "Jilin Zhang",
+        "Zhidong Zhao",
+        "Fangfang Su",
+        "Wang Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108855",
+      "doi": "10.1016/j.neunet.2026.108855",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108855",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108855"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以雙曲表示挖掘使用者特徵，用於擴散預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mining user features with hyperbolic representations for diffusion prediction",
+      "title_original": "Mining user features with hyperbolic representations for diffusion prediction",
+      "title_zh_tw": "以雙曲表示挖掘使用者特徵，用於擴散預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108855"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Atsushi Takagi",
+        "Sho Ito",
+        "Hiroaki Gomi"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108759",
+      "doi": "10.1016/j.neunet.2026.108759",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108759",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108759"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「最小化指令時序變異是熟練動作的關鍵因素」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Minimizing command timing variability is a key factor in skilled actions",
+      "title_original": "Minimizing command timing variability is a key factor in skilled actions",
+      "title_zh_tw": "最小化指令時序變異是熟練動作的關鍵因素",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108759"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rui Huang",
+        "Mengjia Hao",
+        "Hechuan Wang",
+        "Yan Xing",
+        "Yuxiang Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108772",
+      "doi": "10.1016/j.neunet.2026.108772",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108772",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108772"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「MFBD：基於視覺－語言預訓練模型的無模型後門防禦」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "MFBD : Model-free backdoor defense based on vision-language pre-trained models",
+      "title_original": "MFBD : Model-free backdoor defense based on vision-language pre-trained models",
+      "title_zh_tw": "MFBD：基於視覺－語言預訓練模型的無模型後門防禦",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108772"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Junwei Sun",
+        "Yujie Wu",
+        "Linhao Zhao",
+        "Yanfeng Wang",
+        "Zicheng Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108837",
+      "doi": "10.1016/j.neunet.2026.108837",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108837",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108837"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於憶阻器的雙通道與時間順序記憶神經網路及其於故障偵測的應用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Memristor-based neural network for dual-channel and temporal order memory with application in fault detection",
+      "title_original": "Memristor-based neural network for dual-channel and temporal order memory with application in fault detection",
+      "title_zh_tw": "基於憶阻器的雙通道與時間順序記憶神經網路及其於故障偵測的應用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108837"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Boqun Li",
+        "Boyu Dong",
+        "Jihan Li",
+        "Guangtao Fan",
+        "Feng Yu",
+        "Jin Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108881",
+      "doi": "10.1016/j.neunet.2026.108881",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108881",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108881"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於 VG-TCABI 混合架構的大氣 PM2.5 濃度中期預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Medium-term prediction of atmospheric PM2.5 concentration based on the VG-TCABI hybrid architecture",
+      "title_original": "Medium-term prediction of atmospheric PM2.5 concentration based on the VG-TCABI hybrid architecture",
+      "title_zh_tw": "基於 VG-TCABI 混合架構的大氣 PM2.5 濃度中期預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108881"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chao Zhang",
+        "Xinyu Chen",
+        "Wensheng Li",
+        "Naizhe Wang",
+        "Xingwu Liu",
+        "Dacheng Tao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108827",
+      "doi": "10.1016/j.neunet.2026.108827",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108827",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108827"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「MD-LSM：用於即時監測深度網路隱藏層輸出線性可分性的工具」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "MD-LSM: an enabling tool for real-time monitoring linear separability of hidden-layer outputs of deep networks",
+      "title_original": "MD-LSM: an enabling tool for real-time monitoring linear separability of hidden-layer outputs of deep networks",
+      "title_zh_tw": "MD-LSM：用於即時監測深度網路隱藏層輸出線性可分性的工具",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108827"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bin Yang",
+        "Tinghuai Ma",
+        "Jialong Sun",
+        "Xuejian Huang",
+        "Yuan Tian",
+        "Li Jia",
+        "Xin Yu",
+        "Qiaoqiao Yan",
+        "Jiahao Cui"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108847",
+      "doi": "10.1016/j.neunet.2026.108847",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108847",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108847"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「M-Net：結合雙重自然區塊注意力的多尺度階層融合，用於時空時間序列預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "M-Net: Multiscale hierarchical fusion with dual natural patch attention for spatial-Temporal time series forecasting",
+      "title_original": "M-Net: Multiscale hierarchical fusion with dual natural patch attention for spatial-Temporal time series forecasting",
+      "title_zh_tw": "M-Net：結合雙重自然區塊注意力的多尺度階層融合，用於時空時間序列預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108847"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenkang Zhang",
+        "Tianyang Xu",
+        "Fei Xie",
+        "Mu Nie",
+        "Wankou Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108824",
+      "doi": "10.1016/j.neunet.2026.108824",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108824",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108824"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「LoongTrack：探索用於視覺追蹤的長序列建模」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "LoongTrack: Exploring long-sequence modeling for visual tracking",
+      "title_original": "LoongTrack: Exploring long-sequence modeling for visual tracking",
+      "title_zh_tw": "LoongTrack：探索用於視覺追蹤的長序列建模",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108824"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haoyuan Chen",
+        "Nuobei Shi",
+        "Ling Chen",
+        "Raymond S.T. Lee"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108761",
+      "doi": "10.1016/j.neunet.2026.108761",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108761",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108761"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於解析式類別增量學習的局部自適應補償」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Locally adaptive compensation for analytic class-incremental learning",
+      "title_original": "Locally adaptive compensation for analytic class-incremental learning",
+      "title_zh_tw": "用於解析式類別增量學習的局部自適應補償",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108761"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bingtao Guan",
+        "Shangde Gao",
+        "Dawei Zheng",
+        "Haoxiang Xia",
+        "Zhiyuan Wu",
+        "Jian Wu",
+        "Hongxia Xu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108812",
+      "doi": "10.1016/j.neunet.2026.108812",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108812",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108812"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「LLM-SDaT：用於中醫辨證的知識導向大型語言模型框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "LLM-SDaT: A knowledge-informed LLM framework for syndrome differentiation in TCM",
+      "title_original": "LLM-SDaT: A knowledge-informed LLM framework for syndrome differentiation in TCM",
+      "title_zh_tw": "LLM-SDaT：用於中醫辨證的知識導向大型語言模型框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108812"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hanna Zubkova",
+        "Ji-Hoon Park",
+        "Seong-Whan Lee"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108862",
+      "doi": "10.1016/j.neunet.2026.108862",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108862",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108862"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「利用脈絡信心度提升大型語言模型的智慧檢索」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Leveraging contextual confidence for smarter retrieval in large language models",
+      "title_original": "Leveraging contextual confidence for smarter retrieval in large language models",
+      "title_zh_tw": "利用脈絡信心度提升大型語言模型的智慧檢索",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108862"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Guopeng Chen",
+        "Lizhen Shao",
+        "Fangyuan Zhao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108810",
+      "doi": "10.1016/j.neunet.2026.108810",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108810",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108810"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過原始－對偶神經近似學習凸集合邊界，並應用於可達集合計算」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Learning convex set boundaries via primal-dual neural approximation with application to reachable set computation",
+      "title_original": "Learning convex set boundaries via primal-dual neural approximation with application to reachable set computation",
+      "title_zh_tw": "透過原始－對偶神經近似學習凸集合邊界，並應用於可達集合計算",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108810"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "H. Martin Gillis",
+        "Isaac Xu",
+        "Benjamin Misiuk",
+        "Craig J. Brown",
+        "Thomas Trappenberg"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108819",
+      "doi": "10.1016/j.neunet.2026.108819",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108819",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108819"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於底棲影像不確定性估計的末層委員會機器」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Last-layer committee machines for uncertainty estimations of benthic imagery",
+      "title_original": "Last-layer committee machines for uncertainty estimations of benthic imagery",
+      "title_zh_tw": "用於底棲影像不確定性估計的末層委員會機器",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108819"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Salah A. Faroughi",
+        "Farinaz Mostajeran",
+        "Amin Hamed Mashhadzadeh",
+        "Shirko Faroughi"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108791",
+      "doi": "10.1016/j.neunet.2026.108791",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108791",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108791"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於資料驅動、物理資訊與深度算子學習的 Kolmogorov–Arnold 網路：回顧、整合與新分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Kolmogorov-Arnold networks for data-driven, physics-informed, and deep-operator learning: a review, synthesis, and new analysis",
+      "title_original": "Kolmogorov-Arnold networks for data-driven, physics-informed, and deep-operator learning: a review, synthesis, and new analysis",
+      "title_zh_tw": "用於資料驅動、物理資訊與深度算子學習的 Kolmogorov–Arnold 網路：回顧、整合與新分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108791"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yongming Li",
+        "Wenqiang Zhao",
+        "Fan Li",
+        "Xiaoheng Zhang",
+        "Pin Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109475",
+      "doi": "10.1016/j.neunet.2026.109475",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109475",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109475"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「聯合最佳化轉置投影包絡線性判別分析模式」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Joint Optimization Transposed Projection Envelope Linear Discriminant Analysis Mode",
+      "title_original": "Joint Optimization Transposed Projection Envelope Linear Discriminant Analysis Mode",
+      "title_zh_tw": "聯合最佳化轉置投影包絡線性判別分析模式",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109475"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Srinivasa Raghavan Vangipuram",
+        "Giridhar A V"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108814",
+      "doi": "10.1016/j.neunet.2026.108814",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108814",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108814"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「將大型語言模型整合至多租戶建築的點對點能源管理：以護欄方法確保韌性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Integrating large language models into Peer-to-Peer energy management for multi-tenant buildings: A guardrail approach to ensuring resilience",
+      "title_original": "Integrating large language models into Peer-to-Peer energy management for multi-tenant buildings: A guardrail approach to ensuring resilience",
+      "title_zh_tw": "將大型語言模型整合至多租戶建築的點對點能源管理：以護欄方法確保韌性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108814"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kaifu Long",
+        "Junchang Xin",
+        "Luxuan Qu",
+        "Mingcan Wang",
+        "Jiani Li",
+        "Zhiqiong Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108762",
+      "doi": "10.1016/j.neunet.2026.108762",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108762",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108762"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過對抗式正則化有向圖自編碼器推斷基因調控網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Inferring gene regulatory networks via adversarially regularized directed graph autoencoder",
+      "title_original": "Inferring gene regulatory networks via adversarially regularized directed graph autoencoder",
+      "title_zh_tw": "透過對抗式正則化有向圖自編碼器推斷基因調控網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108762"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wensheng Wu",
+        "Zheming Lu",
+        "Ziqian Lu",
+        "Zewei He",
+        "Xuecheng Sun",
+        "Zhao Wang",
+        "Jungong Han",
+        "Yunlong Yu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108859",
+      "doi": "10.1016/j.neunet.2026.108859",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108859",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108859"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以基礎模型合成與小波域注意力改善異常偵測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Improving anomaly detection with foundation-model synthesis and wavelet-domain attention",
+      "title_original": "Improving anomaly detection with foundation-model synthesis and wavelet-domain attention",
+      "title_zh_tw": "以基礎模型合成與小波域注意力改善異常偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108859"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haixiao Wang",
+        "Jian Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108753",
+      "doi": "10.1016/j.neunet.2026.108753",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108753",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108753"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於 Allen–Cahn 能量函數的影像分割演算法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Image segmentation algorithm based on the Allen-Cahn energy function",
+      "title_original": "Image segmentation algorithm based on the Allen-Cahn energy function",
+      "title_zh_tw": "基於 Allen–Cahn 能量函數的影像分割演算法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108753"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qi Si",
+        "Zhao Zhang",
+        "Yang Zhao",
+        "Zhongqiu Zhao",
+        "Haijun Zhang",
+        "Yun Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109493",
+      "doi": "10.1016/j.neunet.2026.109493",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109493",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109493"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以領域自適應擴散進行保留身分與風格的影像合成」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Identity-Style Preserving Image Composition with Domain-Adaptive Diffusion",
+      "title_original": "Identity-Style Preserving Image Composition with Domain-Adaptive Diffusion",
+      "title_zh_tw": "以領域自適應擴散進行保留身分與風格的影像合成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109493"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Grzegorz Dudek",
+        "Tomasz Rodak"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108796",
+      "doi": "10.1016/j.neunet.2026.108796",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108796",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108796"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「HKAN：無需反向傳播的階層式 Kolmogorov–Arnold 網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "HKAN: Hierarchical Kolmogorov-Arnold network without backpropagation",
+      "title_original": "HKAN: Hierarchical Kolmogorov-Arnold network without backpropagation",
+      "title_zh_tw": "HKAN：無需反向傳播的階層式 Kolmogorov–Arnold 網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108796"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Cheng Liang",
+        "Wenchao Zang",
+        "Daoyuan Wang",
+        "Fei Guo"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108795",
+      "doi": "10.1016/j.neunet.2026.108795",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108795",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108795"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過錨點圖學習進行高階相關與一致性感知的多視角分群」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "High-order correlation and consistency-aware multi-view clustering via anchor graph learning",
+      "title_original": "High-order correlation and consistency-aware multi-view clustering via anchor graph learning",
+      "title_zh_tw": "透過錨點圖學習進行高階相關與一致性感知的多視角分群",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108795"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shijia Wang",
+        "Bowen Zhou",
+        "Tianyi Liu",
+        "Siyuan Yang",
+        "Hamid Reza Karimi"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108832",
+      "doi": "10.1016/j.neunet.2026.108832",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108832",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108832"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「階層式競賽互動增強器：提升競爭與合作運動中的多代理軌跡預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Hierarchical game interaction augmenter: Enhancing multi-agent trajectory prediction in competitive and cooperative sports",
+      "title_original": "Hierarchical game interaction augmenter: Enhancing multi-agent trajectory prediction in competitive and cooperative sports",
+      "title_zh_tw": "階層式競賽互動增強器：提升競爭與合作運動中的多代理軌跡預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108832"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuan Tian",
+        "Jing Li",
+        "Ning Chen",
+        "Guangqiang Li",
+        "Zhangyong Xu",
+        "Hongqing Zhu",
+        "Yu Li",
+        "Zhiying Zhu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108818",
+      "doi": "10.1016/j.neunet.2026.108818",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108818",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108818"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於組合式對比學習的異質性感知多模態生理訊號融合策略，用於情緒辨識」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Heterogeneity-aware multi-modal physiological signal fusion strategy based on combined contrastive learning for emotion recognition",
+      "title_original": "Heterogeneity-aware multi-modal physiological signal fusion strategy based on combined contrastive learning for emotion recognition",
+      "title_zh_tw": "基於組合式對比學習的異質性感知多模態生理訊號融合策略，用於情緒辨識",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108818"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chao Li",
+        "Yafei Zhang",
+        "Runshuo Liu",
+        "Qianyu Song",
+        "Zhongying Zhao",
+        "Qingtian Zeng"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108854",
+      "doi": "10.1016/j.neunet.2026.108854",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108854",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108854"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以因果不變性原則處理動態圖上的分布偏移」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Handling distribution shifts on dynamic graphs via causal invariance principles",
+      "title_original": "Handling distribution shifts on dynamic graphs via causal invariance principles",
+      "title_zh_tw": "以因果不變性原則處理動態圖上的分布偏移",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108854"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haolong Zheng",
+        "Yan Leng",
+        "Jianing Wu",
+        "Enze Zhang",
+        "Qianqian Tao",
+        "Qi Yuan",
+        "Tianping Li",
+        "Chengli Sun"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109498",
+      "doi": "10.1016/j.neunet.2026.109498",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109498",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109498"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GTPF：結合提示感知融合的模態特定圖 Transformer，用於多模態情感分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "GTPF: Modality-Specific Graph Transformer with Prompt-Aware Fusion for Multimodal Sentiment Analysis",
+      "title_original": "GTPF: Modality-Specific Graph Transformer with Prompt-Aware Fusion for Multimodal Sentiment Analysis",
+      "title_zh_tw": "GTPF：結合提示感知融合的模態特定圖 Transformer，用於多模態情感分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109498"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qingyun Lin",
+        "Lilan Peng",
+        "Zhendong Wu",
+        "Yiding Fan",
+        "Ke Zhao",
+        "Pengfei Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109436",
+      "doi": "10.1016/j.neunet.2026.109436",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109436",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109436"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GSLoRA：用於低秩適應的梯度頻譜對齊」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "GSLoRA: Gradient Spectral Alignment for Low-Rank Adaptation",
+      "title_original": "GSLoRA: Gradient Spectral Alignment for Low-Rank Adaptation",
+      "title_zh_tw": "GSLoRA：用於低秩適應的梯度頻譜對齊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109436"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Md Atik Ahamed",
+        "Andrew Cheng",
+        "Qiang Ye",
+        "Qiang Cheng"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109501",
+      "doi": "10.1016/j.neunet.2026.109501",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109501",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109501"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GraphMinNet：以低複雜度極簡架構學習圖中的相依關係」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "GraphMinNet: Learning Dependencies in Graphs with Light Complexity Minimal Architecture",
+      "title_original": "GraphMinNet: Learning Dependencies in Graphs with Light Complexity Minimal Architecture",
+      "title_zh_tw": "GraphMinNet：以低複雜度極簡架構學習圖中的相依關係",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109501"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ke-Jia Chen",
+        "Yusheng Chen",
+        "Ziyue Wang",
+        "Linfeng Liu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108778",
+      "doi": "10.1016/j.neunet.2026.108778",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108778",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108778"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「GMN-Zoomer：透過階層式解析、池化與匹配學習圖相似度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "GMN-Zoomer: Learning graph similarity via hierarchical parsing, pooling and matching",
+      "title_original": "GMN-Zoomer: Learning graph similarity via hierarchical parsing, pooling and matching",
+      "title_zh_tw": "GMN-Zoomer：透過階層式解析、池化與匹配學習圖相似度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108778"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alfio Borzì"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108838",
+      "doi": "10.1016/j.neunet.2026.108838",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108838",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108838"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「多輸入儲備池計算的幾何觀點」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Geometric perspectives on multi-input reservoir computing",
+      "title_original": "Geometric perspectives on multi-input reservoir computing",
+      "title_zh_tw": "多輸入儲備池計算的幾何觀點",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108838"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Weijian Zhang",
+        "Haichuan Song",
+        "Zhizhong Zhang",
+        "Xin Tan",
+        "Lizhuang Ma",
+        "Yuan Xie"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108767",
+      "doi": "10.1016/j.neunet.2026.108767",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108767",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108767"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從稀疏語意到豐富實例：以幾何先驗提升標註效率的 LiDAR 全景分割」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "From sparse semantics to rich instances: Empowering label-efficient LiDAR panoptic segmentation via geometric priors",
+      "title_original": "From sparse semantics to rich instances: Empowering label-efficient LiDAR panoptic segmentation via geometric priors",
+      "title_zh_tw": "從稀疏語意到豐富實例：以幾何先驗提升標註效率的 LiDAR 全景分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108767"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jie Zhang",
+        "Junda Li",
+        "Liang Feng",
+        "Beini Zhang",
+        "Xiao Luo",
+        "Weijia Wen"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108794",
+      "doi": "10.1016/j.neunet.2026.108794",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108794",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108794"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「凍結去雜訊器編碼器的預訓練參數：擴大像素參與並濾除高頻雜訊」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Freezing pre-trained parameters of encoders for denoisers: Expanding pixel involvement and filtering out high-frequency noise",
+      "title_original": "Freezing pre-trained parameters of encoders for denoisers: Expanding pixel involvement and filtering out high-frequency noise",
+      "title_zh_tw": "凍結去雜訊器編碼器的預訓練參數：擴大像素參與並濾除高頻雜訊",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108794"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mingwen Shao",
+        "Chang Liu",
+        "Xiang Lv",
+        "Lingzhuang Meng",
+        "Yecong Wan",
+        "Zhengyi Gong"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108823",
+      "doi": "10.1016/j.neunet.2026.108823",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108823",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108823"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「FreeMD：支援任意控制的免訓練多領域文生圖生成」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "FreeMD: Training-free multi-domain text-to-image generation with any control",
+      "title_original": "FreeMD: Training-free multi-domain text-to-image generation with any control",
+      "title_zh_tw": "FreeMD：支援任意控制的免訓練多領域文生圖生成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108823"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Lin Xi",
+        "Yingliang Ma",
+        "Xiahai Zhuang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108808",
+      "doi": "10.1016/j.neunet.2026.108808",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108808",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108808"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在 X 光血管攝影中，以局部匹配與時空一致性損失進行少樣本影片物件分割」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Few-shot video object segmentation in X-ray angiography using local matching and spatio-temporal consistency loss",
+      "title_original": "Few-shot video object segmentation in X-ray angiography using local matching and spatio-temporal consistency loss",
+      "title_zh_tw": "在 X 光血管攝影中，以局部匹配與時空一致性損失進行少樣本影片物件分割",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108808"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jie Zhang",
+        "Yanhua Li",
+        "Xiaocao Ouyang",
+        "Linbo Xiong",
+        "Xiangkun Wang",
+        "Jingkai Wang",
+        "Xin Yang",
+        "Tianrui Li"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108817",
+      "doi": "10.1016/j.neunet.2026.108817",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108817",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108817"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過粒球知識表示進行聯邦開放意圖分類」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Federated open intent classification via granular-ball knowledge representation",
+      "title_original": "Federated open intent classification via granular-ball knowledge representation",
+      "title_zh_tw": "透過粒球知識表示進行聯邦開放意圖分類",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108817"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Saptarshi Bej",
+        "Muhammed Sahad E",
+        "Gouri Lakshmi S",
+        "Harshit Kumar",
+        "Pritam Kar",
+        "Bikas C. Das"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108809",
+      "doi": "10.1016/j.neunet.2026.108809",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108809",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108809"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於脈衝神經網路的快速一致性驅動、裝置校準局部學習範式」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Fast agreement-driven device-calibrated local learning paradigms for spiking neural networks",
+      "title_original": "Fast agreement-driven device-calibrated local learning paradigms for spiking neural networks",
+      "title_zh_tw": "用於脈衝神經網路的快速一致性驅動、裝置校準局部學習範式",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108809"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jianming Zhang",
+        "Jun Long",
+        "Yonghang Liu",
+        "Lunfu Yu",
+        "Lei Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109500",
+      "doi": "10.1016/j.neunet.2026.109500",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109500",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109500"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「FASFF：頻域資訊輔助的空間域特徵融合，用於 RGBT 追蹤」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "FASFF: Frequency Domain Information-Aided Spatial Domain Feature Fusion for RGBT Tracking",
+      "title_original": "FASFF: Frequency Domain Information-Aided Spatial Domain Feature Fusion for RGBT Tracking",
+      "title_zh_tw": "FASFF：頻域資訊輔助的空間域特徵融合，用於 RGBT 追蹤",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109500"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ebenezer Tarubinga",
+        "Jenifer Kalafatovich",
+        "Seong-Whan Lee"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109494",
+      "doi": "10.1016/j.neunet.2026.109494",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109494",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109494"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「FARCLUSS：用於半監督語意分割的模糊自適應再平衡與對比式不確定性學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "FARCLUSS: Fuzzy Adaptive Rebalancing and Contrastive Uncertainty Learning for Semi-Supervised Semantic Segmentation",
+      "title_original": "FARCLUSS: Fuzzy Adaptive Rebalancing and Contrastive Uncertainty Learning for Semi-Supervised Semantic Segmentation",
+      "title_zh_tw": "FARCLUSS：用於半監督語意分割的模糊自適應再平衡與對比式不確定性學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109494"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jiachun Li",
+        "Cheng Yan",
+        "Suixin Zheng"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109496",
+      "doi": "10.1016/j.neunet.2026.109496",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109496",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109496"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「FAFA：頻率感知的對抗式強健公平演算法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "FAFA: A Frequency-Aware Adversarial Robust Fairness Algorithm",
+      "title_original": "FAFA: A Frequency-Aware Adversarial Robust Fairness Algorithm",
+      "title_zh_tw": "FAFA：頻率感知的對抗式強健公平演算法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109496"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Pavel Kharyuk",
+        "Sergey Matveev",
+        "Ivan Oseledets"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109502",
+      "doi": "10.1016/j.neunet.2026.109502",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109502",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109502"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探討卷積神經網路在同步影像增強情境下的專門化與敏感性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring specialization and sensitivity of convolutional neural networks in the context of simultaneous image augmentations",
+      "title_original": "Exploring specialization and sensitivity of convolutional neural networks in the context of simultaneous image augmentations",
+      "title_zh_tw": "探討卷積神經網路在同步影像增強情境下的專門化與敏感性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109502"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mihailo Stojnic"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109458",
+      "doi": "10.1016/j.neunet.2026.109458",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109458",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109458"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「具一般啟用函數之寬隱藏層樹狀神經網路的精確容量」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exact capacity of the wide hidden layer treelike neural networks with generic activations",
+      "title_original": "Exact capacity of the wide hidden layer treelike neural networks with generic activations",
+      "title_zh_tw": "具一般啟用函數之寬隱藏層樹狀神經網路的精確容量",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109458"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Minghui Wei",
+        "Haimin Zhang",
+        "Stuart Perry",
+        "Min Xu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109491",
+      "doi": "10.1016/j.neunet.2026.109491",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109491",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109491"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以 Differential Transformer 強化多代理互動建模，用於軌跡預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Enhanced Multi-Agent Interaction Modeling with a Differential Transformers for Trajectory Prediction",
+      "title_original": "Enhanced Multi-Agent Interaction Modeling with a Differential Transformers for Trajectory Prediction",
+      "title_zh_tw": "以 Differential Transformer 強化多代理互動建模，用於軌跡預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109491"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Riccardo Bravin",
+        "Massimo Pavan",
+        "Hazem Hesham Yousef Shalby",
+        "Fabrizio Pittorino",
+        "Manuel Roveri"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108800",
+      "doi": "10.1016/j.neunet.2026.108800",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108800",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108800"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「EmbBERT：在 2 MB 記憶體限制下的注意力模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "EmbBERT: Attention under 2 MB memory",
+      "title_original": "EmbBERT: Attention under 2 MB memory",
+      "title_zh_tw": "EmbBERT：在 2 MB 記憶體限制下的注意力模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108800"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shitong Cao",
+        "Yao Zhang",
+        "Xuejie Zhang",
+        "Jin Wang",
+        "Xiaobing Zhou"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108853",
+      "doi": "10.1016/j.neunet.2026.108853",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108853",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108853"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「EfficientLoRA：重新思考預訓練語言模型低秩適應的效率」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "EfficientLoRA: Rethinking the efficiency of low-rank adaptation in pre-trained language models",
+      "title_original": "EfficientLoRA: Rethinking the efficiency of low-rank adaptation in pre-trained language models",
+      "title_zh_tw": "EfficientLoRA：重新思考預訓練語言模型低秩適應的效率",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108853"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shuaiyin Ma",
+        "Yeye Cao",
+        "Yang Liu",
+        "Xiufeng Liu",
+        "Bufan Liu",
+        "Yan Zhuang",
+        "Luoke Hu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109508",
+      "doi": "10.1016/j.neunet.2026.109508",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109508",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109508"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「邊緣－雲端協作驅動的高效能運算中心預測建模」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Edge-cloud collaboration-driven predictive modeling for high-performance computing centers",
+      "title_original": "Edge-cloud collaboration-driven predictive modeling for high-performance computing centers",
+      "title_zh_tw": "邊緣－雲端協作驅動的高效能運算中心預測建模",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109508"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Junshuang Zhou",
+        "Guici Chen",
+        "Song Zhu",
+        "Yin Sheng",
+        "Leimin Wang",
+        "Mouquan Shen"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108802",
+      "doi": "10.1016/j.neunet.2026.108802",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108802",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108802"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「參數不確定性下模糊慣性神經網路有限／固定時間同步的雙機制自適應控制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dual-mechanism adaptive control for finite/fixed-time synchronization of fuzzy inertial neural networks under parameter uncertainty",
+      "title_original": "Dual-mechanism adaptive control for finite/fixed-time synchronization of fuzzy inertial neural networks under parameter uncertainty",
+      "title_zh_tw": "參數不確定性下模糊慣性神經網路有限／固定時間同步的雙機制自適應控制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108802"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenchuan Zhang",
+        "Wentao Fan",
+        "Yewang Chen"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108801",
+      "doi": "10.1016/j.neunet.2026.108801",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108801",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108801"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「雙生成對抗圖網路：以球面圖嵌入進行無監督與半監督學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dual generative adversarial graph networks: Unsupervised and semi-supervised learning with spherical graph embeddings",
+      "title_original": "Dual generative adversarial graph networks: Unsupervised and semi-supervised learning with spherical graph embeddings",
+      "title_zh_tw": "雙生成對抗圖網路：以球面圖嵌入進行無監督與半監督學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108801"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hongyang Fu",
+        "Jin Wang",
+        "Xiaoshuai Niu",
+        "Liyun Dou"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109512",
+      "doi": "10.1016/j.neunet.2026.109512",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109512",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109512"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「分布感知軟對齊結合邊界偽標籤修正，用於無監督可見光－紅外線行人再辨識」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Distribution Aware Soft Alignment With Boundary Pseudo Label Correction For Unsupervised Visible-Infrared Person Re-identification",
+      "title_original": "Distribution Aware Soft Alignment With Boundary Pseudo Label Correction For Unsupervised Visible-Infrared Person Re-identification",
+      "title_zh_tw": "分布感知軟對齊結合邊界偽標籤修正，用於無監督可見光－紅外線行人再辨識",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109512"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenju Yang",
+        "Peng Cao",
+        "Yang Wang",
+        "Jie Yang",
+        "Fei Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108820",
+      "doi": "10.1016/j.neunet.2026.108820",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108820",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108820"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「DisNet：從語音學習可解釋的憂鬱表徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "DisNet : Learning interpretable depression representations in speech",
+      "title_original": "DisNet : Learning interpretable depression representations in speech",
+      "title_zh_tw": "DisNet：從語音學習可解釋的憂鬱表徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108820"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yilin Wu",
+        "Weihong Lin",
+        "Hongyang Dong",
+        "Jinbo Li",
+        "Shiping Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108822",
+      "doi": "10.1016/j.neunet.2026.108822",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108822",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108822"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「擴散引導的圖生成，用於多視角半監督分類」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Diffusion-Guided graph generation for multi-view semi-Supervised classification",
+      "title_original": "Diffusion-Guided graph generation for multi-view semi-Supervised classification",
+      "title_zh_tw": "擴散引導的圖生成，用於多視角半監督分類",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108822"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fanyu Bu",
+        "Kai Ye",
+        "Jianan Ma",
+        "Tianyi Chen",
+        "Zhen Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108857",
+      "doi": "10.1016/j.neunet.2026.108857",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108857",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108857"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「DesInsert：策略性插入描述詞可欺騙文生圖生成」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "DesInsert: Strategic descriptive term insertion fools text-to-image generation",
+      "title_original": "DesInsert: Strategic descriptive term insertion fools text-to-image generation",
+      "title_zh_tw": "DesInsert：策略性插入描述詞可欺騙文生圖生成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108857"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Changjiu Li",
+        "Wei Han",
+        "Haixu Li",
+        "Jie Liu",
+        "Xinwei Wang",
+        "Yong Zhang",
+        "Xichao Su"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108776",
+      "doi": "10.1016/j.neunet.2026.108776",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108776",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108776"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於艦載機飛行甲板作業排程問題的深度強化學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Deep reinforcement learning for carrier-based aircraft flight deck operations scheduling problem",
+      "title_original": "Deep reinforcement learning for carrier-based aircraft flight deck operations scheduling problem",
+      "title_zh_tw": "用於艦載機飛行甲板作業排程問題的深度強化學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108776"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Laixiang Xu",
+        "Zihan Shang",
+        "Xiangjun Chen",
+        "Tiwei Zeng",
+        "Wenhao Dai",
+        "Junmin Zhao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108842",
+      "doi": "10.1016/j.neunet.2026.108842",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108842",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108842"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「車牌辨識的深度學習演算法：回顧」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Deep learning algorithms for license plate recognition: A review",
+      "title_original": "Deep learning algorithms for license plate recognition: A review",
+      "title_zh_tw": "車牌辨識的深度學習演算法：回顧",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108842"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhenbo Song",
+        "Ruixin Li",
+        "Zhenyuan Zhang",
+        "Tao Wang",
+        "Jianfeng Lu",
+        "Xin Yu",
+        "Kaihao Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109472",
+      "doi": "10.1016/j.neunet.2026.109472",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109472",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109472"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「惡劣天候下的深度影像復原：綜述」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Deep Image Restoration in Adverse Weather: A Survey",
+      "title_original": "Deep Image Restoration in Adverse Weather: A Survey",
+      "title_zh_tw": "惡劣天候下的深度影像復原：綜述",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109472"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuwen Ge",
+        "Guoliang Wei",
+        "Junke Wu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108653",
+      "doi": "10.1016/j.neunet.2026.108653",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108653",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108653"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在反射表面重建的 Gaussian Splatting 中解耦幾何與外觀：光澤影像先驗引導方法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Decoupling geometry and appearance in Gaussian splatting for reflective surface reconstruction: A glossy image prior-guided approach",
+      "title_original": "Decoupling geometry and appearance in Gaussian splatting for reflective surface reconstruction: A glossy image prior-guided approach",
+      "title_zh_tw": "在反射表面重建的 Gaussian Splatting 中解耦幾何與外觀：光澤影像先驗引導方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108653"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wentao Liu",
+        "Zhiwei Ni",
+        "Xuhui Zhu",
+        "Qian Chen",
+        "Liping Ni",
+        "Pingfan Xia"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108805",
+      "doi": "10.1016/j.neunet.2026.108805",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108805",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108805"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於分解的課程式自我訓練，用於計算病理的無來源通用領域適應」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Decomposition based curriculum-style self-training for source-free universal domain adaptation in computational pathology",
+      "title_original": "Decomposition based curriculum-style self-training for source-free universal domain adaptation in computational pathology",
+      "title_zh_tw": "基於分解的課程式自我訓練，用於計算病理的無來源通用領域適應",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108805"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chenran Zhao",
+        "Dianxi Shi",
+        "Haotian Wang",
+        "Mengzhu Wang",
+        "Yaowen Zhang",
+        "Chunping Qiu",
+        "Shaowu Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109507",
+      "doi": "10.1016/j.neunet.2026.109507",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109507",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109507"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「DECHRL：賦權驅動、延遲感知的因果階層強化學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "DECHRL: Empowerment-Driven Delay-Aware Causal Hierarchical Reinforcement Learning",
+      "title_original": "DECHRL: Empowerment-Driven Delay-Aware Causal Hierarchical Reinforcement Learning",
+      "title_zh_tw": "DECHRL：賦權驅動、延遲感知的因果階層強化學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109507"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yueyue Fang",
+        "Haipeng Xiao",
+        "Wenyi Zhou",
+        "Lixin Guan",
+        "Mengshan Li",
+        "Fanyang Meng",
+        "Jihong Zhu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108825",
+      "doi": "10.1016/j.neunet.2026.108825",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108825",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108825"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「DBML-Font：基於擴散模型的雙分支多層級特徵融合，用於少樣本字型生成」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "DBML-Font :Double-branch multi-level feature fusion based on diffusion model for few-shot font generation",
+      "title_original": "DBML-Font :Double-branch multi-level feature fusion based on diffusion model for few-shot font generation",
+      "title_zh_tw": "DBML-Font：基於擴散模型的雙分支多層級特徵融合，用於少樣本字型生成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108825"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yujie Fan",
+        "Jing Chen",
+        "Wenqiang Xu",
+        "Weimin Peng"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108756",
+      "doi": "10.1016/j.neunet.2026.108756",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108756",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108756"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「DADiffNet：具自適應子圖的延遲感知擴散網路，用於大規模交通預測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "DADiffNet: Delay-aware diffusion networks with adaptive subgraphs for large scale traffic forecasting",
+      "title_original": "DADiffNet: Delay-aware diffusion networks with adaptive subgraphs for large scale traffic forecasting",
+      "title_zh_tw": "DADiffNet：具自適應子圖的延遲感知擴散網路，用於大規模交通預測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108756"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yanchao Li",
+        "Guanxiao Li",
+        "Xiaoli Wang",
+        "La Duo",
+        "Guangwei Gao",
+        "Chia-Wen Lin"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109503",
+      "doi": "10.1016/j.neunet.2026.109503",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109503",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109503"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「CSW-AL：用於不平衡多領域主動學習的類別縮放權重架構」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "CSW-AL: A Category-Scaling Weight Schema for Imbalanced Multi-Domain Active Learning",
+      "title_original": "CSW-AL: A Category-Scaling Weight Schema for Imbalanced Multi-Domain Active Learning",
+      "title_zh_tw": "CSW-AL：用於不平衡多領域主動學習的類別縮放權重架構",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109503"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wenqiang Xu",
+        "Junwen Liu",
+        "Xutao Sun",
+        "Yonggong Ren"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108816",
+      "doi": "10.1016/j.neunet.2026.108816",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108816",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108816"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「CSM-Net：以交叉記憶注意力最佳化關係嵌入的少樣本學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "CSM-Net: Relation embedding for few shot learning optimized by cross memory attention",
+      "title_original": "CSM-Net: Relation embedding for few shot learning optimized by cross memory attention",
+      "title_zh_tw": "CSM-Net：以交叉記憶注意力最佳化關係嵌入的少樣本學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108816"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yun Hao",
+        "Jiaju Wu",
+        "Ruizhou Sun",
+        "Xinyi Li",
+        "Qingyao Wu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109504",
+      "doi": "10.1016/j.neunet.2026.109504",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109504",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109504"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「CRFormer：用於可見浮水印移除的多尺度對比正則化 Transformer」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "CRFormer: Multi-scale Contrastive Regularization Transformer for Visible Watermark Removal",
+      "title_original": "CRFormer: Multi-scale Contrastive Regularization Transformer for Visible Watermark Removal",
+      "title_zh_tw": "CRFormer：用於可見浮水印移除的多尺度對比正則化 Transformer",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109504"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuanyuan Zhao",
+        "S.L. Zhao",
+        "Minghu Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108793",
+      "doi": "10.1016/j.neunet.2026.108793",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108793",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108793"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「對抗災難性遺忘與過擬合的持續式少樣本命名實體辨識」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Continual few-shot named entity recognition against catastrophic forgetting and overfitting",
+      "title_original": "Continual few-shot named entity recognition against catastrophic forgetting and overfitting",
+      "title_zh_tw": "對抗災難性遺忘與過擬合的持續式少樣本命名實體辨識",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108793"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Siwei Xia",
+        "Yuehan Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108858",
+      "doi": "10.1016/j.neunet.2026.108858",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108858",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108858"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「以集中式正則化進行係數配對，以達成結構化稀疏性」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Coefficient pairing with centralized regularization for structured sparsity",
+      "title_original": "Coefficient pairing with centralized regularization for structured sparsity",
+      "title_zh_tw": "以集中式正則化進行係數配對，以達成結構化稀疏性",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108858"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jinyan Cai",
+        "Weihao Zhao",
+        "Hongliang Liang",
+        "Qiuping Yi"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109499",
+      "doi": "10.1016/j.neunet.2026.109499",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109499",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109499"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「CITP：跨實例目標式擾動」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "CITP: Cross-Instance Targeted Perturbations",
+      "title_original": "CITP: Cross-Instance Targeted Perturbations",
+      "title_zh_tw": "CITP：跨實例目標式擾動",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109499"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ke Jin",
+        "Yuhu Cheng",
+        "Yi Kong",
+        "C.L. Philip Chen",
+        "Xuesong Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109511",
+      "doi": "10.1016/j.neunet.2026.109511",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109511",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109511"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「審慎隱式價值學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Cautious Implicit Value Learning",
+      "title_original": "Cautious Implicit Value Learning",
+      "title_zh_tw": "審慎隱式價值學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109511"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zihan Peng",
+        "Yang Xu",
+        "Sicong Zhang",
+        "Yuanlei Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108709",
+      "doi": "10.1016/j.neunet.2026.108709",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108709",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108709"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「C/R-PMGAN：用於可遷移黑箱攻擊的雙路徑自監督與區塊遮罩生成對抗網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "C/R-PMGAN: A dual-path self-supervised and patch-masked generative adversarial network for transferable black-box attack",
+      "title_original": "C/R-PMGAN: A dual-path self-supervised and patch-masked generative adversarial network for transferable black-box attack",
+      "title_zh_tw": "C/R-PMGAN：用於可遷移黑箱攻擊的雙路徑自監督與區塊遮罩生成對抗網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108709"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shiqi Fan",
+        "Quanming Yao",
+        "Hongyi Nie",
+        "Wentao Ma",
+        "Zhen Wang",
+        "Wen Hua"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108811",
+      "doi": "10.1016/j.neunet.2026.108811",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108811",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108811"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「銜接圖結構與知識引導編輯，以進行可解釋的時間知識圖譜推理」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Bridging graph structure and knowledge-guided editing for interpretable temporal knowledge graph reasoning",
+      "title_original": "Bridging graph structure and knowledge-guided editing for interpretable temporal knowledge graph reasoning",
+      "title_zh_tw": "銜接圖結構與知識引導編輯，以進行可解釋的時間知識圖譜推理",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108811"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhaolu Zheng",
+        "Gang Liu",
+        "Min Dang",
+        "Jinpeng Luo"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108821",
+      "doi": "10.1016/j.neunet.2026.108821",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108821",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108821"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於多視角躲避紅外線偵測器的黑箱實體對抗條紋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Black-box physical adversarial stripes for hiding from infrared detectors at multiple views",
+      "title_original": "Black-box physical adversarial stripes for hiding from infrared detectors at multiple views",
+      "title_zh_tw": "用於多視角躲避紅外線偵測器的黑箱實體對抗條紋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108821"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tianshun You",
+        "Ming Liu",
+        "Liquan Dong",
+        "Peng Yang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108815",
+      "doi": "10.1016/j.neunet.2026.108815",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108815",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108815"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合運動方向解碼補償、用於大型場景小目標偵測的仿生視覺神經網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Bio-inspired small target detecting visual neural network with motion direction decoding compensation in large scene",
+      "title_original": "Bio-inspired small target detecting visual neural network with motion direction decoding compensation in large scene",
+      "title_zh_tw": "結合運動方向解碼補償、用於大型場景小目標偵測的仿生視覺神經網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108815"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Haohang Jian",
+        "Yuhao Xiao",
+        "Xiongwu Xiao",
+        "Jianguo Yan",
+        "Zhigang Tu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108875",
+      "doi": "10.1016/j.neunet.2026.108875",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108875",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108875"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AstroHSP：用於強健單眼太空人姿態估計的混合監督框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AstroHSP: A hybrid supervision framework for robust monocular astronaut pose estimation",
+      "title_original": "AstroHSP: A hybrid supervision framework for robust monocular astronaut pose estimation",
+      "title_zh_tw": "AstroHSP：用於強健單眼太空人姿態估計的混合監督框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108875"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anastasis Kratsios",
+        "Bum Jun Kim",
+        "Takashi Furuya"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108797",
+      "doi": "10.1016/j.neunet.2026.108797",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108797",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108797"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「具殘差連接 Kolmogorov–Arnold 網路在 Besov 範數下的近似速率與樣本複雜度」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Approximation rates in Besov norms and sample-complexity of Kolmogorov-Arnold networks with residual connections",
+      "title_original": "Approximation rates in Besov norms and sample-complexity of Kolmogorov-Arnold networks with residual connections",
+      "title_zh_tw": "具殘差連接 Kolmogorov–Arnold 網路在 Besov 範數下的近似速率與樣本複雜度",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108797"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Weijun Luo",
+        "Yingzhuo Liu",
+        "Hongsong Tang",
+        "Bo Chen",
+        "Liuyu Xiang",
+        "Zhaofeng He"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109476",
+      "doi": "10.1016/j.neunet.2026.109476",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109476",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109476"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「APO：利用連續空間未採樣動作的錨定式策略最佳化」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "APO: Anchored Policy Optimization by Leveraging Unsampled Actions in Continuous Spaces",
+      "title_original": "APO: Anchored Policy Optimization by Leveraging Unsampled Actions in Continuous Spaces",
+      "title_zh_tw": "APO：利用連續空間未採樣動作的錨定式策略最佳化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109476"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Leiming Wang",
+        "Jinpeng Yang",
+        "Guanghui Jiang",
+        "Tao Wu",
+        "Xiongbo Wan"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.109509",
+      "doi": "10.1016/j.neunet.2026.109509",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.109509",
+          "url": "https://doi.org/10.1016/j.neunet.2026.109509"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於延遲憶阻式神經網路固定／預先指定時間同步的非週期嚴格間歇控制」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Aperiodic strict intermittent control for fixed-/preassigned-time synchronization of delayed memristive neural networks",
+      "title_original": "Aperiodic strict intermittent control for fixed-/preassigned-time synchronization of delayed memristive neural networks",
+      "title_zh_tw": "用於延遲憶阻式神經網路固定／預先指定時間同步的非週期嚴格間歇控制",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.109509"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Donghao Luo",
+        "Xue Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108879",
+      "doi": "10.1016/j.neunet.2026.108879",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108879",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108879"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「AnomalyTCN：採純卷積結構、基於對比學習的高效率時間序列異常偵測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "AnomalyTCN: Efficient contrastive-based time series anomaly detection with pure convolution structure",
+      "title_original": "AnomalyTCN: Efficient contrastive-based time series anomaly detection with pure convolution structure",
+      "title_zh_tw": "AnomalyTCN：採純卷積結構、基於對比學習的高效率時間序列異常偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108879"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Himanshu Pandey",
+        "Anshima Singh",
+        "Ratikanta Behera"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108860",
+      "doi": "10.1016/j.neunet.2026.108860",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108860",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108860"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於多尺度問題的高效率小波式物理資訊神經網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "An efficient wavelet-based physics-informed neural network for multiscale problems",
+      "title_original": "An efficient wavelet-based physics-informed neural network for multiscale problems",
+      "title_zh_tw": "用於多尺度問題的高效率小波式物理資訊神經網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108860"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dongrui Gao",
+        "Liu Deng",
+        "Zongyao Peng",
+        "Qinghua Wang",
+        "Haokai Zhang",
+        "Shihong Liu",
+        "Dingming Wu",
+        "Pengrui Li"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108856",
+      "doi": "10.1016/j.neunet.2026.108856",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108856",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108856"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於情緒辨識的高效率腦－心耦合學習系統」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "An efficient brain-heart coupling learning system for emotion recognition",
+      "title_original": "An efficient brain-heart coupling learning system for emotion recognition",
+      "title_zh_tw": "用於情緒辨識的高效率腦－心耦合學習系統",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108856"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hrushikesh N. Mhaskar",
+        "Efstratios Tsoukanis",
+        "Ameya D. Jagtap"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108841",
+      "doi": "10.1016/j.neunet.2026.108841",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108841",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108841"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從近似理論觀點看機器學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "An approximation theory perspective on machine learning",
+      "title_original": "An approximation theory perspective on machine learning",
+      "title_zh_tw": "從近似理論觀點看機器學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108841"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Siyuan Xu",
+        "Yujie Wu",
+        "Jibin Wu",
+        "Lei Deng",
+        "Mingkun Xu",
+        "Qinghao Wen",
+        "Guoqi Li"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108765",
+      "doi": "10.1016/j.neunet.2026.108765",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108765",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108765"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「推進 forward-forward 演算法邁向高效能深度局部學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Advancing the forward-forward algorithm towards high-performance deep local learning",
+      "title_original": "Advancing the forward-forward algorithm towards high-performance deep local learning",
+      "title_zh_tw": "推進 forward-forward 演算法邁向高效能深度局部學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108765"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chen Li",
+        "Guoyan Huang",
+        "Shanshan Feng",
+        "Zhu Sun"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108831",
+      "doi": "10.1016/j.neunet.2026.108831",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108831",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108831"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「具不確定打卡資料的下一個 POI 推薦之使用者軌跡模擬框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A user trajectory simulation framework for next POI recommendation with uncertain check-ins",
+      "title_original": "A user trajectory simulation framework for next POI recommendation with uncertain check-ins",
+      "title_zh_tw": "具不確定打卡資料的下一個 POI 推薦之使用者軌跡模擬框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108831"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Md Iqbal Hossain",
+        "Neeresh Kumar Perla",
+        "Afia Sajeeda",
+        "Siyu Xia",
+        "Ming Shao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108764",
+      "doi": "10.1016/j.neunet.2026.108764",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108764",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108764"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「視覺－語言模型對抗攻擊與防禦近期進展綜述」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A survey of recent advances in adversarial attack and defense on vision-language models",
+      "title_original": "A survey of recent advances in adversarial attack and defense on vision-language models",
+      "title_zh_tw": "視覺－語言模型對抗攻擊與防禦近期進展綜述",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108764"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Corina Cătărău-Cotutiu",
+        "Esther Mondragón",
+        "Eduardo Alonso"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108868",
+      "doi": "10.1016/j.neunet.2026.108868",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108868",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108868"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於複雜代理環境中學習與編碼結構強化軌跡的表示框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A representational framework for learning and encoding structurally enriched trajectories in complex agent environments",
+      "title_original": "A representational framework for learning and encoding structurally enriched trajectories in complex agent environments",
+      "title_zh_tw": "用於複雜代理環境中學習與編碼結構強化軌跡的表示框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108868"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinwei Cao",
+        "Yiguo Yang",
+        "Shuai Li",
+        "Vasilios N. Katsikis"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108866",
+      "doi": "10.1016/j.neunet.2026.108866",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108866",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108866"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「基於分散式 k-WTA 動態神經網路的新型股票投資策略」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A novel stock investment strategy based on distributed k-WTA dynamic neural network",
+      "title_original": "A novel stock investment strategy based on distributed k-WTA dynamic neural network",
+      "title_zh_tw": "基於分散式 k-WTA 動態神經網路的新型股票投資策略",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108866"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yang Liu",
+        "Xiang Feng",
+        "Huiqun Yu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108752",
+      "doi": "10.1016/j.neunet.2026.108752",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108752",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108752"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合多時間尺度回放與動態任務分類的多代理持續強化學習框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A Multi-Agent Continual reinforcement learning framework with multi-Timescale replay and dynamic task classification",
+      "title_original": "A Multi-Agent Continual reinforcement learning framework with multi-Timescale replay and dynamic task classification",
+      "title_zh_tw": "結合多時間尺度回放與動態任務分類的多代理持續強化學習框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108752"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wuzhida Bao",
+        "Guangyang Tian",
+        "Yuting Cao",
+        "Yin Yang",
+        "Shiping Wen"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108870",
+      "doi": "10.1016/j.neunet.2026.108870",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108870",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108870"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於金融時間序列預測的異質編碼解耦表示網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A heterogeneous encoding disentangled representation network for financial time series forecasting",
+      "title_original": "A heterogeneous encoding disentangled representation network for financial time series forecasting",
+      "title_zh_tw": "用於金融時間序列預測的異質編碼解耦表示網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108870"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Zhilei Xu",
+        "Wenwen Zhang",
+        "Wei Huang",
+        "Jiaqian Bi"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108807",
+      "doi": "10.1016/j.neunet.2026.108807",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108807",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108807"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「用於查詢時間相依最短路徑 TOP-k 關鍵頂點的延遲自適應神經網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A delay-Adaptive neural network for querying TOP-k critical vertices on time-Dependent shortest paths",
+      "title_original": "A delay-Adaptive neural network for querying TOP-k critical vertices on time-Dependent shortest paths",
+      "title_zh_tw": "用於查詢時間相依最短路徑 TOP-k 關鍵頂點的延遲自適應神經網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108807"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shangge Liu",
+        "Lei Wang",
+        "Rui Yan",
+        "Jing Huo",
+        "Wenbin Li",
+        "Yang Gao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108774",
+      "doi": "10.1016/j.neunet.2026.108774",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108774",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108774"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合長期與多個短期記憶網路的持續學習框架」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A continual learning framework with long-term and multiple short-term memory networks",
+      "title_original": "A continual learning framework with long-term and multiple short-term memory networks",
+      "title_zh_tw": "結合長期與多個短期記憶網路的持續學習框架",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108774"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fang Liu",
+        "Witold Pedrycz",
+        "Qi Xu",
+        "Lijun Liu",
+        "Jialin Xu",
+        "Jie Yang",
+        "Wei Wu"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108834",
+      "doi": "10.1016/j.neunet.2026.108834",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108834",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108834"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「複數值擴寬脈衝神經網路」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A complex-valued widening spiking neural network",
+      "title_original": "A complex-valued widening spiking neural network",
+      "title_zh_tw": "複數值擴寬脈衝神經網路",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108834"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yumeng Ren",
+        "Ye Zhao",
+        "Long Chen",
+        "Qihang Jiang",
+        "Yue Xu",
+        "Jiali Wang",
+        "Xun Huang",
+        "Ziang Wang",
+        "Hang Ran",
+        "Yumei Zhou",
+        "Shushan Qiao"
+      ],
+      "canonical_id": "doi:10.1016/j.neunet.2026.108829",
+      "doi": "10.1016/j.neunet.2026.108829",
+      "issns": [
+        "0893-6080"
+      ],
+      "journal": "Neural Networks",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.neunet.2026.108829",
+          "url": "https://doi.org/10.1016/j.neunet.2026.108829"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合自適應時空濾波與深度調制突觸可塑性的仿生脈衝神經網路，用於強健碰撞偵測」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "A bio-inspired spiking neural network with adaptive spatiotemporal filtering and depth-modulated synaptic plasticity for robust collision detection",
+      "title_original": "A bio-inspired spiking neural network with adaptive spatiotemporal filtering and depth-modulated synaptic plasticity for robust collision detection",
+      "title_zh_tw": "結合自適應時空濾波與深度調制突觸可塑性的仿生脈衝神經網路，用於強健碰撞偵測",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.neunet.2026.108829"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__neural-networks__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__neural-networks__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__neural-networks__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__neural-networks__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__neural-networks__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__neural-networks__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 128,
+    "by_article_type": {
+      "journal-article": 128
+    },
+    "by_source": {
+      "crossref": 128
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 128,
+    "translated_articles": 128
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "neural-networks__2026-08__r04",
+  "edition_key": "neural-networks__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 0,
+    "base_article_count": 128,
+    "base_edition_sha256": "fc6f059b96db944dab02d199a10b176de4ad0f0f017331c2a924e8f3a0ff5425",
+    "base_manifest_publication_id": "neural-networks__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "neural-networks__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 128
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "neural-networks",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 128,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "neural-networks__2026-08__r04",
+  "publication_notes": {
+    "date_gate": {
+      "accepted_precisions": [
+        "DAY",
+        "MONTH"
+      ],
+      "window_end": "2026-08-14",
+      "window_start": "2026-08-01",
+      "year_only_records_publishable": false
+    },
+    "editorial_projection": {
+      "excluded_count": 3,
+      "excluded_records": [
+        {
+          "canonical_id": "doi:10.1016/s0893-6080(26)00584-8",
+          "reason": "NON_ARTICLE_MEMBERSHIP_FORM",
+          "title": "INN/ENNS/JNNS - Membership Applic. Form"
+        },
+        {
+          "canonical_id": "doi:10.1016/s0893-6080(26)00581-2",
+          "reason": "NON_ARTICLE_EDITORIAL_BOARD",
+          "title": "Editorial Board"
+        },
+        {
+          "canonical_id": "doi:10.1016/s0893-6080(26)00583-6",
+          "reason": "NON_ARTICLE_CURRENT_EVENTS",
+          "title": "CURRENT EVENTS"
+        }
+      ],
+      "published_article_count": 128,
+      "source_match_count": 131
+    }
+  },
+  "retrieved_at": "2026-08-29T06:33:32Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__neural-networks__2026-08__r04",
+    "edition_key": "neural-networks__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "0893-6080",
+    "journal": "Neural Networks",
+    "journal_slug": "neural-networks",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "publication_id": "neural-networks__2026-08__r04",
+    "revision": 4,
+    "slug": "neural-networks",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Neural Networks; publication=2026-08-24..2026-08-29",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "neural-networks__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": "24b40699fd15901e4ff5bdedb7a51f5d839470714b322c767f7d6a23b91ca764",
+    "response_generated_at": "2026-08-14T02:05:41Z",
+    "response_sha256": "f2bf9fe253b5cdeead3975a1a0c28c814fb30df692812c670e26b69604b58c46",
+    "source_edition_sha256": "e4ef89e7736078e3d5f62bd96423df18f1f8268dbe64d32fb10c8ba7839e024f",
+    "status": "COMPLETE",
+    "total_articles": 128,
+    "translated_articles": 128
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_neural_networks"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

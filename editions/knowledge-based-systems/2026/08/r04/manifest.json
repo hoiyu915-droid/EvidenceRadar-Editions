@@ -1,0 +1,43 @@
+{
+  "article_count": 106,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:33:25Z",
+  "edition_id": "knowledge-based-systems__2026-08__r04",
+  "edition_key": "knowledge-based-systems__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 154342,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.json",
+      "sha256": "4726044f8f63a0b85a551b6337a12ce961a0a99471dabdc2c96c1ef683923f38"
+    },
+    "report_html": {
+      "bytes": 253304,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.html",
+      "sha256": "9be876590c096a8bc6e39e67e4aa1cc8df70179ba95a5ffcdb7e651e379fd8d9"
+    }
+  },
+  "journal": "Knowledge-Based Systems",
+  "journal_slug": "knowledge-based-systems",
+  "manifest_name": "EvidenceRadar_Editions__knowledge-based-systems__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "knowledge-based-systems__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 106,
+  "translation_provenance": {
+    "request_binding_sha256": "55c8046fd5294bc78b925ce5b432c4db66e0befc605e4f73510c5c0dc70349bd",
+    "response_sha256": "49929e3cd58ab761352daa0bbd38329a317f54cadea36cd881fe89894ae043c8",
+    "source_edition_sha256": "bda80c5f765680831f300e0a1a7df3084f5ff67eb47690001b94ac7435b79da6"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
