@@ -1,0 +1,712 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Aris Filos-Ratsikas",
+        "Georgios Kalantzis",
+        "Alexandros A. Voudouris"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104557",
+      "doi": "10.1016/j.artint.2026.104557",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104557",
+          "url": "https://doi.org/10.1016/j.artint.2026.104557"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「結合預測資訊的功利主義失真」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Utilitarian distortion with predictions",
+      "title_original": "Utilitarian distortion with predictions",
+      "title_zh_tw": "結合預測資訊的功利主義失真",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104557"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yannis Dimopoulos",
+        "Wolfgang Dvořák",
+        "Anna Rapberger",
+        "Matthias König",
+        "Markus Ulbricht",
+        "Stefan Woltran"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104558",
+      "doi": "10.1016/j.artint.2026.104558",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104558",
+          "url": "https://doi.org/10.1016/j.artint.2026.104558"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「抽象論證中的集合攻擊集合：透過超論證框架重新定義 ABA+ 語義」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Sets attacking sets in abstract argumentation – redefining ABA+ semantics via hyper argumentation frameworks",
+      "title_original": "Sets attacking sets in abstract argumentation – redefining ABA+ semantics via hyper argumentation frameworks",
+      "title_zh_tw": "抽象論證中的集合攻擊集合：透過超論證框架重新定義 ABA+ 語義",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104558"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Benjamin Doerr",
+        "Pietro S. Oliveto",
+        "John Alasdair Warwicker"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104560",
+      "doi": "10.1016/j.artint.2026.104560",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104560",
+          "url": "https://doi.org/10.1016/j.artint.2026.104560"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「選擇型超啟發式可自動調整學習期，以最佳化求解偽布林問題」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Selection hyper-heuristics can automatically adjust the learning period to optimally solve pseudo-Boolean problems",
+      "title_original": "Selection hyper-heuristics can automatically adjust the learning period to optimally solve pseudo-Boolean problems",
+      "title_zh_tw": "選擇型超啟發式可自動調整學習期，以最佳化求解偽布林問題",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104560"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Shufang Xie",
+        "Huishuai Zhang",
+        "Junliang Guo",
+        "Xu Tan",
+        "Jiang Bian",
+        "Hany Hassan Awadalla",
+        "Arul Menezes",
+        "Tao Qin",
+        "Rui Yan"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104602",
+      "doi": "10.1016/j.artint.2026.104602",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104602",
+          "url": "https://doi.org/10.1016/j.artint.2026.104602"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「ResiDual：具雙重殘差連接的 Transformer」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "ResiDual: Transformer with Dual Residual Connections",
+      "title_original": "ResiDual: Transformer with Dual Residual Connections",
+      "title_zh_tw": "ResiDual：具雙重殘差連接的 Transformer",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104602"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mutong Liu",
+        "Tiantian He",
+        "Yang Liu",
+        "Jiming Liu",
+        "Yew-Soon Ong"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104603",
+      "doi": "10.1016/j.artint.2026.104603",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104603",
+          "url": "https://doi.org/10.1016/j.artint.2026.104603"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探究多智能體強化學習中的對徑協調圖」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Probing Diametric Coordination Graphs for Multi-Agent Reinforcement Learning",
+      "title_original": "Probing Diametric Coordination Graphs for Multi-Agent Reinforcement Learning",
+      "title_zh_tw": "探究多智能體強化學習中的對徑協調圖",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104603"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Charles Vernerey",
+        "Samir Loudni",
+        "Noureddine Aribi",
+        "Yahia Lebbah"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104561",
+      "doi": "10.1016/j.artint.2026.104561",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104561",
+          "url": "https://doi.org/10.1016/j.artint.2026.104561"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「使用多目標最佳化挖掘頻繁與稀有關聯規則的創新約束模型」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Innovative constraint models for mining frequent and rare association rules using multi-objective optimization",
+      "title_original": "Innovative constraint models for mining frequent and rare association rules using multi-objective optimization",
+      "title_zh_tw": "使用多目標最佳化挖掘頻繁與稀有關聯規則的創新約束模型",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104561"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "David Tena Cucala",
+        "Bernardo Cuenca Grau",
+        "Boris Motik",
+        "Egor V. Kostylev"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104545",
+      "doi": "10.1016/j.artint.2026.104545",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104545",
+          "url": "https://doi.org/10.1016/j.artint.2026.104545"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「從單調圖神經網路到 Datalog，再回來：表達能力與實務應用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "From monotonic graph neural networks to datalog and back: Expressive power and practical applications",
+      "title_original": "From monotonic graph neural networks to datalog and back: Expressive power and practical applications",
+      "title_zh_tw": "從單調圖神經網路到 Datalog，再回來：表達能力與實務應用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104545"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Arthur Dantas Mangussi",
+        "Ricardo Cardoso Pereira",
+        "Miriam Seoane Santos",
+        "Ana Carolina Lorena",
+        "Mykola Pechenizkiy",
+        "Pedro Henriques Abreu"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104559",
+      "doi": "10.1016/j.artint.2026.104559",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104559",
+          "url": "https://doi.org/10.1016/j.artint.2026.104559"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「探討缺失資料插補對群體公平性指標的影響」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Exploring the influence of missing data imputation in group fairness metrics",
+      "title_original": "Exploring the influence of missing data imputation in group fairness metrics",
+      "title_zh_tw": "探討缺失資料插補對群體公平性指標的影響",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104559"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Wei Liu",
+        "Zhiying Deng",
+        "Lang Gao",
+        "Yuankai Zhang",
+        "Haozhao Wang",
+        "Jun Wang",
+        "Rui Zhang",
+        "Heng Huang",
+        "Ruixuan Li"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104601",
+      "doi": "10.1016/j.artint.2026.104601",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104601",
+          "url": "https://doi.org/10.1016/j.artint.2026.104601"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「擺脫圖形因果先驗：用於合理化的多生成器協作」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Escaping Graphical Causal Priors: Multi-Generator Cooperation for Rationalization",
+      "title_original": "Escaping Graphical Causal Priors: Multi-Generator Cooperation for Rationalization",
+      "title_zh_tw": "擺脫圖形因果先驗：用於合理化的多生成器協作",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104601"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Viktor Besin",
+        "Markus Hecher",
+        "Matthias König",
+        "Stefan Woltran"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104600",
+      "doi": "10.1016/j.artint.2026.104600",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104600",
+          "url": "https://doi.org/10.1016/j.artint.2026.104600"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「透過歸約實現身體解耦的 Grounding：針對 ASP 瓶頸的新方法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Body-Decoupled Grounding via Reduction: A Novel Approach on the Asp Bottleneck",
+      "title_original": "Body-Decoupled Grounding via Reduction: A Novel Approach on the Asp Bottleneck",
+      "title_zh_tw": "透過歸約實現身體解耦的 Grounding：針對 ASP 瓶頸的新方法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104600"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dušan Knop",
+        "Šimon Schierreich",
+        "Ondřej Suchý"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104563",
+      "doi": "10.1016/j.artint.2026.104563",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104563",
+          "url": "https://doi.org/10.1016/j.artint.2026.104563"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「平衡稀疏社會網路中兩種意見的傳播」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Balancing the spread of two opinions in sparse social networks",
+      "title_original": "Balancing the spread of two opinions in sparse social networks",
+      "title_zh_tw": "平衡稀疏社會網路中兩種意見的傳播",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104563"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hongtao Lv",
+        "Xiaohui Bei",
+        "Zhenzhe Zheng",
+        "Fan Wu"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104543",
+      "doi": "10.1016/j.artint.2026.104543",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104543",
+          "url": "https://doi.org/10.1016/j.artint.2026.104543"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「具事後 ROI 約束的拍賣設計」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Auction design with ex post ROI constraints",
+      "title_original": "Auction design with ex post ROI constraints",
+      "title_zh_tw": "具事後 ROI 約束的拍賣設計",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104543"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xingxing He",
+        "Zhongxu Zhao",
+        "Yongqi Lan",
+        "Yingfang Li",
+        "Li Zou",
+        "Luis Martínez",
+        "Tianrui Li"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104562",
+      "doi": "10.1016/j.artint.2026.104562",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104562",
+          "url": "https://doi.org/10.1016/j.artint.2026.104562"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「ATWGNNS：用於前提選擇的圖簡化表示與邏輯公式學習」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "ATWGNNS: Graph simplified representation and learning of logical formula for premise selection",
+      "title_original": "ATWGNNS: Graph simplified representation and learning of logical formula for premise selection",
+      "title_zh_tw": "ATWGNNS：用於前提選擇的圖簡化表示與邏輯公式學習",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104562"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Han Zhang",
+        "Oren Salzman",
+        "T. K. Satish Kumar",
+        "Ariel Felner",
+        "Carlos Hernández Ulloa",
+        "Sven Koenig"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104542",
+      "doi": "10.1016/j.artint.2026.104542",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104542",
+          "url": "https://doi.org/10.1016/j.artint.2026.104542"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「近似多目標搜尋」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Approximate multi-objective search",
+      "title_original": "Approximate multi-objective search",
+      "title_zh_tw": "近似多目標搜尋",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104542"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alessandro Artale",
+        "Luca Geatti",
+        "Nicola Gigante",
+        "Alessio Mansutti",
+        "Andrea Mazzullo",
+        "Angelo Montanari"
+      ],
+      "canonical_id": "doi:10.1016/j.artint.2026.104553",
+      "doi": "10.1016/j.artint.2026.104553",
+      "issns": [
+        "0004-3702"
+      ],
+      "journal": "Artificial Intelligence",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.artint.2026.104553",
+          "url": "https://doi.org/10.1016/j.artint.2026.104553"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「LTL[X,F] 與 LTL[X,G] 的最佳過去化演算法」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "An optimal pastification algorithm for LTL[X,F] and LTL[X,G]",
+      "title_original": "An optimal pastification algorithm for LTL[X,F] and LTL[X,G]",
+      "title_zh_tw": "LTL[X,F] 與 LTL[X,G] 的最佳過去化演算法",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.artint.2026.104553"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 15,
+    "by_article_type": {
+      "journal-article": 15
+    },
+    "by_source": {
+      "crossref": 15
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 15,
+    "translated_articles": 15
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "artificial-intelligence__2026-08__r04",
+  "edition_key": "artificial-intelligence__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 0,
+    "base_article_count": 15,
+    "base_edition_sha256": "6a259403697f1e6788ec0eacb91315f2a474bf8b776a8cbcdc821d4cee8090df",
+    "base_manifest_publication_id": "artificial-intelligence__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "artificial-intelligence__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 15
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "artificial-intelligence",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 15,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 0,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "artificial-intelligence__2026-08__r04",
+  "publication_notes": {
+    "editorial_projection": {
+      "excluded_count": 1,
+      "excluded_records": [
+        {
+          "canonical_id": "doi:10.1016/s0004-3702(26)00106-2",
+          "reason": "NON_ARTICLE_FRONT_MATTER",
+          "title": "Editorial Board"
+        }
+      ],
+      "published_article_count": 15,
+      "source_match_count": 16
+    }
+  },
+  "retrieved_at": "2026-08-29T06:17:51Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04",
+    "edition_key": "artificial-intelligence__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "0004-3702",
+    "journal": "Artificial Intelligence",
+    "journal_slug": "artificial-intelligence",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "publication_id": "artificial-intelligence__2026-08__r04",
+    "revision": 4,
+    "slug": "artificial-intelligence",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Artificial Intelligence; publication=2026-08-24..2026-08-29",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "artificial-intelligence__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": "13490db69c8dd660a028d7d7d1c837e1acc53e37ca6d6c2fc8387953c77cc192",
+    "response_generated_at": "2026-08-14T00:40:54Z",
+    "response_sha256": "f8fcf28fa79ff169389e589bab4c0b186dff20e11e2fce46e54c6cff2c23337a",
+    "source_edition_sha256": "cf30d611a0106b4ff46bd85ee08aa3e80c7f8573d0b6df48f000e4766f6c9fa7",
+    "status": "COMPLETE",
+    "total_articles": 15,
+    "translated_articles": 15
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_artificial_intelligence"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

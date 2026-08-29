@@ -1,0 +1,43 @@
+{
+  "article_count": 15,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:17:51Z",
+  "edition_id": "artificial-intelligence__2026-08__r04",
+  "edition_key": "artificial-intelligence__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 27922,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.json",
+      "sha256": "ec218f96cea9e3ffec85e089f8d5b009b0b3bcaae93e1ed0c1a8c114436be167"
+    },
+    "report_html": {
+      "bytes": 51725,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.html",
+      "sha256": "6883478bf245c7545b76d8df48ca619a5b3a4fbc9b9d76ee8ed0d74208ae1b82"
+    }
+  },
+  "journal": "Artificial Intelligence",
+  "journal_slug": "artificial-intelligence",
+  "manifest_name": "EvidenceRadar_Editions__artificial-intelligence__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "artificial-intelligence__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 15,
+  "translation_provenance": {
+    "request_binding_sha256": "13490db69c8dd660a028d7d7d1c837e1acc53e37ca6d6c2fc8387953c77cc192",
+    "response_sha256": "f8fcf28fa79ff169389e589bab4c0b186dff20e11e2fce46e54c6cff2c23337a",
+    "source_edition_sha256": "cf30d611a0106b4ff46bd85ee08aa3e80c7f8573d0b6df48f000e4766f6c9fa7"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
