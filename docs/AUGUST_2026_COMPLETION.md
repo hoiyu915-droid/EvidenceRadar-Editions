@@ -1,8 +1,14 @@
 # 2026 年 8 月 Editions 完成紀錄
 
-**狀態：August MTD coverage complete（資料窗口至 2026-08-23 UTC）**
+**狀態：August MTD canonical publications 已更新至 2026-08-29 UTC；authoritative terminal-coverage ledger 維持 2026-08-23 UTC**
 
 這份紀錄封存 2026 年 8 月的 authoritative registry coverage、例外處理、跨刊篩選結果與 production 驗證。它不是 8 月 `FINAL`：完整月份只能在 2026-08-31 結束後以新 revision 重建，不能覆寫既有 MTD publication。
+
+### 2026-08-29 incremental publication refresh
+
+全部 78 本已有 August canonical base 的期刊均只查詢缺少的 `2026-08-24..2026-08-29` suffix，再與已驗證的 immutable base 合成新 full-snapshot revision；沒有重新抓取 8/1..23，也沒有覆寫 r01／r03／r04。結果為 9 本 r02、68 本 r04、1 本 r05，全部最新 monthly scope 均結束於 8/29；61 本 core publications 共 7,891 筆 records，17 本 Cambridge provider publications 共 71 筆。
+
+四本沒有 August canonical base 的 registry journals 沒有被這次 suffix backfill 假裝成已重新 probe，因此 [`catalog/coverage/2026-08.json`](../catalog/coverage/2026-08.json) 仍誠實固定在 8/23。全站 80 個 logical periods 的 latest canonical records 為 7,979 筆；其中 78 個 August monthly periods 為 7,962 筆，另兩個既有 non-month periods 合計 17 筆。
 
 ## 1. 權威集合與完成判準
 
@@ -47,12 +53,12 @@ Chemical Science 原本的 date-evidence gap 已關閉並發布 76 筆 scholarly
 
 ## 3. August corpus 與 provider extension
 
-目前 repository snapshot：
+8/29 publication refresh 後的 repository snapshot：
 
-- Authoritative registry：65 個 slugs；61 個 August MTD editions，共 **6,339 筆 records**。
-- Selected provider additions 仍是額外 publication，不改變 65 本 registry 的完成分母。
-- 全站包含 **78 個 journal slugs、80 periods、219 revisions、6,415 筆 latest canonical records**。
-- Pages 的 volume-aware projection 保留 3,796 筆 latest search records；canonical JSON 不因瀏覽容量限制而被刪減。
+- Authoritative registry：65 個 slugs；其中 61 個既有 August MTD publications 已延伸至 8/29，共 **7,891 筆 records**；terminal-coverage ledger 仍固定至 8/23。
+- Selected Cambridge provider additions：17 個 August MTD publications 已延伸至 8/29，共 **71 筆 records**，不改變 65 本 registry 的完成分母。
+- 全站包含 **78 個 journal slugs、80 periods、297 revisions、7,979 筆 latest canonical records**。
+- 下節的 3,796 筆 Pages projection 與 evidence funnel 是 8/23 baseline，未被這次 metadata suffix refresh 倒灌改寫。
 
 Cambridge provider catalog 當時列出 200 本 fully-OA journals，但 catalog presence 不等於已生成 edition。只有經 live request 選中的 journal 才進 canonical store。
 
@@ -101,6 +107,8 @@ Validation / synthesis cluster 包括 CKD chest-radiograph deep learning、glauc
 
 本次更新在 merge 前完成 140 項測試、canonical bundle 驗證、Pages build 與 complete-edition dry run。merge 後以 exact merge SHA 核對 CI、Pages workflow、live `links.json`、coverage ledger、journal HTML 與 immutable revision URL；run IDs 與 deployed checksum 以 GitHub Actions / Pages live readback 為準。
 
+2026-08-29 refresh 以九份 backfill receipts 覆蓋 78 本既有 August publications。每批均完成 live suffix acquisition、canonical validation、guarded PR publication 與 exact-SHA Pages／evidence lane；最後 canonical main SHA 為 `4c9d2bd83ff9c1973711292dd8ba5362216dcf0d`，terminal Pages run 為 [`33239973141`](https://github.com/hoiyu915-droid/EvidenceRadar-Editions/actions/runs/33239973141)。Scientific Reports 首次以 1,000-record cap 執行時因 Crossref 回報 1,619 筆而正確 fail closed；cap 僅對該刊提高至 bounded 2,000 後才重新發布，沒有 partial publication。
+
 前一個 2026-08-14 production baseline 保留如下，供 history compatibility 核對：
 
 - Live scoped edition run [`31934105615`](https://github.com/hoiyu915-droid/EvidenceRadar-Editions/actions/runs/31934105615) 成功完成 build、validate、canonical publish、merge、Pages dispatch 與 exact-SHA wait；Memory, Mind & Media r01 發布 2 筆 records。
@@ -111,4 +119,4 @@ Validation / synthesis cluster 包括 CKD chest-radiograph deep learning、glauc
 
 ## 7. 後續月份語義
 
-這個 closeout 固定的是 **2026-08 MTD through 2026-08-23** 的 registry completion。8/23 之後只對新增、failed、partial、missing 或經證據確認需要 repair 的 journal 做 targeted rerun。2026-08-31 結束後若要發布完整月份，必須以新 revision 建立 `FINAL`，並重新產生 coverage ledger、跨刊 synthesis 與 production verification。
+這個 closeout 的 authoritative registry terminal-coverage ledger 固定在 **2026-08 MTD through 2026-08-23**；2026-08-29 另完成一次針對全部 78 個既有 canonical bases 的明示 suffix refresh。兩者不能混寫：前者包含四個 no-edition outcomes，後者只延伸已存在的 publications。2026-08-31 結束後若要發布完整月份，必須以新 revision 建立 `FINAL`，重新 probe 全部 registry outcomes，並重建 coverage ledger、跨刊 synthesis 與 production verification。
