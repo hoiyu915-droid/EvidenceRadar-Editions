@@ -1,0 +1,43 @@
+{
+  "article_count": 2,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:50:20Z",
+  "edition_id": "journal-of-sport-and-health-science__2026-08__r02",
+  "edition_key": "journal-of-sport-and-health-science__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 9378,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.json",
+      "sha256": "288a07fc01e5ea1d1484a6e3ba570b10c52b29574703330e06308e6f3a7f9aa2"
+    },
+    "report_html": {
+      "bytes": 21213,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.html",
+      "sha256": "835dc99d40be5162e34c7bfc48589a86eff2e5900e9b53c14ee5e141fb57fb17"
+    }
+  },
+  "journal": "Journal of Sport and Health Science",
+  "journal_slug": "journal-of-sport-and-health-science",
+  "manifest_name": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "journal-of-sport-and-health-science__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

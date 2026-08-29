@@ -1,0 +1,849 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Márk Kozák",
+        "Viktor Bencs",
+        "Máté Héja",
+        "Laszlo Mechtler"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02440-8",
+      "doi": "10.1186/s12978-026-02440-8",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-26",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02440-8",
+          "url": "https://link.springer.com/10.1186/s12978-026-02440-8"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Contraceptive decision-making in women with migraine: integrating guidelines, vascular risk, and clinical practice",
+      "title_original": "Contraceptive decision-making in women with migraine: integrating guidelines, vascular risk, and clinical practice",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02440-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hao Liu",
+        "Yan Chen",
+        "Han Qu",
+        "Zhaochen Sun",
+        "Juan Jiang",
+        "Yiheng Yin",
+        "Yuping Liu",
+        "Zhengwei Wan"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02438-2",
+      "doi": "10.1186/s12978-026-02438-2",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-25",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02438-2",
+          "url": "https://link.springer.com/10.1186/s12978-026-02438-2"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Pregnancy loss, healthy lifestyle behaviours, and long-term risk of hospital-treated infections: a prospective cohort study",
+      "title_original": "Pregnancy loss, healthy lifestyle behaviours, and long-term risk of hospital-treated infections: a prospective cohort study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02438-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ibsa Mussa",
+        "Usmael Jibro",
+        "Alemayehu Deressa",
+        "Abdi Birhanu",
+        "Lemma Demissie Regassa",
+        "Aboma Motuma",
+        "Mulugeta Gamachu",
+        "Fethia Mohammed",
+        "Dureti Abdurahman",
+        "Moti Tolera",
+        "Bikila Balis",
+        "Adera Debella",
+        "Addis Eyeberu",
+        "Sina Temesgen Tolera"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02437-3",
+      "doi": "10.1186/s12978-026-02437-3",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-25",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02437-3",
+          "url": "https://link.springer.com/10.1186/s12978-026-02437-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Early marriage and associated factors among married women in Ethiopia: systematic review and meta-analysis",
+      "title_original": "Early marriage and associated factors among married women in Ethiopia: systematic review and meta-analysis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02437-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rebecca J. Baer",
+        "Scott P. Oltman",
+        "Deborah Adeyemi",
+        "Ribka Amsalu",
+        "Kacie C. A. Blackman",
+        "Bridgette Blebu",
+        "Kimberly Coleman-Phox",
+        "Jennifer N. Felder",
+        "Dawn Gano",
+        "Audrey Lyndon",
+        "Safyer McKenzie-Sampson",
+        "Carolyn Ponting",
+        "Elizabeth E. Rogers",
+        "Kelli K. Ryckman",
+        "Martina A. Steurer",
+        "Akila Subramaniam",
+        "Kelly D. Taylor",
+        "Karen M. Tabb",
+        "Laura Jelliffe-Pawlowski"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02442-6",
+      "doi": "10.1186/s12978-026-02442-6",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-25",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02442-6",
+          "url": "https://link.springer.com/10.1186/s12978-026-02442-6"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Adverse pregnancy outcomes by maternal anxiety disorder during pregnancy occurring with and without other mental health conditions: a retrospective cohort study",
+      "title_original": "Adverse pregnancy outcomes by maternal anxiety disorder during pregnancy occurring with and without other mental health conditions: a retrospective cohort study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02442-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mahsa Maghalian",
+        "Fatemeh Abbasalizadeh",
+        "Sakineh Mohammad-Alizadeh-Charandabi",
+        "Solmaz Ghanbari-Homaie",
+        "Mojgan Mirghafourvand"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02441-7",
+      "doi": "10.1186/s12978-026-02441-7",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-24",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02441-7",
+          "url": "https://link.springer.com/10.1186/s12978-026-02441-7"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The effect of the centering pregnancy model on diabetes self- management, self-efficacy, pregnancy experience, and perinatal outcomes in women with diabetes: a randomized controlled trial",
+      "title_original": "The effect of the centering pregnancy model on diabetes self- management, self-efficacy, pregnancy experience, and perinatal outcomes in women with diabetes: a randomized controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02441-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Abdilaahi Yusuf Nuh",
+        "Fatima Nouh Ismial",
+        "Mohamed Ali Aden",
+        "Mohamed Ahmed Hassan"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02439-1",
+      "doi": "10.1186/s12978-026-02439-1",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-24",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02439-1",
+          "url": "https://link.springer.com/10.1186/s12978-026-02439-1"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Maternal and obstetric determinants of cesarean section delivery among mothers in public hospitals of Burao, Somaliland: an unmatched case–control study",
+      "title_original": "Maternal and obstetric determinants of cesarean section delivery among mothers in public hospitals of Burao, Somaliland: an unmatched case–control study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02439-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Cyprian Misinde",
+        "Silvester Ochieno Okechi",
+        "Annah Kukundakwe",
+        "Sam Moses Okello",
+        "Queen Amina Biobaku"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02430-w",
+      "doi": "10.1186/s12978-026-02430-w",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-22",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02430-w",
+          "url": "https://link.springer.com/10.1186/s12978-026-02430-w"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "“I sneak from home”: how health system constraints undermine covert contraceptive use among women facing partner opposition in public health facilities in Uganda",
+      "title_original": "“I sneak from home”: how health system constraints undermine covert contraceptive use among women facing partner opposition in public health facilities in Uganda",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02430-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rozina Karmaliani",
+        "Arusa Lakhani",
+        "Laila Ladak",
+        "Marina Baig",
+        "Yasmin Parpio",
+        "Salima Somani",
+        "Gabriela Garcia Camacho",
+        "Armando Seuc",
+        "Moazzam Ali"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02356-3",
+      "doi": "10.1186/s12978-026-02356-3",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": "PMC13487947",
+      "pmid": "42618923",
+      "publication_date": "2026-08-19",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02356-3",
+          "url": "https://link.springer.com/10.1186/s12978-026-02356-3"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42618923",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42618923/"
+        },
+        {
+          "source": "europe_pmc",
+          "source_id": "42618923",
+          "url": "https://europepmc.org/article/MED/42618923"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Healthcare systems’ readiness to address gender-based violence during COVID-19 and beyond in Pakistan: a mixed methods study",
+      "title_original": "Healthcare systems’ readiness to address gender-based violence during COVID-19 and beyond in Pakistan: a mixed methods study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1186/s12978-026-02356-3",
+        "https://europepmc.org/article/MED/42618923",
+        "https://link.springer.com/10.1186/s12978-026-02356-3",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13487947/",
+        "https://pubmed.ncbi.nlm.nih.gov/42618923/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ziyi Yang",
+        "Huahua Liu",
+        "Qiuhua Cai",
+        "Xiaoling Zhu",
+        "Zhifang Chen",
+        "Feng Zhang"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02434-6",
+      "doi": "10.1186/s12978-026-02434-6",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02434-6",
+          "url": "https://link.springer.com/10.1186/s12978-026-02434-6"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Associations of maternal mood on the outcome of childbirth: a latent profile analysis",
+      "title_original": "Associations of maternal mood on the outcome of childbirth: a latent profile analysis",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02434-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kader Bare",
+        "Adiam Nega",
+        "Zeytu Gashaw Asfaw"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02435-5",
+      "doi": "10.1186/s12978-026-02435-5",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02435-5",
+          "url": "https://link.springer.com/10.1186/s12978-026-02435-5"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Prevalence of respectful maternity care and associated factors among Somali refugee women following facility-based childbirth in Melkadida refugee camps, Ethiopia: a mixed-methods study",
+      "title_original": "Prevalence of respectful maternity care and associated factors among Somali refugee women following facility-based childbirth in Melkadida refugee camps, Ethiopia: a mixed-methods study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02435-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Craig J. Heck",
+        "Kyle Wu",
+        "Hadijja Nakawooya",
+        "Tom Lutalo",
+        "Seda Shirinian",
+        "Fred Nalugoda",
+        "John Santelli",
+        "Jennifer Wagman"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02425-7",
+      "doi": "10.1186/s12978-026-02425-7",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02425-7",
+          "url": "https://link.springer.com/10.1186/s12978-026-02425-7"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Intimate partner violence and covert contraception use among Ugandan women: a cross-sectional inquiry",
+      "title_original": "Intimate partner violence and covert contraception use among Ugandan women: a cross-sectional inquiry",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02425-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chama Mulubwa",
+        "Joseph Mumba Zulu",
+        "Frida Jonsson",
+        "Anna-Karin Hurtig",
+        "Isabel Goicolea"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02431-9",
+      "doi": "10.1186/s12978-026-02431-9",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02431-9",
+          "url": "https://link.springer.com/10.1186/s12978-026-02431-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "‘What should we do?’ navigating the complexities of implementing comprehensive sexuality education in Zambia – a realist-informed study",
+      "title_original": "‘What should we do?’ navigating the complexities of implementing comprehensive sexuality education in Zambia – a realist-informed study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02431-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vincent Kayemba",
+        "Allen Kabagenyi",
+        "Solome Najjuma",
+        "Ronald Anguzu"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02436-4",
+      "doi": "10.1186/s12978-026-02436-4",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02436-4",
+          "url": "https://link.springer.com/10.1186/s12978-026-02436-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Inequalities in modern contraceptive use among men: a HEAT Plus analysis of population-based cross-sectional surveys in East Africa",
+      "title_original": "Inequalities in modern contraceptive use among men: a HEAT Plus analysis of population-based cross-sectional surveys in East Africa",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02436-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sarah Derradj",
+        "Albane Vandecandelaere",
+        "Pierre Loiseau",
+        "Dorian Bosquet",
+        "Rosalie Cabry",
+        "Amandine Dernoncourt"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02433-7",
+      "doi": "10.1186/s12978-026-02433-7",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02433-7",
+          "url": "https://link.springer.com/10.1186/s12978-026-02433-7"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Chance of live birth in women with recurrent pregnancy loss referred to a French assisted reproductive technology center",
+      "title_original": "Chance of live birth in women with recurrent pregnancy loss referred to a French assisted reproductive technology center",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02433-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Edward A. Agana",
+        "Bernard K. Okai",
+        "Charles M. Senaya",
+        "Adu Appiah-Kubi",
+        "Anthony K. Dah",
+        "Wisdom M. Boateng",
+        "Wisdom K. Azanu",
+        "Rex M. K. Djokoto",
+        "Francis J. M. K. Damalie",
+        "Michael Y. Amoh"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02423-9",
+      "doi": "10.1186/s12978-026-02423-9",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02423-9",
+          "url": "https://link.springer.com/10.1186/s12978-026-02423-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Aspirin use for pre-eclampsia prevention in IVF/ICSI pregnancies in Kumasi, Ghana: a prospective cohort study",
+      "title_original": "Aspirin use for pre-eclampsia prevention in IVF/ICSI pregnancies in Kumasi, Ghana: a prospective cohort study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02423-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Maeve F. Salm",
+        "Happyness Ngowi",
+        "Leonia Rugalabamu",
+        "Emanueli Msuya",
+        "Blandina T. Mmbaga",
+        "Joy Noel Baumgartner",
+        "Dorothy E. Dow"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02421-x",
+      "doi": "10.1186/s12978-026-02421-x",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02421-x",
+          "url": "https://link.springer.com/10.1186/s12978-026-02421-x"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "“She cannot use these methods before she has at least one child”: a qualitative study on family planning attitudes, knowledge, and experiences among adolescent girls and young women living with HIV in Moshi, Tanzania",
+      "title_original": "“She cannot use these methods before she has at least one child”: a qualitative study on family planning attitudes, knowledge, and experiences among adolescent girls and young women living with HIV in Moshi, Tanzania",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02421-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Paparnin Sangvornrungsie",
+        "Nalinee Panichyawat",
+        "Thanyarat Wongwananuruk",
+        "Nichamon Parkpinyo",
+        "Julaporn Pooliam",
+        "Marisa Vongsiri",
+        "Jaratporn Inthawong"
+      ],
+      "canonical_id": "doi:10.1186/s12978-026-02428-4",
+      "doi": "10.1186/s12978-026-02428-4",
+      "issns": [
+        "1742-4755"
+      ],
+      "journal": "Reproductive Health",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1186/s12978-026-02428-4",
+          "url": "https://link.springer.com/10.1186/s12978-026-02428-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Long-acting reversible contraceptive use in postpartum and postabortion adolescents: initiation, predictors, and continuation outcomes",
+      "title_original": "Long-acting reversible contraceptive use in postpartum and postabortion adolescents: initiation, predictors, and continuation outcomes",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://link.springer.com/10.1186/s12978-026-02428-4"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__reproductive-health__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__reproductive-health__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__reproductive-health__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__reproductive-health__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__reproductive-health__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__reproductive-health__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 17,
+    "by_article_type": {
+      "journal-article": 17
+    },
+    "by_source": {
+      "crossref": 17,
+      "europe_pmc": 1,
+      "pubmed": 1
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 17,
+    "translated_articles": 0
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "reproductive-health__2026-08__r02",
+  "edition_key": "reproductive-health__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 6,
+    "base_article_count": 11,
+    "base_edition_sha256": "31ca0317c2ed41a7fa93969fc1f87c39a60cb766cb6b7db2716617407e4fdcfb",
+    "base_manifest_publication_id": "reproductive-health__2026-08__r01",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "reproductive-health__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 6,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 17
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "reproductive-health",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 17,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 6,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "reproductive-health__2026-08__r02",
+  "retrieved_at": "2026-08-29T06:50:24Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__reproductive-health__2026-08__r02",
+    "edition_key": "reproductive-health__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "1742-4755",
+    "journal": "Reproductive Health",
+    "journal_slug": "reproductive-health",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "processing_mode_configured": "FULL",
+    "processing_mode_effective": "FULL",
+    "processing_policy_source": "processing-policies.json:defaults",
+    "publication_id": "reproductive-health__2026-08__r02",
+    "revision": 2,
+    "slug": "reproductive-health",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 6,
+      "detail": null,
+      "query": "container=Reproductive Health; publication=2026-08-24..2026-08-29",
+      "returned_count": 6,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 6,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "(\"Reproductive Health\"[Journal] OR \"1742-4755\"[ISSN]) AND (\"2026/08/24\"[Date - Publication] : \"2026/08/29\"[Date - Publication])",
+      "returned_count": 0,
+      "source": "pubmed",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Reproductive Health\" AND FIRST_PDATE:[2026-08-24 TO 2026-08-29]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "automatic_request_allowed": true,
+    "generation_policy": "ALL",
+    "inherited_from_publication_id": "reproductive-health__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 17,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Charles Faselis",
+        "Peter Kokkinos",
+        "Immanuel Babu Henry Samuel",
+        "Raylyn Murphy",
+        "Andreas Pittaras",
+        "Alexandros Ladas",
+        "Lydia Korompeli",
+        "Sophie Collier",
+        "Jonathan Myers"
+      ],
+      "canonical_id": "doi:10.1016/j.jshs.2026.101167",
+      "doi": "10.1016/j.jshs.2026.101167",
+      "issns": [
+        "2095-2546",
+        "2213-2961"
+      ],
+      "journal": "Journal of Sport and Health Science",
+      "pmcid": null,
+      "pmid": "42600934",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jshs.2026.101167",
+          "url": "https://www.sciencedirect.com/science/article/pii/S209525462600058X"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42600934",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42600934/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Cardiorespiratory fitness and male breast cancer association: The ETHOS cohort",
+      "title_original": "Cardiorespiratory fitness and male breast cancer association: The ETHOS cohort",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jshs.2026.101167",
+        "https://pubmed.ncbi.nlm.nih.gov/42600934/",
+        "https://www.sciencedirect.com/science/article/pii/S209525462600058X"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Yonghui Chen",
+        "Borui Zhang",
+        "Jiaqi Zhang",
+        "Stephen Heung-Sang Wong",
+        "Eric Tsz-Chun Poon"
+      ],
+      "canonical_id": "doi:10.1016/j.jshs.2026.101168",
+      "doi": "10.1016/j.jshs.2026.101168",
+      "issns": [
+        "2213-2961"
+      ],
+      "journal": "Journal of sport and health science",
+      "pmcid": null,
+      "pmid": "42637035",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42637035",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42637035/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Exercise in hot or thermoneutral conditions? Comparative effectiveness on aerobic performance and physiological adaptations in the heat: A meta-analysis.",
+      "title_original": "Exercise in hot or thermoneutral conditions? Comparative effectiveness on aerobic performance and physiological adaptations in the heat: A meta-analysis.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jshs.2026.101168",
+        "https://pubmed.ncbi.nlm.nih.gov/42637035/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 2,
+    "by_article_type": {
+      "Journal Article": 1,
+      "journal-article": 1
+    },
+    "by_source": {
+      "crossref": 1,
+      "pubmed": 2
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 2,
+    "translated_articles": 0
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "journal-of-sport-and-health-science__2026-08__r02",
+  "edition_key": "journal-of-sport-and-health-science__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 1,
+    "base_article_count": 1,
+    "base_edition_sha256": "7ec6808f847f28dd3f5d53cb1515455e9e0fc6f0335bb2760432d019c5f613bc",
+    "base_manifest_publication_id": "journal-of-sport-and-health-science__2026-08__r01",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "journal-of-sport-and-health-science__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 1,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 2
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "journal-of-sport-and-health-science",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 2,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 1,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "journal-of-sport-and-health-science__2026-08__r02",
+  "retrieved_at": "2026-08-29T06:50:20Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__journal-of-sport-and-health-science__2026-08__r02",
+    "edition_key": "journal-of-sport-and-health-science__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "2095-2546",
+    "journal": "Journal of Sport and Health Science",
+    "journal_slug": "journal-of-sport-and-health-science",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "processing_mode_configured": "FULL",
+    "processing_mode_effective": "FULL",
+    "processing_policy_source": "processing-policies.json:defaults",
+    "publication_id": "journal-of-sport-and-health-science__2026-08__r02",
+    "revision": 2,
+    "slug": "journal-of-sport-and-health-science",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Journal of Sport and Health Science; publication=2026-08-24..2026-08-29",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 1,
+      "detail": null,
+      "query": "(\"Journal of Sport and Health Science\"[Journal] OR \"2095-2546\"[ISSN]) AND (\"2026/08/24\"[Date - Publication] : \"2026/08/29\"[Date - Publication])",
+      "returned_count": 1,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 1,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Journal of Sport and Health Science\" AND FIRST_PDATE:[2026-08-24 TO 2026-08-29]",
+      "returned_count": 1,
+      "source": "europe_pmc",
+      "status": "SUCCESS",
+      "total_available": 1,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "automatic_request_allowed": true,
+    "generation_policy": "ALL",
+    "inherited_from_publication_id": "journal-of-sport-and-health-science__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 2,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_jshs"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

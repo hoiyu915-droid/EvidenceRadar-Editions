@@ -1,0 +1,240 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michala Bednáriková",
+        "Yago Ramis"
+      ],
+      "canonical_id": "doi:10.1016/j.psychsport.2026.103241",
+      "doi": "10.1016/j.psychsport.2026.103241",
+      "issns": [
+        "1469-0292"
+      ],
+      "journal": "Psychology of Sport and Exercise",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.psychsport.2026.103241",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1469029226001822"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "FEPSAC Newsletter",
+      "title_original": "FEPSAC Newsletter",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.sciencedirect.com/science/article/pii/S1469029226001822"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Jedziniak Wojciech",
+        "Panek Krystian",
+        "Zwierko Teresa",
+        "Hülsdünker Thorben"
+      ],
+      "canonical_id": "doi:10.1016/j.psychsport.2026.103254",
+      "doi": "10.1016/j.psychsport.2026.103254",
+      "issns": [
+        "1878-5476"
+      ],
+      "journal": "Psychology of sport and exercise",
+      "pmcid": null,
+      "pmid": "42665031",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42665031",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42665031/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Motor-cognitive training improves performance in a handball-specific defense test.",
+      "title_original": "Motor-cognitive training improves performance in a handball-specific defense test.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.psychsport.2026.103254",
+        "https://pubmed.ncbi.nlm.nih.gov/42665031/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.json",
+    "manifest_json": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.manifest.json",
+    "report_html": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.html",
+    "stem": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02",
+    "translation_request_json": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 2,
+    "by_article_type": {
+      "Journal Article": 1,
+      "journal-article": 1
+    },
+    "by_source": {
+      "crossref": 1,
+      "pubmed": 1
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 2,
+    "translated_articles": 0
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "psychology-of-sport-and-exercise__2026-08__r02",
+  "edition_key": "psychology-of-sport-and-exercise__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 1,
+    "base_article_count": 1,
+    "base_edition_sha256": "b8dd1675245134c960e053bd19a511a93871ce8f02b616e0e490b1409619500a",
+    "base_manifest_publication_id": "psychology-of-sport-and-exercise__2026-08__r01",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "psychology-of-sport-and-exercise__2026-08__r01",
+    "base_revision": 1,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 1,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 2
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "psychology-of-sport-and-exercise",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 2,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 1,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "psychology-of-sport-and-exercise__2026-08__r02",
+  "retrieved_at": "2026-08-29T06:50:22Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02",
+    "edition_key": "psychology-of-sport-and-exercise__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "1469-0292",
+    "journal": "Psychology of Sport and Exercise",
+    "journal_slug": "psychology-of-sport-and-exercise",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "processing_mode_configured": "FULL",
+    "processing_mode_effective": "FULL",
+    "processing_policy_source": "processing-policies.json:defaults",
+    "publication_id": "psychology-of-sport-and-exercise__2026-08__r02",
+    "revision": 2,
+    "slug": "psychology-of-sport-and-exercise",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=Psychology of Sport and Exercise; publication=2026-08-24..2026-08-29",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 1,
+      "detail": null,
+      "query": "(\"Psychology of Sport and Exercise\"[Journal] OR \"1469-0292\"[ISSN]) AND (\"2026/08/24\"[Date - Publication] : \"2026/08/29\"[Date - Publication])",
+      "returned_count": 1,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 1,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"Psychology of Sport and Exercise\" AND FIRST_PDATE:[2026-08-24 TO 2026-08-29]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "automatic_request_allowed": true,
+    "generation_policy": "ALL",
+    "inherited_from_publication_id": "psychology-of-sport-and-exercise__2026-08__r01",
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 2,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_psychology_sport_exercise"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

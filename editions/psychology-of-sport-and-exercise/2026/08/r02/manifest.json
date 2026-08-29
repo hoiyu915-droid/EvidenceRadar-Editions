@@ -1,0 +1,43 @@
+{
+  "article_count": 2,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:50:22Z",
+  "edition_id": "psychology-of-sport-and-exercise__2026-08__r02",
+  "edition_key": "psychology-of-sport-and-exercise__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 8604,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.json",
+      "sha256": "4e2c2e747475cc6fb5edf7856f47089877c9cd4dae04adb0e44a34eda9525f8d"
+    },
+    "report_html": {
+      "bytes": 20142,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.html",
+      "sha256": "0bfd5871e533ff1a9914f16823c9fc500ad046a7da2aac9b6f41394b2862c1bf"
+    }
+  },
+  "journal": "Psychology of Sport and Exercise",
+  "journal_slug": "psychology-of-sport-and-exercise",
+  "manifest_name": "EvidenceRadar_Editions__psychology-of-sport-and-exercise__2026-08__r02.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "psychology-of-sport-and-exercise__2026-08__r02",
+  "publication_language": "zh-TW",
+  "revision": 2,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUESTED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
