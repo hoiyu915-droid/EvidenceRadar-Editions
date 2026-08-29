@@ -1,35 +1,20 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-fifth-fifteen-through-29",
+  "request_id": "2026-08-final-core-two-through-29",
   "acquisition_start": "2026-08-24",
   "acquisition_end": "2026-08-29",
   "revision": 4,
-  "selection_count": 15,
+  "selection_count": 2,
   "selection_base_revision": 3,
   "selection_base_period_end": "2026-08-23",
-  "journals": [
-    "plos-biology",
-    "plos-medicine",
-    "pnas-nexus",
-    "science-advances",
-    "scientific-data",
-    "scientific-reports",
-    "sports-medicine-and-health-science",
-    "journal-of-nutritional-biochemistry",
-    "the-lancet",
-    "the-lancet-digital-health",
-    "the-lancet-global-health",
-    "the-lancet-healthy-longevity",
-    "the-lancet-regional-health-americas",
-    "the-lancet-regional-health-europe",
-    "the-lancet-regional-health-western-pacific"
+  "allow_planned_journals": [
+    "chemical-science",
+    "tmlr"
   ],
-  "selection_semantics": "Fifth proven core-journal partition for the August suffix update. Scientific Reports reports 1,619 Crossref records for the bounded 2026-08-24..29 window, so its journal-scoped cap is raised to 2,000 to preserve complete source coverage; all journals have immutable r03 bases ending 2026-08-23 and therefore target r04.",
-  "max_records_by_journal": {
-    "scientific-reports": 2000
-  },
-  "policy_override_journals": [
-    "scientific-reports"
-  ]
+  "journals": [
+    "chemical-science",
+    "tmlr"
+  ],
+  "selection_semantics": "Final two existing August core editions outside the Cambridge provider batch; both have immutable r03 bases ending 2026-08-23, are explicitly allowed despite planned registry status, and therefore target r04."
 }
