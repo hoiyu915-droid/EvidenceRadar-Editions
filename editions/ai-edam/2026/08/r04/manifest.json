@@ -1,0 +1,43 @@
+{
+  "article_count": 0,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:56:14Z",
+  "edition_id": "ai-edam__2026-08__r04",
+  "edition_key": "ai-edam__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 5197,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__ai-edam__2026-08__r04.json",
+      "sha256": "a7ff724f5fce4bb1b1e8a11fcb1929c8753fd18a93cfce4b04d84b97ffc216b2"
+    },
+    "report_html": {
+      "bytes": 15278,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__ai-edam__2026-08__r04.html",
+      "sha256": "34170bed606641acc73f0e271a4afc153b78fa4ce1a634f25bd9c7d1788686ed"
+    }
+  },
+  "journal": "AI EDAM",
+  "journal_slug": "ai-edam",
+  "manifest_name": "EvidenceRadar_Editions__ai-edam__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "ai-edam__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "NO_MATCHING_ARTICLES",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 0,
+  "translation_provenance": {
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null
+  },
+  "translation_status": "NOT_REQUIRED",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

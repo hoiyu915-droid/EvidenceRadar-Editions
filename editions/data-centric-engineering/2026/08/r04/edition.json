@@ -1,0 +1,176 @@
+{
+  "articles": [
+    {
+      "article_type": null,
+      "authors": [],
+      "canonical_id": "fingerprint:unsupervisedscenebasedclusteringforunderwaterstructuralhealthmonitoringenhancingimagecategorizationandfeaturematching|2026-08-04",
+      "doi": null,
+      "issns": [
+        "2632-6736"
+      ],
+      "journal": "Data-Centric Engineering",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "cambridge_core",
+          "source_id": "/core/journals/data-centric-engineering/article/unsupervised-scenebased-clustering-for-underwater-structural-health-monitoring-enhancing-image-categorization-and-feature-matching/4F0577F34925376A446C52D89FB88CAA",
+          "url": "https://www.cambridge.org/core/journals/data-centric-engineering/article/unsupervised-scenebased-clustering-for-underwater-structural-health-monitoring-enhancing-image-categorization-and-feature-matching/4F0577F34925376A446C52D89FB88CAA"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Unsupervised scene-based clustering for underwater structural health monitoring: Enhancing image categorization and feature matching",
+      "title_original": "Unsupervised scene-based clustering for underwater structural health monitoring: Enhancing image categorization and feature matching",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.cambridge.org/core/journals/data-centric-engineering/article/unsupervised-scenebased-clustering-for-underwater-structural-health-monitoring-enhancing-image-categorization-and-feature-matching/4F0577F34925376A446C52D89FB88CAA"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__data-centric-engineering__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__data-centric-engineering__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__data-centric-engineering__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__data-centric-engineering__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__data-centric-engineering__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__data-centric-engineering__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 1,
+    "by_article_type": {
+      "unspecified": 1
+    },
+    "by_source": {
+      "cambridge_core": 1
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 1,
+    "translated_articles": 0
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "data-centric-engineering__2026-08__r04",
+  "edition_key": "data-centric-engineering__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 0,
+    "base_article_count": 1,
+    "base_edition_sha256": "e254234fa11955673ba417db309287befc7d8014f5e7319c5f0e8dd350f42e02",
+    "base_manifest_publication_id": "data-centric-engineering__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "data-centric-engineering__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 0,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 1
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "data-centric-engineering",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 1,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": null,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "data-centric-engineering__2026-08__r04",
+  "retrieved_at": "2026-08-29T06:56:33Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__data-centric-engineering__2026-08__r04",
+    "edition_key": "data-centric-engineering__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "2632-6736",
+    "journal": "Data-Centric Engineering",
+    "journal_slug": "data-centric-engineering",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "processing_mode_configured": "FULL",
+    "processing_mode_effective": "FULL",
+    "processing_policy_source": "processing-policies.json:defaults",
+    "provider": "cambridge",
+    "provider_journal_url": "https://www.cambridge.org/core/journals/data-centric-engineering",
+    "publication_id": "data-centric-engineering__2026-08__r04",
+    "revision": 4,
+    "slug": "data-centric-engineering",
+    "sources": [
+      "cambridge_core"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": "fully-OA catalog journal=data-centric-engineering; source records scanned=20; accepted in requested window=0",
+      "query": "cambridge-journal=data-centric-engineering; published-online=2026-08-24..2026-08-29",
+      "returned_count": 20,
+      "source": "cambridge_core",
+      "status": "SUCCESS",
+      "total_available": null,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "automatic_request_allowed": true,
+    "generation_policy": "ALL",
+    "inherited_from_publication_id": "data-centric-engineering__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": null,
+    "response_sha256": null,
+    "source_edition_sha256": null,
+    "status": "NOT_REQUESTED",
+    "total_articles": 1,
+    "translated_articles": 0
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
