@@ -25,9 +25,9 @@
     "the-lancet-regional-health-europe",
     "the-lancet-regional-health-western-pacific"
   ],
-  "selection_semantics": "Fifth proven core-journal partition for the August suffix update. Scientific Reports keeps its audited journal-scoped 1,000-record bound to avoid partial Crossref coverage; all journals have immutable r03 bases ending 2026-08-23 and therefore target r04.",
+  "selection_semantics": "Fifth proven core-journal partition for the August suffix update. Scientific Reports reports 1,619 Crossref records for the bounded 2026-08-24..29 window, so its journal-scoped cap is raised to 2,000 to preserve complete source coverage; all journals have immutable r03 bases ending 2026-08-23 and therefore target r04.",
   "max_records_by_journal": {
-    "scientific-reports": 1000
+    "scientific-reports": 2000
   },
   "policy_override_journals": [
     "scientific-reports"
