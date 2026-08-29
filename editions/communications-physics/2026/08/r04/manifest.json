@@ -1,0 +1,43 @@
+{
+  "article_count": 37,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:23:35Z",
+  "edition_id": "communications-physics__2026-08__r04",
+  "edition_key": "communications-physics__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 54900,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__communications-physics__2026-08__r04.json",
+      "sha256": "70b726d7a7f92b94b3ebf0580bfd323dd78446f194de1de2c1a7c96817ff71e0"
+    },
+    "report_html": {
+      "bytes": 95032,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__communications-physics__2026-08__r04.html",
+      "sha256": "bf960a6593b570d2c3ff3ebdb49ef2dac6372bef65340e3eedfa8647f639545a"
+    }
+  },
+  "journal": "Communications Physics",
+  "journal_slug": "communications-physics",
+  "manifest_name": "EvidenceRadar_Editions__communications-physics__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "communications-physics__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 18,
+  "translation_provenance": {
+    "request_binding_sha256": "20893625653770961eb82975ec84d5cd7e34ea8cce0d90ebfc6020700e9989be",
+    "response_sha256": "c1270e59083ebbf61bb165ff72457a79da93a97ecb113c86969032f22b25d11c",
+    "source_edition_sha256": "5fcd4faa74deb640a6050c3ee7b2678693704f89be5c7a0927824c308ceec9d1"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

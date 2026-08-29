@@ -1,0 +1,43 @@
+{
+  "article_count": 21,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:23:34Z",
+  "edition_id": "communications-chemistry__2026-08__r04",
+  "edition_key": "communications-chemistry__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 35174,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.json",
+      "sha256": "10b70a652c0bab47f59d39b459c3c3c9ffdf92316aebd9bc28f5fe5b4929ec52"
+    },
+    "report_html": {
+      "bytes": 63670,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.html",
+      "sha256": "cf6f88d68a1091f53b11dce920e98603c87dfadc0ceb7844cc92d5a9292267b0"
+    }
+  },
+  "journal": "Communications Chemistry",
+  "journal_slug": "communications-chemistry",
+  "manifest_name": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "communications-chemistry__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 13,
+  "translation_provenance": {
+    "request_binding_sha256": "573dcace9051c26204baddac0aae8696f8ffe3095cb3d38c539c73e5ae47bf2a",
+    "response_sha256": "51fb66f530c277ce9f2de281679c4d2532d60832d0f39ad57a3789dbd0804696",
+    "source_edition_sha256": "1c5a8f4655da15d5256e4ec68e8fedf6aeb30e43afb6a97d6d383b465123d008"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

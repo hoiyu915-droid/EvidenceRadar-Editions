@@ -1,0 +1,43 @@
+{
+  "article_count": 53,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:23:43Z",
+  "edition_id": "eclinicalmedicine__2026-08__r04",
+  "edition_key": "eclinicalmedicine__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 126864,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r04.json",
+      "sha256": "62ccef76d4fc61cb7da2423dcad73627f7993137598cb1ede4c0dbc07f7bde5d"
+    },
+    "report_html": {
+      "bytes": 205708,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r04.html",
+      "sha256": "846165b0b94ec1f5338ef2ad4d0ab134905d43d9a6259b9d79f3945df82d9ef9"
+    }
+  },
+  "journal": "eClinicalMedicine",
+  "journal_slug": "eclinicalmedicine",
+  "manifest_name": "EvidenceRadar_Editions__eclinicalmedicine__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "eclinicalmedicine__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 53,
+  "translation_provenance": {
+    "request_binding_sha256": "de28567a8356599296ec3bc929906bb9369e095e9f483061b91c6b64b1340465",
+    "response_sha256": "7333d7e3a22f67d2d85fea2a306cf38fa65ff87f7f032bd815ec9b7b908b3765",
+    "source_edition_sha256": "02679358962fca5c17cdec86efc7952a59630122e2c319e6ec0043fca9946316"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

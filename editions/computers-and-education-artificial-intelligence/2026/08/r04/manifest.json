@@ -1,0 +1,43 @@
+{
+  "article_count": 4,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:23:38Z",
+  "edition_id": "computers-and-education-artificial-intelligence__2026-08__r04",
+  "edition_key": "computers-and-education-artificial-intelligence__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 12269,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__computers-and-education-artificial-intelligence__2026-08__r04.json",
+      "sha256": "7fae3c6e81ba522534b0e4833e394bc8fe912b7f7475e50ce6728bae371b186a"
+    },
+    "report_html": {
+      "bytes": 26328,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__computers-and-education-artificial-intelligence__2026-08__r04.html",
+      "sha256": "ff944b54fba046f1c7808f1890ad90559ea8b54c543d22134299094ec289bcbc"
+    }
+  },
+  "journal": "Computers & Education: Artificial Intelligence",
+  "journal_slug": "computers-and-education-artificial-intelligence",
+  "manifest_name": "EvidenceRadar_Editions__computers-and-education-artificial-intelligence__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "computers-and-education-artificial-intelligence__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 4,
+  "translation_provenance": {
+    "request_binding_sha256": "a234e81dedc8ac1382290b07628f1c72e5dfc189e97a306c894f950a302203e6",
+    "response_sha256": "74d3e2203c4442ced2872d5ef3f48cb62eb7e41c39ec416f53d9c6bb7af40740",
+    "source_edition_sha256": "ab5a9bf325de1a5ad648d25d2597375da4e5d3fdb704e51afa8990aa55df9380"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

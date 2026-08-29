@@ -1,0 +1,975 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ahmed Mostafa Abdelhady",
+        "Shinichi Sato",
+        "Tatsuki Masuzawa",
+        "Keishi Deguchi",
+        "Mizuki Oba",
+        "Takemaru Sato",
+        "Nodoka Mase",
+        "Toshifumi Yamanaka",
+        "Jamila Abbas Osman",
+        "Maho Kato",
+        "Keita Nakane",
+        "Zhengyi Liu",
+        "Kazuki Kuwahara",
+        "Satoru Nagatoishi",
+        "Kouhei Tsumoto",
+        "Fumi Nagatsugi",
+        "Takanori Oyoshi",
+        "Kazumitsu Onizuka"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02170-9",
+      "doi": "10.1038/s42004-026-02170-9",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-27",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02170-9",
+          "url": "https://www.nature.com/articles/s42004-026-02170-9"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Photocatalytic proximity labeling for the identification of G-quadruplex DNA-interacting proteins",
+      "title_original": "Photocatalytic proximity labeling for the identification of G-quadruplex DNA-interacting proteins",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42004-026-02170-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kadir Erol",
+        "Merve İlhan",
+        "Ebru Gökmeşe"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02183-4",
+      "doi": "10.1038/s42004-026-02183-4",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-27",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02183-4",
+          "url": "https://www.nature.com/articles/s42004-026-02183-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Nanomolecularly imprinted polymer–surface plasmon resonance platform for monitoring trace-level Bisphenol A in drinking water",
+      "title_original": "Nanomolecularly imprinted polymer–surface plasmon resonance platform for monitoring trace-level Bisphenol A in drinking water",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42004-026-02183-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Serge A. Krasnokutski",
+        "Franciele Kruczkiewicz",
+        "Cedrick Bourseau",
+        "Quentin Remaury",
+        "Claude Geffroy",
+        "Nico Ueberschaar",
+        "Pauline Poinot",
+        "Ko-Ju Chuang"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02159-4",
+      "doi": "10.1038/s42004-026-02159-4",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-27",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02159-4",
+          "url": "https://www.nature.com/articles/s42004-026-02159-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Catalytic non-energetic formation of diverse peptides on cosmic dust under extraterrestrial conditions",
+      "title_original": "Catalytic non-energetic formation of diverse peptides on cosmic dust under extraterrestrial conditions",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42004-026-02159-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Satoru Fujii",
+        "Yuki Murakami",
+        "Tatsuya Yoshizawa",
+        "Shoichi Ishida",
+        "Nobuo Cho",
+        "Masateru Ohta",
+        "Teruki Honma",
+        "Kazuki Yoshizoe",
+        "Masato Sumita",
+        "Koji Tsuda",
+        "Kei Terayama"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02172-7",
+      "doi": "10.1038/s42004-026-02172-7",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-21",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02172-7",
+          "url": "https://www.nature.com/articles/s42004-026-02172-7"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Generalizing molecular design via flexible search space control",
+      "title_original": "Generalizing molecular design via flexible search space control",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42004-026-02172-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Subramani Kumaran",
+        "Abir Das",
+        "J. Richard Premkumar",
+        "Basker Sundararaju"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02174-5",
+      "doi": "10.1038/s42004-026-02174-5",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-20",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02174-5",
+          "url": "https://www.nature.com/articles/s42004-026-02174-5"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Cobalt-catalyzed construction of spiro scaffolds bearing central and axial chirality via enantioselective (4+1) C–H spiroannulation",
+      "title_original": "Cobalt-catalyzed construction of spiro scaffolds bearing central and axial chirality via enantioselective (4+1) C–H spiroannulation",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42004-026-02174-5"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinke Zhan",
+        "Silong Zhai",
+        "Tiantao Liu",
+        "Shaolong Lin",
+        "Tao Bi",
+        "Bingwen Zhu",
+        "Shirley W. I. Siu"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02168-3",
+      "doi": "10.1038/s42004-026-02168-3",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-20",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02168-3",
+          "url": "https://www.nature.com/articles/s42004-026-02168-3"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models",
+      "title_original": "A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://www.nature.com/articles/s42004-026-02168-3"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Antonio López-García",
+        "Fuencisla Cañadas",
+        "José L. de la Fuente",
+        "Marta Ruiz-Bermejo"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02169-2",
+      "doi": "10.1038/s42004-026-02169-2",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-15",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02169-2",
+          "url": "https://doi.org/10.1038/s42004-026-02169-2"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Synthesis of mineral-organic hybrid materials under dynamic prebiotic conditions",
+      "title_original": "Synthesis of mineral-organic hybrid materials under dynamic prebiotic conditions",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02169-2"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Di Xu",
+        "Haibing Zheng",
+        "Xiaomiao Zhao",
+        "Danmu Qiao",
+        "Xin Liu",
+        "Pengzhan Liu",
+        "Weijie Li",
+        "Fengchun Wei",
+        "Panjun Wang",
+        "Chuanqi Pan",
+        "Zhiwei Zhao"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02175-4",
+      "doi": "10.1038/s42004-026-02175-4",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-15",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02175-4",
+          "url": "https://doi.org/10.1038/s42004-026-02175-4"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Corrosion inhibition driven by double-bridged-oxygen compact metaphosphate networks in KZnP3O9",
+      "title_original": "Corrosion inhibition driven by double-bridged-oxygen compact metaphosphate networks in KZnP3O9",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02175-4"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Cajsa K. Malm",
+        "Mykhailo Girych",
+        "Tobias Rindfleisch",
+        "Julianne Hoeflich",
+        "Batuhan Kav",
+        "O. H. Samuli Ollila"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02155-8",
+      "doi": "10.1038/s42004-026-02155-8",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02155-8",
+          "url": "https://doi.org/10.1038/s42004-026-02155-8"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「NMR 自旋弛豫可從分子動力學模擬中篩選出符合實際的內在無序蛋白質構象集合」。",
+      "title": "NMR spin relaxation enables the selection of realistic intrinsically disordered protein ensembles from molecular dynamics simulations",
+      "title_original": "NMR spin relaxation enables the selection of realistic intrinsically disordered protein ensembles from molecular dynamics simulations",
+      "title_zh_tw": "NMR 自旋弛豫可從分子動力學模擬中篩選出符合實際的內在無序蛋白質構象集合",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02155-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Katayun Bahrami",
+        "Thales Kronenberger",
+        "Azam Rashidian",
+        "Tuomo Laitinen",
+        "Prasanthi Medarametla",
+        "Kristiina M. Huttunen",
+        "Jarkko Rautio",
+        "Antti Poso"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02157-6",
+      "doi": "10.1038/s42004-026-02157-6",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02157-6",
+          "url": "https://doi.org/10.1038/s42004-026-02157-6"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「分子動力學揭示 LAT1 與配體結合時的結構與水合動態，以及 JPH203 誘導的向內開放態停滯」。",
+      "title": "Molecular dynamics insights into structural and hydration dynamics of LAT1 bound to ligands and JPH203-induced inward-open arrest",
+      "title_original": "Molecular dynamics insights into structural and hydration dynamics of LAT1 bound to ligands and JPH203-induced inward-open arrest",
+      "title_zh_tw": "分子動力學揭示 LAT1 與配體結合時的結構與水合動態，以及 JPH203 誘導的向內開放態停滯",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02157-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jingyuan Song",
+        "Jialu Long",
+        "Yiming Luo",
+        "Zhenzhou Lu",
+        "Xiaoyang Wen",
+        "Jiahu Tang",
+        "Xulin Zeng",
+        "Junrong Cai",
+        "Jiaxin Li",
+        "Bo Zhang",
+        "Wenhui Hu",
+        "Pan-Lin Shao"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02160-x",
+      "doi": "10.1038/s42004-026-02160-x",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02160-x",
+          "url": "https://doi.org/10.1038/s42004-026-02160-x"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「新型 C1 對稱 N-雜環卡賓前驅物的對映選擇性合成」。",
+      "title": "Enantioselective synthesis of novel C1-symmetric N-heterocyclic carbene precursors",
+      "title_original": "Enantioselective synthesis of novel C1-symmetric N-heterocyclic carbene precursors",
+      "title_zh_tw": "新型 C1 對稱 N-雜環卡賓前驅物的對映選擇性合成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02160-x"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anne Liong",
+        "Marco Preto",
+        "Adriana Rego",
+        "Peter J. Jervis",
+        "Pedro N. Leão"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02161-w",
+      "doi": "10.1038/s42004-026-02161-w",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02161-w",
+          "url": "https://doi.org/10.1038/s42004-026-02161-w"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「單一藍綠菌鹵化酶在 lebomboamide A 生合成中的三氯化作用」。",
+      "title": "Trichlorination by a single cyanobacterial halogenase in the biosynthesis of lebomboamide A",
+      "title_original": "Trichlorination by a single cyanobacterial halogenase in the biosynthesis of lebomboamide A",
+      "title_zh_tw": "單一藍綠菌鹵化酶在 lebomboamide A 生合成中的三氯化作用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02161-w"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xiaolei Wu",
+        "Lei Wu",
+        "Fahui Hu",
+        "Jing Wang",
+        "Jin-Biao Liu",
+        "Chung-Hang Leung",
+        "Wanhe Wang"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02154-9",
+      "doi": "10.1038/s42004-026-02154-9",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02154-9",
+          "url": "https://doi.org/10.1038/s42004-026-02154-9"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「自組裝銥(III)光敏劑無需補充銅即可誘導銅死亡並實現高效抗癌治療」。",
+      "title": "Self-assembled iridium(III) photosensitizers induce cuproptosis without copper supplementation for efficient anticancer therapy",
+      "title_original": "Self-assembled iridium(III) photosensitizers induce cuproptosis without copper supplementation for efficient anticancer therapy",
+      "title_zh_tw": "自組裝銥(III)光敏劑無需補充銅即可誘導銅死亡並實現高效抗癌治療",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02154-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tina Jacob",
+        "Marie P. Schützmann",
+        "Laurin Gerhards",
+        "Laura Hruby",
+        "Gabriel Leprivier",
+        "Gültekin Tamgüney",
+        "Wolfgang Hoyer"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02165-6",
+      "doi": "10.1038/s42004-026-02165-6",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02165-6",
+          "url": "https://doi.org/10.1038/s42004-026-02165-6"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「液–液相分離的 tau 與 Aβ 寡聚體共定位並使其穩定」。",
+      "title": "Liquid-liquid phase-separated tau colocalizes with and stabilizes Aβ oligomers",
+      "title_original": "Liquid-liquid phase-separated tau colocalizes with and stabilizes Aβ oligomers",
+      "title_zh_tw": "液–液相分離的 tau 與 Aβ 寡聚體共定位並使其穩定",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02165-6"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Liang Xu",
+        "Hyunbum Jang",
+        "Ruth Nussinov"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02163-8",
+      "doi": "10.1038/s42004-026-02163-8",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-08",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02163-8",
+          "url": "https://doi.org/10.1038/s42004-026-02163-8"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「RanGAP1 在核運輸中調控與催化作用的結構基礎」。",
+      "title": "The structural basis of RanGAP1 regulation and catalysis in nuclear transport",
+      "title_original": "The structural basis of RanGAP1 regulation and catalysis in nuclear transport",
+      "title_zh_tw": "RanGAP1 在核運輸中調控與催化作用的結構基礎",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02163-8"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Francesco Panico",
+        "Ivano Alessandri",
+        "Matteo Macchniz",
+        "Paolo Ghigna",
+        "Michael J. Russell",
+        "Alessandro Minguzzi",
+        "Alberto Vertova"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02156-7",
+      "doi": "10.1038/s42004-026-02156-7",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02156-7",
+          "url": "https://doi.org/10.1038/s42004-026-02156-7"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「短路燃料電池重現生命起源所需的熱液 FeS 煙囪環境」。",
+      "title": "A short-circuited fuel cell reproduces hydrothermal FeS chimney conditions for the onset of life",
+      "title_original": "A short-circuited fuel cell reproduces hydrothermal FeS chimney conditions for the onset of life",
+      "title_zh_tw": "短路燃料電池重現生命起源所需的熱液 FeS 煙囪環境",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02156-7"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ravi Kumar Akula",
+        "Haifa El Kilani",
+        "Alina Metzen",
+        "Sanjata Joshi",
+        "Hilal Durmaz",
+        "Robin Veenstra",
+        "Judith Röske",
+        "Daniel L. Hurdiss",
+        "Frank J. M. Van Kuppeveld",
+        "Katharina Rox",
+        "Rolf Hilgenfeld",
+        "Mark Brönstrup"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02151-y",
+      "doi": "10.1038/s42004-026-02151-y",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02151-y",
+          "url": "https://doi.org/10.1038/s42004-026-02151-y"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以結構為基礎的 α-酮醯胺大環化可產生強效冠狀病毒與腸病毒蛋白酶抑制劑」。",
+      "title": "Structure-based macrocyclization of α-ketoamides leads to potent inhibitors of coronaviral and enteroviral proteases",
+      "title_original": "Structure-based macrocyclization of α-ketoamides leads to potent inhibitors of coronaviral and enteroviral proteases",
+      "title_zh_tw": "以結構為基礎的 α-酮醯胺大環化可產生強效冠狀病毒與腸病毒蛋白酶抑制劑",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02151-y"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sebastian Speer",
+        "Sven Jovanovic",
+        "Christina Oeß",
+        "André Karl",
+        "Eva Jodat",
+        "Rüdiger-A. Eichel"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02162-9",
+      "doi": "10.1038/s42004-026-02162-9",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-06",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02162-9",
+          "url": "https://doi.org/10.1038/s42004-026-02162-9"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以操作中拉曼光譜解析運轉中 PEM 水電解槽的 Ir–O 氧化還原動態」。",
+      "title": "Insights into the Ir-O redox dynamics of an operating PEM water electrolyzer using in operando Raman spectroscopy",
+      "title_original": "Insights into the Ir-O redox dynamics of an operating PEM water electrolyzer using in operando Raman spectroscopy",
+      "title_zh_tw": "以操作中拉曼光譜解析運轉中 PEM 水電解槽的 Ir–O 氧化還原動態",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02162-9"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Elnaz Hosseini",
+        "Saeid Hadi Alijanvand",
+        "Yelena Kan",
+        "Mateusz Brzezinksi",
+        "Francesca Mazzotta",
+        "Ingo Lieberwirth",
+        "Ali Akbar Moosavi-Movahedi",
+        "Jasper J. Michels",
+        "Mischa Bonn",
+        "Sapun H. Parekh"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02140-1",
+      "doi": "10.1038/s42004-026-02140-1",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02140-1",
+          "url": "https://doi.org/10.1038/s42004-026-02140-1"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「纖維化遲滯期的低溫刺激會誘發分子特徵不同的類澱粉蛋白株」。",
+      "title": "Cold stimulus during the fibrillation lag phase induces molecularly distinct amyloid strains",
+      "title_original": "Cold stimulus during the fibrillation lag phase induces molecularly distinct amyloid strains",
+      "title_zh_tw": "纖維化遲滯期的低溫刺激會誘發分子特徵不同的類澱粉蛋白株",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02140-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Andreas Carlsson",
+        "Emil Axell",
+        "Johan Wallerstein",
+        "Dev Thacker",
+        "Ulf Olsson",
+        "Sara Linse"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02108-1",
+      "doi": "10.1038/s42004-026-02108-1",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02108-1",
+          "url": "https://doi.org/10.1038/s42004-026-02108-1"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「人類分子伴侶蛋白 DNAJB6b 透過共同聚集抑制 tau 纖維形成」。",
+      "title": "Human chaperone DNAJB6b suppresses tau fibril formation through co-aggregation",
+      "title_original": "Human chaperone DNAJB6b suppresses tau fibril formation through co-aggregation",
+      "title_zh_tw": "人類分子伴侶蛋白 DNAJB6b 透過共同聚集抑制 tau 纖維形成",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02108-1"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yuntao He",
+        "Wanting Xia",
+        "Luyang Qiao",
+        "Zongkai Wu",
+        "Xinyi Cao",
+        "Yong Gao",
+        "Jiankai Cheng",
+        "Zhangfeng Zhou",
+        "Yuangen Yao"
+      ],
+      "canonical_id": "doi:10.1038/s42004-026-02150-z",
+      "doi": "10.1038/s42004-026-02150-z",
+      "issns": [
+        "2399-3669"
+      ],
+      "journal": "Communications Chemistry",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1038/s42004-026-02150-z",
+          "url": "https://doi.org/10.1038/s42004-026-02150-z"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「以功能化銠–雙膦單元為基礎的非均相催化劑進行甲醛氫甲醯化」。",
+      "title": "Formaldehyde hydroformylation over a heterogeneous catalyst based on a functionalized rhodium-biphosphine unit",
+      "title_original": "Formaldehyde hydroformylation over a heterogeneous catalyst based on a functionalized rhodium-biphosphine unit",
+      "title_zh_tw": "以功能化銠–雙膦單元為基礎的非均相催化劑進行甲醛氫甲醯化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1038/s42004-026-02150-z"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 21,
+    "by_article_type": {
+      "journal-article": 21
+    },
+    "by_source": {
+      "crossref": 21
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 21,
+    "translated_articles": 13
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "communications-chemistry__2026-08__r04",
+  "edition_key": "communications-chemistry__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 3,
+    "base_article_count": 18,
+    "base_edition_sha256": "2f42b14f6d8ddb10405c2482ff678da87b3b383f8f9af8a5bbf8fb5571f35364",
+    "base_manifest_publication_id": "communications-chemistry__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "communications-chemistry__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 3,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 21
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "communications-chemistry",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 21,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 3,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "communications-chemistry__2026-08__r04",
+  "retrieved_at": "2026-08-29T06:23:34Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__communications-chemistry__2026-08__r04",
+    "edition_key": "communications-chemistry__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "2399-3669",
+    "journal": "Communications Chemistry",
+    "journal_slug": "communications-chemistry",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "publication_id": "communications-chemistry__2026-08__r04",
+    "revision": 4,
+    "slug": "communications-chemistry",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 3,
+      "detail": null,
+      "query": "container=Communications Chemistry; publication=2026-08-24..2026-08-29",
+      "returned_count": 3,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 3,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "communications-chemistry__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": "573dcace9051c26204baddac0aae8696f8ffe3095cb3d38c539c73e5ae47bf2a",
+    "response_generated_at": "2026-08-14T07:32:00Z",
+    "response_sha256": "51fb66f530c277ce9f2de281679c4d2532d60832d0f39ad57a3789dbd0804696",
+    "source_edition_sha256": "1c5a8f4655da15d5256e4ec68e8fedf6aeb30e43afb6a97d6d383b465123d008",
+    "status": "PARTIAL",
+    "total_articles": 21,
+    "translated_articles": 13
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "communications_chemistry"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

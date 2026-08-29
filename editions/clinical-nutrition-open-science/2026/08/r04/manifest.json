@@ -1,0 +1,43 @@
+{
+  "article_count": 25,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:23:34Z",
+  "edition_id": "clinical-nutrition-open-science__2026-08__r04",
+  "edition_key": "clinical-nutrition-open-science__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 48087,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__clinical-nutrition-open-science__2026-08__r04.json",
+      "sha256": "e7e4d7c3e4fe13bfa7766d97f9b4326ed23db5e9aea9ea3cfd1b990e3202b1e8"
+    },
+    "report_html": {
+      "bytes": 84356,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__clinical-nutrition-open-science__2026-08__r04.html",
+      "sha256": "d37cda8eb80d331a4784b7f60e55d68a666fc7cce8f0fc582cd96dd5c8b11f8a"
+    }
+  },
+  "journal": "Clinical Nutrition Open Science",
+  "journal_slug": "clinical-nutrition-open-science",
+  "manifest_name": "EvidenceRadar_Editions__clinical-nutrition-open-science__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "clinical-nutrition-open-science__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 25,
+  "translation_provenance": {
+    "request_binding_sha256": "c0e201c1695567d05befba4655cc5ee14bbb4f35d3066262d1a39eeb03a0d899",
+    "response_sha256": "2994cb4a2bbfc77df7535f8093caafc404f540680e844b8426c95cecd3300956",
+    "source_edition_sha256": "18c9e29bd32780408297e6cc452ea171b115514b13ec0879f5b32c356174c62d"
+  },
+  "translation_status": "COMPLETE",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
