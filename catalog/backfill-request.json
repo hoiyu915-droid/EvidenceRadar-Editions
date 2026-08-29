@@ -1,32 +1,17 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-cambridge-sixteen-through-29",
+  "request_id": "2026-08-cambridge-data-and-policy-through-29",
   "acquisition_start": "2026-08-24",
   "acquisition_end": "2026-08-29",
-  "revision": 4,
+  "revision": 5,
   "provider": "cambridge",
   "selection_provider": "cambridge",
-  "selection_count": 16,
-  "selection_base_revision": 3,
+  "selection_count": 1,
+  "selection_base_revision": 4,
   "selection_base_period_end": "2026-08-23",
   "journals": [
-    "ai-edam",
-    "antimicrobial-stewardship-and-healthcare-epidemiology",
-    "bjpsych-open",
-    "cambridge-forum-on-ai-culture-and-society",
-    "cambridge-forum-on-ai-law-and-governance",
-    "cambridge-forum-on-technology-and-global-affairs",
-    "computational-humanities-research",
-    "data-centric-engineering",
-    "epidemiology-and-infection",
-    "journal-of-clinical-and-translational-science",
-    "journal-of-nutritional-science",
-    "memory-mind-and-media",
-    "natural-language-processing",
-    "psychological-medicine",
-    "public-health-nutrition",
-    "wearable-technologies"
+    "data-and-policy"
   ],
-  "selection_semantics": "All sixteen Cambridge provider journals other than Data & Policy share immutable August r03 bases ending 2026-08-23 and therefore form one provider-scoped r04 suffix batch."
+  "selection_semantics": "Data & Policy is isolated because its latest immutable August base is r04 ending 2026-08-23; it therefore targets r05 while the other Cambridge editions target r04."
 }
