@@ -1,0 +1,1258 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Alicia Leikin-Frenkel",
+        "Orly Ravid",
+        "Meir Liberman",
+        "Dana Atrakchi",
+        "Victoria Lamport",
+        "Daniel Rand",
+        "Dror Harats",
+        "Hussein N. Yassine",
+        "Harini Sampath",
+        "Daniel M. Michaelson",
+        "Michal Schnaider-Beeri",
+        "Sigal Liraz-Zaltsman",
+        "Itzik Cooper"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110352",
+      "doi": "10.1016/j.jnutbio.2026.110352",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41887535",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110352",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110352"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41887535",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41887535/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「富含 α-次亞麻油酸的飲食提高二十二碳六烯酸（DHA）水平，並恢復 APOE4 小鼠腦實質與血管中的脂質平衡」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "α-Linolenic acid-rich diet boosts docosahexaenoic acid levels and restores lipid balance in the brain parenchyma and vasculature of APOE4 mice",
+      "title_original": "α-Linolenic acid-rich diet boosts docosahexaenoic acid levels and restores lipid balance in the brain parenchyma and vasculature of APOE4 mice",
+      "title_zh_tw": "富含 α-次亞麻油酸的飲食提高二十二碳六烯酸（DHA）水平，並恢復 APOE4 小鼠腦實質與血管中的脂質平衡",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110352",
+        "https://pubmed.ncbi.nlm.nih.gov/41887535/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Usevalad Ustsinau",
+        "Marius Ozenil",
+        "Antonia Grosinger",
+        "Thomas Wanek",
+        "Marcus Hacker",
+        "Martin Krššák",
+        "Cécile Philippe"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110356",
+      "doi": "10.1016/j.jnutbio.2026.110356",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41887536",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110356",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110356"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41887536",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41887536/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「追蹤氧化代謝：[¹¹C]乙酸 PET 結合放射性代謝物校正揭示飲食誘發 MAFLD 模型中的早期肝臟代謝改變」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Tracing oxidative metabolism: [¹¹C]acetate-PET with radiometabolite correction reveals early hepatic metabolic alterations in the diet-induced MAFLD model",
+      "title_original": "Tracing oxidative metabolism: [¹¹C]acetate-PET with radiometabolite correction reveals early hepatic metabolic alterations in the diet-induced MAFLD model",
+      "title_zh_tw": "追蹤氧化代謝：[¹¹C]乙酸 PET 結合放射性代謝物校正揭示飲食誘發 MAFLD 模型中的早期肝臟代謝改變",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110356",
+        "https://pubmed.ncbi.nlm.nih.gov/41887536/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Jun Zhou",
+        "Liujie Zheng",
+        "Ziyi Zheng",
+        "Kunying Ding",
+        "Zhengwei Fu",
+        "Yinhua Ni"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110351",
+      "doi": "10.1016/j.jnutbio.2026.110351",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41839386",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110351",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110351"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41839386",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41839386/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「小膠質細胞與腸道—小膠質細胞—腦軸的特徵：對認知障礙與治療策略的啟示」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "The characteristic of microglia and gut-microglia-brain axis: Implications for cognitive impairment and therapeutic strategies",
+      "title_original": "The characteristic of microglia and gut-microglia-brain axis: Implications for cognitive impairment and therapeutic strategies",
+      "title_zh_tw": "小膠質細胞與腸道—小膠質細胞—腦軸的特徵：對認知障礙與治療策略的啟示",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110351",
+        "https://pubmed.ncbi.nlm.nih.gov/41839386/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Meijuan Meng",
+        "Xiaoli Shi",
+        "Yuanlu Tu",
+        "Yunfeng Bai",
+        "Guangjun Chang",
+        "Kai Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110483",
+      "doi": "10.1016/j.jnutbio.2026.110483",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "42586382",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110483",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110483"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42586382",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42586382/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「亞急性瘤胃酸中毒透過 cGAS-STING 路徑誘發高穀物飲食湖羊的結腸發炎與屏障損傷」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Subacute ruminal acidosis induces colonic inflammation and barrier damage via cGAS-STING pathway in Hu sheep fed a high-grain diet",
+      "title_original": "Subacute ruminal acidosis induces colonic inflammation and barrier damage via cGAS-STING pathway in Hu sheep fed a high-grain diet",
+      "title_zh_tw": "亞急性瘤胃酸中毒透過 cGAS-STING 路徑誘發高穀物飲食湖羊的結腸發炎與屏障損傷",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110483",
+        "https://pubmed.ncbi.nlm.nih.gov/42586382/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tuulia K Pietilä",
+        "Elisabetta Cantini",
+        "Suvi T Itkonen",
+        "Anne Salonen",
+        "Anne-Maria Pajari"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110355",
+      "doi": "10.1016/j.jnutbio.2026.110355",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41905546",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110355",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110355"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41905546",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41905546/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「在健康男性的 6 週隨機對照試驗中，以非大豆豆類取代紅肉會改變膽鹼代謝物，但不影響全身性發炎或腸道屏障功能替代指標」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Replacing red meat with non-soy legumes alters choline metabolites but not systemic inflammation or proxies of gut barrier function in healthy males in a 6-week RCT",
+      "title_original": "Replacing red meat with non-soy legumes alters choline metabolites but not systemic inflammation or proxies of gut barrier function in healthy males in a 6-week RCT",
+      "title_zh_tw": "在健康男性的 6 週隨機對照試驗中，以非大豆豆類取代紅肉會改變膽鹼代謝物，但不影響全身性發炎或腸道屏障功能替代指標",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110355",
+        "https://pubmed.ncbi.nlm.nih.gov/41905546/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Na Liang",
+        "Linyao Ying",
+        "Xin Huang",
+        "Zhihao Wei",
+        "Yue Su",
+        "Shiying Yang",
+        "Gang Luo",
+        "Lin Xiao"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110358",
+      "doi": "10.1016/j.jnutbio.2026.110358",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41916480",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110358",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110358"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41916480",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41916480/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「槲皮素透過減少溶血磷脂醯膽鹼誘導的巨噬細胞胞外誘捕網形成並調節 JNK/Sp1/PAD4 路徑，減輕動脈粥樣硬化」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Quercetin alleviates atherosclerosis associated with reduced lysophosphatidylcholine-induced macrophage extracellular traps formation and modulation of the JNK/Sp1/PAD4 pathway",
+      "title_original": "Quercetin alleviates atherosclerosis associated with reduced lysophosphatidylcholine-induced macrophage extracellular traps formation and modulation of the JNK/Sp1/PAD4 pathway",
+      "title_zh_tw": "槲皮素透過減少溶血磷脂醯膽鹼誘導的巨噬細胞胞外誘捕網形成並調節 JNK/Sp1/PAD4 路徑，減輕動脈粥樣硬化",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110358",
+        "https://pubmed.ncbi.nlm.nih.gov/41916480/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Hunter W. Korsmo",
+        "Hrutvik Bhavsar",
+        "Steven Trasino",
+        "Jorge Matias Caviglia",
+        "Xinyin Jiang"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110354",
+      "doi": "10.1016/j.jnutbio.2026.110354",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": "PMC13098326",
+      "pmid": "41864440",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110354",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110354"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41864440",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41864440/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「產前與產後補充膽鹼會改變暴露於母體肥胖且成年後採西式飲食之子代的代謝功能障礙相關脂肪性肝炎（MASH）表型：初步研究」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Prenatal and postnatal choline supplementation alters metabolic dysfunction-associated steatohepatitis (MASH) phenotypes in offspring exposed to maternal obesity and following a western diet into adulthood: A preliminary study",
+      "title_original": "Prenatal and postnatal choline supplementation alters metabolic dysfunction-associated steatohepatitis (MASH) phenotypes in offspring exposed to maternal obesity and following a western diet into adulthood: A preliminary study",
+      "title_zh_tw": "產前與產後補充膽鹼會改變暴露於母體肥胖且成年後採西式飲食之子代的代謝功能障礙相關脂肪性肝炎（MASH）表型：初步研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110354",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13098326/",
+        "https://pubmed.ncbi.nlm.nih.gov/41864440/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xinlei Zou",
+        "Nan Wang",
+        "Canghai Guan",
+        "Jianjun Gao",
+        "Wujiang Shi",
+        "Chengru Yang",
+        "Shaowu Bi",
+        "Tianjie Zhang",
+        "Xiangyu Zhong"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110378",
+      "doi": "10.1016/j.jnutbio.2026.110378",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41967720",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110378",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110378"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41967720",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41967720/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「PRC1 透過調控糖解／乳酸化軸並形成正回饋迴路促進 MAFLD 進展」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "PRC1 promotes MAFLD progression by regulating glycolysis/lactylation axis and forming a positive feedback loop",
+      "title_original": "PRC1 promotes MAFLD progression by regulating glycolysis/lactylation axis and forming a positive feedback loop",
+      "title_zh_tw": "PRC1 透過調控糖解／乳酸化軸並形成正回饋迴路促進 MAFLD 進展",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110378",
+        "https://pubmed.ncbi.nlm.nih.gov/41967720/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yu Han",
+        "Xiaoxia Sun",
+        "Yu Qiao",
+        "Jiongnan Wang",
+        "Jia Wang",
+        "Shangyun Lu",
+        "Fubin Qiu"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110359",
+      "doi": "10.1016/j.jnutbio.2026.110359",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41935639",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110359",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110359"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41935639",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41935639/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「妊娠期維生素 D 缺乏所致的胎盤維生素 D 營養不良，透過調控 GSK-3β/β-catenin 與 CD44 並干擾其回饋互作，在大鼠造成胎盤發育不良」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Placental vitamin D malnutrition induced by vitamin D deficiency during pregnancy causes placenta dysplasia by regulating GSK-3β/β-catenin and CD44 as well as interfering their feedback interaction in rats",
+      "title_original": "Placental vitamin D malnutrition induced by vitamin D deficiency during pregnancy causes placenta dysplasia by regulating GSK-3β/β-catenin and CD44 as well as interfering their feedback interaction in rats",
+      "title_zh_tw": "妊娠期維生素 D 缺乏所致的胎盤維生素 D 營養不良，透過調控 GSK-3β/β-catenin 與 CD44 並干擾其回饋互作，在大鼠造成胎盤發育不良",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110359",
+        "https://pubmed.ncbi.nlm.nih.gov/41935639/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chathuri Kaushalya Marasinghe",
+        "Lakshi Ayodya Dayarathne",
+        "Indyaswan Tegar Suryaningtyas",
+        "Jasmadi",
+        "Jae-Young Je"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110360",
+      "doi": "10.1016/j.jnutbio.2026.110360",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41921669",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110360",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110360"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41921669",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41921669/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「寡聚胜肽 LLRLTDL 與 GYALPCDCL 透過 HO-1/Nrf2 依賴性路徑減輕高脂飲食誘發小鼠的肥胖」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Oligomeric peptides LLRLTDL and GYALPCDCL alleviate obesity through HO-1/Nrf2-dependent pathways in high-fat diet-induced mice",
+      "title_original": "Oligomeric peptides LLRLTDL and GYALPCDCL alleviate obesity through HO-1/Nrf2-dependent pathways in high-fat diet-induced mice",
+      "title_zh_tw": "寡聚胜肽 LLRLTDL 與 GYALPCDCL 透過 HO-1/Nrf2 依賴性路徑減輕高脂飲食誘發小鼠的肥胖",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110360",
+        "https://pubmed.ncbi.nlm.nih.gov/41921669/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yun Wang",
+        "Lin Feng",
+        "Wei Dan Jiang",
+        "Pei Wu",
+        "Yang Liu",
+        "Yao-Bin Ma",
+        "Hong-Yun Zhang",
+        "Hong-Mei Ren",
+        "Xiao-Wan Jin",
+        "Xiao-Qiu Zhou"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110350",
+      "doi": "10.1016/j.jnutbio.2026.110350",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41871815",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110350",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110350"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41871815",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41871815/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「膳食葉酸改善草魚（Ctenopharyngodon idellus）肝胰臟健康的新機制：自噬與 DNA 甲基化觀點」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Novel mechanisms of dietary folic acid in improving hepatopancreas health of grass carp (Ctenopharyngodon idellus): The perspectives of autophagy and DNA methylation",
+      "title_original": "Novel mechanisms of dietary folic acid in improving hepatopancreas health of grass carp (Ctenopharyngodon idellus): The perspectives of autophagy and DNA methylation",
+      "title_zh_tw": "膳食葉酸改善草魚（Ctenopharyngodon idellus）肝胰臟健康的新機制：自噬與 DNA 甲基化觀點",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110350",
+        "https://pubmed.ncbi.nlm.nih.gov/41871815/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Chenchen Geng",
+        "Yansong Zhang",
+        "Jiaxin Zhao",
+        "Jiaqi Li",
+        "Lingfeng Dan",
+        "Qi Chen",
+        "Yue Zhang",
+        "Junwen Zheng",
+        "Romano Regazzi",
+        "Youbin Liu",
+        "Huimin Lu"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110480",
+      "doi": "10.1016/j.jnutbio.2026.110480",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "42567419",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110480",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110480"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42567419",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42567419/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「母體高飽和脂肪飲食後，miR-1a-3p 透過破壞 NBR1 依賴性粒線體功能而非凋亡，損害雄性子代 β 細胞功能」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "miR-1a-3p impairs β-cell function in male offspring via disrupted NBR1-dependent mitochondrial function but not apoptosis after maternal high-saturated-fat diet in mice",
+      "title_original": "miR-1a-3p impairs β-cell function in male offspring via disrupted NBR1-dependent mitochondrial function but not apoptosis after maternal high-saturated-fat diet in mice",
+      "title_zh_tw": "母體高飽和脂肪飲食後，miR-1a-3p 透過破壞 NBR1 依賴性粒線體功能而非凋亡，損害雄性子代 β 細胞功能",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110480",
+        "https://pubmed.ncbi.nlm.nih.gov/42567419/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qijun Wang",
+        "Shibao Lu"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110362",
+      "doi": "10.1016/j.jnutbio.2026.110362",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41932624",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110362",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110362"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41932624",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41932624/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「繪製血漿代謝物與肌少症及老化性狀的遺傳預測關聯：雙向孟德爾隨機化與轉錄體分析證據」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Mapping the genetically predicted associations of plasma metabolites with sarcopenia and aging traits: Evidence from bidirectional Mendelian randomization and transcriptome analysis",
+      "title_original": "Mapping the genetically predicted associations of plasma metabolites with sarcopenia and aging traits: Evidence from bidirectional Mendelian randomization and transcriptome analysis",
+      "title_zh_tw": "繪製血漿代謝物與肌少症及老化性狀的遺傳預測關聯：雙向孟德爾隨機化與轉錄體分析證據",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110362",
+        "https://pubmed.ncbi.nlm.nih.gov/41932624/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yun-Cheng Hsieh",
+        "Bernd Schnabl",
+        "Yi-Hsiang Huang",
+        "Ming-Chih Hou",
+        "Han-Chieh Lin",
+        "Kuei-Chuan Lee"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110357",
+      "doi": "10.1016/j.jnutbio.2026.110357",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41887537",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110357",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110357"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41887537",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41887537/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「腸上皮過氧化物酶體增殖物活化受體 γ 缺失加重代謝功能障礙相關脂肪性肝炎小鼠的胰島素阻抗」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Intestinal epithelial peroxisome proliferator-activated receptor γ deficiency exacerbates insulin resistance in mice with metabolic dysfunction-associated steatohepatitis",
+      "title_original": "Intestinal epithelial peroxisome proliferator-activated receptor γ deficiency exacerbates insulin resistance in mice with metabolic dysfunction-associated steatohepatitis",
+      "title_zh_tw": "腸上皮過氧化物酶體增殖物活化受體 γ 缺失加重代謝功能障礙相關脂肪性肝炎小鼠的胰島素阻抗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110357",
+        "https://pubmed.ncbi.nlm.nih.gov/41887537/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Sivaporn Wannaiampikul",
+        "Brian Lee",
+        "Jiarui Chen",
+        "Kacey J. Prentice",
+        "Ronke Ayansola",
+        "Aimin Xu",
+        "Sylvia Santosa",
+        "Kostas Pantopoulos",
+        "Gary Sweeney"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110327",
+      "doi": "10.1016/j.jnutbio.2026.110327",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41794383",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110327",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110327"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41794383",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41794383/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「整合代謝體學與宏基因組學分析辨識出表徵代謝症候群的獨特特徵」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Integrated metabolomics and metagenomics analysis identifies a unique signature characterizing metabolic syndrome",
+      "title_original": "Integrated metabolomics and metagenomics analysis identifies a unique signature characterizing metabolic syndrome",
+      "title_zh_tw": "整合代謝體學與宏基因組學分析辨識出表徵代謝症候群的獨特特徵",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110327",
+        "https://pubmed.ncbi.nlm.nih.gov/41794383/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mingmei Song",
+        "Jing Qin",
+        "Junru Tian",
+        "Kai Zhang",
+        "Yali Zhang",
+        "Xiao’e Xiang",
+        "Weiyun Zhu",
+        "Shengyong Mao",
+        "Junhua Liu",
+        "Zan Huang"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110479",
+      "doi": "10.1016/j.jnutbio.2026.110479",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "42543122",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110479",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110479"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42543122",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42543122/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「ACSF2 高表現促進瘤胃上皮對丁酸的利用」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Highly expressed ACSF2 contributes to butyrate utilization in the rumen epithelium",
+      "title_original": "Highly expressed ACSF2 contributes to butyrate utilization in the rumen epithelium",
+      "title_zh_tw": "ACSF2 高表現促進瘤胃上皮對丁酸的利用",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110479",
+        "https://pubmed.ncbi.nlm.nih.gov/42543122/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ning Wang",
+        "Jianlei Bi",
+        "Xiaoying Dong",
+        "Liang Yao",
+        "Xiaoqian Man",
+        "Meihua Guo",
+        "Gena Huang"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110481",
+      "doi": "10.1016/j.jnutbio.2026.110481",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "42567420",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110481",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110481"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42567420",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42567420/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「高脂飲食與老化破壞與 Muribaculaceae 相關、連結腸道屏障與認知缺損的短鏈脂肪酸網絡」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "High-fat diet and age disrupt a Muribaculaceae-associated SCFA network linked to gut barrier and cognitive deficits",
+      "title_original": "High-fat diet and age disrupt a Muribaculaceae-associated SCFA network linked to gut barrier and cognitive deficits",
+      "title_zh_tw": "高脂飲食與老化破壞與 Muribaculaceae 相關、連結腸道屏障與認知缺損的短鏈脂肪酸網絡",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110481",
+        "https://pubmed.ncbi.nlm.nih.gov/42567420/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Juliana Silva Siqueira",
+        "Larissa Lopes da Cruz",
+        "Thiago Luiz Novaga Palacio",
+        "Jordanna Cruzeiro",
+        "Fabiane Valentini Francisqueti-Ferron",
+        "Giancarlo Aldini",
+        "Alfonsina D’Amato",
+        "Camila Renata Corrêa"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110482",
+      "doi": "10.1016/j.jnutbio.2026.110482",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "42567418",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110482",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110482"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "42567418",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42567418/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「植物固醇補充對肥胖囓齒類模型肝臟脂質代謝與代謝結果的影響：系統性回顧與統合分析」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Effects of phytosterols supplementation on hepatic lipid metabolism and metabolic outcomes in obese rodent models: A systematic review and meta-analysis",
+      "title_original": "Effects of phytosterols supplementation on hepatic lipid metabolism and metabolic outcomes in obese rodent models: A systematic review and meta-analysis",
+      "title_zh_tw": "植物固醇補充對肥胖囓齒類模型肝臟脂質代謝與代謝結果的影響：系統性回顧與統合分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110482",
+        "https://pubmed.ncbi.nlm.nih.gov/42567418/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Yanzhe Xu",
+        "Yun Zhu",
+        "Kyuhong Lee",
+        "Jürgen Borlak"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110353",
+      "doi": "10.1016/j.jnutbio.2026.110353",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41865777",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110353",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110353"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41865777",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41865777/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「小鼠 MASLD 模型中的不同機制路徑：高蔗糖／澱粉飲食與高脂、缺甲硫胺酸與膽鹼飲食之比較」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Distinct mechanistic pathways in mouse MASLD models: High-sucrose/starch versus high-fat, methionine- and choline-deficient diets",
+      "title_original": "Distinct mechanistic pathways in mouse MASLD models: High-sucrose/starch versus high-fat, methionine- and choline-deficient diets",
+      "title_zh_tw": "小鼠 MASLD 模型中的不同機制路徑：高蔗糖／澱粉飲食與高脂、缺甲硫胺酸與膽鹼飲食之比較",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110353",
+        "https://pubmed.ncbi.nlm.nih.gov/41865777/"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Tongtong Ma",
+        "Zhilong He",
+        "Guoqi Yang",
+        "Jijiao Cai",
+        "Li-Qiang Qin",
+        "Yu Xia",
+        "Zhongxiao Wan"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110363",
+      "doi": "10.1016/j.jnutbio.2026.110363",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of Nutritional Biochemistry",
+      "pmcid": null,
+      "pmid": "41962780",
+      "publication_date": "2026-08-01",
+      "publication_date_precision": "MONTH",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1016/j.jnutbio.2026.110363",
+          "url": "https://doi.org/10.1016/j.jnutbio.2026.110363"
+        },
+        {
+          "source": "pubmed",
+          "source_id": "41962780",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41962780/"
+        }
+      ],
+      "summary_zh_tw": "依題名，本篇聚焦於「膳食晚期糖化終產物誘發雌性 C57BL/6 小鼠焦慮與憂鬱樣行為，以及槲皮素的改善效果」。目前僅以題名作為繁中導讀依據，未讀取摘要或全文，因此不推定研究方法、數值結果、效應大小或結論。",
+      "title": "Dietary advanced glycation end products induced anxiety- and depression-like behaviors in female C57BL/6 mice and the ameliorative effects of quercetin",
+      "title_original": "Dietary advanced glycation end products induced anxiety- and depression-like behaviors in female C57BL/6 mice and the ameliorative effects of quercetin",
+      "title_zh_tw": "膳食晚期糖化終產物誘發雌性 C57BL/6 小鼠焦慮與憂鬱樣行為，以及槲皮素的改善效果",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110363",
+        "https://pubmed.ncbi.nlm.nih.gov/41962780/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Bhavana Agnihotram",
+        "Iris Mutiu",
+        "Hannah Chiou",
+        "Kelly McGowen",
+        "Candice Mazewski"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110484",
+      "doi": "10.1016/j.jnutbio.2026.110484",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "pmcid": null,
+      "pmid": "42607817",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42607817",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42607817/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "The role of the gut-brain axis and polyphenolic compounds in glioblastoma.",
+      "title_original": "The role of the gut-brain axis and polyphenolic compounds in glioblastoma.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110484",
+        "https://pubmed.ncbi.nlm.nih.gov/42607817/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Yueyi Zhang",
+        "Hanfei Shi",
+        "Xuan Dai",
+        "Gaiyue Yue",
+        "Haochen Guo",
+        "Ruiqiong Liang",
+        "Jiyuan Yin",
+        "Tianshu Xu",
+        "Rui Li",
+        "Sihua Gao",
+        "Vasily Sukhorukov",
+        "Ze Zhong Wang",
+        "Lili Wang",
+        "Gang Zhou",
+        "Dongwei Zhang"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110485",
+      "doi": "10.1016/j.jnutbio.2026.110485",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "pmcid": null,
+      "pmid": "42628588",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42628588",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42628588/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Salidroside and Apigenin attenuate bone resorption in ovariectomized mice and osteoclasts via Sema3A/Nrp1/PlexinA1 pathway.",
+      "title_original": "Salidroside and Apigenin attenuate bone resorption in ovariectomized mice and osteoclasts via Sema3A/Nrp1/PlexinA1 pathway.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110485",
+        "https://pubmed.ncbi.nlm.nih.gov/42628588/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Shuai Liu",
+        "Longchang Huang",
+        "Sirui Liu",
+        "Xin Qi",
+        "Gulisudumu Maitiabula",
+        "Xinying Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110488",
+      "doi": "10.1016/j.jnutbio.2026.110488",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "pmcid": null,
+      "pmid": "42632430",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42632430",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42632430/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Indole-3-acetic acid alleviates intestinal failure associated liver disease via the miR-216a-5p/LRH-1 axis.",
+      "title_original": "Indole-3-acetic acid alleviates intestinal failure associated liver disease via the miR-216a-5p/LRH-1 axis.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110488",
+        "https://pubmed.ncbi.nlm.nih.gov/42632430/"
+      ]
+    },
+    {
+      "article_type": "Journal Article",
+      "authors": [
+        "Qindan Du",
+        "Zhen Han",
+        "Xiao Jian",
+        "Bingqian Sun",
+        "Sitao Chen",
+        "Wei Luo",
+        "Xiaoying Wang"
+      ],
+      "canonical_id": "doi:10.1016/j.jnutbio.2026.110487",
+      "doi": "10.1016/j.jnutbio.2026.110487",
+      "issns": [
+        "0955-2863",
+        "1873-4847"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "pmcid": null,
+      "pmid": "42628587",
+      "publication_date": "2026-01-01",
+      "publication_date_precision": "YEAR",
+      "source_records": [
+        {
+          "source": "pubmed",
+          "source_id": "42628587",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42628587/"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "HACD3 Integrates Central Leptin Sensitivity and Peripheral Thermogenesis to Oppositely Regulate Energy Balance.",
+      "title_original": "HACD3 Integrates Central Leptin Sensitivity and Peripheral Thermogenesis to Oppositely Regulate Energy Balance.",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1016/j.jnutbio.2026.110487",
+        "https://pubmed.ncbi.nlm.nih.gov/42628587/"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 24,
+    "by_article_type": {
+      "Journal Article": 4,
+      "journal-article": 20
+    },
+    "by_source": {
+      "crossref": 20,
+      "pubmed": 24
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 24,
+    "translated_articles": 20
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "journal-of-nutritional-biochemistry__2026-08__r04",
+  "edition_key": "journal-of-nutritional-biochemistry__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 0,
+    "base_article_count": 24,
+    "base_edition_sha256": "92defd60ea124e69ce0aba444670cf0f930f8aa30da8f0eb61298fdaaad4d4b7",
+    "base_manifest_publication_id": "journal-of-nutritional-biochemistry__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "journal-of-nutritional-biochemistry__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 1,
+    "delta_acquired_article_count": 1,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 24
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "journal-of-nutritional-biochemistry",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 24,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 1,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "journal-of-nutritional-biochemistry__2026-08__r04",
+  "retrieved_at": "2026-08-29T06:40:40Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__journal-of-nutritional-biochemistry__2026-08__r04",
+    "edition_key": "journal-of-nutritional-biochemistry__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "0955-2863",
+    "journal": "The Journal of Nutritional Biochemistry",
+    "journal_slug": "journal-of-nutritional-biochemistry",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "publication_id": "journal-of-nutritional-biochemistry__2026-08__r04",
+    "revision": 4,
+    "slug": "journal-of-nutritional-biochemistry",
+    "sources": [
+      "crossref",
+      "pubmed",
+      "europe_pmc"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "container=The Journal of Nutritional Biochemistry; publication=2026-08-24..2026-08-29",
+      "returned_count": 0,
+      "source": "crossref",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    },
+    {
+      "accepted_count": 1,
+      "detail": null,
+      "query": "(\"The Journal of Nutritional Biochemistry\"[Journal] OR \"0955-2863\"[ISSN]) AND (\"2026/08/24\"[Date - Publication] : \"2026/08/29\"[Date - Publication])",
+      "returned_count": 1,
+      "source": "pubmed",
+      "status": "SUCCESS",
+      "total_available": 1,
+      "truncated": false
+    },
+    {
+      "accepted_count": 0,
+      "detail": null,
+      "query": "JOURNAL:\"The Journal of Nutritional Biochemistry\" AND FIRST_PDATE:[2026-08-24 TO 2026-08-29]",
+      "returned_count": 0,
+      "source": "europe_pmc",
+      "status": "NO_RESULTS",
+      "total_available": 0,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "journal-of-nutritional-biochemistry__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": "466a557a91bfc51430dc55fea526e85319cb55df8bd79e804947ed939e185b49",
+    "response_generated_at": "2026-08-14T05:07:58Z",
+    "response_sha256": "eca3e5a8dc54f7a4f1c22a1c29515c757a64d7d50a14c09ea13c6b7291043c6d",
+    "source_edition_sha256": "160b8c22886d29b40308ed76330891aa14e331bdc6334189a36c122bb62fe4b8",
+    "status": "PARTIAL",
+    "total_articles": 24,
+    "translated_articles": 20
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "elsevier_journal_nutritional_biochemistry"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}

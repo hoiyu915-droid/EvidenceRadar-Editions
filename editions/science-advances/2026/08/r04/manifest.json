@@ -1,0 +1,43 @@
+{
+  "article_count": 311,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:40:31Z",
+  "edition_id": "science-advances__2026-08__r04",
+  "edition_key": "science-advances__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 457768,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__science-advances__2026-08__r04.json",
+      "sha256": "903474f39b4b201d1ac99b9f0c2c0efabb1040dc2d56919fe3988cc47941d155"
+    },
+    "report_html": {
+      "bytes": 747294,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__science-advances__2026-08__r04.html",
+      "sha256": "864fced2be9fee0a692e7fdc7facf4af63cfd476593e371dd81177745471e49c"
+    }
+  },
+  "journal": "Science Advances",
+  "journal_slug": "science-advances",
+  "manifest_name": "EvidenceRadar_Editions__science-advances__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "science-advances__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 127,
+  "translation_provenance": {
+    "request_binding_sha256": "221cf61a0e8f24993286095e6c1a88c6020f4f4a382f7b6035709b8b4043817e",
+    "response_sha256": "d25029713da614bc0471d6a3b761e4b8b14575c658d3a87882028702e9a34e03",
+    "source_edition_sha256": "45c3b7bf40f8ac8bf55f084fb825eae3b60b2c9b982e65daf25d32e1880a4839"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}

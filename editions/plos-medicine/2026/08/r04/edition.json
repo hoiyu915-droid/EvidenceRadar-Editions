@@ -1,0 +1,1157 @@
+{
+  "articles": [
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kiarah Shchepanik",
+        "Anthony D. Bai",
+        "Heather Wise"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005218",
+      "doi": "10.1371/journal.pmed.1005218",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-28",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005218",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005218"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Antimicrobial stewardship in low- and middle-income countries: Access versus adherence",
+      "title_original": "Antimicrobial stewardship in low- and middle-income countries: Access versus adherence",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005218"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anja Schmidt",
+        "Christopher C. Winchester",
+        "Catherine Skobe",
+        "Diane R. Stothard",
+        "Eric Topol"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005207",
+      "doi": "10.1371/journal.pmed.1005207",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-27",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005207",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005207"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Enabling equitable open access to commercially funded research publications",
+      "title_original": "Enabling equitable open access to commercially funded research publications",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005207"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Vilada Chansamouth",
+        "Danoy Chommanam",
+        "Sue J. Lee",
+        "Susath Vongphachanh",
+        "Manivanh Vongsouvath",
+        "Sommay Keomany",
+        "Viladeth Paphasiri",
+        "Chanthala Phamisith",
+        "Siho Sengsavang",
+        "Phouvieng Douangdala",
+        "Khamsay Detleuxay",
+        "Sommana Rattana",
+        "Bandith Soumphonphakdy",
+        "Valy Keoluangkhot",
+        "Mavuto Mukaka",
+        "Nicholas P. J. Day",
+        "H. Rogier van Doorn",
+        "Paul Turner",
+        "Mayfong Mayxay",
+        "Paul N. Newton",
+        "Elizabeth A. Ashley"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005205",
+      "doi": "10.1371/journal.pmed.1005205",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-27",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005205",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005205"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial",
+      "title_original": "Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005205"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Kristian F. Axelsson",
+        "Henrik Litsne",
+        "Konstantinos Konstantinou",
+        "Hussnain Khalid",
+        "Aldina Pivodic",
+        "Mattias Lorentzon"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005190",
+      "doi": "10.1371/journal.pmed.1005190",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-27",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005190",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005190"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "A clinical decision support tool for accurate hip fracture prediction: A nationwide cohort study",
+      "title_original": "A clinical decision support tool for accurate hip fracture prediction: A nationwide cohort study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005190"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Iain J. Marshall",
+        "Charles D. A. Wolfe",
+        "Matthew D. L. O‘Connell"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005232",
+      "doi": "10.1371/journal.pmed.1005232",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-26",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005232",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005232"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Stroke risk in younger age groups is increasing and requires targeted prevention",
+      "title_original": "Stroke risk in younger age groups is increasing and requires targeted prevention",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005232"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Fabiola Eto",
+        "Miriam Samuel",
+        "Daniel Stow",
+        "Rafael Henkin",
+        "Alisha Angdembe",
+        "Michael R. Barnes",
+        "Sarah Finer",
+        "Rohini Mathur"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005196",
+      "doi": "10.1371/journal.pmed.1005196",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-25",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005196",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005196"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Sex differences in trajectories to cardio-renal and mental health outcomes following the onset of type 2 diabetes: An observational cohort study using multi-state analysis in the UK Clinical Practice Research Datalink",
+      "title_original": "Sex differences in trajectories to cardio-renal and mental health outcomes following the onset of type 2 diabetes: An observational cohort study using multi-state analysis in the UK Clinical Practice Research Datalink",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005196"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Emma Whitfield",
+        "Becky White",
+        "Matthew E. Barclay",
+        "Meena Rafiq",
+        "Nadine Zakkak",
+        "Marta Berglund",
+        "Hardeep Singh",
+        "Sean McPhail",
+        "Spiros Denaxas",
+        "Georgios Lyratzopoulos"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005182",
+      "doi": "10.1371/journal.pmed.1005182",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-25",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005182",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005182"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Frequency and prognostic outcomes of emergency diagnosis in 13 non-neoplastic conditions in England: A population-based cohort study using linked electronic health records of 1.7 million patients",
+      "title_original": "Frequency and prognostic outcomes of emergency diagnosis in 13 non-neoplastic conditions in England: A population-based cohort study using linked electronic health records of 1.7 million patients",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005182"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Dileepa Senajith Ediriweera",
+        "Anuradhani Kasturiratne",
+        "Arunasalam Pathmeswaran",
+        "Ymkje Stienstra",
+        "Gerardo Martín",
+        "Takuya Iwamura",
+        "Kris A. Murray",
+        "Hithanadura Janaka de Silva",
+        "Peter John Diggle",
+        "David Griffith Lalloo"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005201",
+      "doi": "10.1371/journal.pmed.1005201",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-25",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005201",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005201"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Estimates of global burden of snakebite: A literature review and geostatistical modelling study",
+      "title_original": "Estimates of global burden of snakebite: A literature review and geostatistical modelling study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005201"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Mohamed M. Ali",
+        "Luca Cegolon",
+        "Saverio Bellizzi"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1004791",
+      "doi": "10.1371/journal.pmed.1004791",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-24",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1004791",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1004791"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Trends of stillbirth, early neonatal and perinatal mortality rates and sociodemographic differentials of perinatal mortality rates in 17 low- and middle-income countries: A modeling study",
+      "title_original": "Trends of stillbirth, early neonatal and perinatal mortality rates and sociodemographic differentials of perinatal mortality rates in 17 low- and middle-income countries: A modeling study",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1004791"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Anna H. Grummon",
+        "Kevin O’Sullivan",
+        "Amanda B. Zeitlin",
+        "Lindsey Smith Taillie",
+        "Cristina J. Y. Lee",
+        "Ashe J. Walker",
+        "Verena Tiefenbeck",
+        "Elgar Fleisch",
+        "Clayton Ulm",
+        "Thomas N. Robinson"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1004847",
+      "doi": "10.1371/journal.pmed.1004847",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-21",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1004847",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1004847"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Effect of food swap recommendations on the healthfulness and carbon footprint of grocery purchases in a naturalistic online store: A randomized parallel trial",
+      "title_original": "Effect of food swap recommendations on the healthfulness and carbon footprint of grocery purchases in a naturalistic online store: A randomized parallel trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1004847"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Emily Johnson",
+        "Ashley Hyde",
+        "Shaina Corrick",
+        "Serena Isley",
+        "Gail Wright",
+        "Justin Ezekowitz",
+        "Yinggan Zheng",
+        "Dayna Lee-Baggley",
+        "Jude Spiers",
+        "John C. Spence",
+        "Margaret L. McNeely",
+        "Stephanie Thompson",
+        "Kathleen Ismond",
+        "Sarah Tymchuk",
+        "Puneeta Tandon"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005198",
+      "doi": "10.1371/journal.pmed.1005198",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-20",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005198",
+          "url": "https://dx.plos.org/10.1371/journal.pmed.1005198"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Effect of a digital intervention on mental health symptoms in adults with chronic conditions: A three-arm randomized controlled trial",
+      "title_original": "Effect of a digital intervention on mental health symptoms in adults with chronic conditions: A three-arm randomized controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://dx.plos.org/10.1371/journal.pmed.1005198"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Akihiro Seita"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005220",
+      "doi": "10.1371/journal.pmed.1005220",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-18",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005220",
+          "url": "https://doi.org/10.1371/journal.pmed.1005220"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "World Humanitarian Day: Why humanitarian settings need more research, not less",
+      "title_original": "World Humanitarian Day: Why humanitarian settings need more research, not less",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005220"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Rinske Roos",
+        "Anke B. Witteveen",
+        "José Luis Ayuso-Mateos",
+        "Corrado Barbui",
+        "Richard A. Bryant",
+        "Zlata Dontsova",
+        "Mireia Felez-Nobrega",
+        "Zofia Głowacka",
+        "Josep Maria Haro",
+        "Raffael Kalisch",
+        "Vincent Lorant",
+        "David McDaid",
+        "Roberto Mediavilla",
+        "Maria Melchior",
+        "Pablo Nicaise",
+        "Emilia Olechno",
+        "A-La Park",
+        "Papoula Petri-Romão",
+        "Marianna Purgato",
+        "Aleksandra M. Sobolewska",
+        "Annemieke van Straten",
+        "Andrea Tortelli",
+        "James Underhill",
+        "Marit Sijbrandij"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005197",
+      "doi": "10.1371/journal.pmed.1005197",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005197",
+          "url": "https://doi.org/10.1371/journal.pmed.1005197"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Effectiveness of a scalable, remotely delivered stepped-care intervention for psychological distress among Polish migrant workers in the Netherlands: The RESPOND randomised controlled trial",
+      "title_original": "Effectiveness of a scalable, remotely delivered stepped-care intervention for psychological distress among Polish migrant workers in the Netherlands: The RESPOND randomised controlled trial",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005197"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Michael Kwan Leung Yu",
+        "Rory Sheehan",
+        "Nicholas Magill",
+        "Adam White",
+        "Lili Bokor",
+        "Jonathon Ding",
+        "Irene Tuffrey-Wijne",
+        "Umesh Chauhan",
+        "André Strydom"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005029",
+      "doi": "10.1371/journal.pmed.1005029",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-17",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005029",
+          "url": "https://doi.org/10.1371/journal.pmed.1005029"
+        }
+      ],
+      "summary_zh_tw": null,
+      "title": "Avoidable mortality, clinical outcomes and determinants of premature death among adults with severe or profound intellectual disability: A population-based analysis of mortality data in England",
+      "title_original": "Avoidable mortality, clinical outcomes and determinants of premature death among adults with severe or profound intellectual disability: A population-based analysis of mortality data in England",
+      "title_zh_tw": null,
+      "translation_basis": null,
+      "translation_source_url": null,
+      "translation_status": "MISSING",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005029"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Stephanie Schrempft",
+        "Shelby Vereecke",
+        "Mayssam Nehme",
+        "Kim L. Schmidt",
+        "Idris Guessous",
+        "Michael S. Kobor",
+        "Paola Zaninotto",
+        "Silvia Stringhini"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1004833",
+      "doi": "10.1371/journal.pmed.1004833",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1004833",
+          "url": "https://doi.org/10.1371/journal.pmed.1004833"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「英格蘭與加拿大功能性老化軌跡的社經不平等：比較性縱向世代研究」。",
+      "title": "Socioeconomic inequalities in functional ageing trajectories in England and Canada: A comparative longitudinal cohort study",
+      "title_original": "Socioeconomic inequalities in functional ageing trajectories in England and Canada: A comparative longitudinal cohort study",
+      "title_zh_tw": "英格蘭與加拿大功能性老化軌跡的社經不平等：比較性縱向世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1004833"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Nora A. Escher",
+        "Judite Gonçalves",
+        "Anibal Velasquez Valdivia",
+        "Paul Crosland",
+        "Luis Huicho",
+        "J. Jaime Miranda",
+        "Christopher Millett",
+        "Paraskevi Seferidi"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005167",
+      "doi": "10.1371/journal.pmed.1005167",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-13",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005167",
+          "url": "https://doi.org/10.1371/journal.pmed.1005167"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「調整財政政策以降低秘魯營養不良雙重負擔：系統動力學模型研究」。",
+      "title": "Retrofitting fiscal policies to reduce the double burden of malnutrition in Peru: A system dynamics modelling study",
+      "title_original": "Retrofitting fiscal policies to reduce the double burden of malnutrition in Peru: A system dynamics modelling study",
+      "title_zh_tw": "調整財政政策以降低秘魯營養不良雙重負擔：系統動力學模型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005167"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Angelo Giosuè Mezzoiuso",
+        "Peter Henriksson",
+        "Márta Radó",
+        "Kenny A. Rodriguez-Wallberg",
+        "Anna Sara Oberg"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005120",
+      "doi": "10.1371/journal.pmed.1005120",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-12",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005120",
+          "url": "https://doi.org/10.1371/journal.pmed.1005120"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「接受人工生殖技術及不孕之後的長期心血管疾病風險：世代研究」。",
+      "title": "Long-term risk of cardiovascular disease after assisted reproductive technology and infertility: A cohort study",
+      "title_original": "Long-term risk of cardiovascular disease after assisted reproductive technology and infertility: A cohort study",
+      "title_zh_tw": "接受人工生殖技術及不孕之後的長期心血管疾病風險：世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005120"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Ximena Camacho",
+        "Andrea L. Schaffer",
+        "Jonathan Brett",
+        "Ria Hopkins",
+        "Natasa Gisev",
+        "Steven Marsh",
+        "Kristian B. Filion",
+        "Nicole Pratt",
+        "David Henry",
+        "Sallie-Anne Pearson"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1004950",
+      "doi": "10.1371/journal.pmed.1004950",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1004950",
+          "url": "https://doi.org/10.1371/journal.pmed.1004950"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「2014 至 2020 年新南威爾斯開始使用緩釋 tapentadol 與 oxycodone 者的短期跌倒風險：人口基礎回溯性世代研究」。",
+      "title": "Short-term risk of falls among initiators of controlled-release tapentadol versus oxycodone in New South Wales between 2014 and 2020: A population-based retrospective cohort study",
+      "title_original": "Short-term risk of falls among initiators of controlled-release tapentadol versus oxycodone in New South Wales between 2014 and 2020: A population-based retrospective cohort study",
+      "title_zh_tw": "2014 至 2020 年新南威爾斯開始使用緩釋 tapentadol 與 oxycodone 者的短期跌倒風險：人口基礎回溯性世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1004950"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Bailey A. Clark",
+        "Liya A. Legese",
+        "Yosef Beyene",
+        "Mesfin W. Shellemew",
+        "Hiwot Darsene",
+        "Stanley Chitekwe",
+        "Masresha Tessema",
+        "Indi Trehan",
+        "Heather C. Stobaugh"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005199",
+      "doi": "10.1371/journal.pmed.1005199",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-11",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005199",
+          "url": "https://doi.org/10.1371/journal.pmed.1005199"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「衣索比亞中度急性營養不良之脂質營養補充醬方案的比較效果：MODAM-MAM 個人隨機對照試驗」。",
+      "title": "Comparative effectiveness of lipid-nutrient spread supplementation regimens for moderate acute malnutrition in Ethiopia: The MODAM-MAM individually randomized controlled trial",
+      "title_original": "Comparative effectiveness of lipid-nutrient spread supplementation regimens for moderate acute malnutrition in Ethiopia: The MODAM-MAM individually randomized controlled trial",
+      "title_zh_tw": "衣索比亞中度急性營養不良之脂質營養補充醬方案的比較效果：MODAM-MAM 個人隨機對照試驗",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005199"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Xavier Dubucs",
+        "Cassandre Even",
+        "Jemery Guenezan",
+        "Margaux Lagache",
+        "Barbara Villoing",
+        "Lorraine Pouzet",
+        "Marián Sedlák",
+        "Radoslav Morochovič",
+        "Yann-Érick Claessens",
+        "Frédéric Balen",
+        "Valérie Boucher",
+        "Sandrine Charpentier",
+        "Éric Mercier",
+        "Marcel Émond"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1004935",
+      "doi": "10.1371/journal.pmed.1004935",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-10",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1004935",
+          "url": "https://doi.org/10.1371/journal.pmed.1004935"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「高齡者平地跌倒後顯著急性創傷性顱內出血的風險分層：前瞻性多中心世代研究」。",
+      "title": "Risk stratification for significant acute traumatic intracranial hemorrhage in older adults after a ground-level fall: A prospective multicentre cohort study",
+      "title_original": "Risk stratification for significant acute traumatic intracranial hemorrhage in older adults after a ground-level fall: A prospective multicentre cohort study",
+      "title_zh_tw": "高齡者平地跌倒後顯著急性創傷性顱內出血的風險分層：前瞻性多中心世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1004935"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Joseph Kamtchum-Tatuene",
+        "James Farrell",
+        "John Nolan",
+        "Sarah Lessels",
+        "William N. Whiteley",
+        "Linxin Li"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1004999",
+      "doi": "10.1371/journal.pmed.1004999",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-07",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1004999",
+          "url": "https://doi.org/10.1371/journal.pmed.1004999"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「英格蘭中風發生率與可修正風險因子盛行率的時間趨勢（2018–2024）：紀錄連結人口研究」。",
+      "title": "Time trends in stroke incidence and modifiable risk factor prevalence in England (2018–2024): A record linkage population-based study",
+      "title_original": "Time trends in stroke incidence and modifiable risk factor prevalence in England (2018–2024): A record linkage population-based study",
+      "title_zh_tw": "英格蘭中風發生率與可修正風險因子盛行率的時間趨勢（2018–2024）：紀錄連結人口研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1004999"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Qiu-Yi Pan",
+        "Ya-Xue Wang",
+        "Xue-Ying Tang",
+        "Zan Hou",
+        "Bai-Qiang Dong",
+        "Qi-Wen Li",
+        "Bao-Qing Chen",
+        "Shou-Min Bai",
+        "Chen-Fei Wu",
+        "Ming Chen"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1004817",
+      "doi": "10.1371/journal.pmed.1004817",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-05",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1004817",
+          "url": "https://doi.org/10.1371/journal.pmed.1004817"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「吡非尼酮治療癌症患者第 2 或第 3 級放射性肺損傷的成本效益：模型研究」。",
+      "title": "Cost-effectiveness of pirfenidone for patients with cancer and grade 2 or grade 3 radiation-induced lung injury: A modeling study",
+      "title_original": "Cost-effectiveness of pirfenidone for patients with cancer and grade 2 or grade 3 radiation-induced lung injury: A modeling study",
+      "title_zh_tw": "吡非尼酮治療癌症患者第 2 或第 3 級放射性肺損傷的成本效益：模型研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1004817"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Samuel M. Miller",
+        "Paige DeGoursey",
+        "Kevin G. Billingsley"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005188",
+      "doi": "10.1371/journal.pmed.1005188",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-04",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005188",
+          "url": "https://doi.org/10.1371/journal.pmed.1005188"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「外科緩和醫療：以多專業視角檢視現況與未來發展方向」。",
+      "title": "Surgical palliative care: A multidisciplinary perspective on where we stand and how we need to evolve",
+      "title_original": "Surgical palliative care: A multidisciplinary perspective on where we stand and how we need to evolve",
+      "title_zh_tw": "外科緩和醫療：以多專業視角檢視現況與未來發展方向",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005188"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Junjie Lin",
+        "Mika Kivimäki",
+        "Zifan Zhang",
+        "Hui Wang",
+        "Yangyang Cheng",
+        "Xiaolin Xu"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005083",
+      "doi": "10.1371/journal.pmed.1005083",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005083",
+          "url": "https://doi.org/10.1371/journal.pmed.1005083"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「高齡者跌倒前後身體功能、憂鬱症狀與認知表現的軌跡：配對多世代研究」。",
+      "title": "Trajectories of physical function, depressive symptoms, and cognitive performance before and after falls in older adults: A matched multicohort study",
+      "title_original": "Trajectories of physical function, depressive symptoms, and cognitive performance before and after falls in older adults: A matched multicohort study",
+      "title_zh_tw": "高齡者跌倒前後身體功能、憂鬱症狀與認知表現的軌跡：配對多世代研究",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005083"
+      ]
+    },
+    {
+      "article_type": "journal-article",
+      "authors": [
+        "Angeliki Apostolou",
+        "Reuben Simfukwe",
+        "Adrias Saint",
+        "Bridget Mushani",
+        "Hannah Chekhchar",
+        "Pearl Aovare",
+        "Kouamivi M. Agboyibor",
+        "Karlijn A. C. Meeks",
+        "George F. Mkoma",
+        "Charles Agyemang",
+        "Felix P. Chilunga"
+      ],
+      "canonical_id": "doi:10.1371/journal.pmed.1005189",
+      "doi": "10.1371/journal.pmed.1005189",
+      "issns": [
+        "1549-1676"
+      ],
+      "journal": "PLOS Medicine",
+      "pmcid": null,
+      "pmid": null,
+      "publication_date": "2026-08-03",
+      "publication_date_precision": "DAY",
+      "source_records": [
+        {
+          "source": "crossref",
+          "source_id": "10.1371/journal.pmed.1005189",
+          "url": "https://doi.org/10.1371/journal.pmed.1005189"
+        }
+      ],
+      "summary_zh_tw": "本篇文獻題名為「撒哈拉以南非洲第 2 型糖尿病與高血壓患者對藥物、生活型態建議及自我監測的遵從性：系統性回顧、統合分析與互動式網路分析」。",
+      "title": "Adherence to medications, lifestyle advice, and self-monitoring for type 2 diabetes and hypertension in sub-Saharan Africa: A systematic review, meta-analysis, and interactive network analysis",
+      "title_original": "Adherence to medications, lifestyle advice, and self-monitoring for type 2 diabetes and hypertension in sub-Saharan Africa: A systematic review, meta-analysis, and interactive network analysis",
+      "title_zh_tw": "撒哈拉以南非洲第 2 型糖尿病與高血壓患者對藥物、生活型態建議及自我監測的遵從性：系統性回顧、統合分析與互動式網路分析",
+      "translation_basis": "TITLE_ONLY",
+      "translation_source_url": null,
+      "translation_status": "COMPLETE",
+      "urls": [
+        "https://doi.org/10.1371/journal.pmed.1005189"
+      ]
+    }
+  ],
+  "artifact_type": "EvidenceRadar_Edition",
+  "artifacts": {
+    "edition_json": "EvidenceRadar_Editions__plos-medicine__2026-08__r04.json",
+    "manifest_json": "EvidenceRadar_Editions__plos-medicine__2026-08__r04.manifest.json",
+    "report_html": "EvidenceRadar_Editions__plos-medicine__2026-08__r04.html",
+    "stem": "EvidenceRadar_Editions__plos-medicine__2026-08__r04",
+    "translation_request_json": "EvidenceRadar_Editions__plos-medicine__2026-08__r04.translation-request.zh-TW.json",
+    "translation_response_json": "EvidenceRadar_Editions__plos-medicine__2026-08__r04.translation-response.zh-TW.json"
+  },
+  "counts": {
+    "articles": 25,
+    "by_article_type": {
+      "journal-article": 25
+    },
+    "by_source": {
+      "crossref": 25
+    },
+    "pages_omitted_articles": 0,
+    "pages_projected_articles": 25,
+    "translated_articles": 11
+  },
+  "data_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "edition_id": "plos-medicine__2026-08__r04",
+  "edition_key": "plos-medicine__2026-08",
+  "incremental_backfill": {
+    "acquisition_end": "2026-08-29",
+    "acquisition_start": "2026-08-24",
+    "added_article_count": 9,
+    "base_article_count": 16,
+    "base_edition_sha256": "79b2e75497120f440e8159bf3ecdfc1ebad64e1713423344a1037a97d5cb3986",
+    "base_manifest_publication_id": "plos-medicine__2026-08__r03",
+    "base_period_end": "2026-08-23",
+    "base_period_start": "2026-08-01",
+    "base_publication_id": "plos-medicine__2026-08__r03",
+    "base_revision": 3,
+    "deduplicated_article_count": 0,
+    "delta_acquired_article_count": 9,
+    "mode": "INCREMENTAL_ACQUISITION_FULL_SNAPSHOT_REVISION",
+    "result_article_count": 25
+  },
+  "presentation": {
+    "default_language": "zh-TW",
+    "html_language": "zh-Hant",
+    "interactive_filters": true,
+    "preserve_original_title": true,
+    "translation_required_for_publication": true
+  },
+  "processing": {
+    "acquisition_level": "BIBLIOGRAPHIC_METADATA",
+    "applied_source_record_limit": 500,
+    "auto_triage_threshold": 1000,
+    "configured_mode": "FULL",
+    "configured_source_record_limit": 500,
+    "effective_mode": "FULL",
+    "evidence_evaluated": false,
+    "full_text_fetched": false,
+    "full_text_requested": false,
+    "incremental_acquisition_end": "2026-08-29",
+    "incremental_acquisition_start": "2026-08-24",
+    "journal_slug": "plos-medicine",
+    "note": null,
+    "pages_omitted_article_count": 0,
+    "pages_projected_article_count": 25,
+    "pages_projection_mode": "INLINE_ALL",
+    "pages_record_limit": 1000,
+    "policy_override_used": false,
+    "policy_source": "processing-policies.json:defaults",
+    "requested_source_record_limit": 500,
+    "selection_semantics": "Operational volume projection only; canonical metadata remain intact, and no quality or relevance ranking is implied.",
+    "source_record_limit": 500,
+    "source_reported_total_max": 9,
+    "translation_mode": "ALL",
+    "triage_pages_record_limit": 250,
+    "volume_guard_triggered": false
+  },
+  "publication_id": "plos-medicine__2026-08__r04",
+  "retrieved_at": "2026-08-29T06:40:29Z",
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "scope": {
+    "artifact_stem": "EvidenceRadar_Editions__plos-medicine__2026-08__r04",
+    "edition_key": "plos-medicine__2026-08",
+    "end_date": "2026-08-29",
+    "issn": "1549-1676",
+    "journal": "PLOS Medicine",
+    "journal_slug": "plos-medicine",
+    "language": "zh-TW",
+    "max_records": 500,
+    "period_complete": false,
+    "period_key": "2026-08",
+    "period_kind": "month",
+    "period_kind_requested": "month",
+    "period_label_zh_tw": "2026 年 8 月（MTD 至 8 月 29 日）",
+    "period_status": "MTD",
+    "publication_id": "plos-medicine__2026-08__r04",
+    "revision": 4,
+    "slug": "plos-medicine",
+    "sources": [
+      "crossref"
+    ],
+    "start_date": "2026-08-01"
+  },
+  "source_checks": [
+    {
+      "accepted_count": 9,
+      "detail": null,
+      "query": "container=PLOS Medicine; publication=2026-08-24..2026-08-29",
+      "returned_count": 9,
+      "source": "crossref",
+      "status": "SUCCESS",
+      "total_available": 9,
+      "truncated": false
+    }
+  ],
+  "translation": {
+    "inherited_from_publication_id": "plos-medicine__2026-08__r03",
+    "language": "zh-TW",
+    "request_binding_sha256": "ac336d7ec1f8d7fbb7c0db9626e212586a7ad3b4337b0c893e0312df9a87913a",
+    "response_generated_at": "2026-08-14T07:32:01Z",
+    "response_sha256": "2a2cda131a31cf0c048df6a4aada57f17de311bb60fe2a1f51db82c17e0e293f",
+    "source_edition_sha256": "a77a1e60117403aa820908877bb394bf8048c839c882f51174ee7b1e3dd9dcef",
+    "status": "PARTIAL",
+    "total_articles": 25,
+    "translated_articles": 11
+  },
+  "upstream_radar": {
+    "commit": "6da659df845e4b76072dae016120ca76ed9c27c4",
+    "config_sha256": "9786af3ed6b15a0d105faaa640add34935e70d5d56b2fe67df669fa7b0ee8ebc",
+    "control_plane": "config/radar_master.json",
+    "matched_source_ids": [
+      "plos_medicine"
+    ],
+    "repository": "hoiyu915-droid/EvidenceRadar",
+    "uses_radar_output_artifacts": false
+  }
+}
