@@ -1,0 +1,43 @@
+{
+  "article_count": 9,
+  "artifact_type": "EvidenceRadar_Edition_Manifest",
+  "created_at": "2026-08-29T06:28:42Z",
+  "edition_id": "human-movement-science__2026-08__r04",
+  "edition_key": "human-movement-science__2026-08",
+  "files": {
+    "edition_json": {
+      "bytes": 20868,
+      "media_type": "application/json",
+      "name": "EvidenceRadar_Editions__human-movement-science__2026-08__r04.json",
+      "sha256": "6a7c43c784447c66492e1aa5ec94a7eac1af34dbafeb06de3860ebad25d8346f"
+    },
+    "report_html": {
+      "bytes": 40370,
+      "media_type": "text/html; charset=utf-8",
+      "name": "EvidenceRadar_Editions__human-movement-science__2026-08__r04.html",
+      "sha256": "25d9342072ba80718e1826e7fd828e91ad0e497af5e69df301b9d9a3a4b9064a"
+    }
+  },
+  "journal": "Human Movement Science",
+  "journal_slug": "human-movement-science",
+  "manifest_name": "EvidenceRadar_Editions__human-movement-science__2026-08__r04.manifest.json",
+  "period_end": "2026-08-29",
+  "period_key": "2026-08",
+  "period_kind": "month",
+  "period_start": "2026-08-01",
+  "publication_id": "human-movement-science__2026-08__r04",
+  "publication_language": "zh-TW",
+  "revision": 4,
+  "run_status": "COMPLETE",
+  "schema_version": "2.0",
+  "software_version": "0.2.0",
+  "source_reconstruction_semantics": "incremental_acquisition_merged_with_immutable_base_snapshot",
+  "translated_article_count": 6,
+  "translation_provenance": {
+    "request_binding_sha256": "07c0443880055e6fca32707affdf197b8cddb09e21a624bf455ed4f42a6777a8",
+    "response_sha256": "abf4e6b05bbc8b546183ef8a15655dddd18d115059fba74c97bbbc3ec08c924c",
+    "source_edition_sha256": "6bb808381c5f17d443402cc89f80409a797d038958c740a28d21994c6b9bb3c5"
+  },
+  "translation_status": "PARTIAL",
+  "upstream_radar_commit": "6da659df845e4b76072dae016120ca76ed9c27c4"
+}
