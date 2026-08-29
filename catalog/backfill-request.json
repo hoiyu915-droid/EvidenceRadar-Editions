@@ -1,17 +1,19 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-cambridge-data-and-policy-through-23",
-  "acquisition_start": "2026-08-20",
-  "acquisition_end": "2026-08-23",
+  "request_id": "2026-08-first-five-through-29",
+  "acquisition_start": "2026-08-24",
+  "acquisition_end": "2026-08-29",
   "revision": 4,
-  "provider": "cambridge",
-  "selection_provider": "cambridge",
-  "selection_count": 1,
+  "selection_count": 5,
   "selection_base_revision": 3,
-  "selection_base_period_end": "2026-08-19",
+  "selection_base_period_end": "2026-08-23",
   "journals": [
-    "data-and-policy"
+    "acs-central-science",
+    "artificial-intelligence",
+    "artificial-intelligence-in-medicine",
+    "clinical-biomechanics",
+    "clinical-nutrition"
   ],
-  "selection_semantics": "Data & Policy is isolated because its latest immutable August base is r03 ending 2026-08-19; it therefore targets r04 while the other Cambridge editions target r03."
+  "selection_semantics": "First proven core-journal partition for the August suffix update; each has an immutable r03 base ending 2026-08-23 and therefore targets r04."
 }
