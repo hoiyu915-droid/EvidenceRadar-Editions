@@ -34,11 +34,11 @@ EvidenceRadar source/config hints       PubMed / Europe PMC / Crossref
 
 ## 2026 年 8 月 production status
 
-Authoritative August registry coverage 已更新至 **2026-08-23 UTC**：65/65 本都有 terminal outcome，包含 61 本 `PUBLISHED`（6,339 筆 records）、3 本 `NO_MATCHING_ARTICLES`、1 本 `OUTSIDE_WINDOW`，以及 0 個 unresolved date-evidence gap。
+Authoritative August registry coverage ledger 固定至 **2026-08-23 UTC**：65/65 本都有 terminal outcome，包含 61 本 `PUBLISHED`（6,339 筆 records）、3 本 `NO_MATCHING_ARTICLES`、1 本 `OUTSIDE_WINDOW`，以及 0 個 unresolved date-evidence gap。這份 ledger 沒有把 8/23 後未重新 probe 的 no-edition outcomes 偷寫成已覆蓋。
 
-本次更新加入 7 本與性別、性健康、親密關係及家庭研究直接相關的 fully-OA 期刊，並補發 4 本先前因日期證據不足而缺少的 August editions。全站目前包含 78 個 journal slugs、80 periods、219 revisions 與 6,415 筆 latest canonical records；來源界線、no-edition outcomes 與驗證紀錄見 [`docs/AUGUST_2026_COMPLETION.md`](docs/AUGUST_2026_COMPLETION.md)。
+2026-08-29 publication refresh 已把全部 **78 本既有 August canonical editions** 以 incremental suffix acquisition 延伸至 8/29：61 本 core registry publications 加 17 本 Cambridge provider publications。全站目前包含 78 個 journal slugs、80 periods、297 revisions 與 7,979 筆 latest canonical records；來源界線、no-edition outcomes 與驗證紀錄見 [`docs/AUGUST_2026_COMPLETION.md`](docs/AUGUST_2026_COMPLETION.md)。
 
-這是 **August MTD**，不是 `FINAL`。完整 8 月只能在 2026-08-31 結束後以新 revision 重建；本次只新增期刊及修復先前缺口，沒有把已完成的既有 editions 無差別重跑成 r02。
+這是 **August MTD**，不是 `FINAL`。完整 8 月只能在 2026-08-31 結束後以新 revision 重建。8/29 refresh 只查詢 2026-08-24..29，與已驗證的 immutable base 合成新 full-snapshot revisions；既有 bytes 沒有被覆寫。
 
 ## Storage v0.3
 
