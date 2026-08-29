@@ -1,20 +1,23 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-final-core-two-through-29",
+  "request_id": "2026-08-new-core-nine-through-29",
   "acquisition_start": "2026-08-24",
   "acquisition_end": "2026-08-29",
-  "revision": 4,
-  "selection_count": 2,
-  "selection_base_revision": 3,
+  "revision": 2,
+  "selection_count": 9,
+  "selection_base_revision": 1,
   "selection_base_period_end": "2026-08-23",
-  "allow_planned_journals": [
-    "chemical-science",
-    "tmlr"
-  ],
   "journals": [
-    "chemical-science",
-    "tmlr"
+    "bmc-psychology",
+    "bmc-womens-health",
+    "information-processing-and-management",
+    "journal-of-family-research",
+    "journal-of-sport-and-health-science",
+    "natural-language-processing-journal",
+    "psychology-of-sport-and-exercise",
+    "reproductive-health",
+    "sexual-and-reproductive-health-matters"
   ],
-  "selection_semantics": "Final two existing August core editions outside the Cambridge provider batch; both have immutable r03 bases ending 2026-08-23, are explicitly allowed despite planned registry status, and therefore target r04."
+  "selection_semantics": "Nine core journals added or repaired in the August 23 completion have immutable r01 bases ending 2026-08-23 and therefore form one r02 suffix batch through 2026-08-29."
 }
