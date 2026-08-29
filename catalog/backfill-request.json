@@ -1,19 +1,24 @@
 {
   "artifact_type": "EvidenceRadar_Editions_BackfillRequest",
   "schema_version": "1.0",
-  "request_id": "2026-08-first-five-through-29",
+  "request_id": "2026-08-next-ten-through-29",
   "acquisition_start": "2026-08-24",
   "acquisition_end": "2026-08-29",
   "revision": 4,
-  "selection_count": 5,
+  "selection_count": 10,
   "selection_base_revision": 3,
   "selection_base_period_end": "2026-08-23",
   "journals": [
-    "acs-central-science",
-    "artificial-intelligence",
-    "artificial-intelligence-in-medicine",
-    "clinical-biomechanics",
-    "clinical-nutrition"
+    "clinical-nutrition-espen",
+    "clinical-nutrition-open-science",
+    "communications-chemistry",
+    "communications-physics",
+    "computer-speech-and-language",
+    "computers-and-education-artificial-intelligence",
+    "computers-in-human-behavior",
+    "computers-in-human-behavior-reports",
+    "computers-in-human-behavior-artificial-humans",
+    "eclinicalmedicine"
   ],
-  "selection_semantics": "First proven core-journal partition for the August suffix update; each has an immutable r03 base ending 2026-08-23 and therefore targets r04."
+  "selection_semantics": "Second proven core-journal partition for the August suffix update; each has an immutable r03 base ending 2026-08-23 and therefore targets r04."
 }
